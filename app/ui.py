@@ -302,6 +302,10 @@ class App(ctk.CTk):
             font=FUENTE_BOTON,
             command=comando
         )
+        if not hasattr(self, "botones"):
+            self.botones = []
+
+        self.botones.append(boton)
 
 
         boton.grid(
@@ -361,6 +365,22 @@ class App(ctk.CTk):
 
         self.barra.grid_remove()
 
+    def deshabilitar_botones(self):
+
+        for boton in self.botones:
+
+            boton.configure(
+                state="disabled"
+            )
+
+    def habilitar_botones(self):
+
+        for boton in self.botones:
+
+            boton.configure(
+                state="normal"
+            )
+
     def ejecutar_en_segundo_plano(self, tarea):
 
         def worker():
@@ -376,12 +396,20 @@ class App(ctk.CTk):
                     self.ocultar_progreso
                 )
 
+                self.after(
+                    0,
+                    self.habilitar_botones
+                )
+
+        self.deshabilitar_botones()
+
         self.mostrar_progreso()
 
         threading.Thread(
             target=worker,
             daemon=True
         ).start()
+
 
     def importar_excel_click(self):
 
