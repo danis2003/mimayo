@@ -1,5 +1,6 @@
 from pathlib import Path
 from openpyxl import load_workbook
+from config import HOJA_PRODUCTOS
 import tkinter as tk
 from tkinter import filedialog, messagebox
 # Pillow nos permite abrir, redimensionar y mostrar imágenes.
@@ -33,7 +34,7 @@ archivo_seleccionado = None
 
 wb = load_workbook(EXCEL)
 
-ws = wb.active
+ws = wb[HOJA_PRODUCTOS]
 
 # ==========================================
 # BUSCAR EL PRIMER PRODUCTO SIN IMAGEN
@@ -91,7 +92,7 @@ def mostrar_producto():
 
     lblProducto.config(
         text=f"Producto {producto['numero']} de {producto['total']}"
-)
+    )
 
     lblCodigo.config(text=producto["codigo"])
     lblNombre.config(text=producto["nombre"])
@@ -315,6 +316,10 @@ def actualizar_estado(texto):
 
 # Creamos la ventana principal de la aplicación.
 root = tk.Tk()
+root.after(
+    100,
+    lambda: root.focus_force()
+)
 
 # Título que aparecerá en la barra superior.
 root.title("Asistente de imágenes - Catálogo Mi Mayo")
@@ -577,7 +582,12 @@ btnConfirmar.pack(
 # ==========================================
 # INICIAR LA APLICACIÓN
 # ==========================================
-# Mostrar el primer producto pendiente
-mostrar_producto()
-actualizar_estado("Seleccione una imagen para comenzar.")
-root.mainloop()
+
+def main():
+    # Mostrar el primer producto pendiente
+    mostrar_producto()
+    actualizar_estado("Seleccione una imagen para comenzar.")
+    root.mainloop()
+
+if __name__ == "__main__":
+    main()

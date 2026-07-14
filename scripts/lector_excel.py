@@ -1,6 +1,6 @@
 from openpyxl import load_workbook
 
-from normalizadores import (
+from scripts.normalizadores import (
     normalizar_codigo,
     normalizar_texto,
     normalizar_precio,
@@ -8,7 +8,7 @@ from normalizadores import (
     normalizar_activo,
 )
 
-from config import HOJA_PRODUCTOS, RUTA_EXCEL
+from scripts.config import HOJA_PRODUCTOS, RUTA_EXCEL
 
 def leer_productos():
     libro = load_workbook(RUTA_EXCEL)

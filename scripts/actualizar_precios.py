@@ -1,11 +1,11 @@
-from lector_excel import leer_productos
-from lector_proveedor import leer_proveedor
-from indices import crear_indice_por_codigo
-from actualizar_maestro import actualizar_precios
-from actualizar_maestro import buscar_productos_faltantes
-from escritor_excel import guardar_precios
-from config import RUTA_PROVEEDOR, RUTA_EXCEL
-from generar_json import main as generar_json
+from scripts.lector_excel import leer_productos
+from scripts.lector_proveedor import leer_proveedor
+from scripts.indices import crear_indice_por_codigo
+from scripts.actualizar_maestro import actualizar_precios
+from scripts.actualizar_maestro import buscar_productos_faltantes
+from scripts.escritor_excel import guardar_precios
+from scripts.config import RUTA_PROVEEDOR, RUTA_EXCEL
+from scripts.generar_json import main as generar_json
 
 def main():
 

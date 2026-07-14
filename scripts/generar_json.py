@@ -1,9 +1,8 @@
-from exportador_json import guardar_json
-from lector_excel import leer_productos
-from validadores import validar_productos
-from utilidades import mostrar_errores
-
-from config import RUTA_JSON
+from scripts.exportador_json import guardar_json
+from scripts.lector_excel import leer_productos
+from scripts.validadores import validar_productos
+from scripts.utilidades import mostrar_errores
+from scripts.config import RUTA_JSON
 
 
 def main():

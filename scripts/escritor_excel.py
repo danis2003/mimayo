@@ -1,6 +1,6 @@
 from openpyxl import load_workbook
 from datetime import datetime
-from config import HOJA_PRODUCTOS
+from scripts.config import HOJA_PRODUCTOS
 
 
 def guardar_precios(productos, ruta_excel):

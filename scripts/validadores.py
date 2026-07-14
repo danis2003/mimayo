@@ -1,4 +1,4 @@
-from config import RUTA_IMAGENES
+from scripts.config import RUTA_IMAGENES
 
 def validar_productos(productos):
 
