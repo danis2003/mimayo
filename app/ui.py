@@ -1,5 +1,8 @@
 import customtkinter as ctk
+from datetime import datetime
 from estilos import *
+import threading
+import time
 from acciones import (
     importar_excel,
     ejecutar_actualizacion,
@@ -54,6 +57,20 @@ class App(ctk.CTk):
             pady=(0, 10)
         )
 
+        self.barra = ctk.CTkProgressBar(
+            self,
+            width=450,
+            mode="indeterminate"
+        )
+
+        self.barra.grid(
+            row=2,
+            column=0,
+            pady=(0, 10)
+        )
+
+        self.barra.grid_remove()
+
         # =====================================================
         # DASHBOARD
         # =====================================================
@@ -64,7 +81,7 @@ class App(ctk.CTk):
         )
 
         self.dashboard.grid(
-            row=2,
+            row=3,
             column=0,
             sticky="nsew",
             padx=20,
@@ -149,7 +166,7 @@ class App(ctk.CTk):
         )
 
         self.frame_eventos.grid(
-            row=3,
+            row=4,
             column=0,
             sticky="ew",
             padx=20,
@@ -301,13 +318,15 @@ class App(ctk.CTk):
 
     def agregar_evento(self, texto):
 
+        hora = datetime.now().strftime("%H:%M:%S")
+
         self.txt_eventos.configure(
             state="normal"
         )
 
         self.txt_eventos.insert(
             "end",
-            f"• {texto}\n"
+            f"[{hora}] {texto}\n"
         )
 
         self.txt_eventos.see("end")
@@ -328,6 +347,41 @@ class App(ctk.CTk):
             text=texto,
             text_color=color
         )
+
+    def mostrar_progreso(self):
+
+        self.barra.grid()
+
+        self.barra.start()
+
+
+    def ocultar_progreso(self):
+
+        self.barra.stop()
+
+        self.barra.grid_remove()
+
+    def ejecutar_en_segundo_plano(self, tarea):
+
+        def worker():
+
+            try:
+
+                tarea()
+
+            finally:
+
+                self.after(
+                    0,
+                    self.ocultar_progreso
+                )
+
+        self.mostrar_progreso()
+
+        threading.Thread(
+            target=worker,
+            daemon=True
+        ).start()
 
     def importar_excel_click(self):
 
@@ -355,34 +409,55 @@ class App(ctk.CTk):
             "#d97706"
         )
 
-        self.update()
+        self.ejecutar_en_segundo_plano(
+            self._actualizar_precios_worker
+        )
+
+
+    def _actualizar_precios_worker(self):
 
         try:
             ejecutar_actualizacion()
 
-            self.lbl_actualizacion.configure(
-                text="🟢 Actualización completada"
-            )
-
-            self.actualizar_estado(
-                "🟢 Precios actualizados correctamente"
-            )
-
-            self.agregar_evento(
-                "Precios actualizados correctamente."
+            self.after(
+                0,
+                lambda: self._actualizacion_ok()
             )
 
         except Exception as e:
 
-            self.actualizar_estado(
-                "🔴 Error durante la actualización",
-                "#dc2626"
+            self.after(
+                0,
+                lambda: self._actualizacion_error(e)
             )
 
-            self.agregar_evento(
-                f"ERROR: {e}"
-            )
 
+    def _actualizacion_ok(self):
+
+        self.lbl_actualizacion.configure(
+            text="🟢 Actualización completada"
+    )
+
+        self.actualizar_estado(
+            "🟢 Precios actualizados correctamente"
+        )
+
+        self.agregar_evento(
+            "Precios actualizados correctamente."
+        )
+
+
+    def _actualizacion_error(self, e):
+
+        self.actualizar_estado(
+            "🔴 Error durante la actualización",
+            "#dc2626"
+        )
+
+        self.agregar_evento(
+            f"ERROR: {e}"
+        )
+    
     def abrir_excel_click(self):
 
         try:
@@ -474,38 +549,66 @@ class App(ctk.CTk):
         if mensaje == "":
             return
 
+        self.actualizar_estado(
+            "🟡 Publicando en GitHub...",
+            "#d97706"
+        )
+
+        self.ejecutar_en_segundo_plano(
+            lambda: self._publicar_worker(mensaje)
+        )
+
+
+    def _publicar_worker(self, mensaje):
+
         try:
 
             resultado = publicar_github(mensaje)
 
-            if resultado == "SIN_CAMBIOS":
-
-                self.actualizar_estado(
-                    "🟡 No hay cambios para publicar",
-                    "#d97706"
-                )
-
-                self.agregar_evento(
-                    "No había cambios para publicar."
-                )
-
-                return
-
-            self.actualizar_estado(
-                "🟢 Publicación completada"
-            )
-
-            self.agregar_evento(
-                "Catálogo publicado en GitHub."
+            self.after(
+                0,
+                lambda: self._publicacion_ok(resultado)
             )
 
         except Exception as e:
 
+            self.after(
+                0,
+                lambda: self._publicacion_error(e)
+            )
+
+
+    def _publicacion_ok(self, resultado):
+
+        if resultado == "SIN_CAMBIOS":
+
             self.actualizar_estado(
-                "🔴 Error durante la publicación",
-                "#dc2626"
+                "🟡 No hay cambios para publicar",
+                "#d97706"
             )
 
             self.agregar_evento(
-                f"ERROR: {e}"
+                "No había cambios para publicar."
             )
+
+            return
+
+        self.actualizar_estado(
+            "🟢 Publicación completada"
+        )
+
+        self.agregar_evento(
+            "Catálogo publicado en GitHub."
+        )
+
+
+    def _publicacion_error(self, e):
+
+        self.actualizar_estado(
+            "🔴 Error durante la publicación",
+            "#dc2626"
+        )
+
+        self.agregar_evento(
+            f"ERROR: {e}"
+        )
