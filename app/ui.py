@@ -18,8 +18,8 @@ class App(ctk.CTk):
         super().__init__()
 
         self.title("Catálogo Mi Mayo")
-        self.geometry("1120x760")
-        self.minsize(1080, 730)
+        self.geometry("1450x930")
+        self.minsize(1200, 800)
 
         # Configuración principal de la ventana
         self.grid_columnconfigure(0, weight=1)
@@ -54,7 +54,7 @@ class App(ctk.CTk):
         self.indicador_estado.grid(
             row=1,
             column=0,
-            pady=(0, 10)
+            pady=(0, 4)
         )
 
         self.barra = ctk.CTkProgressBar(
@@ -66,7 +66,7 @@ class App(ctk.CTk):
         self.barra.grid(
             row=2,
             column=0,
-            pady=(0, 10)
+            pady=(0, 4)
         )
 
         self.barra.grid_remove()
@@ -187,7 +187,7 @@ class App(ctk.CTk):
 
         self.txt_eventos = ctk.CTkTextbox(
             self.frame_eventos,
-            height=85
+            height=150
         )
 
         self.txt_eventos.pack(
@@ -410,6 +410,40 @@ class App(ctk.CTk):
             daemon=True
         ).start()
 
+    def ejecutar_tarea(self, funcion, ok, error):
+
+        def worker():
+
+            try:
+
+                resultado = funcion()
+
+                self.after(
+                    0,
+                    lambda: ok(resultado)
+                )
+
+            except Exception as e:
+
+                self.after(
+                    0,
+                    lambda: error(e)
+                )
+
+            finally:
+
+                self.after(
+                    0,
+                    self.ocultar_progreso
+                )
+
+        self.mostrar_progreso()
+
+        threading.Thread(
+            target=worker,
+            daemon=True
+        ).start()
+
 
     def importar_excel_click(self):
 
@@ -437,41 +471,39 @@ class App(ctk.CTk):
             "#d97706"
         )
 
-        self.ejecutar_en_segundo_plano(
-            self._actualizar_precios_worker
+        self.ejecutar_tarea(
+            funcion=ejecutar_actualizacion,
+            ok=self._actualizacion_ok,
+            error=self._actualizacion_error
         )
 
 
-    def _actualizar_precios_worker(self):
-
-        try:
-            ejecutar_actualizacion()
-
-            self.after(
-                0,
-                lambda: self._actualizacion_ok()
-            )
-
-        except Exception as e:
-
-            self.after(
-                0,
-                lambda: self._actualizacion_error(e)
-            )
-
-
-    def _actualizacion_ok(self):
+    def _actualizacion_ok(self, resumen):
 
         self.lbl_actualizacion.configure(
             text="🟢 Actualización completada"
-    )
+        )
 
         self.actualizar_estado(
             "🟢 Precios actualizados correctamente"
         )
 
+        bloque = (
+            "Resumen de actualización\n\n"
+            f"Productos catálogo   : {resumen['catalogo']}\n"
+            f"Productos proveedor  : {resumen['proveedor']}\n"
+            f"Productos encontrados: {resumen['encontrados']}\n"
+            f"Productos nuevos     : {resumen['nuevos']}\n"
+            f"Precios modificados  : {resumen['modificados']}\n"
+            f"Sin cambios          : {resumen['sin_cambios']}\n"
+        )
+
         self.agregar_evento(
             "Precios actualizados correctamente."
+        )
+
+        self.agregar_evento(
+            bloque
         )
 
 
@@ -582,8 +614,10 @@ class App(ctk.CTk):
             "#d97706"
         )
 
-        self.ejecutar_en_segundo_plano(
-            lambda: self._publicar_worker(mensaje)
+        self.ejecutar_tarea(
+            funcion=lambda: publicar_github(mensaje),
+            ok=self._publicacion_ok,
+            error=self._publicacion_error
         )
 
 

@@ -42,9 +42,9 @@ def importar_excel():
 
 def ejecutar_actualizacion():
 
-    actualizar_precios()
+    resumen = actualizar_precios()
 
-    return True
+    return resumen
 
 def abrir_excel_maestro():
 
