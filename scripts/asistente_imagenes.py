@@ -1,6 +1,5 @@
-from pathlib import Path
 from openpyxl import load_workbook
-from config import HOJA_PRODUCTOS
+from scripts.config import HOJA_PRODUCTOS, BASE_DIR
 import tkinter as tk
 from tkinter import filedialog, messagebox
 # Pillow nos permite abrir, redimensionar y mostrar imágenes.
@@ -12,8 +11,6 @@ import shutil
 # ==========================================
 # RUTAS
 # ==========================================
-
-BASE_DIR = Path(__file__).resolve().parent.parent
 
 EXCEL = BASE_DIR / "data" / "Excel_Maestro.xlsx"
 

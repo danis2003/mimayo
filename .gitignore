@@ -26,3 +26,6 @@ data/*.xlsx
 
 # Archivos de entorno
 .env
+
+# Entorno virtual
+venv/

@@ -1,8 +1,8 @@
 import customtkinter as ctk
 from datetime import datetime
 from estilos import *
+from pathlib import Path
 import threading
-import time
 from acciones import (
     importar_excel,
     ejecutar_actualizacion,
@@ -16,7 +16,13 @@ class App(ctk.CTk):
 
     def __init__(self):
         super().__init__()
+        ruta_icono = Path(__file__).resolve().parent.parent / "logo.ico"
 
+        if ruta_icono.exists():
+            try:
+                self.iconbitmap(str(ruta_icono))
+            except Exception:
+                pass
         self.title("Catálogo Mi Mayo")
         self.geometry("1450x930")
         self.minsize(1200, 800)
@@ -420,14 +426,14 @@ class App(ctk.CTk):
 
                 self.after(
                     0,
-                    lambda: ok(resultado)
+                    lambda resultado=resultado: ok(resultado)
                 )
 
             except Exception as e:
 
                 self.after(
                     0,
-                    lambda: error(e)
+                    lambda e=e: error(e)
                 )
 
             finally:

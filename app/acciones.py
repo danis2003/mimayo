@@ -15,7 +15,18 @@ from scripts.actualizar_precios import main as actualizar_precios
 from scripts.generar_json import main as generar_json
 
 # Carpeta raíz del proyecto
-RAIZ = Path(__file__).resolve().parent.parent
+if getattr(sys, "frozen", False):
+    RAIZ = Path(sys.executable).parent
+else:
+    RAIZ = Path(__file__).resolve().parent.parent
+
+def obtener_ejecutable_asistente():
+
+    if getattr(sys, "frozen", False):
+
+        return RAIZ / "AsistenteImagenes.exe"
+
+    return RAIZ / "scripts" / "asistente_imagenes.py"
 
 # Carpeta de datos
 DATOS = RAIZ / "data"
@@ -61,21 +72,35 @@ def abrir_excel_maestro():
         os.startfile(archivo)
 
     elif sistema == "Darwin":
-        subprocess.run(["open", archivo])
+        subprocess.run(
+            ["open", archivo],
+            check=True
+        )
 
     else:
-        subprocess.run(["xdg-open", archivo])
+        subprocess.run(
+            ["xdg-open", archivo],
+            check=True
+        )
 
     return True
 
 def abrir_asistente():
 
-    subprocess.Popen(
-        [
-            sys.executable,
-            str(ROOT / "scripts" / "asistente_imagenes.py")
-        ]
-    )
+    archivo = obtener_ejecutable_asistente()
+
+    if getattr(sys, "frozen", False):
+
+        subprocess.Popen([str(archivo)])
+
+    else:
+
+        subprocess.Popen(
+            [
+                sys.executable,
+                str(archivo)
+            ]
+        )
 
     return True
 
@@ -86,7 +111,6 @@ def ejecutar_generacion_json():
     return True
 
 def publicar_github(mensaje):
-    print("ENTRÉ A publicar_github()")
     resultado = subprocess.run(
         ["git", "status", "--short"],
         cwd=RAIZ,
