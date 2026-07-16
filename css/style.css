@@ -783,4 +783,424 @@ main {
   #ordenar {
     width: 100%;
   }
+  /* ===========================
+   FOOTER CELULAR
+=========================== */
+
+  .footer-contenido {
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    text-align: center;
+
+    gap: 28px;
+
+    padding: 30px 24px;
+  }
+
+  .footer-logo {
+    width: 220px;
+  }
+
+  .footer-logo-col {
+    width: 100%;
+  }
+
+  .footer-descripcion {
+    margin-top: 18px;
+
+    font-size: 1rem;
+  }
+
+  .footer-separador {
+    display: none;
+  }
+
+  .footer-col {
+    width: 100%;
+
+    gap: 22px;
+  }
+
+  .footer-item {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    gap: 14px;
+
+    text-align: left;
+  }
+
+  .footer-item i {
+    font-size: 2rem;
+
+    min-width: 34px;
+  }
+
+  .footer-item span,
+  .footer-item div {
+    font-size: 1rem;
+
+    line-height: 1.5;
+  }
+
+  .footer-inferior {
+    padding: 16px 18px;
+  }
+
+  .footer-inferior p:first-child {
+    font-size: 0.95rem;
+  }
+
+  .footer-inferior p:last-child {
+    font-size: 0.82rem;
+
+    line-height: 1.5;
+  }
+  .footer-col {
+    padding-top: 20px;
+
+    border-top: 1px solid #e5e5e5;
+  }
+
+  .footer-logo-col {
+    border-top: none;
+
+    padding-top: 0;
+  }
+}
+
+/* ==========================================
+   BOTÓN FLOTANTE WHATSAPP
+========================================== */
+
+#btnWhatsapp {
+  position: fixed;
+
+  right: 24px;
+
+  bottom: 24px;
+
+  width: 62px;
+
+  height: 62px;
+
+  border-radius: 50%;
+
+  background: #25d366;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+
+  z-index: 900;
+
+  transition:
+    transform 0.25s,
+    opacity 0.25s;
+}
+
+#btnWhatsapp:hover {
+  transform: scale(1.08);
+}
+
+#btnWhatsapp img {
+  width: 34px;
+
+  height: 34px;
+}
+
+#btnWhatsapp.oculto {
+  opacity: 0;
+
+  pointer-events: none;
+}
+
+/* ==========================================
+   BOTÓN VOLVER ARRIBA
+========================================== */
+
+#btnArriba {
+  position: fixed;
+
+  right: 24px;
+
+  bottom: 100px;
+
+  width: 62px;
+
+  height: 62px;
+
+  border-radius: 50%;
+
+  background: #0f6fff;
+
+  color: white;
+
+  text-decoration: none;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  font-size: 32px;
+
+  font-weight: bold;
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+
+  opacity: 0;
+
+  pointer-events: none;
+
+  transition:
+    opacity 0.25s,
+    transform 0.25s;
+
+  z-index: 900;
+}
+
+#btnArriba.visible {
+  opacity: 1;
+
+  pointer-events: auto;
+}
+
+#btnArriba:hover {
+  transform: scale(1.08);
+}
+
+/* ==========================================
+   FOOTER
+========================================== */
+
+.footer {
+  margin-top: 40px;
+
+  background: #fff;
+
+  box-shadow: 0 -3px 12px rgba(0, 0, 0, 0.08);
+}
+
+.footer-contenido {
+  max-width: 1300px;
+
+  margin: 0 auto;
+
+  padding: 45px 35px;
+
+  display: grid;
+
+  grid-template-columns: 1.2fr 2px 1.3fr 1fr;
+
+  gap: 55px;
+
+  align-items: center;
+}
+
+.footer-logo-col {
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: center;
+
+  align-items: center;
+
+  text-align: center;
+}
+
+.footer-logo {
+  width: 300px;
+
+  height: auto;
+
+  margin-bottom: 24px;
+}
+
+.footer-descripcion {
+  color: #444;
+
+  font-size: 1.1rem;
+
+  line-height: 1.7;
+}
+
+.footer-separador {
+  width: 2px;
+
+  height: 220px;
+
+  background: #d6d6d6;
+}
+
+.footer-col {
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: center;
+
+  gap: 28px;
+}
+
+.footer-item {
+  display: flex;
+
+  align-items: flex-start;
+
+  gap: 18px;
+}
+
+.footer-item i {
+  font-size: 2.5rem;
+
+  min-width: 46px;
+}
+
+.footer-item span,
+.footer-item div {
+  font-size: 1.08rem;
+
+  line-height: 1.6;
+
+  color: #333;
+}
+
+.footer-item .fa-location-dot {
+  color: #d62828;
+}
+
+.footer-item .fa-whatsapp {
+  color: #25d366;
+}
+
+.footer-item .fa-instagram {
+  color: #e4405f;
+}
+
+.footer-item .fa-clock {
+  color: #222;
+}
+
+.footer-inferior {
+  background: #d90416;
+
+  color: #fff;
+
+  text-align: center;
+
+  padding: 18px 20px;
+}
+
+.footer-inferior p:first-child {
+  font-size: 1rem;
+
+  margin-bottom: 6px;
+
+  font-weight: 600;
+}
+
+.footer-inferior p:last-child {
+  font-size: 0.92rem;
+
+  line-height: 1.5;
+}
+
+/* ==========================================
+   FOOTER RESPONSIVE
+========================================== */
+
+@media (max-width: 768px) {
+  .footer-contenido {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 0;
+
+    padding: 30px 24px;
+  }
+
+  .footer-logo-col {
+    width: 100%;
+
+    padding-bottom: 24px;
+  }
+
+  .footer-logo {
+    width: 220px;
+
+    margin-bottom: 20px;
+  }
+
+  .footer-descripcion {
+    font-size: 1rem;
+
+    line-height: 1.7;
+  }
+
+  .footer-separador {
+    display: none;
+  }
+
+  .footer-col {
+    width: 100%;
+
+    gap: 22px;
+
+    padding: 26px 0;
+
+    border-top: 1px solid #e4e4e4;
+  }
+
+  .footer-item {
+    justify-content: flex-start;
+
+    align-items: center;
+
+    gap: 16px;
+  }
+
+  .footer-item i {
+    font-size: 2rem;
+
+    min-width: 36px;
+  }
+
+  .footer-item span,
+  .footer-item div {
+    font-size: 1rem;
+
+    line-height: 1.5;
+  }
+
+  .footer-inferior {
+    padding: 16px;
+  }
+
+  .footer-inferior p:first-child {
+    font-size: 0.95rem;
+  }
+
+  .footer-inferior p:last-child {
+    font-size: 0.82rem;
+
+    line-height: 1.5;
+  }
+  .footer-horarios {
+    justify-content: flex-start;
+  }
 }

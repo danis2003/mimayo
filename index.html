@@ -2,16 +2,59 @@
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="css/style.css" />
+
+    <meta
+      name="description"
+      content="Catálogo online de Mi Mayo Mayorista. Golosinas, cigarrillos, bebidas, perfumería, artículos de limpieza y almacén para kioscos y comercios."
+    />
+
+    <meta name="robots" content="index, follow" />
+
+    <meta name="author" content="Daniel García" />
+
+    <meta property="og:title" content="Mi Mayo Mayorista" />
+
+    <meta
+      property="og:description"
+      content="Catálogo online actualizado de Mi Mayo Mayorista."
+    />
+
+    <meta property="og:type" content="website" />
+
+    <meta property="og:url" content="https://danis2003.github.io/mimayo/" />
+
+    <meta
+      property="og:image"
+      content="https://danis2003.github.io/mimayo/img/logos/logo-mi-mayo.png"
+    />
+
+    <link rel="canonical" href="https://danis2003.github.io/mimayo/" />
+
     <link rel="icon" type="image/png" href="img/logos/favicon2.png" />
+
+    <link rel="stylesheet" href="css/style.css" />
+
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
     />
-    <title>Catálogo Mi-Mayo</title>
+
+    <title>Mi Mayo Mayorista | Catálogo Online</title>
   </head>
   <body>
+    <a id="btnArriba" href="#" aria-label="Volver arriba"> ↑ </a>
+    <a
+      id="btnWhatsapp"
+      href="https://wa.me/5491169117952"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="WhatsApp"
+    >
+      <img src="img/iconos/whatsapp.svg" alt="WhatsApp" />
+    </a>
+
     <header>
       <div class="logo">
         <img src="img/logos/logo.png" alt="Mi Mayo" />
@@ -29,6 +72,7 @@
         <a
           href="https://wa.me/5491169117952"
           target="_blank"
+          rel="noopener noreferrer"
           aria-label="WhatsApp"
         >
           <i class="fa-brands fa-whatsapp"></i>
@@ -37,6 +81,7 @@
         <a
           href="https://www.instagram.com/mimayo.ciudadevita/"
           target="_blank"
+          rel="noopener noreferrer"
           aria-label="Instagram"
         >
           <i class="fa-brands fa-instagram"></i>
@@ -144,6 +189,7 @@
             <a
               href="https://maps.app.goo.gl/VN9KJjiJTCNew4uD8"
               target="_blank"
+              rel="noopener noreferrer"
               class="btn-maps"
             >
               Abrir en Google Maps
@@ -189,8 +235,73 @@
         </div>
       </div>
     </div>
-    <footer></footer>
+    <footer class="footer">
+      <div class="footer-contenido">
+        <div class="footer-col footer-logo-col">
+          <img
+            src="img/logos/logo-mi-mayo.png"
+            alt="Mi Mayo Mayorista"
+            class="footer-logo"
+          />
 
+          <p class="footer-descripcion">
+            Autoservicio mayorista de golosinas, cigarrillos, perfumería,
+            artículos de limpieza y almacén.
+          </p>
+        </div>
+
+        <div class="footer-separador"></div>
+
+        <div class="footer-col">
+          <div class="footer-item">
+            <i class="fa-solid fa-location-dot"></i>
+
+            <span>
+              Tte. Gral. Juan Domingo Perón 2280<br />
+              (Ex Lapacho)<br />
+              Ciudad Evita, Buenos Aires.
+            </span>
+          </div>
+
+          <div class="footer-item">
+            <i class="fa-brands fa-whatsapp"></i>
+
+            <span> +54 9 11 6911-7952 </span>
+          </div>
+
+          <div class="footer-item">
+            <i class="fa-brands fa-instagram"></i>
+
+            <span> @mimayo.ciudadevita </span>
+          </div>
+        </div>
+
+        <div class="footer-col footer-horarios">
+          <div class="footer-item">
+            <i class="fa-regular fa-clock"></i>
+
+            <div>
+              <strong>Horarios</strong><br />
+
+              Lunes a Viernes: 08:00 a 16:00 hs.<br /><br />
+
+              Sábados: 08:00 a 12:00 hs.<br /><br />
+
+              Domingos: Cerrado.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-inferior">
+        <p>Los precios pueden sufrir modificaciones sin previo aviso.</p>
+
+        <p>
+          © 2026 Mi Mayo Mayorista. Todos los derechos reservados. Desarrollo:
+          Daniel A. García
+        </p>
+      </div>
+    </footer>
     <script src="js/script.js"></script>
   </body>
 </html>

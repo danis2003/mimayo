@@ -1,11 +1,15 @@
 // =========================================
 // ELEMENTOS DEL DOM
 // =========================================
+
 const botonMenu = document.getElementById("btnMenu");
 const inputBuscar = document.getElementById("buscar");
 const menu = document.getElementById("menuLateral");
 const iconoMenu = document.getElementById("iconoMenu");
 const overlay = document.getElementById("overlay");
+const btnWhatsapp = document.getElementById("btnWhatsapp");
+const btnArriba = document.getElementById("btnArriba");
+
 // =========================================
 // DATOS
 // =========================================
@@ -17,6 +21,22 @@ const contenedorProductos = document.getElementById("productos");
 const contenedorCategorias = document.getElementById("categorias");
 const contenedorCategoriasMenu = document.getElementById("categoriasMenu");
 
+function ocultarWhatsapp() {
+  btnWhatsapp.classList.add("oculto");
+}
+
+function mostrarWhatsapp() {
+  btnWhatsapp.classList.remove("oculto");
+}
+
+function ocultarBotonArriba() {
+  btnArriba.classList.remove("visible");
+}
+
+function mostrarBotonArriba() {
+  btnArriba.classList.add("visible");
+}
+
 // =========================================
 // FUNCIONES
 // =========================================
@@ -26,7 +46,11 @@ function renderizarProductos(listaProductos) {
   listaProductos.forEach((producto) => {
     contenedorProductos.innerHTML += `
       <article class="tarjeta" data-codigo="${producto.codigo}">
-        <img src="img/productos/${producto.imagen}" alt="${producto.nombre}" />
+        <img
+            src="img/productos/${producto.imagen}"
+            alt="${producto.nombre}"
+            loading="lazy"
+        />
 
         <div class="contenido-tarjeta">
           <h3>${producto.nombre}</h3>
@@ -91,6 +115,10 @@ function renderizarCategorias() {
     menu.classList.remove("abierto");
     overlay.classList.remove("activo");
     iconoMenu.textContent = "☰";
+    mostrarWhatsapp();
+    if (window.scrollY > 300) {
+      mostrarBotonArriba();
+    }
   });
 
   contenedorCategoriasMenu.appendChild(botonTodosMenu);
@@ -115,6 +143,10 @@ function renderizarCategorias() {
       menu.classList.remove("abierto");
       overlay.classList.remove("activo");
       iconoMenu.textContent = "☰";
+      mostrarWhatsapp();
+      if (window.scrollY > 300) {
+        mostrarBotonArriba();
+      }
     });
 
     contenedorCategoriasMenu.appendChild(botonMenu);
@@ -195,6 +227,8 @@ function abrirModalProducto(producto) {
     `$ ${producto.precio.toLocaleString("es-AR")}`;
 
   document.getElementById("modalProducto").classList.add("abierto");
+  ocultarWhatsapp();
+  ocultarBotonArriba();
   document.getElementById("btnWhatsappProducto").onclick = () => {
     const mensaje = `Hola, quisiera consultar por:\n\n${producto.nombre}\nCódigo: ${producto.codigo}`;
 
@@ -231,14 +265,26 @@ botonMenu.addEventListener("click", () => {
 
   if (menu.classList.contains("abierto")) {
     iconoMenu.textContent = "✕";
+    ocultarWhatsapp();
+    ocultarBotonArriba();
   } else {
     iconoMenu.textContent = "☰";
+    mostrarWhatsapp();
+    if (window.scrollY > 300) {
+      mostrarBotonArriba();
+    }
   }
 });
+
 overlay.addEventListener("click", () => {
   menu.classList.remove("abierto");
   overlay.classList.remove("activo");
   iconoMenu.textContent = "☰";
+
+  mostrarWhatsapp();
+  if (window.scrollY > 300) {
+    mostrarBotonArriba();
+  }
 });
 
 inputBuscar.addEventListener("input", (event) => {
@@ -263,15 +309,25 @@ const cerrarModal = document.getElementById("cerrarModal");
 
 btnMapa.addEventListener("click", () => {
   modalUbicacion.classList.add("abierto");
+  ocultarWhatsapp();
+  ocultarBotonArriba();
 });
 
 cerrarModal.addEventListener("click", () => {
   modalUbicacion.classList.remove("abierto");
+  mostrarWhatsapp();
+  if (window.scrollY > 300) {
+    mostrarBotonArriba();
+  }
 });
 
 modalUbicacion.addEventListener("click", (e) => {
   if (e.target === modalUbicacion) {
     modalUbicacion.classList.remove("abierto");
+    mostrarWhatsapp();
+    if (window.scrollY > 300) {
+      mostrarBotonArriba();
+    }
   }
 });
 
@@ -280,12 +336,38 @@ const cerrarProducto = document.getElementById("cerrarProducto");
 
 cerrarProducto.addEventListener("click", () => {
   modalProducto.classList.remove("abierto");
+  mostrarWhatsapp();
+  if (window.scrollY > 300) {
+    mostrarBotonArriba();
+  }
 });
 
 modalProducto.addEventListener("click", (e) => {
   if (e.target === modalProducto) {
     modalProducto.classList.remove("abierto");
+    mostrarWhatsapp();
+    if (window.scrollY > 300) {
+      mostrarBotonArriba();
+    }
   }
+});
+
+window.addEventListener("scroll", () => {
+  if (window.scrollY > 300) {
+    mostrarBotonArriba();
+  } else {
+    ocultarBotonArriba();
+  }
+});
+
+btnArriba.addEventListener("click", (e) => {
+  e.preventDefault();
+
+  window.scrollTo({
+    top: 0,
+
+    behavior: "smooth",
+  });
 });
 
 // =========================================
@@ -296,6 +378,8 @@ const btnMapaPc = document.getElementById("btnMapaPc");
 btnMapaPc.addEventListener("click", (e) => {
   e.preventDefault();
   modalUbicacion.classList.add("abierto");
+  ocultarWhatsapp();
+  ocultarBotonArriba();
 });
 // =========================================
 // INICIALIZACIÓN

@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://danis2003.github.io/mimayo/sitemap.xml
