@@ -1598,5 +1598,535 @@
         "precio": 3977.27,
         "imagen": "1234.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 162,
+        "codigo": 2184,
+        "nombre": "ACEITE CAÑUELAS* 1.5 LITRO",
+        "marca": "Molino Cañuelas",
+        "categoria": "Almacén",
+        "precio": 6271.43,
+        "imagen": "2184.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 163,
+        "codigo": 3290,
+        "nombre": "ACEITE GIRASOL NATURA X900",
+        "marca": "AGD",
+        "categoria": "Almacén",
+        "precio": 3891.36,
+        "imagen": "3290.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 164,
+        "codigo": 7,
+        "nombre": "ACEITE LEGITIMO X900",
+        "marca": "Legítimo",
+        "categoria": "Almacén",
+        "precio": 3335.97,
+        "imagen": "7.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 165,
+        "codigo": 35,
+        "nombre": "ARROZ GALLO ORO X 500",
+        "marca": "Molinos",
+        "categoria": "Almacén",
+        "precio": 1177.33,
+        "imagen": "35.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 166,
+        "codigo": 2590,
+        "nombre": "ARROZ LARGO MOLINOS ALA X500",
+        "marca": "Molinos Ala",
+        "categoria": "Almacén",
+        "precio": 968.0,
+        "imagen": "2590.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 167,
+        "codigo": 3017,
+        "nombre": "ARVEJAS MOLTO340 GS",
+        "marca": "Molto",
+        "categoria": "Almacén",
+        "precio": 732.05,
+        "imagen": "3017.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 168,
+        "codigo": 101,
+        "nombre": "AZUCAR LEDESMA 1 KILO",
+        "marca": "Ledesma",
+        "categoria": "Almacén",
+        "precio": 1551.22,
+        "imagen": "101.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 169,
+        "codigo": 232,
+        "nombre": "CAFE INSTANT CLASICO LV 100G",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 4129.73,
+        "imagen": "232.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 170,
+        "codigo": 233,
+        "nombre": "CAFE INSTANT SUAVE LV 100G",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 4129.73,
+        "imagen": "233.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 171,
+        "codigo": 235,
+        "nombre": "CAFE LA MORENITA EN SAQUIT *",
+        "marca": "Morenita",
+        "categoria": "Almacén",
+        "precio": 4662.13,
+        "imagen": "235.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 172,
+        "codigo": 244,
+        "nombre": "CAFE LA VIRG SAQUI 20 U*5GR",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 4829.11,
+        "imagen": "244.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 173,
+        "codigo": 9838,
+        "nombre": "CAFE LV TORRADO EQUI 125G",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 2885.85,
+        "imagen": "9838.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 174,
+        "codigo": 237,
+        "nombre": "CAFE MOLIDO LA MORENITA 125",
+        "marca": "Morenita",
+        "categoria": "Almacén",
+        "precio": 2761.22,
+        "imagen": "237.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 175,
+        "codigo": 238,
+        "nombre": "CAFE MOLIDO LA MORENITA 250",
+        "marca": "Morenita",
+        "categoria": "Almacén",
+        "precio": 5083.21,
+        "imagen": "238.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 176,
+        "codigo": 9839,
+        "nombre": "CAFE TORRADO EQUI LV 250G",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 5165.49,
+        "imagen": "9839.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 177,
+        "codigo": 9842,
+        "nombre": "CAPPU MOCHA LV DOYPACK 125G",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 3698.97,
+        "imagen": "9842.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 178,
+        "codigo": 9840,
+        "nombre": "CAPPUCCINO LV DOYPACK 125GR",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 2911.26,
+        "imagen": "9840.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 179,
+        "codigo": 261,
+        "nombre": "CAPUCCINO LV 10U",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 5095.31,
+        "imagen": "261.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 180,
+        "codigo": 9841,
+        "nombre": "CORTADO LV DOYPACK 125GR",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 3087.92,
+        "imagen": "9841.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 181,
+        "codigo": 6071,
+        "nombre": "DULCE DE LECHE COLON LS 400G",
+        "marca": "La Serenisima",
+        "categoria": "Almacén",
+        "precio": 3477.54,
+        "imagen": "6071.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 182,
+        "codigo": 3308,
+        "nombre": "DULCE DE LECHE LS COL 250 GR",
+        "marca": "La Serenisima",
+        "categoria": "Almacén",
+        "precio": 2420.0,
+        "imagen": "3308.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 183,
+        "codigo": 3307,
+        "nombre": "DULCE DE LECHE REPOS LS 400G",
+        "marca": "La Serenisima",
+        "categoria": "Almacén",
+        "precio": 3630.0,
+        "imagen": "3307.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 184,
+        "codigo": 9848,
+        "nombre": "FIDEO LUCCHETTI DEDALITO 500",
+        "marca": "Molinos Río de la Plata",
+        "categoria": "Almacén",
+        "precio": 1367.3,
+        "imagen": "9848.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 185,
+        "codigo": 2287,
+        "nombre": "HARINA CAÑUELAS 000 *1KG",
+        "marca": "Molino Cañuelas",
+        "categoria": "Almacén",
+        "precio": 960.74,
+        "imagen": "2287.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 186,
+        "codigo": 839,
+        "nombre": "HARINA PUREZA 0000 *1KILO",
+        "marca": "Molino Cañuelas",
+        "categoria": "Almacén",
+        "precio": 1101.1,
+        "imagen": "839.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 187,
+        "codigo": 81,
+        "nombre": "HARINA PUREZA LEUDANTE 1KG",
+        "marca": "Molino Cañuelas",
+        "categoria": "Almacén",
+        "precio": 1575.42,
+        "imagen": "81.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 188,
+        "codigo": 9851,
+        "nombre": "HARINA PUREZA PIZZA 1KG",
+        "marca": "Molino Cañuelas",
+        "categoria": "Almacén",
+        "precio": 1583.89,
+        "imagen": "9851.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 189,
+        "codigo": 2937,
+        "nombre": "KETCHUP HELLMANS 60 GR",
+        "marca": "Unilever",
+        "categoria": "Almacén",
+        "precio": 794.97,
+        "imagen": "2937.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 190,
+        "codigo": 3386,
+        "nombre": "LENTEJA OLINTO",
+        "marca": "Olinto",
+        "categoria": "Almacén",
+        "precio": 1185.8,
+        "imagen": "3386.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 191,
+        "codigo": 2990,
+        "nombre": "MATECOCIDO  PLAYADITO 25 SAQ",
+        "marca": "Liebig",
+        "categoria": "Almacén",
+        "precio": 1137.4,
+        "imagen": "2990.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 192,
+        "codigo": 1148,
+        "nombre": "MAYONESA NATURA* 125 CC",
+        "marca": "AGD",
+        "categoria": "Almacén",
+        "precio": 660.66,
+        "imagen": "1148.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 193,
+        "codigo": 2945,
+        "nombre": "NESQUIK ORIGINAL * 180 GS",
+        "marca": "Nestlé",
+        "categoria": "Almacén",
+        "precio": 1869.45,
+        "imagen": "2945.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 194,
+        "codigo": 1641,
+        "nombre": "PURE DE TOMATE NOEL* 520 GS",
+        "marca": "Noel",
+        "categoria": "Almacén",
+        "precio": 804.65,
+        "imagen": "1641.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 195,
+        "codigo": 1648,
+        "nombre": "QUESO LA SERENISIMA 10U",
+        "marca": "La Serenisima",
+        "categoria": "Almacén",
+        "precio": 14795.88,
+        "imagen": "1648.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 196,
+        "codigo": 3150,
+        "nombre": "QUESO RALLADO LA QUESERA 40",
+        "marca": "La Quesera",
+        "categoria": "Almacén",
+        "precio": 727.21,
+        "imagen": "3150.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 197,
+        "codigo": 9850,
+        "nombre": "SAL FINA DOS ANCLAS CAJA 500",
+        "marca": "Dos Anclas",
+        "categoria": "Almacén",
+        "precio": 1110.78,
+        "imagen": "9850.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 198,
+        "codigo": 8802,
+        "nombre": "SAL GRUESA CELUSAL X 500",
+        "marca": "Celusal",
+        "categoria": "Almacén",
+        "precio": 1210.0,
+        "imagen": "8802.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 199,
+        "codigo": 1797,
+        "nombre": "SAVORA* 60 GS",
+        "marca": "Unilever",
+        "categoria": "Almacén",
+        "precio": 726.0,
+        "imagen": "1797.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 200,
+        "codigo": 3180,
+        "nombre": "TE GREEN HILLS MANZ 20U",
+        "marca": "Green Hills",
+        "categoria": "Almacén",
+        "precio": 1609.3,
+        "imagen": "3180.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 201,
+        "codigo": 1914,
+        "nombre": "TE LV CEDRON 25U",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 1409.65,
+        "imagen": "1914.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 202,
+        "codigo": 3400,
+        "nombre": "TE LV LIMON 20U",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 1616.56,
+        "imagen": "3400.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 203,
+        "codigo": 8797,
+        "nombre": "TE ROSAMONTE 25 U",
+        "marca": "Rosamonte",
+        "categoria": "Almacén",
+        "precio": 597.74,
+        "imagen": "8797.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 204,
+        "codigo": 1984,
+        "nombre": "TODDY CACAO* 180 GS",
+        "marca": "Georgalos",
+        "categoria": "Almacén",
+        "precio": 1331.0,
+        "imagen": "1984.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 205,
+        "codigo": 1991,
+        "nombre": "TOMATE LATA NOEL* 400 GS",
+        "marca": "Noel",
+        "categoria": "Almacén",
+        "precio": 1138.61,
+        "imagen": "1991.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 206,
+        "codigo": 2142,
+        "nombre": "YERBA  TARAGUI* 500 GS",
+        "marca": "Las Marías",
+        "categoria": "Almacén",
+        "precio": 1905.75,
+        "imagen": "2142.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 207,
+        "codigo": 2141,
+        "nombre": "YERBA AMANDA* 500 GS",
+        "marca": "Amanda",
+        "categoria": "Almacén",
+        "precio": 1897.28,
+        "imagen": "2141.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 208,
+        "codigo": 2633,
+        "nombre": "YERBA CBSE 500 GR",
+        "marca": "CBSé",
+        "categoria": "Almacén",
+        "precio": 1770.23,
+        "imagen": "2633.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 209,
+        "codigo": 2140,
+        "nombre": "YERBA LA  CUMBRECITA 500 GR",
+        "marca": "La Cumbrecita",
+        "categoria": "Almacén",
+        "precio": 1493.14,
+        "imagen": "2140.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 210,
+        "codigo": 942,
+        "nombre": "YERBA LA TRANQUERA 500 GR",
+        "marca": "La Tranquera",
+        "categoria": "Almacén",
+        "precio": 1432.64,
+        "imagen": "942.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 211,
+        "codigo": 2809,
+        "nombre": "YERBA PLAYADITO* 500",
+        "marca": "Liebig",
+        "categoria": "Almacén",
+        "precio": 2299.0,
+        "imagen": "2809.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 212,
+        "codigo": 8793,
+        "nombre": "YERBA ROSAMONTE 500 GR",
+        "marca": "Rosamonte",
+        "categoria": "Almacén",
+        "precio": 1724.25,
+        "imagen": "8793.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 213,
+        "codigo": 2147,
+        "nombre": "YERBA ROSAMONTE SUAVE 500 GR",
+        "marca": "Rosamonte",
+        "categoria": "Almacén",
+        "precio": 1839.2,
+        "imagen": "2147.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 214,
+        "codigo": 2149,
+        "nombre": "YERBA UNION 500 GR",
+        "marca": "Las Marías",
+        "categoria": "Almacén",
+        "precio": 1891.23,
+        "imagen": "2149.webp",
+        "activo": true
     }
 ]
