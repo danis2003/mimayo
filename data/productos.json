@@ -1318,5 +1318,265 @@
         "precio": 9750.18,
         "imagen": "1163.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 134,
+        "codigo": 1051,
+        "nombre": "LOTZA FIZZ 48 U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 11289.3,
+        "imagen": "1051.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 135,
+        "codigo": 107,
+        "nombre": "BABY DOLL CHUP*4UNIDADES",
+        "marca": "Lheritier",
+        "categoria": "Golosinas",
+        "precio": 496.1,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 136,
+        "codigo": 882,
+        "nombre": "BELDENT CHICLE 20 UN TODOS",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 11113.85,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 137,
+        "codigo": 889,
+        "nombre": "BUBBALOO 60U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 5203.0,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 138,
+        "codigo": 890,
+        "nombre": "BUTTER TOFFEES TODOS 822 G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 8808.8,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 139,
+        "codigo": 390,
+        "nombre": "CHUPETIN PICO DULCE *48 UNID",
+        "marca": "Lheritier",
+        "categoria": "Golosinas",
+        "precio": 9388.39,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 140,
+        "codigo": 666,
+        "nombre": "FLYN PAFF *70 UNIDADES",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 6686.46,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 141,
+        "codigo": 667,
+        "nombre": "FLYN PAFF CONFITADOS 50 GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 930.49,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 142,
+        "codigo": 798,
+        "nombre": "GOMA MISKY 1 KL",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 8995.14,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 143,
+        "codigo": 828,
+        "nombre": "HALLS TODAS 12 U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 6988.0,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 144,
+        "codigo": 1024,
+        "nombre": "LENGUETAZO TODOS 32 UNIDADES",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 6982.91,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 145,
+        "codigo": 1166,
+        "nombre": "MENTHOPLUS ACIDO* 12 UNIDADE",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 7502.0,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 146,
+        "codigo": 1169,
+        "nombre": "MENTHOPLUS TODAS*12 UNIDAD",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5903.59,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 147,
+        "codigo": 687,
+        "nombre": "MOGUL 12X30 GR TODAS",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5724.51,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 148,
+        "codigo": 8725,
+        "nombre": "MOGUL EXTREME OSITO X 500 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5724.51,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 149,
+        "codigo": 3068,
+        "nombre": "MOGUL EXTREME SANDIA 500 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5833.41,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 150,
+        "codigo": 8713,
+        "nombre": "MOGUL EXTREME TUBITOS 500 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5336.1,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 151,
+        "codigo": 2253,
+        "nombre": "MOGUL EXTREME* 10 X 50 GS",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 7723.43,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 152,
+        "codigo": 686,
+        "nombre": "MOGUL GELATIN CEREBRITOS 12U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5724.51,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 153,
+        "codigo": 2900,
+        "nombre": "MOGUL MORAS Y DIENTES 10 X50",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 7723.43,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 154,
+        "codigo": 1388,
+        "nombre": "PALITO DE LA SELVA 660 GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 9052.01,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 155,
+        "codigo": 1745,
+        "nombre": "ROLLO MOGUL 12U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5315.53,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 156,
+        "codigo": 26,
+        "nombre": "ROLLO MOGUL BERRIES",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 6759.06,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 157,
+        "codigo": 1871,
+        "nombre": "SUGUS CONFITADOS* 50 GS",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 1125.3,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 158,
+        "codigo": 1873,
+        "nombre": "SUGUS MASTICABLE* 700 GS 210",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 6571.51,
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 159,
+        "codigo": 1996,
+        "nombre": "TOPLINE SEVEN TODOS 16 UN",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 12680.8,
+        "imagen": "sin-imagen.png",
+        "activo": true
     }
 ]

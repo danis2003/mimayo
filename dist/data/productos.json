@@ -1316,7 +1316,17 @@
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9750.18,
-        "imagen": "1163.webp",
+        "imagen": "sin-imagen.png",
+        "activo": true
+    },
+    {
+        "fila_excel": 134,
+        "codigo": 1051,
+        "nombre": "LOTZA FIZZ 48 U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 11289.3,
+        "imagen": "sin-imagen.png",
         "activo": true
     }
 ]

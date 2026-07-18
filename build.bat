@@ -3,13 +3,12 @@
 echo ======================================
 echo   COMPILANDO CATALOGO MI MAYO
 echo ======================================
-
-call venv\Scripts\activate
+cd /d "%~dp0"
 
 rmdir /s /q build 2>nul
 rmdir /s /q dist 2>nul
 
-python -m PyInstaller ^
+venv\Scripts\python.exe -m PyInstaller ^
 --clean ^
 --onefile ^
 --windowed ^
@@ -17,7 +16,7 @@ python -m PyInstaller ^
 --icon "logo.ico" ^
 app/main.py
 
-python -m PyInstaller ^
+venv\Scripts\python.exe -m PyInstaller ^
 --clean ^
 --onefile ^
 --windowed ^
