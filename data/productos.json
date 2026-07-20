@@ -2128,5 +2128,65 @@
         "precio": 1891.23,
         "imagen": "2149.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 215,
+        "codigo": 19,
+        "nombre": "AGUA SIERRA DE LOS PADRES 2L",
+        "marca": "Sierra de los Padres",
+        "categoria": "Bebidas",
+        "precio": 1005.51,
+        "imagen": "19.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 216,
+        "codigo": 20,
+        "nombre": "AGUA SIERRA DE LOS PADRES 600ml",
+        "marca": "Sierra de los Padres",
+        "categoria": "Bebidas",
+        "precio": 643.72,
+        "imagen": "20.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 217,
+        "codigo": 8800,
+        "nombre": "AQUARIUS VARIOS SABORES 2.25 Lt",
+        "marca": "Coca-Cola",
+        "categoria": "Bebidas",
+        "precio": 2099.35,
+        "imagen": "8800.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 218,
+        "codigo": 8801,
+        "nombre": "CEPITA BOTELLA X 995 ML",
+        "marca": "Coca-Cola",
+        "categoria": "Bebidas",
+        "precio": 1996.5,
+        "imagen": "8801.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 219,
+        "codigo": 1863,
+        "nombre": "SPEED ENERGIZANTE x 250 ML",
+        "marca": "Speed",
+        "categoria": "Bebidas",
+        "precio": 1357.62,
+        "imagen": "1863.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 220,
+        "codigo": 2662,
+        "nombre": "SPEED ENERGY x 473 ML",
+        "marca": "Speed",
+        "categoria": "Bebidas",
+        "precio": 2217.93,
+        "imagen": "2662.webp",
+        "activo": true
     }
 ]
