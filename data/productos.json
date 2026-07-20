@@ -292,7 +292,7 @@
     {
         "fila_excel": 31,
         "codigo": 1022,
-        "nombre": "LECHE LA SERENISIMA ROJA 1 L",
+        "nombre": "LECHE LA SERENISIMA ROJA 1L",
         "marca": "La Serenisima",
         "categoria": "Lácteos",
         "precio": 2390.96,
@@ -302,7 +302,7 @@
     {
         "fila_excel": 32,
         "codigo": 1023,
-        "nombre": "LECHE LA SERENISIMA VERDE*1",
+        "nombre": "LECHE LA SERENISIMA VERDE 1L",
         "marca": "La Serenisima",
         "categoria": "Lácteos",
         "precio": 2390.96,
@@ -342,7 +342,7 @@
     {
         "fila_excel": 36,
         "codigo": 8734,
-        "nombre": "ALF FANTOCHE PESCADO RAUL",
+        "nombre": "ALFAJOR FANTOCHE PESCADO RAUL",
         "marca": "Fantoche",
         "categoria": "Alfajores",
         "precio": 629.2,
@@ -352,7 +352,7 @@
     {
         "fila_excel": 37,
         "codigo": 8736,
-        "nombre": "ALF FANTOCHE SUPER TRIPLE",
+        "nombre": "ALFAJOR FANTOCHE SUPER TRIPLE",
         "marca": "Fantoche",
         "categoria": "Alfajores",
         "precio": 895.4,
@@ -362,7 +362,7 @@
     {
         "fila_excel": 38,
         "codigo": 3012,
-        "nombre": "ALF FANTOCHE TRIPLE",
+        "nombre": "ALFAJOR FANTOCHE TRIPLE",
         "marca": "Fantoche",
         "categoria": "Alfajores",
         "precio": 847.0,
@@ -392,7 +392,7 @@
     {
         "fila_excel": 41,
         "codigo": 8703,
-        "nombre": "ALF RASTA TRICO MAIC 100 GS",
+        "nombre": "ALFAJOR RASTA TRICO MAIC 100 GS",
         "marca": "Rasta",
         "categoria": "Alfajores",
         "precio": 1569.37,
@@ -402,7 +402,7 @@
     {
         "fila_excel": 42,
         "codigo": 2890,
-        "nombre": "ALF TERRABUSI TRIPLE D/LECHE",
+        "nombre": "ALFAJOR TERRABUSI TRIPLE D/LECHE",
         "marca": "Terrabusi",
         "categoria": "Alfajores",
         "precio": 1055.12,
@@ -412,7 +412,7 @@
     {
         "fila_excel": 43,
         "codigo": 3019,
-        "nombre": "ALF VIMAR ESCOLAR/GLAS CAJA",
+        "nombre": "ALFAJOR VIMAR ESCOLAR/GLAS CAJA",
         "marca": "Vimar",
         "categoria": "Alfajores",
         "precio": 11712.8,
@@ -612,7 +612,7 @@
     {
         "fila_excel": 63,
         "codigo": 112,
-        "nombre": "BAGGIO *125ML",
+        "nombre": "BAGGIO X 125ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
         "precio": 296.45,
@@ -622,7 +622,7 @@
     {
         "fila_excel": 64,
         "codigo": 110,
-        "nombre": "BAGGIO *1LITRO",
+        "nombre": "BAGGIO X 1LITRO",
         "marca": "Baggio",
         "categoria": "Bebidas",
         "precio": 1541.54,
@@ -632,7 +632,7 @@
     {
         "fila_excel": 65,
         "codigo": 111,
-        "nombre": "BAGGIO *200ML",
+        "nombre": "BAGGIO X 200ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
         "precio": 511.83,
@@ -672,7 +672,7 @@
     {
         "fila_excel": 69,
         "codigo": 199,
-        "nombre": "BOMBOM FERRERO ROCHER *12 UN",
+        "nombre": "BOMBOM FERRERO ROCHER X 12 UN",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
         "precio": 13519.33,
@@ -682,7 +682,7 @@
     {
         "fila_excel": 70,
         "codigo": 200,
-        "nombre": "BOMBOM FERRERO ROCHER *3UNID",
+        "nombre": "BOMBOM FERRERO ROCHER X 3UNID",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
         "precio": 2533.74,
@@ -742,7 +742,7 @@
     {
         "fila_excel": 76,
         "codigo": 339,
-        "nombre": "CHOCOLATE COFLER AIREADO *60",
+        "nombre": "CHOCOLATE COFLER AIREADO 60GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
         "precio": 2795.1,
@@ -812,7 +812,7 @@
     {
         "fila_excel": 83,
         "codigo": 540,
-        "nombre": "DOS CORAZONES *26 GS",
+        "nombre": "DOS CORAZONES 26 GR",
         "marca": "FeltFort",
         "categoria": "Chocolates",
         "precio": 982.52,
@@ -842,7 +842,7 @@
     {
         "fila_excel": 86,
         "codigo": 8806,
-        "nombre": "FELFORT CHOCO CON MANI 250 G",
+        "nombre": "FELFORT CHOCO CON MANI 250 GR",
         "marca": "FeltFort",
         "categoria": "Chocolates",
         "precio": 7562.5,
@@ -882,7 +882,7 @@
     {
         "fila_excel": 90,
         "codigo": 724,
-        "nombre": "GALLET OREO*118 GS",
+        "nombre": "GALLET OREO X 118 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
         "precio": 1461.2,
@@ -892,7 +892,7 @@
     {
         "fila_excel": 91,
         "codigo": 730,
-        "nombre": "GALLET PEPITOS *118 GS",
+        "nombre": "GALLET PEPITOS  X 118 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
         "precio": 1428.83,
@@ -942,7 +942,7 @@
     {
         "fila_excel": 96,
         "codigo": 949,
-        "nombre": "KINDER BARRITA 4 UN * 50 GS",
+        "nombre": "KINDER BARRITA 4 UN X 50 GR",
         "marca": "Kinder",
         "categoria": "Chocolates",
         "precio": 2554.31,
@@ -1032,7 +1032,7 @@
     {
         "fila_excel": 105,
         "codigo": 3018,
-        "nombre": "MILKA DULCE DE LECHE 68 GS",
+        "nombre": "MILKA DULCE DE LECHE 68 GR",
         "marca": "Milka",
         "categoria": "Chocolates",
         "precio": 3914.35,
@@ -1052,7 +1052,7 @@
     {
         "fila_excel": 107,
         "codigo": 1226,
-        "nombre": "MINI OREO* 50 GS",
+        "nombre": "MINI OREO X 50 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
         "precio": 733.26,
@@ -1072,7 +1072,7 @@
     {
         "fila_excel": 109,
         "codigo": 8804,
-        "nombre": "MOGUL EXTREME FRUTILLA 500 G",
+        "nombre": "MOGUL EXTREME FRUTILLA 500 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 5336.1,
@@ -1082,7 +1082,7 @@
     {
         "fila_excel": 110,
         "codigo": 2894,
-        "nombre": "MOGUL EXTREME LADRILLOS 500G",
+        "nombre": "MOGUL EXTREME LADRILLOS 500GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 5336.1,
@@ -1102,7 +1102,7 @@
     {
         "fila_excel": 112,
         "codigo": 3240,
-        "nombre": "NUGGETS UG 300GR",
+        "nombre": "NUGGETS UG 300 GR",
         "marca": "Union Ganadera",
         "categoria": "Congelados",
         "precio": 3777.62,
@@ -1112,7 +1112,7 @@
     {
         "fila_excel": 113,
         "codigo": 3238,
-        "nombre": "PAPAS AIR FRY MC-CAIN 700GR",
+        "nombre": "PAPAS AIR FRY MC-CAIN 700 GR",
         "marca": "McCain",
         "categoria": "Congelados",
         "precio": 6893.37,
@@ -1122,7 +1122,7 @@
     {
         "fila_excel": 114,
         "codigo": 3237,
-        "nombre": "PAPAS MC-CAIN 400GR",
+        "nombre": "PAPAS MC-CAIN 400 GR",
         "marca": "McCain",
         "categoria": "Congelados",
         "precio": 3394.05,
@@ -1132,7 +1132,7 @@
     {
         "fila_excel": 115,
         "codigo": 3236,
-        "nombre": "PAPAS MC-CAIN 700GR",
+        "nombre": "PAPAS MC-CAIN 700 GR",
         "marca": "McCain",
         "categoria": "Congelados",
         "precio": 5585.36,
@@ -1172,7 +1172,7 @@
     {
         "fila_excel": 119,
         "codigo": 3242,
-        "nombre": "SALCHICHA UG 12U 380GR",
+        "nombre": "SALCHICHA UG 12U 380 GR",
         "marca": "Union Ganadera",
         "categoria": "Frescos",
         "precio": 3590.07,
@@ -1182,7 +1182,7 @@
     {
         "fila_excel": 120,
         "codigo": 3243,
-        "nombre": "SALCHICHA UG 6U 190GR",
+        "nombre": "SALCHICHA UG 6U 190 GR",
         "marca": "Union Ganadera",
         "categoria": "Frescos",
         "precio": 1890.02,
@@ -1192,7 +1192,7 @@
     {
         "fila_excel": 121,
         "codigo": 3241,
-        "nombre": "SALCHICHA UG 6U 230GR",
+        "nombre": "SALCHICHA UG 6U 230 GR",
         "marca": "Union Ganadera",
         "categoria": "Frescos",
         "precio": 2203.41,
@@ -1282,7 +1282,7 @@
     {
         "fila_excel": 130,
         "codigo": 2021,
-        "nombre": "TOSTADAS ARROZ LEIVA 150 G",
+        "nombre": "TOSTADAS ARROZ LEIVA 150 GR",
         "marca": "Leiva",
         "categoria": "Galletitas",
         "precio": 1149.5,
@@ -1292,7 +1292,7 @@
     {
         "fila_excel": 131,
         "codigo": 2708,
-        "nombre": "ALFAJOR RASTA 70 GS",
+        "nombre": "ALFAJOR RASTA 70 GR",
         "marca": "Rasta",
         "categoria": "Alfajores",
         "precio": 1044.23,
@@ -1302,7 +1302,7 @@
     {
         "fila_excel": 132,
         "codigo": 3209,
-        "nombre": "YOGURT GRIEGO YOGURISIMO 140",
+        "nombre": "YOGURT GRIEGO YOGURISIMO 140 GR",
         "marca": "La Serenisima",
         "categoria": "Lácteos",
         "precio": 1874.29,
@@ -1312,7 +1312,7 @@
     {
         "fila_excel": 133,
         "codigo": 1163,
-        "nombre": "ARCOR MENTA CRISTAL/MIX 810G",
+        "nombre": "ARCOR MENTA CRISTAL/MIX 810 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9750.18,
@@ -1332,7 +1332,7 @@
     {
         "fila_excel": 135,
         "codigo": 107,
-        "nombre": "BABY DOLL CHUP*4UNIDADES",
+        "nombre": "BABY DOLL CHUP X 4 UNI",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 496.1,
@@ -1362,7 +1362,7 @@
     {
         "fila_excel": 138,
         "codigo": 890,
-        "nombre": "BUTTER TOFFEES TODOS 822 G",
+        "nombre": "BUTTER TOFFEES TODOS 822 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 8808.8,
@@ -1432,7 +1432,7 @@
     {
         "fila_excel": 145,
         "codigo": 1166,
-        "nombre": "MENTHOPLUS ACIDO* 12 UNIDADE",
+        "nombre": "MENTHOPLUS ACIDO X 12 UNI",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 7502.0,
@@ -1442,7 +1442,7 @@
     {
         "fila_excel": 146,
         "codigo": 1169,
-        "nombre": "MENTHOPLUS TODAS*12 UNIDAD",
+        "nombre": "MENTHOPLUS TODAS X 12 UNI",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 5903.59,
@@ -1492,7 +1492,7 @@
     {
         "fila_excel": 151,
         "codigo": 2253,
-        "nombre": "MOGUL EXTREME* 10 X 50 GS",
+        "nombre": "MOGUL EXTREME X 10 X 50 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 7723.43,
@@ -1512,7 +1512,7 @@
     {
         "fila_excel": 153,
         "codigo": 2900,
-        "nombre": "MOGUL MORAS Y DIENTES 10 X50",
+        "nombre": "MOGUL MORAS Y DIENTES 10 X 50GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 7723.43,
@@ -1552,7 +1552,7 @@
     {
         "fila_excel": 157,
         "codigo": 1871,
-        "nombre": "SUGUS CONFITADOS* 50 GS",
+        "nombre": "SUGUS CONFITADOS X 50 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 1125.3,
@@ -1562,7 +1562,7 @@
     {
         "fila_excel": 158,
         "codigo": 1873,
-        "nombre": "SUGUS MASTICABLE* 700 GS 210",
+        "nombre": "SUGUS MASTICABLE X 700 GS 210",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6571.51,
@@ -1582,7 +1582,7 @@
     {
         "fila_excel": 160,
         "codigo": 1267,
-        "nombre": "PASTILLAS FREEGELLS* 12 UN",
+        "nombre": "PASTILLAS FREEGELLS X 12 UN",
         "marca": "Freegells",
         "categoria": "Golosinas",
         "precio": 3107.28,
@@ -1602,7 +1602,7 @@
     {
         "fila_excel": 162,
         "codigo": 2184,
-        "nombre": "ACEITE CAÑUELAS* 1.5 LITRO",
+        "nombre": "ACEITE CAÑUELAS X 1.5 L",
         "marca": "Molino Cañuelas",
         "categoria": "Almacén",
         "precio": 6271.43,
@@ -1612,7 +1612,7 @@
     {
         "fila_excel": 163,
         "codigo": 3290,
-        "nombre": "ACEITE GIRASOL NATURA X900",
+        "nombre": "ACEITE GIRASOL NATURA X 900 ML",
         "marca": "AGD",
         "categoria": "Almacén",
         "precio": 3891.36,
@@ -1622,7 +1622,7 @@
     {
         "fila_excel": 164,
         "codigo": 7,
-        "nombre": "ACEITE LEGITIMO X900",
+        "nombre": "ACEITE LEGITIMO X 900 ML",
         "marca": "Legítimo",
         "categoria": "Almacén",
         "precio": 3335.97,
@@ -1632,7 +1632,7 @@
     {
         "fila_excel": 165,
         "codigo": 35,
-        "nombre": "ARROZ GALLO ORO X 500",
+        "nombre": "ARROZ GALLO ORO X 500 ML",
         "marca": "Molinos",
         "categoria": "Almacén",
         "precio": 1177.33,
@@ -1642,7 +1642,7 @@
     {
         "fila_excel": 166,
         "codigo": 2590,
-        "nombre": "ARROZ LARGO MOLINOS ALA X500",
+        "nombre": "ARROZ LARGO MOLINOS ALA X 500GR",
         "marca": "Molinos Ala",
         "categoria": "Almacén",
         "precio": 968.0,
@@ -1652,7 +1652,7 @@
     {
         "fila_excel": 167,
         "codigo": 3017,
-        "nombre": "ARVEJAS MOLTO340 GS",
+        "nombre": "ARVEJAS MOLTO 340 GR",
         "marca": "Molto",
         "categoria": "Almacén",
         "precio": 732.05,
@@ -2022,7 +2022,7 @@
     {
         "fila_excel": 204,
         "codigo": 1984,
-        "nombre": "TODDY CACAO* 180 GS",
+        "nombre": "TODDY CACAO X 180 GS",
         "marca": "Georgalos",
         "categoria": "Almacén",
         "precio": 1331.0,
@@ -2032,7 +2032,7 @@
     {
         "fila_excel": 205,
         "codigo": 1991,
-        "nombre": "TOMATE LATA NOEL* 400 GS",
+        "nombre": "TOMATE LATA NOEL X 400 GS",
         "marca": "Noel",
         "categoria": "Almacén",
         "precio": 1138.61,
@@ -2042,7 +2042,7 @@
     {
         "fila_excel": 206,
         "codigo": 2142,
-        "nombre": "YERBA  TARAGUI* 500 GS",
+        "nombre": "YERBA  TARAGUI X 500 GS",
         "marca": "Las Marías",
         "categoria": "Almacén",
         "precio": 1905.75,
@@ -2052,7 +2052,7 @@
     {
         "fila_excel": 207,
         "codigo": 2141,
-        "nombre": "YERBA AMANDA* 500 GS",
+        "nombre": "YERBA AMANDA X 500 GS",
         "marca": "Amanda",
         "categoria": "Almacén",
         "precio": 1897.28,
@@ -2092,7 +2092,7 @@
     {
         "fila_excel": 211,
         "codigo": 2809,
-        "nombre": "YERBA PLAYADITO* 500",
+        "nombre": "YERBA PLAYADITO X 500 GR",
         "marca": "Liebig",
         "categoria": "Almacén",
         "precio": 2299.0,
@@ -2102,7 +2102,7 @@
     {
         "fila_excel": 212,
         "codigo": 8793,
-        "nombre": "YERBA ROSAMONTE 500 GR",
+        "nombre": "YERBA ROSAMONTE X 500 GR",
         "marca": "Rosamonte",
         "categoria": "Almacén",
         "precio": 1724.25,
@@ -2187,6 +2187,156 @@
         "categoria": "Bebidas",
         "precio": 2217.93,
         "imagen": "2662.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 221,
+        "codigo": 156,
+        "nombre": "BIZCOCHO 9 DE ORO TODOS 200G",
+        "marca": "Molino Cañuelas",
+        "categoria": "Galletitas",
+        "precio": 1197.9,
+        "imagen": "156.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 222,
+        "codigo": 302,
+        "nombre": "CEREALITAS 212 GR",
+        "marca": "Mondelez",
+        "categoria": "Galletitas",
+        "precio": 1674.64,
+        "imagen": "302.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 223,
+        "codigo": 373,
+        "nombre": "CHOCOLINAS 170 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1413.28,
+        "imagen": "373.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 224,
+        "codigo": 8715,
+        "nombre": "COQUITAS 177 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1413.28,
+        "imagen": "8715.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 225,
+        "codigo": 534,
+        "nombre": "DON SATUR BIZCOCHOS x 200GS",
+        "marca": "Don Satur",
+        "categoria": "Galletitas",
+        "precio": 1073.27,
+        "imagen": "534.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 226,
+        "codigo": 303,
+        "nombre": "GALLETITA CEREAL MIX 207 GR",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 1739.98,
+        "imagen": "303.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 227,
+        "codigo": 705,
+        "nombre": "GALLETITA AMOR/MELLIZA 112 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1092.63,
+        "imagen": "705.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 228,
+        "codigo": 1155,
+        "nombre": "MEDIA TARDE SANDWICH TRI 330",
+        "marca": "Lia",
+        "categoria": "Galletitas",
+        "precio": 1512.5,
+        "imagen": "1155.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 229,
+        "codigo": 1352,
+        "nombre": "OPERA x 92 GS",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 942.59,
+        "imagen": "1352.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 230,
+        "codigo": 1351,
+        "nombre": "OPERA x 55 GR",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 648.56,
+        "imagen": "1351.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 231,
+        "codigo": 1764,
+        "nombre": "RUMBA x 112 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1092.63,
+        "imagen": "1764.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 232,
+        "codigo": 1851,
+        "nombre": "SONRISAS FRAMBUESA x 108 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1159.18,
+        "imagen": "1851.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 233,
+        "codigo": 3177,
+        "nombre": "SUEROX x 630ML",
+        "marca": "Suerox",
+        "categoria": "Bebidas",
+        "precio": 2184.05,
+        "imagen": "3177.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 234,
+        "codigo": 2032,
+        "nombre": "TRAVIATA 108 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 635.25,
+        "imagen": "2032.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 235,
+        "codigo": 2033,
+        "nombre": "TRAVIATA TRIPACK 324 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1754.5,
+        "imagen": "2033.webp",
         "activo": true
     }
 ]
