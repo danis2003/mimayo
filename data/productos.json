@@ -2338,5 +2338,215 @@
         "precio": 1754.5,
         "imagen": "2033.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 236,
+        "codigo": 8708,
+        "nombre": "BASTONITOS KRACHITOS X60GR",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1006.72,
+        "imagen": "8708.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 237,
+        "codigo": 2914,
+        "nombre": "DORITOS  DINAMITA  45 GS",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1641.97,
+        "imagen": "2914.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 238,
+        "codigo": 2913,
+        "nombre": "DORITOS DINAMITA 82 GR",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 2462.35,
+        "imagen": "2913.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 239,
+        "codigo": 3000,
+        "nombre": "DORITOS TODOS 77 GR",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 2873.75,
+        "imagen": "3000.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 240,
+        "codigo": 8729,
+        "nombre": "KRACHITOS CHIZITOS X 60GR",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1006.72,
+        "imagen": "8729.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 241,
+        "codigo": 3093,
+        "nombre": "PAPA BEY BYCOP 480 GR",
+        "marca": "Bey Bycop",
+        "categoria": "Snacks",
+        "precio": 4418.92,
+        "imagen": "3093.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 242,
+        "codigo": 3059,
+        "nombre": "PAPAS KRACHITOS SABORES 55GR",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1177.33,
+        "imagen": "3059.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 243,
+        "codigo": 3058,
+        "nombre": "PAPAS KRACHITOS TRAD/AMER 50",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1201.53,
+        "imagen": "3058.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 244,
+        "codigo": 1498,
+        "nombre": "PEPSICO 40 GR TODOS",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1723.04,
+        "imagen": "1498.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 245,
+        "codigo": 1501,
+        "nombre": "PEPSICO 77/85 GR TODOS",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 2544.63,
+        "imagen": "1501.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 246,
+        "codigo": 2063,
+        "nombre": "TWISTOS 95 GR",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 2956.03,
+        "imagen": "2063.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 247,
+        "codigo": 3140,
+        "nombre": "ALF ALFACHURRO 70 GR",
+        "marca": "Maixanas",
+        "categoria": "Alfajores",
+        "precio": 1393.92,
+        "imagen": "3140.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 248,
+        "codigo": 3062,
+        "nombre": "ALFAJOR CHOCOTORTA TRIPLE",
+        "marca": "Bagley",
+        "categoria": "Alfajores",
+        "precio": 1147.08,
+        "imagen": "3062.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 249,
+        "codigo": 3095,
+        "nombre": "ALFAJOR DUBAI 70GR",
+        "marca": "Maixanas",
+        "categoria": "Alfajores",
+        "precio": 1393.92,
+        "imagen": "3095.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 250,
+        "codigo": 56,
+        "nombre": "ALFAJOR JORGITO x 6 UNID",
+        "marca": "Jorgito",
+        "categoria": "Alfajores",
+        "precio": 2504.7,
+        "imagen": "56.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 251,
+        "codigo": 32,
+        "nombre": "ALFAJOR OREO TRIPLE 56 GR",
+        "marca": "Mondelez",
+        "categoria": "Alfajores",
+        "precio": 1225.73,
+        "imagen": "32.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 252,
+        "codigo": 49,
+        "nombre": "ALFAJOR PEPITOS x 57 GR",
+        "marca": "Mondelez",
+        "categoria": "Alfajores",
+        "precio": 1225.73,
+        "imagen": "49.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 253,
+        "codigo": 3098,
+        "nombre": "ALFAJOR RED VELVET 70 GR",
+        "marca": "Maixanas",
+        "categoria": "Alfajores",
+        "precio": 1393.92,
+        "imagen": "3098.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 254,
+        "codigo": 368,
+        "nombre": "CHOCOARROZ x 22GS",
+        "marca": "Molinos",
+        "categoria": "Alfajores",
+        "precio": 1052.7,
+        "imagen": "368.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 255,
+        "codigo": 657,
+        "nombre": "FIDEO MAROLIO TODOS",
+        "marca": "Marolio",
+        "categoria": "Almacén",
+        "precio": 669.13,
+        "imagen": "657.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 256,
+        "codigo": 649,
+        "nombre": "FIDEOS FAVORITA x 500 GR",
+        "marca": "Molinos",
+        "categoria": "Almacén",
+        "precio": 871.2,
+        "imagen": "649.webp",
+        "activo": true
     }
 ]
