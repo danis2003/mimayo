@@ -405,7 +405,7 @@
         "nombre": "ALFAJOR TERRABUSI TRIPLE D/LECHE",
         "marca": "Terrabusi",
         "categoria": "Alfajores",
-        "precio": 1055.12,
+        "precio": 1225.73,
         "imagen": "2890.webp",
         "activo": true
     },
@@ -505,7 +505,7 @@
         "nombre": "ALFAJOR GULA",
         "marca": "Gula",
         "categoria": "Alfajores",
-        "precio": 946.22,
+        "precio": 986.15,
         "imagen": "3096.webp",
         "activo": true
     },
@@ -555,7 +555,7 @@
         "nombre": "ALFAJOR MATILDA 80GR",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1706.1,
+        "precio": 1684.32,
         "imagen": "3160.webp",
         "activo": true
     },
@@ -655,7 +655,7 @@
         "nombre": "BILLIKEN MAST YOGURT 600GR",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 3206.5,
+        "precio": 3993.0,
         "imagen": "3075.webp",
         "activo": true
     },
@@ -745,7 +745,7 @@
         "nombre": "CHOCOLATE COFLER AIREADO 60GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 2795.1,
+        "precio": 2722.5,
         "imagen": "339.webp",
         "activo": true
     },
@@ -765,7 +765,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 170GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 6443.25,
+        "precio": 5989.5,
         "imagen": "340.webp",
         "activo": true
     },
@@ -1265,7 +1265,7 @@
         "nombre": "TALITA URQUIZA TODAS",
         "marca": "Urquiza",
         "categoria": "Galletitas",
-        "precio": 1207.58,
+        "precio": 1149.5,
         "imagen": "6075.webp",
         "activo": true
     },
@@ -1385,7 +1385,7 @@
         "nombre": "FLYN PAFF *70 UNIDADES",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 6686.46,
+        "precio": 6521.9,
         "imagen": "666.webp",
         "activo": true
     },
@@ -1485,7 +1485,7 @@
         "nombre": "MOGUL EXTREME TUBITOS 500 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5336.1,
+        "precio": 5603.51,
         "imagen": "8713.webp",
         "activo": true
     },
@@ -1575,7 +1575,7 @@
         "nombre": "TOPLINE SEVEN TODOS 16 UN",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12680.8,
+        "precio": 12463.0,
         "imagen": "1996.webp",
         "activo": true
     },
@@ -1945,7 +1945,7 @@
         "nombre": "QUESO RALLADO LA QUESERA 40",
         "marca": "La Quesera",
         "categoria": "Almacén",
-        "precio": 727.21,
+        "precio": 792.55,
         "imagen": "3150.webp",
         "activo": true
     },
@@ -2255,7 +2255,7 @@
         "nombre": "GALLETITA AMOR MELLIZAS 112 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1092.63,
+        "precio": 1149.5,
         "imagen": "705.webp",
         "activo": true
     },
@@ -2295,7 +2295,7 @@
         "nombre": "RUMBA x 112 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1092.63,
+        "precio": 1149.5,
         "imagen": "1764.webp",
         "activo": true
     },
@@ -2475,7 +2475,7 @@
         "nombre": "ALFAJOR DUBAI 70GR",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1393.92,
+        "precio": 1460.47,
         "imagen": "3095.webp",
         "activo": true
     },
@@ -2557,6 +2557,46 @@
         "categoria": "Alfajores",
         "precio": 980.1,
         "imagen": "39.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 258,
+        "codigo": 3300,
+        "nombre": "OBLI BON MIX 15U",
+        "marca": "Oblita",
+        "categoria": "Golosinas",
+        "precio": 4598.0,
+        "imagen": "3300.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 259,
+        "codigo": 3309,
+        "nombre": "OBLI BON CLASICO 30U",
+        "marca": "Oblita",
+        "categoria": "Golosinas",
+        "precio": 7146.26,
+        "imagen": "3309.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 260,
+        "codigo": 9859,
+        "nombre": "OBLIBON BOCADITO MARROC X 36",
+        "marca": "Oblita",
+        "categoria": "Golosinas",
+        "precio": 7526.2,
+        "imagen": "9859.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 261,
+        "codigo": 9861,
+        "nombre": "ALFAJOR OLIVER",
+        "marca": "Maixanas",
+        "categoria": "Alfajores",
+        "precio": 1524.6,
+        "imagen": "9861.webp",
         "activo": true
     }
 ]
