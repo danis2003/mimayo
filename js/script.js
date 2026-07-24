@@ -17,9 +17,23 @@ let productos = [];
 let categoriaSeleccionada = "Todos";
 let textoBusqueda = "";
 let criterioOrden = "default";
+let productosVisibles = 50;
 const contenedorProductos = document.getElementById("productos");
 const contenedorCategorias = document.getElementById("categorias");
 const contenedorCategoriasMenu = document.getElementById("categoriasMenu");
+const btnMostrarMas = document.getElementById("btnMostrarMas");
+
+contenedorProductos.addEventListener("click", (e) => {
+  const tarjeta = e.target.closest(".tarjeta");
+
+  if (!tarjeta) return;
+
+  const codigo = Number(tarjeta.dataset.codigo);
+
+  const producto = productos.find((p) => p.codigo === codigo);
+
+  abrirModalProducto(producto);
+});
 
 function ocultarWhatsapp() {
   btnWhatsapp.classList.add("oculto");
@@ -41,15 +55,15 @@ function mostrarBotonArriba() {
 // FUNCIONES
 // =========================================
 function renderizarProductos(listaProductos) {
-  contenedorProductos.innerHTML = "";
+  let html = "";
 
   listaProductos.forEach((producto) => {
-    contenedorProductos.innerHTML += `
+    html += `
       <article class="tarjeta" data-codigo="${producto.codigo}">
         <img
-            src="img/productos/${producto.imagen}"
-            alt="${producto.nombre}"
-            loading="lazy"
+          src="img/productos/${producto.imagen}"
+          alt="${producto.nombre}"
+          loading="lazy"
         />
 
         <div class="contenido-tarjeta">
@@ -63,20 +77,11 @@ function renderizarProductos(listaProductos) {
     `;
   });
 
-  //contador de procutos a mostrar
+  contenedorProductos.innerHTML = html;
+
+  // Contador de productos
   document.getElementById("contadorResultados").textContent =
     `Mostrando ${listaProductos.length} producto${listaProductos.length !== 1 ? "s" : ""}`;
-
-  // evento para abrir modal del producto
-  document.querySelectorAll(".tarjeta").forEach((tarjeta) => {
-    tarjeta.addEventListener("click", () => {
-      const codigo = Number(tarjeta.dataset.codigo);
-
-      const producto = productos.find((p) => p.codigo === codigo);
-
-      abrirModalProducto(producto);
-    });
-  });
 }
 
 function renderizarCategorias() {
@@ -97,7 +102,7 @@ function renderizarCategorias() {
 
   botonTodos.addEventListener("click", () => {
     categoriaSeleccionada = "Todos";
-
+    productosVisibles = 50;
     renderizarCategorias();
     aplicarFiltros();
   });
@@ -108,7 +113,7 @@ function renderizarCategorias() {
 
   botonTodosMenu.addEventListener("click", () => {
     categoriaSeleccionada = "Todos";
-
+    productosVisibles = 50;
     renderizarCategorias();
     aplicarFiltros();
 
@@ -155,6 +160,7 @@ function renderizarCategorias() {
 
 function filtrarPorCategoria(categoria) {
   categoriaSeleccionada = categoria;
+  productosVisibles = 50;
 
   renderizarCategorias();
   aplicarFiltros();
@@ -178,6 +184,7 @@ function aplicarFiltros() {
         producto.marca.toLowerCase().includes(textoBusqueda.toLowerCase()),
     );
   }
+
   // Ordenar
   switch (criterioOrden) {
     case "nombre":
@@ -193,7 +200,16 @@ function aplicarFiltros() {
       break;
   }
 
-  renderizarProductos(resultado);
+  const productosAMostrar = resultado.slice(0, productosVisibles);
+
+  renderizarProductos(productosAMostrar);
+
+  // Mostrar u ocultar el botón "Mostrar más"
+  if (resultado.length > productosVisibles) {
+    btnMostrarMas.classList.remove("oculto");
+  } else {
+    btnMostrarMas.classList.add("oculto");
+  }
 }
 
 async function cargarProductos() {
@@ -289,13 +305,22 @@ overlay.addEventListener("click", () => {
 
 inputBuscar.addEventListener("input", (event) => {
   textoBusqueda = event.target.value;
-
+  productosVisibles = 50;
   aplicarFiltros();
 });
 
 document.getElementById("ordenar").addEventListener("change", (e) => {
   criterioOrden = e.target.value;
+  productosVisibles = 50;
+  aplicarFiltros();
+});
 
+// =========================================
+// BOTÓN MOSTRAR MÁS
+// =========================================
+
+btnMostrarMas.addEventListener("click", () => {
+  productosVisibles += 50;
   aplicarFiltros();
 });
 

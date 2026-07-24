@@ -1118,6 +1118,35 @@ main {
 
   line-height: 1.5;
 }
+/* ==========================================
+   BOTÓN MOSTRAR MÁS
+========================================== */
+
+.contenedor-mostrar-mas {
+  display: flex;
+  justify-content: center;
+  margin: 35px 0 50px;
+}
+
+.btn-mostrar-mas {
+  padding: 14px 30px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+  background: #3b82f6;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.btn-mostrar-mas:hover {
+  background: #2563eb;
+}
+
+.btn-mostrar-mas.oculto {
+  display: none;
+}
 
 /* ==========================================
    FOOTER RESPONSIVE

@@ -2938,5 +2938,15 @@
         "precio": 1040.6,
         "imagen": "8709.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 296,
+        "codigo": 1181,
+        "nombre": "MERMELADA NOEL LIGHT X 390 GR",
+        "marca": "Noel",
+        "categoria": "Almacén",
+        "precio": 1950.52,
+        "imagen": "1181.webp",
+        "activo": true
     }
 ]
