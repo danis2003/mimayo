@@ -142,7 +142,7 @@ def mostrar_vista_previa(ruta):
     imagen = Image.open(ruta)
 
     # Mantiene la proporción
-    imagen.thumbnail((240,240))
+    imagen.thumbnail((420,420))
 
     # Conversión para Tkinter
     foto = ImageTk.PhotoImage(imagen)
@@ -297,6 +297,44 @@ def confirmar_imagen():
             "Seleccione una imagen para el siguiente producto."
         )
     )
+
+# ==========================================
+# OMITIR IMAGEN
+# Asigna la imagen genérica y avanza al
+# siguiente producto.
+# ==========================================
+
+def omitir_imagen():
+
+    producto = obtener_producto_pendiente()
+
+    if producto is None:
+        return
+
+    ws[producto["fila"]][5].value = "sin-imagen.png"
+    wb.save(EXCEL)
+
+    btnConfirmar.config(state="disabled")
+
+    lblImagen.config(
+        image="",
+        text="Vista previa\n\n(Sin imagen)"
+    )
+
+    lblImagen.image = None
+
+    mostrar_producto()
+
+    actualizar_estado(
+        "Producto omitido. Se asignó la imagen genérica."
+    )
+
+    root.after(
+        2000,
+        lambda: actualizar_estado(
+            "Seleccione una imagen para el siguiente producto."
+        )
+    )
 # ==========================================
 # ACTUALIZAR ESTADO
 # Muestra un mensaje en la barra de estado.
@@ -327,14 +365,11 @@ root.after(
 # Título que aparecerá en la barra superior.
 root.title("Asistente de imágenes - Catálogo Mi Mayo")
 
-# Tamaño inicial de la ventana.
-root.geometry("840x620")
-
 # Centrar la ventana en la pantalla
 root.update_idletasks()
 
-ancho = 840
-alto = 660
+ancho = 1150
+alto = 780
 
 x = (root.winfo_screenwidth() - ancho) // 2
 y = (root.winfo_screenheight() - alto) // 2
@@ -421,8 +456,8 @@ frameSuperior.pack(
 frameImagen = tk.Frame(
     frameSuperior,
     bg="#f5f5f5",
-    width=260,
-    height=260,
+    width=440,
+    height=440,
     relief="solid",
     bd=1
 )
@@ -589,6 +624,30 @@ btnConfirmar = tk.Button(
 )
 
 btnConfirmar.pack(
+    anchor="w",
+    fill="x"
+)
+
+# ==========================================
+# BOTÓN OMITIR
+# Asigna la imagen genérica al producto.
+# ==========================================
+
+tk.Frame(frameInfo, height=10, bg="white").pack()
+
+btnOmitir = tk.Button(
+    frameInfo,
+    text="⏭ Omitir",
+    font=("Segoe UI", 11, "bold"),
+    bg="#F59E0B",
+    fg="white",
+    padx=20,
+    pady=10,
+    cursor="hand2",
+    command=omitir_imagen
+)
+
+btnOmitir.pack(
     anchor="w",
     fill="x"
 )
