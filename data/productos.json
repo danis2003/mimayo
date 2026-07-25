@@ -2948,5 +2948,35 @@
         "precio": 1950.52,
         "imagen": "1181.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 297,
+        "codigo": 8823,
+        "nombre": "ALFAJOR BARRIGON 100 GR",
+        "marca": "Barrigón",
+        "categoria": "Alfajores",
+        "precio": 1551.22,
+        "imagen": "8823.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 298,
+        "codigo": 8890,
+        "nombre": "ALFAJOR BARRIGON 45 GR",
+        "marca": "Barrigón",
+        "categoria": "Alfajores",
+        "precio": 424.71,
+        "imagen": "8890.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 299,
+        "codigo": 8824,
+        "nombre": "ALFAJOR BARRIGON 70 GR",
+        "marca": "Barrigón",
+        "categoria": "Alfajores",
+        "precio": 1074.48,
+        "imagen": "8824.webp",
+        "activo": true
     }
 ]
