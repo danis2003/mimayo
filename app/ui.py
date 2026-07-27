@@ -1,8 +1,13 @@
 import customtkinter as ctk
 from datetime import datetime
 from estilos import *
-from scripts.config import RUTA_ICONO
+from scripts.config import (
+    RUTA_ICONO,
+    RUTA_CONFIG,
+    RUTA_VENTANA,
+)
 import threading
+import json
 from acciones import (
     importar_excel,
     ejecutar_actualizacion,
@@ -33,6 +38,62 @@ class App(ctk.CTk):
         self.grid_rowconfigure(3, weight=0)
 
         self.crear_interfaz()
+        self.cargar_geometria()
+        #"Antes de cerrar, ejecutá mi función cerrar_aplicacion()."
+        self.protocol("WM_DELETE_WINDOW", self.cerrar_aplicacion)
+
+    # =========================================================
+    # GEOMETRÍA DE LA VENTANA
+    # =========================================================
+
+    def cargar_geometria(self):
+
+        if not RUTA_VENTANA.exists():
+            return
+
+        try:
+
+            with open(RUTA_VENTANA, "r", encoding="utf-8") as archivo:
+
+                datos = json.load(archivo)
+
+            self.geometry(datos["geometry"])
+            if datos.get("state") == "zoomed":
+                self.after(50, lambda: self.state("zoomed"))
+
+        except Exception:
+            pass
+
+
+    def guardar_geometria(self):
+
+        try:
+
+            RUTA_CONFIG.mkdir(exist_ok=True)
+
+            datos = {
+                "geometry": self.geometry(),
+                "state": self.state()
+            }
+
+            with open(RUTA_VENTANA, "w", encoding="utf-8") as archivo:
+
+                json.dump(
+                    datos,
+                    archivo,
+                    indent=4,
+                    ensure_ascii=False
+                )
+
+        except Exception:
+            pass
+
+
+    def cerrar_aplicacion(self):
+
+        self.guardar_geometria()
+
+        self.destroy()
 
     # =========================================================
 

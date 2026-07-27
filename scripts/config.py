@@ -18,3 +18,6 @@ RUTA_IMAGENES = BASE_DIR / "img" / "productos"
 RUTA_ICONO = BASE_DIR / "logo.ico"
 
 HOJA_PRODUCTOS = "Productos"
+
+RUTA_CONFIG = BASE_DIR / "config"
+RUTA_VENTANA = RUTA_CONFIG / "ventana.json"
