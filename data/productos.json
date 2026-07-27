@@ -2551,11 +2551,11 @@
     },
     {
         "fila_excel": 257,
-        "codigo": 39,
-        "nombre": "ALFAJOR CAP DEL ESPACIO *40G",
+        "codigo": 9858,
+        "nombre": "ALFAJOR CAPITÁN DEL ESPACIO X 40G",
         "marca": "Capitán del Espacio",
         "categoria": "Alfajores",
-        "precio": 980.1,
+        "precio": 1355.2,
         "imagen": "39.webp",
         "activo": true
     },
