@@ -18,6 +18,7 @@ let categoriaSeleccionada = "Todos";
 let textoBusqueda = "";
 let criterioOrden = "default";
 let productosVisibles = 50;
+let productosFiltrados = [];
 const contenedorProductos = document.getElementById("productos");
 const contenedorCategorias = document.getElementById("categorias");
 const contenedorCategoriasMenu = document.getElementById("categoriasMenu");
@@ -80,8 +81,9 @@ function renderizarProductos(listaProductos) {
   contenedorProductos.innerHTML = html;
 
   // Contador de productos
+  // Contador de productos
   document.getElementById("contadorResultados").textContent =
-    `Mostrando ${listaProductos.length} producto${listaProductos.length !== 1 ? "s" : ""}`;
+    `Mostrando ${listaProductos.length} de ${productosFiltrados.length} producto${productosFiltrados.length !== 1 ? "s" : ""}`;
 }
 
 function renderizarCategorias() {
@@ -200,13 +202,22 @@ function aplicarFiltros() {
       break;
   }
 
+  productosFiltrados = resultado;
+
   const productosAMostrar = resultado.slice(0, productosVisibles);
 
   renderizarProductos(productosAMostrar);
 
-  // Mostrar u ocultar el botón "Mostrar más"
-  if (resultado.length > productosVisibles) {
+  const restantes = resultado.length - productosVisibles;
+
+  if (restantes > 0) {
     btnMostrarMas.classList.remove("oculto");
+
+    btnMostrarMas.querySelector(".btn-titulo").textContent =
+      `Mostrar ${Math.min(50, restantes)} más`;
+
+    btnMostrarMas.querySelector(".btn-restantes").textContent =
+      `${restantes} restantes...`;
   } else {
     btnMostrarMas.classList.add("oculto");
   }

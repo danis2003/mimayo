@@ -1129,15 +1129,41 @@ main {
 }
 
 .btn-mostrar-mas {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  min-width: 240px;
+
   padding: 14px 30px;
-  font-size: 1rem;
-  font-weight: 600;
-  color: white;
+
   background: #3b82f6;
+
+  color: white;
+
   border: none;
   border-radius: 10px;
+
   cursor: pointer;
+
   transition: background 0.2s ease;
+}
+
+.btn-titulo {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.btn-restantes {
+  margin-top: 3px;
+
+  font-size: 0.8rem;
+
+  font-weight: 400;
+
+  opacity: 0.85;
 }
 
 .btn-mostrar-mas:hover {
