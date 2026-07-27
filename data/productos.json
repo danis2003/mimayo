@@ -315,7 +315,7 @@
         "nombre": "LECHE SERENISIMA SACHET 1L",
         "marca": "La Serenisima",
         "categoria": "Lácteos",
-        "precio": 1846.46,
+        "precio": 1860.98,
         "imagen": "3201.webp",
         "activo": true
     },
@@ -385,7 +385,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1224.52,
+        "precio": 1193.06,
         "imagen": "3082.webp",
         "activo": true
     },
@@ -565,7 +565,7 @@
         "nombre": "ALFAJOR MILKA SUPER DDL 70GR",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1195.48,
+        "precio": 1203.95,
         "imagen": "2302.webp",
         "activo": true
     },
@@ -725,7 +725,7 @@
         "nombre": "CHOCOLATE CADBURY TODOS 82 G",
         "marca": "Cadbury",
         "categoria": "Chocolates",
-        "precio": 4351.16,
+        "precio": 4241.05,
         "imagen": "335.webp",
         "activo": true
     },
@@ -785,7 +785,7 @@
         "nombre": "CHOCOLATE MILKA OREO 37 GR",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2116.29,
+        "precio": 2081.2,
         "imagen": "3084.webp",
         "activo": true
     },
@@ -885,7 +885,7 @@
         "nombre": "GALLET OREO X 118 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1461.2,
+        "precio": 1697.63,
         "imagen": "724.webp",
         "activo": true
     },
@@ -895,7 +895,7 @@
         "nombre": "GALLET PEPITOS  X 118 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1428.83,
+        "precio": 1697.63,
         "imagen": "730.webp",
         "activo": true
     },
@@ -1035,7 +1035,7 @@
         "nombre": "MILKA DULCE DE LECHE 68 GR",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 3914.35,
+        "precio": 5326.42,
         "imagen": "3018.webp",
         "activo": true
     },
@@ -1805,7 +1805,7 @@
         "nombre": "DULCE DE LECHE LS COL 250 GR",
         "marca": "La Serenisima",
         "categoria": "Almacén",
-        "precio": 2420.0,
+        "precio": 2456.3,
         "imagen": "3308.webp",
         "activo": true
     },
