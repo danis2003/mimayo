@@ -1,11 +1,17 @@
 def mostrar_errores(errores):
 
-    print("\n===================================")
-    print("   ERRORES EN EL EXCEL")
-    print("===================================\n")
+    mensaje = (
+        "===================================\n"
+        "ERRORES EN EL EXCEL\n"
+        "===================================\n\n"
+    )
 
     for error in errores:
-        print(error)
+        mensaje += error + "\n"
 
-    print(f"\nSe encontraron {len(errores)} errores.")
-    print("No se generó productos.json.")
+    mensaje += (
+        f"\nSe encontraron {len(errores)} errores.\n"
+        "No se generó productos.json."
+    )
+
+    return mensaje

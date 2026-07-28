@@ -2978,5 +2978,395 @@
         "precio": 1074.48,
         "imagen": "8824.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 300,
+        "codigo": 144,
+        "nombre": "BIC MAXI ENCENDEDOR",
+        "marca": "Bic",
+        "categoria": "Varios",
+        "precio": 1096.26,
+        "imagen": "144.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 301,
+        "codigo": 257,
+        "nombre": "CANDELA ENCEND ELECTRONICO",
+        "marca": "Candela",
+        "categoria": "Varios",
+        "precio": 496.1,
+        "imagen": "257.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 302,
+        "codigo": 259,
+        "nombre": "CANDELA ENCENDEDOR TRANSPARE",
+        "marca": "Candela",
+        "categoria": "Varios",
+        "precio": 254.1,
+        "imagen": "259.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 303,
+        "codigo": 285,
+        "nombre": "CASINO NAIPES 40 U",
+        "marca": "Casino",
+        "categoria": "Varios",
+        "precio": 2084.83,
+        "imagen": "285.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 304,
+        "codigo": 286,
+        "nombre": "CASINO NAIPES 50 U",
+        "marca": "Casino",
+        "categoria": "Varios",
+        "precio": 2457.51,
+        "imagen": "286.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 305,
+        "codigo": 2715,
+        "nombre": "CELULOSA STAMPS 50 HOJAS",
+        "marca": "Stamps",
+        "categoria": "Varios",
+        "precio": 1056.33,
+        "imagen": "2715.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 306,
+        "codigo": 8850,
+        "nombre": "CURITA ADHESUR",
+        "marca": "Adhesur",
+        "categoria": "Varios",
+        "precio": 592.9,
+        "imagen": "8850.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 307,
+        "codigo": 500,
+        "nombre": "CURITAS  CAJA* 8 UNID",
+        "marca": "Curitas",
+        "categoria": "Varios",
+        "precio": 1242.67,
+        "imagen": "500.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 308,
+        "codigo": 551,
+        "nombre": "DURACELL 2A C/U",
+        "marca": "Duracell",
+        "categoria": "Varios",
+        "precio": 1035.76,
+        "imagen": "551.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 309,
+        "codigo": 552,
+        "nombre": "DURACELL 3A  C/U",
+        "marca": "Duracell",
+        "categoria": "Varios",
+        "precio": 1035.76,
+        "imagen": "552.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 310,
+        "codigo": 554,
+        "nombre": "DURACELL GRANDE \"D\"  C/U",
+        "marca": "Duracell",
+        "categoria": "Varios",
+        "precio": 4503.62,
+        "imagen": "554.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 311,
+        "codigo": 8798,
+        "nombre": "ENCENDEDOR SILVERTEC",
+        "marca": "Silvertec",
+        "categoria": "Varios",
+        "precio": 248.05,
+        "imagen": "8798.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 312,
+        "codigo": 2350,
+        "nombre": "ENERGIZER 2032",
+        "marca": "Energizer",
+        "categoria": "Varios",
+        "precio": 1331.0,
+        "imagen": "2350.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 313,
+        "codigo": 568,
+        "nombre": "ENERGIZER 2A",
+        "marca": "Energizer",
+        "categoria": "Varios",
+        "precio": 797.39,
+        "imagen": "568.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 314,
+        "codigo": 569,
+        "nombre": "ENERGIZER 3A",
+        "marca": "Energizer",
+        "categoria": "Varios",
+        "precio": 797.39,
+        "imagen": "569.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 315,
+        "codigo": 573,
+        "nombre": "ENERGIZER A23",
+        "marca": "Energizer",
+        "categoria": "Varios",
+        "precio": 1824.68,
+        "imagen": "573.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 316,
+        "codigo": 572,
+        "nombre": "ENERGIZER MEDIANA \"C\" C/U",
+        "marca": "Energizer",
+        "categoria": "Varios",
+        "precio": 3890.15,
+        "imagen": "572.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 317,
+        "codigo": 615,
+        "nombre": "EVEREADY AA NEGRA",
+        "marca": "Eveready",
+        "categoria": "Varios",
+        "precio": 687.28,
+        "imagen": "615.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 318,
+        "codigo": 614,
+        "nombre": "EVEREADY AAA NEGRA",
+        "marca": "Eveready",
+        "categoria": "Varios",
+        "precio": 544.5,
+        "imagen": "614.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 319,
+        "codigo": 616,
+        "nombre": "EVEREADY BATERIA * 9 V",
+        "marca": "Eveready",
+        "categoria": "Varios",
+        "precio": 3115.75,
+        "imagen": "616.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 320,
+        "codigo": 618,
+        "nombre": "EVEREADY GRANDE \"D\" C/U",
+        "marca": "Eveready",
+        "categoria": "Varios",
+        "precio": 2977.81,
+        "imagen": "618.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 321,
+        "codigo": 617,
+        "nombre": "EVEREADY MEDIANA \"C\" C/U",
+        "marca": "Eveready",
+        "categoria": "Varios",
+        "precio": 1080.53,
+        "imagen": "617.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 322,
+        "codigo": 2567,
+        "nombre": "FILTROS OCB EXTRA SLIM 150",
+        "marca": "OCB",
+        "categoria": "Varios",
+        "precio": 1913.01,
+        "imagen": "2567.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 323,
+        "codigo": 2571,
+        "nombre": "FILTROS OCB SLIM 150 UN 6MM",
+        "marca": "OCB",
+        "categoria": "Varios",
+        "precio": 1767.81,
+        "imagen": "2571.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 324,
+        "codigo": 8807,
+        "nombre": "FUEGOLANDIA ENCENDEDOR TRANS",
+        "marca": "Fuegolandia",
+        "categoria": "Varios",
+        "precio": 211.75,
+        "imagen": "8807.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 325,
+        "codigo": 830,
+        "nombre": "HALLS FREE *12 UNIDADES",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 7814.18,
+        "imagen": "830.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 326,
+        "codigo": 288,
+        "nombre": "NAIPES CANDELA X 50",
+        "marca": "Candela",
+        "categoria": "Varios",
+        "precio": 1028.5,
+        "imagen": "288.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 327,
+        "codigo": 1454,
+        "nombre": "PAPELILLO OCB BLANCO",
+        "marca": "OCB",
+        "categoria": "Varios",
+        "precio": 375.1,
+        "imagen": "1454.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 328,
+        "codigo": 1455,
+        "nombre": "PAPELILLO OCB NEGRO",
+        "marca": "OCB",
+        "categoria": "Varios",
+        "precio": 779.24,
+        "imagen": "1455.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 329,
+        "codigo": 1371,
+        "nombre": "PAÑUELOS ELITE 6 UNIDADES",
+        "marca": "Elite",
+        "categoria": "Varios",
+        "precio": 1297.12,
+        "imagen": "1371.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 330,
+        "codigo": 2651,
+        "nombre": "PAPELILLO PIER  ROLL* 50 UN",
+        "marca": "Pier",
+        "categoria": "Varios",
+        "precio": 556.6,
+        "imagen": "2651.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 331,
+        "codigo": 2304,
+        "nombre": "PASTILLAS CLIGHT TODAS 12U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 8651.5,
+        "imagen": "2304.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 332,
+        "codigo": 1609,
+        "nombre": "PRESERVATIVOS PRIME x3 TODOS C/U",
+        "marca": "Prime",
+        "categoria": "Varios",
+        "precio": 3206.5,
+        "imagen": "1609.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 333,
+        "codigo": 1610,
+        "nombre": "PRESERVATIVOS TULIPAN x3 C/GEL C/U",
+        "marca": "Tulipán",
+        "categoria": "Varios",
+        "precio": 1776.28,
+        "imagen": "1610.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 334,
+        "codigo": 3200,
+        "nombre": "FILTROS SLIM LIBELLA",
+        "marca": "Libella",
+        "categoria": "Varios",
+        "precio": 1759.34,
+        "imagen": "3200.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 335,
+        "codigo": 8803,
+        "nombre": "SYRITA X 10 UNIDADES",
+        "marca": "Syrita",
+        "categoria": "Varios",
+        "precio": 398.09,
+        "imagen": "8803.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 336,
+        "codigo": 2587,
+        "nombre": "TABACO CERRITO*45 GS",
+        "marca": "Cerrito",
+        "categoria": "Varios",
+        "precio": 5994.34,
+        "imagen": "2587.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 337,
+        "codigo": 2649,
+        "nombre": "TABACO CUATRO LEGUAS 30 GS",
+        "marca": "Cuatro Leguas",
+        "categoria": "Varios",
+        "precio": 5687.0,
+        "imagen": "2649.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 338,
+        "codigo": 2702,
+        "nombre": "TABACO LAS HOJAS*50GS",
+        "marca": "Cuatro Leguas",
+        "categoria": "Varios",
+        "precio": 4658.5,
+        "imagen": "2702.webp",
+        "activo": true
     }
 ]

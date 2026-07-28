@@ -12,8 +12,7 @@ def main():
     productos, errores = validar_productos(productos)
 
     if errores:
-        mostrar_errores(errores)
-        return
+        raise Exception(mostrar_errores(errores))
 
     guardar_json(productos, RUTA_JSON)
 
