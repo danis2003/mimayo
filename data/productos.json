@@ -3368,5 +3368,235 @@
         "precio": 4658.5,
         "imagen": "2702.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 339,
+        "codigo": 3076,
+        "nombre": "BLUPER PASTILLAS 12 UNI",
+        "marca": "Bluper",
+        "categoria": "Golosinas",
+        "precio": 2862.86,
+        "imagen": "3076.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 340,
+        "codigo": 9843,
+        "nombre": "CAJA MERENKOA 12 UNIDADES",
+        "marca": "Urquiza",
+        "categoria": "Golosinas",
+        "precio": 7550.4,
+        "imagen": "9843.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 341,
+        "codigo": 263,
+        "nombre": "CARAMELO ALKA CHE/STR 800G",
+        "marca": "Alka",
+        "categoria": "Golosinas",
+        "precio": 10043.0,
+        "imagen": "263.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 342,
+        "codigo": 267,
+        "nombre": "CARAMELO TNT ACIDO *60 UNIDA",
+        "marca": "TNT",
+        "categoria": "Golosinas",
+        "precio": 2178.0,
+        "imagen": "267.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 343,
+        "codigo": 287,
+        "nombre": "CATCH POP  * CHUPETIN",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 2299.0,
+        "imagen": "287.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 344,
+        "codigo": 9854,
+        "nombre": "CATY HOUSE",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 2182.84,
+        "imagen": "9854.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 345,
+        "codigo": 2380,
+        "nombre": "CHICLE BLUPER 400 GR",
+        "marca": "Bluper",
+        "categoria": "Golosinas",
+        "precio": 4997.3,
+        "imagen": "2380.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 346,
+        "codigo": 3191,
+        "nombre": "CHICLE METRO 4U",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 8680.54,
+        "imagen": "3191.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 347,
+        "codigo": 9856,
+        "nombre": "CONITO JORGITO",
+        "marca": "Jorgito",
+        "categoria": "Golosinas",
+        "precio": 951.06,
+        "imagen": "9856.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 348,
+        "codigo": 542,
+        "nombre": "DRF PASTILLAS *12 UNIDADES",
+        "marca": "D.R.F.",
+        "categoria": "Golosinas",
+        "precio": 3610.64,
+        "imagen": "542.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 349,
+        "codigo": 797,
+        "nombre": "GOLOMIX GOMA 800GR",
+        "marca": "Golomix",
+        "categoria": "Golosinas",
+        "precio": 6426.31,
+        "imagen": "797.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 350,
+        "codigo": 1171,
+        "nombre": "MENTITAS LACASA 25 GS",
+        "marca": "D.R.F.",
+        "categoria": "Golosinas",
+        "precio": 355.74,
+        "imagen": "1171.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 351,
+        "codigo": 1182,
+        "nombre": "MERENBOM 25GR",
+        "marca": "Urquiza",
+        "categoria": "Golosinas",
+        "precio": 636.46,
+        "imagen": "1182.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 352,
+        "codigo": 1179,
+        "nombre": "MERENKOA 15GR",
+        "marca": "Urquiza",
+        "categoria": "Golosinas",
+        "precio": 629.2,
+        "imagen": "1179.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 353,
+        "codigo": 8843,
+        "nombre": "MOGUL ANILLOS X 1KG",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 9105.25,
+        "imagen": "8843.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 354,
+        "codigo": 1472,
+        "nombre": "PASTILLA BIYU SORPRESA",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1283.81,
+        "imagen": "1472.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 355,
+        "codigo": 8718,
+        "nombre": "POTE OJITOS/VARIOS 30U",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 10466.5,
+        "imagen": "8718.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 356,
+        "codigo": 9853,
+        "nombre": "PUPPY HOUSE",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 2182.84,
+        "imagen": "9853.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 357,
+        "codigo": 1643,
+        "nombre": "PUSH POP CHUPETIN TODOS   C/U",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 479.16,
+        "imagen": "1643.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 358,
+        "codigo": 1724,
+        "nombre": "RING POP CHUPETIN CAJA X24",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 5390.55,
+        "imagen": "1724.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 359,
+        "codigo": 1951,
+        "nombre": "TIC TAC TODOS* 12 UNIDADES",
+        "marca": "Tic Tac",
+        "categoria": "Golosinas",
+        "precio": 10403.58,
+        "imagen": "1951.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 360,
+        "codigo": 2520,
+        "nombre": "TNT CHICLE SURTIDO 40 U",
+        "marca": "TNT",
+        "categoria": "Golosinas",
+        "precio": 2371.6,
+        "imagen": "2520.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 361,
+        "codigo": 9852,
+        "nombre": "WACKY MONKEY",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 2503.49,
+        "imagen": "9852.webp",
+        "activo": true
     }
 ]
