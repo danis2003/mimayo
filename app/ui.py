@@ -569,13 +569,24 @@ class App(ctk.CTk):
 
         bloque = (
             "Resumen de actualización\n\n"
-            f"Productos catálogo   : {resumen['catalogo']}\n"
-            f"Productos proveedor  : {resumen['proveedor']}\n"
-            f"Productos encontrados: {resumen['encontrados']}\n"
-            f"Productos nuevos     : {resumen['nuevos']}\n"
-            f"Precios modificados  : {resumen['modificados']}\n"
-            f"Sin cambios          : {resumen['sin_cambios']}\n"
+            f"Productos catálogo          : {resumen['catalogo']}\n"
+            f"Productos proveedor         : {resumen['proveedor']}\n"
+            f"Productos encontrados       : {resumen['encontrados']}\n"
+            f"No encontrados en proveedor : {resumen['no_encontrados']}\n"
+            f"Precios modificados         : {resumen['modificados']}\n"
+            f"Sin cambios                 : {resumen['sin_cambios']}\n"
         )
+
+        if resumen.get("detalle_no_encontrados"):
+
+            bloque += "\nProductos no encontrados:\n\n"
+
+            for producto in resumen["detalle_no_encontrados"]:
+
+                bloque += (
+                    f'• {producto["codigo"]} - {producto["nombre"]} '
+                    f'(Fila {producto["fila_excel"]})\n'
+                )
 
         self.agregar_evento(
             "Precios actualizados correctamente."

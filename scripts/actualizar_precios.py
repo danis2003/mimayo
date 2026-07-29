@@ -71,7 +71,8 @@ def main():
         "catalogo": len(productos_maestro),
         "proveedor": len(productos_proveedor),
         "encontrados": productos_catalogo,
-        "nuevos": len(productos_faltantes),
+        "no_encontrados": len(productos_faltantes),
+        "detalle_no_encontrados": productos_faltantes,
         "modificados": precios_modificados,
         "sin_cambios": productos_catalogo - precios_modificados
     }
