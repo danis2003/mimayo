@@ -3,8 +3,8 @@ __pycache__/
 *.pyc
 
 # Entornos virtuales
-.venv/
 venv/
+.venv/
 
 # VS Code
 .vscode/
@@ -16,6 +16,13 @@ Desktop.ini
 # Archivos temporales
 *.log
 
+# Cachés
+.pytest_cache/
+.mypy_cache/
+
+# PyInstaller
+build/
+
 # Carpetas temporales
 img/pendientes/
 img/procesadas_png/
@@ -24,8 +31,5 @@ img/productos_defectuosos/
 # Datos del negocio
 data/*.xlsx
 
-# Archivos de entorno
+# Variables de entorno
 .env
-
-# Entorno virtual
-venv/

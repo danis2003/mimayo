@@ -365,7 +365,7 @@
         "nombre": "ALFAJOR FANTOCHE TRIPLE",
         "marca": "Fantoche",
         "categoria": "Alfajores",
-        "precio": 847.0,
+        "precio": 854.26,
         "imagen": "3012.webp",
         "activo": true
     },
@@ -535,7 +535,7 @@
         "nombre": "ALFAJOR MANTECOL 60GR",
         "marca": "Georgalos",
         "categoria": "Alfajores",
-        "precio": 1280.18,
+        "precio": 1089.0,
         "imagen": "3193.webp",
         "activo": true
     },
@@ -795,7 +795,7 @@
         "nombre": "CHOCOLATE TOFI DDL 28 GR",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 1414.49,
+        "precio": 1531.86,
         "imagen": "360.webp",
         "activo": true
     },
@@ -955,7 +955,7 @@
         "nombre": "KINDER HUEVO SORPRESA",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2311.1,
+        "precio": 2536.16,
         "imagen": "950.webp",
         "activo": true
     },
@@ -975,7 +975,7 @@
         "nombre": "KITKAT NESTLE 41,5 GR",
         "marca": "Nestlé",
         "categoria": "Chocolates",
-        "precio": 1391.5,
+        "precio": 1470.15,
         "imagen": "955.webp",
         "activo": true
     },
@@ -1155,7 +1155,7 @@
         "nombre": "PEPAS TRIO /TRICHOC 200 GR",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 750.2,
+        "precio": 744.15,
         "imagen": "727.webp",
         "activo": true
     },
@@ -1335,7 +1335,7 @@
         "nombre": "BABY DOLL CHUP X 4 UNI",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 496.1,
+        "precio": 580.8,
         "imagen": "107.webp",
         "activo": true
     },
@@ -1575,7 +1575,7 @@
         "nombre": "TOPLINE SEVEN TODOS 16 UN",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12463.0,
+        "precio": 12342.0,
         "imagen": "1996.webp",
         "activo": true
     },
@@ -1655,7 +1655,7 @@
         "nombre": "ARVEJAS MOLTO 340 GR",
         "marca": "Molto",
         "categoria": "Almacén",
-        "precio": 732.05,
+        "precio": 799.81,
         "imagen": "3017.webp",
         "activo": true
     },
@@ -1915,7 +1915,7 @@
         "nombre": "NESQUIK ORIGINAL * 180 GS",
         "marca": "Nestlé",
         "categoria": "Almacén",
-        "precio": 1869.45,
+        "precio": 2086.04,
         "imagen": "2945.webp",
         "activo": true
     },
@@ -2265,7 +2265,7 @@
         "nombre": "MEDIA TARDE SANDWICH TRI 321GR",
         "marca": "Lia",
         "categoria": "Galletitas",
-        "precio": 1512.5,
+        "precio": 1550.01,
         "imagen": "1155.webp",
         "activo": true
     },
@@ -2335,7 +2335,7 @@
         "nombre": "TRAVIATA TRIPACK 324 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1754.5,
+        "precio": 1876.71,
         "imagen": "2033.webp",
         "activo": true
     },
@@ -2345,7 +2345,7 @@
         "nombre": "BASTONITOS KRACHITOS X60GR",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1006.72,
+        "precio": 1020.03,
         "imagen": "8708.webp",
         "activo": true
     },
@@ -2385,7 +2385,7 @@
         "nombre": "KRACHITOS CHIZITOS X 60GR",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1006.72,
+        "precio": 1020.03,
         "imagen": "8729.webp",
         "activo": true
     },
@@ -2405,7 +2405,7 @@
         "nombre": "PAPAS KRACHITOS SABORES 55GR",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1177.33,
+        "precio": 1195.48,
         "imagen": "3059.webp",
         "activo": true
     },
@@ -2415,7 +2415,7 @@
         "nombre": "PAPAS KRACHITOS TRAD/AMER 50",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1201.53,
+        "precio": 1218.47,
         "imagen": "3058.webp",
         "activo": true
     },
@@ -2435,7 +2435,7 @@
         "nombre": "PEPSICO 77/85 GR TODOS",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2544.63,
+        "precio": 2874.96,
         "imagen": "1501.webp",
         "activo": true
     },
@@ -2515,7 +2515,7 @@
         "nombre": "ALFAJOR RED VELVET 70 GR",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1393.92,
+        "precio": 1530.65,
         "imagen": "3098.webp",
         "activo": true
     },
@@ -2555,7 +2555,7 @@
         "nombre": "ALFAJOR CAPITÁN DEL ESPACIO X 40G",
         "marca": "Capitán del Espacio",
         "categoria": "Alfajores",
-        "precio": 1355.2,
+        "precio": 1343.1,
         "imagen": "39.webp",
         "activo": true
     },
@@ -2915,7 +2915,7 @@
         "nombre": "PURE MAGGI 125GR",
         "marca": "Nestlé",
         "categoria": "Almacén",
-        "precio": 1836.78,
+        "precio": 1920.27,
         "imagen": "3157.webp",
         "activo": true
     },
@@ -3065,7 +3065,7 @@
         "nombre": "DURACELL 2A C/U",
         "marca": "Duracell",
         "categoria": "Varios",
-        "precio": 1035.76,
+        "precio": 1026.08,
         "imagen": "551.webp",
         "activo": true
     },
@@ -3075,7 +3075,7 @@
         "nombre": "DURACELL 3A  C/U",
         "marca": "Duracell",
         "categoria": "Varios",
-        "precio": 1035.76,
+        "precio": 1026.08,
         "imagen": "552.webp",
         "activo": true
     },
@@ -3305,7 +3305,7 @@
         "nombre": "PRESERVATIVOS PRIME x3 TODOS C/U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3206.5,
+        "precio": 3286.36,
         "imagen": "1609.webp",
         "activo": true
     },
@@ -3315,7 +3315,7 @@
         "nombre": "PRESERVATIVOS TULIPAN x3 C/GEL C/U",
         "marca": "Tulipán",
         "categoria": "Varios",
-        "precio": 1776.28,
+        "precio": 1837.99,
         "imagen": "1610.webp",
         "activo": true
     },
@@ -3485,7 +3485,7 @@
         "nombre": "MENTITAS LACASA 25 GS",
         "marca": "D.R.F.",
         "categoria": "Golosinas",
-        "precio": 355.74,
+        "precio": 387.2,
         "imagen": "1171.webp",
         "activo": true
     },
