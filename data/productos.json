@@ -2263,7 +2263,7 @@
         "fila_excel": 228,
         "codigo": 1155,
         "nombre": "MEDIA TARDE SANDWICH TRI 321GR",
-        "marca": "Lia",
+        "marca": "Lía",
         "categoria": "Galletitas",
         "precio": 1550.01,
         "imagen": "1155.webp",
@@ -3597,6 +3597,606 @@
         "categoria": "Golosinas",
         "precio": 2503.49,
         "imagen": "9852.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 362,
+        "codigo": 2929,
+        "nombre": "GALLETITA HIPOPO 100GR",
+        "marca": "Cory",
+        "categoria": "Galletitas",
+        "precio": 423.5,
+        "imagen": "2929.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 363,
+        "codigo": 3170,
+        "nombre": "GALLETITAS ANILLOS 170 GR",
+        "marca": "Terrabusi",
+        "categoria": "Galletitas",
+        "precio": 1225.73,
+        "imagen": "3170.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 364,
+        "codigo": 3171,
+        "nombre": "GALLETITAS ANILLOS 300 GR",
+        "marca": "Terrabusi",
+        "categoria": "Galletitas",
+        "precio": 2163.48,
+        "imagen": "3171.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 365,
+        "codigo": 888,
+        "nombre": "BISCUIT HJ* 130 GS",
+        "marca": "HJ",
+        "categoria": "Galletitas",
+        "precio": 1488.3,
+        "imagen": "888.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 366,
+        "codigo": 483,
+        "nombre": "CRIOLLITAS *100 GS",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 571.12,
+        "imagen": "483.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 367,
+        "codigo": 502,
+        "nombre": "DELICIAS NONNA PEPAS *180GS",
+        "marca": "Delicias de la Nonna",
+        "categoria": "Galletitas",
+        "precio": 713.9,
+        "imagen": "502.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 368,
+        "codigo": 537,
+        "nombre": "DON SATUR TALITAS 140  GS",
+        "marca": "Don Satur",
+        "categoria": "Galletitas",
+        "precio": 1012.77,
+        "imagen": "537.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 369,
+        "codigo": 626,
+        "nombre": "FAMILIARES SALVADO BAGLEY x 169GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1195.48,
+        "imagen": "626.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 370,
+        "codigo": 9877,
+        "nombre": "FILTROS DE PAPEL LV 40U",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 4112.79,
+        "imagen": "9877.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 371,
+        "codigo": 9871,
+        "nombre": "FRUTIGRAN AVENAS/PASAS",
+        "marca": "Granix",
+        "categoria": "Galletitas",
+        "precio": 2122.34,
+        "imagen": "9871.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 372,
+        "codigo": 1341,
+        "nombre": "FRUTIGRAN C/CHIPS CHOCO  255",
+        "marca": "Granix",
+        "categoria": "Galletitas",
+        "precio": 2203.41,
+        "imagen": "1341.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 373,
+        "codigo": 690,
+        "nombre": "FRUTIGRAN TROPICAL *    250",
+        "marca": "Granix",
+        "categoria": "Galletitas",
+        "precio": 2171.95,
+        "imagen": "690.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 374,
+        "codigo": 700,
+        "nombre": "GALLET CELOSAS *110 GS",
+        "marca": "Celosas",
+        "categoria": "Galletitas",
+        "precio": 556.6,
+        "imagen": "700.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 375,
+        "codigo": 701,
+        "nombre": "GALLET CELOSAS *230 GS",
+        "marca": "Celosas",
+        "categoria": "Galletitas",
+        "precio": 1114.41,
+        "imagen": "701.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 376,
+        "codigo": 702,
+        "nombre": "GALLET CELOSAS *350 GS",
+        "marca": "Celosas",
+        "categoria": "Galletitas",
+        "precio": 1671.01,
+        "imagen": "702.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 377,
+        "codigo": 709,
+        "nombre": "GALLET DIVERSION *400GS",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 1936.0,
+        "imagen": "709.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 378,
+        "codigo": 753,
+        "nombre": "GALLET GLUTEN RIERA X 200 GR",
+        "marca": "Riera",
+        "categoria": "Galletitas",
+        "precio": 1270.5,
+        "imagen": "753.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 379,
+        "codigo": 715,
+        "nombre": "GALLET MANA RELLENA *152 GS",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 1052.7,
+        "imagen": "715.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 380,
+        "codigo": 716,
+        "nombre": "GALLET MANA TODAS *145GS",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 958.32,
+        "imagen": "716.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 381,
+        "codigo": 755,
+        "nombre": "GALLET SURT FAUNA *400 GS",
+        "marca": "Mauri",
+        "categoria": "Galletitas",
+        "precio": 1331.0,
+        "imagen": "755.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 382,
+        "codigo": 2951,
+        "nombre": "GALLET SURTIDO LIA 400 GR",
+        "marca": "Lía",
+        "categoria": "Galletitas",
+        "precio": 1815.0,
+        "imagen": "2951.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 383,
+        "codigo": 745,
+        "nombre": "GALLET VARIEDAD *390 GS",
+        "marca": "Terrabusi",
+        "categoria": "Galletitas",
+        "precio": 2406.69,
+        "imagen": "745.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 384,
+        "codigo": 749,
+        "nombre": "GALLET VOCACION 141 GR",
+        "marca": "Lía",
+        "categoria": "Galletitas",
+        "precio": 767.14,
+        "imagen": "749.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 385,
+        "codigo": 750,
+        "nombre": "GALLET VOCACION TRIPACK",
+        "marca": "Lía",
+        "categoria": "Galletitas",
+        "precio": 1917.85,
+        "imagen": "750.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 386,
+        "codigo": 809,
+        "nombre": "GRANIX SANDWICH *200 GS",
+        "marca": "Granix",
+        "categoria": "Galletitas",
+        "precio": 1173.7,
+        "imagen": "809.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 387,
+        "codigo": 808,
+        "nombre": "GRANIX SIN SAL *200 GS",
+        "marca": "Granix",
+        "categoria": "Galletitas",
+        "precio": 1160.39,
+        "imagen": "808.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 388,
+        "codigo": 2039,
+        "nombre": "HOJALMAR/RONDA TRI/LAR 150 G",
+        "marca": "Hojalmar",
+        "categoria": "Galletitas",
+        "precio": 1271.71,
+        "imagen": "2039.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 389,
+        "codigo": 956,
+        "nombre": "KOKIS GALLET.TODAS*200GS",
+        "marca": "Kokis",
+        "categoria": "Galletitas",
+        "precio": 1040.6,
+        "imagen": "956.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 390,
+        "codigo": 713,
+        "nombre": "LINCOLN 160 G",
+        "marca": "Terrabusi",
+        "categoria": "Galletitas",
+        "precio": 1364.88,
+        "imagen": "713.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 391,
+        "codigo": 1065,
+        "nombre": "MAGDALENA DON SATUR 200/250G",
+        "marca": "Don Satur",
+        "categoria": "Galletitas",
+        "precio": 2132.02,
+        "imagen": "1065.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 392,
+        "codigo": 1153,
+        "nombre": "MEDIA TARDE CLASICA TRI 330",
+        "marca": "Lía",
+        "categoria": "Galletitas",
+        "precio": 1482.25,
+        "imagen": "1153.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 393,
+        "codigo": 1177,
+        "nombre": "MERENGADAS X 88 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1159.18,
+        "imagen": "1177.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 394,
+        "codigo": 8791,
+        "nombre": "MINI OREO 150 GR",
+        "marca": "Mondelez",
+        "categoria": "Galletitas",
+        "precio": 1998.92,
+        "imagen": "8791.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 395,
+        "codigo": 1316,
+        "nombre": "OBLEA OBLITA 50GR",
+        "marca": "Oblita",
+        "categoria": "Galletitas",
+        "precio": 332.75,
+        "imagen": "1316.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 396,
+        "codigo": 8716,
+        "nombre": "OBLEA OBLITA 100 GR",
+        "marca": "Oblita",
+        "categoria": "Galletitas",
+        "precio": 726.0,
+        "imagen": "8716.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 397,
+        "codigo": 1338,
+        "nombre": "OKEBON CHICA* 165 GS",
+        "marca": "Okebon",
+        "categoria": "Galletitas",
+        "precio": 1078.11,
+        "imagen": "1338.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 398,
+        "codigo": 1340,
+        "nombre": "OKEBON CHO=LECHE 273 GS",
+        "marca": "Okebon",
+        "categoria": "Galletitas",
+        "precio": 1615.35,
+        "imagen": "1340.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 399,
+        "codigo": 1457,
+        "nombre": "PARNOR TODAS 140 GS",
+        "marca": "ParNor",
+        "categoria": "Galletitas",
+        "precio": 877.25,
+        "imagen": "1457.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 400,
+        "codigo": 1465,
+        "nombre": "PASEO AGUA* 300 GS",
+        "marca": "Molino Cañuelas",
+        "categoria": "Galletitas",
+        "precio": 1350.36,
+        "imagen": "1465.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 401,
+        "codigo": 1468,
+        "nombre": "PASEO SALVADO* 300 GS",
+        "marca": "Molino Cañuelas",
+        "categoria": "Galletitas",
+        "precio": 1643.18,
+        "imagen": "1468.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 402,
+        "codigo": 951,
+        "nombre": "PEPA ALEMANA 180 GR",
+        "marca": "Trio",
+        "categoria": "Galletitas",
+        "precio": 738.1,
+        "imagen": "951.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 403,
+        "codigo": 3005,
+        "nombre": "PEPAS BENJAMIN 400 GS",
+        "marca": "Benjamín",
+        "categoria": "Galletitas",
+        "precio": 1337.05,
+        "imagen": "3005.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 404,
+        "codigo": 8906,
+        "nombre": "PEPAS CHOCOTRIO 500GR",
+        "marca": "Trio",
+        "categoria": "Galletitas",
+        "precio": 2712.82,
+        "imagen": "8906.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 405,
+        "codigo": 8706,
+        "nombre": "PEPAS TRICHOC 300GR",
+        "marca": "Trio",
+        "categoria": "Galletitas",
+        "precio": 1099.89,
+        "imagen": "8706.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 406,
+        "codigo": 740,
+        "nombre": "PEPAS TRICHOC 500 GR",
+        "marca": "Trio",
+        "categoria": "Galletitas",
+        "precio": 2032.8,
+        "imagen": "740.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 407,
+        "codigo": 739,
+        "nombre": "PEPAS TRIO 500 GR",
+        "marca": "Trio",
+        "categoria": "Galletitas",
+        "precio": 1883.97,
+        "imagen": "739.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 408,
+        "codigo": 1718,
+        "nombre": "REX/KESITAS ESTUCHE 125 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1571.79,
+        "imagen": "1718.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 409,
+        "codigo": 3090,
+        "nombre": "SALADIX CROSS 135 GR",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 1770.23,
+        "imagen": "3090.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 410,
+        "codigo": 1781,
+        "nombre": "SALADIX CROSS 67 GR",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 898.43,
+        "imagen": "1781.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 411,
+        "codigo": 1778,
+        "nombre": "SALADIX ESTUCHE TODOS 100 GR",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 1266.87,
+        "imagen": "1778.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 412,
+        "codigo": 1780,
+        "nombre": "SALADIX TIRA X6 40 GR",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 3375.9,
+        "imagen": "1780.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 413,
+        "codigo": 737,
+        "nombre": "SURTIDO BAGLEY 400 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 2600.29,
+        "imagen": "737.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 414,
+        "codigo": 8836,
+        "nombre": "TEREPIN 200 GR",
+        "marca": "Terepín",
+        "categoria": "Galletitas",
+        "precio": 752.62,
+        "imagen": "8836.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 415,
+        "codigo": 1944,
+        "nombre": "TEREPIN 400 GR",
+        "marca": "Terepín",
+        "categoria": "Galletitas",
+        "precio": 14036.0,
+        "imagen": "1944.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 416,
+        "codigo": 2904,
+        "nombre": "TRAVIATA TOQUE REX/KES",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 724.79,
+        "imagen": "2904.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 417,
+        "codigo": 2079,
+        "nombre": "VAINILLA MAURI * 160 GS 14 U",
+        "marca": "Mauri",
+        "categoria": "Galletitas",
+        "precio": 968.0,
+        "imagen": "2079.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 418,
+        "codigo": 2077,
+        "nombre": "VAINILLA MAURI* 80 GS",
+        "marca": "Mauri",
+        "categoria": "Galletitas",
+        "precio": 423.5,
+        "imagen": "2077.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 419,
+        "codigo": 154,
+        "nombre": "BIZCOCHOS JORGITO *200 GS",
+        "marca": "Jorgito",
+        "categoria": "Galletitas",
+        "precio": 825.22,
+        "imagen": "154.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 420,
+        "codigo": 155,
+        "nombre": "BIZCOCHOS JORGITO *400 GS",
+        "marca": "Jorgito",
+        "categoria": "Galletitas",
+        "precio": 1512.5,
+        "imagen": "155.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 421,
+        "codigo": 1459,
+        "nombre": "PAR-NOR PITUSAS 160 GR",
+        "marca": "ParNor",
+        "categoria": "Galletitas",
+        "precio": 955.9,
+        "imagen": "1459.webp",
         "activo": true
     }
 ]
