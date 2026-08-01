@@ -345,7 +345,7 @@
         "nombre": "ALFAJOR FANTOCHE PESCADO RAUL",
         "marca": "Fantoche",
         "categoria": "Alfajores",
-        "precio": 629.2,
+        "precio": 592.9,
         "imagen": "8734.webp",
         "activo": true
     },
@@ -385,7 +385,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1193.06,
+        "precio": 1225.73,
         "imagen": "3082.webp",
         "activo": true
     },
@@ -415,7 +415,7 @@
         "nombre": "ALFAJOR VIMAR ESCOLAR/GLAS CAJA",
         "marca": "Vimar",
         "categoria": "Alfajores",
-        "precio": 11712.8,
+        "precio": 11952.38,
         "imagen": "3019.webp",
         "activo": true
     },
@@ -485,7 +485,7 @@
         "nombre": "ALFAJOR GUAYMALLÉN L/CH/FR CAJA",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 9930.47,
+        "precio": 10133.75,
         "imagen": "61.webp",
         "activo": true
     },
@@ -515,7 +515,7 @@
         "nombre": "ALFAJOR JORGITO",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 848.21,
+        "precio": 866.36,
         "imagen": "3010.webp",
         "activo": true
     },
@@ -525,7 +525,7 @@
         "nombre": "ALFAJOR JORGITO SIN GLUTEN",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 792.55,
+        "precio": 866.36,
         "imagen": "2464.webp",
         "activo": true
     },
@@ -535,7 +535,7 @@
         "nombre": "ALFAJOR MANTECOL 60GR",
         "marca": "Georgalos",
         "categoria": "Alfajores",
-        "precio": 1089.0,
+        "precio": 847.0,
         "imagen": "3193.webp",
         "activo": true
     },
@@ -645,7 +645,7 @@
         "nombre": "BILLIKEN MAST FRUTA 600GR",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 4388.67,
+        "precio": 4750.46,
         "imagen": "887.webp",
         "activo": true
     },
@@ -725,7 +725,7 @@
         "nombre": "CHOCOLATE CADBURY TODOS 82 G",
         "marca": "Cadbury",
         "categoria": "Chocolates",
-        "precio": 4241.05,
+        "precio": 4351.16,
         "imagen": "335.webp",
         "activo": true
     },
@@ -785,7 +785,7 @@
         "nombre": "CHOCOLATE MILKA OREO 37 GR",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2081.2,
+        "precio": 2127.18,
         "imagen": "3084.webp",
         "activo": true
     },
@@ -795,7 +795,7 @@
         "nombre": "CHOCOLATE TOFI DDL 28 GR",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 1531.86,
+        "precio": 1331.0,
         "imagen": "360.webp",
         "activo": true
     },
@@ -885,7 +885,7 @@
         "nombre": "GALLET OREO X 118 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1697.63,
+        "precio": 1742.4,
         "imagen": "724.webp",
         "activo": true
     },
@@ -955,7 +955,7 @@
         "nombre": "KINDER HUEVO SORPRESA",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2536.16,
+        "precio": 2331.67,
         "imagen": "950.webp",
         "activo": true
     },
@@ -1035,7 +1035,7 @@
         "nombre": "MILKA DULCE DE LECHE 68 GR",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 5326.42,
+        "precio": 3509.0,
         "imagen": "3018.webp",
         "activo": true
     },
@@ -1205,7 +1205,7 @@
         "nombre": "SHOT CHOC 35 GR",
         "marca": "Mondelez",
         "categoria": "Chocolates",
-        "precio": 1228.15,
+        "precio": 1277.76,
         "imagen": "1826.webp",
         "activo": true
     },
@@ -1375,7 +1375,7 @@
         "nombre": "CHUPETIN PICO DULCE *48 UNID",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 9388.39,
+        "precio": 9580.78,
         "imagen": "390.webp",
         "activo": true
     },
@@ -1405,7 +1405,7 @@
         "nombre": "GOMA MISKY 1 KL",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8995.14,
+        "precio": 9154.86,
         "imagen": "798.webp",
         "activo": true
     },
@@ -1425,7 +1425,7 @@
         "nombre": "LENGUETAZO TODOS 32 UNIDADES",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 6982.91,
+        "precio": 6386.38,
         "imagen": "1024.webp",
         "activo": true
     },
@@ -1525,7 +1525,7 @@
         "nombre": "PALITO DE LA SELVA 660 GR",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 9052.01,
+        "precio": 9377.5,
         "imagen": "1388.webp",
         "activo": true
     },
@@ -1575,7 +1575,7 @@
         "nombre": "TOPLINE SEVEN TODOS 16 UN",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12342.0,
+        "precio": 13008.71,
         "imagen": "1996.webp",
         "activo": true
     },
@@ -2205,7 +2205,7 @@
         "nombre": "CEREALITAS 212 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1674.64,
+        "precio": 1633.5,
         "imagen": "302.webp",
         "activo": true
     },
@@ -2265,7 +2265,7 @@
         "nombre": "MEDIA TARDE SANDWICH TRI 321GR",
         "marca": "Lía",
         "categoria": "Galletitas",
-        "precio": 1550.01,
+        "precio": 1403.6,
         "imagen": "1155.webp",
         "activo": true
     },
@@ -2305,7 +2305,7 @@
         "nombre": "SONRISAS FRAMBUESA x 108 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1159.18,
+        "precio": 1087.79,
         "imagen": "1851.webp",
         "activo": true
     },
@@ -2335,7 +2335,7 @@
         "nombre": "TRAVIATA TRIPACK 324 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1876.71,
+        "precio": 1698.84,
         "imagen": "2033.webp",
         "activo": true
     },
@@ -2405,7 +2405,7 @@
         "nombre": "PAPAS KRACHITOS SABORES 55GR",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1195.48,
+        "precio": 1220.89,
         "imagen": "3059.webp",
         "activo": true
     },
@@ -3305,7 +3305,7 @@
         "nombre": "PRESERVATIVOS PRIME x3 TODOS C/U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3286.36,
+        "precio": 3354.12,
         "imagen": "1609.webp",
         "activo": true
     },
@@ -3465,7 +3465,7 @@
         "nombre": "DRF PASTILLAS *12 UNIDADES",
         "marca": "D.R.F.",
         "categoria": "Golosinas",
-        "precio": 3610.64,
+        "precio": 3787.3,
         "imagen": "542.webp",
         "activo": true
     },
@@ -3575,7 +3575,7 @@
         "nombre": "TIC TAC TODOS* 12 UNIDADES",
         "marca": "Tic Tac",
         "categoria": "Golosinas",
-        "precio": 10403.58,
+        "precio": 10769.0,
         "imagen": "1951.webp",
         "activo": true
     },
@@ -3675,7 +3675,7 @@
         "nombre": "FAMILIARES SALVADO BAGLEY x 169GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1195.48,
+        "precio": 1216.05,
         "imagen": "626.webp",
         "activo": true
     },
@@ -3765,7 +3765,7 @@
         "nombre": "GALLET GLUTEN RIERA X 200 GR",
         "marca": "Riera",
         "categoria": "Galletitas",
-        "precio": 1270.5,
+        "precio": 1218.47,
         "imagen": "753.webp",
         "activo": true
     },
@@ -3825,7 +3825,7 @@
         "nombre": "GALLET VOCACION 141 GR",
         "marca": "Lía",
         "categoria": "Galletitas",
-        "precio": 767.14,
+        "precio": 695.75,
         "imagen": "749.webp",
         "activo": true
     },
@@ -3865,7 +3865,7 @@
         "nombre": "HOJALMAR/RONDA TRI/LAR 150 G",
         "marca": "Hojalmar",
         "categoria": "Galletitas",
-        "precio": 1271.71,
+        "precio": 1370.93,
         "imagen": "2039.webp",
         "activo": true
     },
@@ -3905,7 +3905,7 @@
         "nombre": "MEDIA TARDE CLASICA TRI 330",
         "marca": "Lía",
         "categoria": "Galletitas",
-        "precio": 1482.25,
+        "precio": 1343.1,
         "imagen": "1153.webp",
         "activo": true
     },
@@ -4105,7 +4105,7 @@
         "nombre": "SALADIX TIRA X6 40 GR",
         "marca": "Arcor",
         "categoria": "Galletitas",
-        "precio": 3375.9,
+        "precio": 3608.22,
         "imagen": "1780.webp",
         "activo": true
     },
@@ -4115,7 +4115,7 @@
         "nombre": "SURTIDO BAGLEY 400 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 2600.29,
+        "precio": 2729.76,
         "imagen": "737.webp",
         "activo": true
     },
@@ -4145,7 +4145,7 @@
         "nombre": "TRAVIATA TOQUE REX/KES",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 724.79,
+        "precio": 738.1,
         "imagen": "2904.webp",
         "activo": true
     },
@@ -4175,7 +4175,7 @@
         "nombre": "BIZCOCHOS JORGITO *200 GS",
         "marca": "Jorgito",
         "categoria": "Galletitas",
-        "precio": 825.22,
+        "precio": 871.2,
         "imagen": "154.webp",
         "activo": true
     },
@@ -4505,7 +4505,7 @@
         "nombre": "CHOCOLATE MISKY 25 GR",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 732.05,
+        "precio": 828.85,
         "imagen": "356.webp",
         "activo": true
     },
@@ -4515,7 +4515,7 @@
         "nombre": "CHOCOLATE MISKY 50 GR",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 1316.48,
+        "precio": 1263.24,
         "imagen": "357.webp",
         "activo": true
     },
@@ -5355,7 +5355,7 @@
         "nombre": "MILKA RASPBERRY CREME 100GR",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 6008.86,
+        "precio": 6166.16,
         "imagen": "8891.webp",
         "activo": true
     },
