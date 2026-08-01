@@ -4198,5 +4198,1175 @@
         "precio": 955.9,
         "imagen": "1459.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 422,
+        "codigo": 8714,
+        "nombre": "ACE JABON LIQUIDO 800ML",
+        "marca": "ACE",
+        "categoria": "Limpieza",
+        "precio": 3025.0,
+        "imagen": "8714.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 423,
+        "codigo": 477,
+        "nombre": "ACONDICIONADOR SEDAL 190ML",
+        "marca": "Sedal",
+        "categoria": "Perfumería",
+        "precio": 3022.58,
+        "imagen": "477.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 424,
+        "codigo": 3380,
+        "nombre": "ALA CREMOSO 750ML",
+        "marca": "Ala",
+        "categoria": "Limpieza",
+        "precio": 2688.62,
+        "imagen": "3380.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 425,
+        "codigo": 2688,
+        "nombre": "ALGODON CARESS 75GR",
+        "marca": "Caress",
+        "categoria": "Perfumería",
+        "precio": 592.9,
+        "imagen": "2688.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 426,
+        "codigo": 65,
+        "nombre": "ALGODON DONCELLA *70GS",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 965.58,
+        "imagen": "65.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 427,
+        "codigo": 3155,
+        "nombre": "ALGODON DONCELLA 140GR",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 1530.65,
+        "imagen": "3155.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 428,
+        "codigo": 67,
+        "nombre": "ALGODON ESTRELLA 140GR",
+        "marca": "Estrella",
+        "categoria": "Perfumería",
+        "precio": 2268.75,
+        "imagen": "67.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 429,
+        "codigo": 66,
+        "nombre": "ALGODON ESTRELLA 75GR",
+        "marca": "Estrella",
+        "categoria": "Perfumería",
+        "precio": 925.65,
+        "imagen": "66.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 430,
+        "codigo": 1792,
+        "nombre": "ARCOR MIEL MENTA 335 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 3657.83,
+        "imagen": "1792.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 431,
+        "codigo": 1735,
+        "nombre": "ARCOR RODAJAS ACIDAS 930 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 11599.67,
+        "imagen": "1735.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 432,
+        "codigo": 2521,
+        "nombre": "BANANINA 15 GR",
+        "marca": "FeltFort",
+        "categoria": "Golosinas",
+        "precio": 399.3,
+        "imagen": "2521.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 433,
+        "codigo": 114,
+        "nombre": "BANANITA DOLCA 14GR",
+        "marca": "Nestlé",
+        "categoria": "Golosinas",
+        "precio": 660.66,
+        "imagen": "114.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 434,
+        "codigo": 115,
+        "nombre": "BANANITA DOLCA 30GR",
+        "marca": "Nestlé",
+        "categoria": "Golosinas",
+        "precio": 1142.24,
+        "imagen": "115.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 435,
+        "codigo": 119,
+        "nombre": "BARRITA AGUILA 14GR",
+        "marca": "Aguila",
+        "categoria": "Chocolates",
+        "precio": 809.49,
+        "imagen": "119.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 436,
+        "codigo": 791,
+        "nombre": "BLEM LUSTRAMUEBLE*360",
+        "marca": "Blem",
+        "categoria": "Limpieza",
+        "precio": 4415.29,
+        "imagen": "791.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 437,
+        "codigo": 9837,
+        "nombre": "BOCADITO CERICET FELFORT",
+        "marca": "FeltFort",
+        "categoria": "Golosinas",
+        "precio": 1689.16,
+        "imagen": "9837.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 438,
+        "codigo": 177,
+        "nombre": "BOCADITO MARROC CAJA 60 U",
+        "marca": "FeltFort",
+        "categoria": "Golosinas",
+        "precio": 33052.36,
+        "imagen": "177.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 439,
+        "codigo": 2980,
+        "nombre": "BOMBON DOR 12 GR",
+        "marca": "FeltFort",
+        "categoria": "Golosinas",
+        "precio": 363.0,
+        "imagen": "2980.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 440,
+        "codigo": 366,
+        "nombre": "BONAFIDE CHOCMAN 35GR",
+        "marca": "Bonafide",
+        "categoria": "Golosinas",
+        "precio": 665.5,
+        "imagen": "366.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 441,
+        "codigo": 1149,
+        "nombre": "BONAFIDE MECANO 19 GR",
+        "marca": "Bonafide",
+        "categoria": "Chocolates",
+        "precio": 728.42,
+        "imagen": "1149.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 442,
+        "codigo": 212,
+        "nombre": "BOTELLITA DE WISKY 24 GR",
+        "marca": "FeltFort",
+        "categoria": "Golosinas",
+        "precio": 1127.12,
+        "imagen": "212.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 443,
+        "codigo": 230,
+        "nombre": "CABSHA",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 441.65,
+        "imagen": "230.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 444,
+        "codigo": 299,
+        "nombre": "CEREALFORT 23 GR",
+        "marca": "FeltFort",
+        "categoria": "Golosinas",
+        "precio": 439.23,
+        "imagen": "299.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 445,
+        "codigo": 2173,
+        "nombre": "CHOC GEORGALOS FULL MANI 150",
+        "marca": "Georgalos",
+        "categoria": "Chocolates",
+        "precio": 3037.1,
+        "imagen": "2173.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 446,
+        "codigo": 1887,
+        "nombre": "CHOCO AGUILA 70% CACAO 150GR",
+        "marca": "Aguila",
+        "categoria": "Chocolates",
+        "precio": 7635.1,
+        "imagen": "1887.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 447,
+        "codigo": 6091,
+        "nombre": "CHOCOLATE AGUILA 70% CACAO 70 GR",
+        "marca": "Aguila",
+        "categoria": "Chocolates",
+        "precio": 3999.05,
+        "imagen": "6091.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 448,
+        "codigo": 338,
+        "nombre": "CHOCOLATE COFLER AIREADO X 27GR",
+        "marca": "Cofler",
+        "categoria": "Chocolates",
+        "precio": 1444.14,
+        "imagen": "338.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 449,
+        "codigo": 349,
+        "nombre": "CHOCOLATE DAQUI 70 GR",
+        "marca": "Georgalos",
+        "categoria": "Chocolates",
+        "precio": 605.0,
+        "imagen": "349.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 450,
+        "codigo": 354,
+        "nombre": "CHOCOLATE HAMLET TODOS 43 GS",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 750.2,
+        "imagen": "354.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 451,
+        "codigo": 1862,
+        "nombre": "CHOCOLATE JACK FELFORT 14 GR",
+        "marca": "FeltFort",
+        "categoria": "Chocolates",
+        "precio": 1441.11,
+        "imagen": "1862.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 452,
+        "codigo": 356,
+        "nombre": "CHOCOLATE MISKY 25 GR",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 732.05,
+        "imagen": "356.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 453,
+        "codigo": 357,
+        "nombre": "CHOCOLATE MISKY 50 GR",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 1316.48,
+        "imagen": "357.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 454,
+        "codigo": 369,
+        "nombre": "CHOCOLATIN MISKY 8GR C/U",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 279.51,
+        "imagen": "369.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 455,
+        "codigo": 375,
+        "nombre": "CHUP ARCOR MR POP FRUTAL 50U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5566.0,
+        "imagen": "375.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 456,
+        "codigo": 392,
+        "nombre": "CHUPELATIN FELFORT UNIDAD 15 GR",
+        "marca": "FeltFort",
+        "categoria": "Golosinas",
+        "precio": 932.91,
+        "imagen": "392.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 457,
+        "codigo": 1028,
+        "nombre": "CHUPETIN PELOTITAS 50 U",
+        "marca": "Lheritier",
+        "categoria": "Golosinas",
+        "precio": 2088.46,
+        "imagen": "1028.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 458,
+        "codigo": 391,
+        "nombre": "CHUPETIN PITO PITO 24 U",
+        "marca": "Lheritier",
+        "categoria": "Golosinas",
+        "precio": 2420.0,
+        "imagen": "391.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 459,
+        "codigo": 3302,
+        "nombre": "CIF CREMA 375GR",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 2069.1,
+        "imagen": "3302.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 460,
+        "codigo": 9874,
+        "nombre": "COFLER EXTRA 46 GR",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 1640.76,
+        "imagen": "9874.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 461,
+        "codigo": 430,
+        "nombre": "COLGATE 70GR",
+        "marca": "Colgate",
+        "categoria": "Perfumería",
+        "precio": 1928.74,
+        "imagen": "430.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 462,
+        "codigo": 9866,
+        "nombre": "CONITO DON QUIQUE",
+        "marca": "Don Quique",
+        "categoria": "Golosinas",
+        "precio": 670.34,
+        "imagen": "9866.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 463,
+        "codigo": 501,
+        "nombre": "DANCING BOCADITO *50UN",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 7961.8,
+        "imagen": "501.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 464,
+        "codigo": 2624,
+        "nombre": "DETER CIF ACTIVE 300 ML",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 1799.27,
+        "imagen": "2624.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 465,
+        "codigo": 2625,
+        "nombre": "DETER CIF ACTIVE 500 ML",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 3239.17,
+        "imagen": "2625.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 466,
+        "codigo": 9863,
+        "nombre": "DETERG.ALA CONCENT 500ML",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 2279.64,
+        "imagen": "9863.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 467,
+        "codigo": 3064,
+        "nombre": "DETERGENTE MAGISTRAL X 300",
+        "marca": "Magistral",
+        "categoria": "Limpieza",
+        "precio": 2032.8,
+        "imagen": "3064.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 468,
+        "codigo": 8828,
+        "nombre": "DONCELLA NOCTURNA",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 1239.04,
+        "imagen": "8828.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 469,
+        "codigo": 595,
+        "nombre": "ESPIRALES RAID(CAJA *12 SOBR",
+        "marca": "SC Johnson",
+        "categoria": "Varios",
+        "precio": 11071.5,
+        "imagen": "595.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 470,
+        "codigo": 3066,
+        "nombre": "ESPONJA VIRULANA LISA",
+        "marca": "Mapa Virulana",
+        "categoria": "Limpieza",
+        "precio": 636.46,
+        "imagen": "3066.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 471,
+        "codigo": 637,
+        "nombre": "FEELING *20GS",
+        "marca": "FeltFort",
+        "categoria": "Chocolates",
+        "precio": 511.83,
+        "imagen": "637.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 472,
+        "codigo": 774,
+        "nombre": "GEL DOREE 180GR",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 2038.85,
+        "imagen": "774.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 473,
+        "codigo": 911,
+        "nombre": "JABON ALA MATIC 400GR",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 1573.0,
+        "imagen": "911.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 474,
+        "codigo": 2400,
+        "nombre": "JABON ALA MATIC 800ML",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 2620.86,
+        "imagen": "2400.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 475,
+        "codigo": 9836,
+        "nombre": "JABON ARIEL X 800 SACH",
+        "marca": "Ariel",
+        "categoria": "Limpieza",
+        "precio": 2758.8,
+        "imagen": "9836.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 476,
+        "codigo": 913,
+        "nombre": "JABON CUPIDO X 3 *90 GS",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 1379.4,
+        "imagen": "913.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 477,
+        "codigo": 914,
+        "nombre": "JABON DOVE 90 GR",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 1793.22,
+        "imagen": "914.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 478,
+        "codigo": 3183,
+        "nombre": "JABON EN PAN SIGNO",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 515.46,
+        "imagen": "3183.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 479,
+        "codigo": 3182,
+        "nombre": "JABON GRANBY 800 ML",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 2067.89,
+        "imagen": "3182.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 480,
+        "codigo": 3187,
+        "nombre": "JABON LIQ ALGABO 300 ML",
+        "marca": "Algabo S.A.",
+        "categoria": "Perfumería",
+        "precio": 1519.76,
+        "imagen": "3187.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 481,
+        "codigo": 2771,
+        "nombre": "JABON LIQUI QUERUBIN* 800 ML",
+        "marca": "Grupo Queruclor",
+        "categoria": "Limpieza",
+        "precio": 2724.92,
+        "imagen": "2771.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 482,
+        "codigo": 925,
+        "nombre": "JABON LUX 125 GR",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 1185.8,
+        "imagen": "925.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 483,
+        "codigo": 932,
+        "nombre": "JABON REXONA",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 1197.9,
+        "imagen": "932.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 484,
+        "codigo": 3188,
+        "nombre": "JABON SIGNO X3",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 1189.43,
+        "imagen": "3188.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 485,
+        "codigo": 198,
+        "nombre": "JACKELIN BOMBON 14 GR  C/U",
+        "marca": "FeltFort",
+        "categoria": "Chocolates",
+        "precio": 809.49,
+        "imagen": "198.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 486,
+        "codigo": 938,
+        "nombre": "JUGO CLIGHT* 20 SOBRES",
+        "marca": "Mondelez",
+        "categoria": "Almacén",
+        "precio": 7495.95,
+        "imagen": "938.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 487,
+        "codigo": 947,
+        "nombre": "KINDER BUENO* 43 GS",
+        "marca": "Ferrero Rocher",
+        "categoria": "Chocolates",
+        "precio": 2826.56,
+        "imagen": "947.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 488,
+        "codigo": 958,
+        "nombre": "KOLYNOS 70 GR",
+        "marca": "Colgate",
+        "categoria": "Perfumería",
+        "precio": 1649.23,
+        "imagen": "958.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 489,
+        "codigo": 2487,
+        "nombre": "KOOKY BON 10 GR",
+        "marca": "FeltFort",
+        "categoria": "Chocolates",
+        "precio": 278.3,
+        "imagen": "2487.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 490,
+        "codigo": 2340,
+        "nombre": "LAVANDINA  HEROE  1 LITRO",
+        "marca": "",
+        "categoria": "Limpieza",
+        "precio": 767.14,
+        "imagen": "2340.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 491,
+        "codigo": 1010,
+        "nombre": "LAVANDINA AYUDIN CLASICA 1 L",
+        "marca": "Ayudín",
+        "categoria": "Limpieza",
+        "precio": 1264.45,
+        "imagen": "1010.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 492,
+        "codigo": 9875,
+        "nombre": "LICOR AL CHOCOLATE  500 GR",
+        "marca": "FeltFort",
+        "categoria": "Chocolates",
+        "precio": 15622.31,
+        "imagen": "9875.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 493,
+        "codigo": 8723,
+        "nombre": "LICORFORT WHISKY 13 G",
+        "marca": "FeltFort",
+        "categoria": "Chocolates",
+        "precio": 808.28,
+        "imagen": "8723.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 494,
+        "codigo": 1033,
+        "nombre": "LICORITAS* 20 GS",
+        "marca": "FeltFort",
+        "categoria": "Chocolates",
+        "precio": 768.35,
+        "imagen": "1033.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 495,
+        "codigo": 1042,
+        "nombre": "LIMPIADOR POETT 900ML",
+        "marca": "Ayudín",
+        "categoria": "Limpieza",
+        "precio": 1839.2,
+        "imagen": "1042.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 496,
+        "codigo": 3381,
+        "nombre": "MAGISTRAL DETERGENT 225ML",
+        "marca": "Magistral",
+        "categoria": "Limpieza",
+        "precio": 1517.34,
+        "imagen": "3381.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 497,
+        "codigo": 1095,
+        "nombre": "MANTECOL 111 GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 2092.09,
+        "imagen": "1095.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 498,
+        "codigo": 1093,
+        "nombre": "MANTECOL 26GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 706.64,
+        "imagen": "1093.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 499,
+        "codigo": 1103,
+        "nombre": "MANTECOL 40 GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 1246.3,
+        "imagen": "1103.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 500,
+        "codigo": 1090,
+        "nombre": "MANTECOL 64 GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 1452.0,
+        "imagen": "1090.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 501,
+        "codigo": 176,
+        "nombre": "MARROC",
+        "marca": "FeltFort",
+        "categoria": "Golosinas",
+        "precio": 550.55,
+        "imagen": "176.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 502,
+        "codigo": 903,
+        "nombre": "MATA MOSCAS SELTON*360 CC",
+        "marca": "Ayudín",
+        "categoria": "Varios",
+        "precio": 4446.75,
+        "imagen": "903.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 503,
+        "codigo": 1152,
+        "nombre": "MEDALLON DDL 21GS",
+        "marca": "FeltFort",
+        "categoria": "Golosinas",
+        "precio": 728.96,
+        "imagen": "1152.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 504,
+        "codigo": 1151,
+        "nombre": "MENTITAS FELFORT 16 GR",
+        "marca": "FeltFort",
+        "categoria": "Golosinas",
+        "precio": 453.75,
+        "imagen": "1151.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 505,
+        "codigo": 1197,
+        "nombre": "MILKA CHOCO PAUSE* 45 GS",
+        "marca": "Milka",
+        "categoria": "Chocolates",
+        "precio": 1476.2,
+        "imagen": "1197.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 506,
+        "codigo": 688,
+        "nombre": "MOGUL VIBORITA  12 U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 7118.43,
+        "imagen": "688.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 507,
+        "codigo": 1247,
+        "nombre": "MONEDA PIRATA FELFORT 5 GR  C/U",
+        "marca": "FeltFort",
+        "categoria": "Chocolates",
+        "precio": 324.28,
+        "imagen": "1247.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 508,
+        "codigo": 9868,
+        "nombre": "NUGATON 27G",
+        "marca": "Bonafide",
+        "categoria": "Golosinas",
+        "precio": 716.32,
+        "imagen": "9868.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 509,
+        "codigo": 1440,
+        "nombre": "PAPEL HIG FELPITA*4 X 30 MTS",
+        "marca": "Felpita",
+        "categoria": "Limpieza",
+        "precio": 1512.5,
+        "imagen": "1440.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 510,
+        "codigo": 1444,
+        "nombre": "PAPEL HIGIENICO VUAL*50 MTS",
+        "marca": "Vual",
+        "categoria": "Limpieza",
+        "precio": 514.25,
+        "imagen": "1444.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 511,
+        "codigo": 1439,
+        "nombre": "PAPEL HIGIENOL MAX 80M",
+        "marca": "Higienol",
+        "categoria": "Limpieza",
+        "precio": 4114.0,
+        "imagen": "1439.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 512,
+        "codigo": 1462,
+        "nombre": "PARAGUITAS FELFORT 13 GR",
+        "marca": "FeltFort",
+        "categoria": "Chocolates",
+        "precio": 615.41,
+        "imagen": "1462.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 513,
+        "codigo": 3184,
+        "nombre": "PASTA ORAL-B  70 GR",
+        "marca": "Oral-b",
+        "categoria": "Perfumería",
+        "precio": 1712.15,
+        "imagen": "3184.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 514,
+        "codigo": 1617,
+        "nombre": "PROCENEX 900",
+        "marca": "Procenex",
+        "categoria": "Limpieza",
+        "precio": 1512.5,
+        "imagen": "1617.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 515,
+        "codigo": 3065,
+        "nombre": "PROTECTOR DONCELLA ROSA X 40",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 1754.5,
+        "imagen": "3065.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 516,
+        "codigo": 1623,
+        "nombre": "PROTECTORES CALIPSO* 20 UNI",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 963.16,
+        "imagen": "1623.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 517,
+        "codigo": 2456,
+        "nombre": "PROTECTORES DONCELLA VERDE*2",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 974.05,
+        "imagen": "2456.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 518,
+        "codigo": 1630,
+        "nombre": "PROTECTORES DONCELLA VIOLETA",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 1119.25,
+        "imagen": "1630.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 519,
+        "codigo": 1017,
+        "nombre": "QUERUBIN SUAVIZANTE*900",
+        "marca": "Grupo Queruclor",
+        "categoria": "Limpieza",
+        "precio": 2843.5,
+        "imagen": "1017.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 520,
+        "codigo": 8724,
+        "nombre": "REGALIZ BULL DOG 360 GR",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 5465.57,
+        "imagen": "8724.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 521,
+        "codigo": 3305,
+        "nombre": "ROLLO CARTABELLA 3X120 PAÑOS",
+        "marca": "",
+        "categoria": "Limpieza",
+        "precio": 1303.17,
+        "imagen": "3305.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 522,
+        "codigo": 1737,
+        "nombre": "ROLLO COCINA ELEGANTE 3 UNID",
+        "marca": "Elegante",
+        "categoria": "Limpieza",
+        "precio": 1675.85,
+        "imagen": "1737.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 523,
+        "codigo": 1740,
+        "nombre": "ROLLO COCINA SPUM* 3 UNID",
+        "marca": "",
+        "categoria": "Limpieza",
+        "precio": 1168.86,
+        "imagen": "1740.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 524,
+        "codigo": 1741,
+        "nombre": "ROLLO COCINA SUSSEX* 3 UNID",
+        "marca": "Sussex",
+        "categoria": "Limpieza",
+        "precio": 1931.16,
+        "imagen": "1741.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 525,
+        "codigo": 3153,
+        "nombre": "SHAMPOO PLUSBELLE 1000ML",
+        "marca": "Plusbelle",
+        "categoria": "Perfumería",
+        "precio": 3241.59,
+        "imagen": "3153.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 526,
+        "codigo": 1819,
+        "nombre": "SHAMPOO SEDAL TODOS 190ML",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 3022.58,
+        "imagen": "1819.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 527,
+        "codigo": 3174,
+        "nombre": "TABLETA VAUQUITA 25 GR",
+        "marca": "Vauquita",
+        "categoria": "Golosinas",
+        "precio": 465.85,
+        "imagen": "3174.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 528,
+        "codigo": 1900,
+        "nombre": "TALCO EFFICIENT 100GR",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 2894.32,
+        "imagen": "1900.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 529,
+        "codigo": 1957,
+        "nombre": "TIVIS* 25 GS",
+        "marca": "FeltFort",
+        "categoria": "Chocolates",
+        "precio": 813.4,
+        "imagen": "1957.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 530,
+        "codigo": 1962,
+        "nombre": "TOALLAS  LINA C/ ALAS* 8 UNI",
+        "marca": "Lina",
+        "categoria": "Perfumería",
+        "precio": 1012.77,
+        "imagen": "1962.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 531,
+        "codigo": 1963,
+        "nombre": "TOALLAS DONCELLA TANGA* 8 UN",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 756.25,
+        "imagen": "1963.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 532,
+        "codigo": 1966,
+        "nombre": "TOALLAS LADYSOF NORMAL 8U",
+        "marca": "Ladysoft",
+        "categoria": "Perfumería",
+        "precio": 959.53,
+        "imagen": "1966.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 533,
+        "codigo": 8835,
+        "nombre": "WINING 20 GR",
+        "marca": "FeltFort",
+        "categoria": "Chocolates",
+        "precio": 635.25,
+        "imagen": "8835.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 534,
+        "codigo": 2519,
+        "nombre": "YUMMY ANIMALES/MORAS 12 UN",
+        "marca": "Billiken",
+        "categoria": "Golosinas",
+        "precio": 5368.77,
+        "imagen": "2519.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 535,
+        "codigo": 372,
+        "nombre": "CHOCOLATIN GEORGALOS *40UNID",
+        "marca": "Georgalos",
+        "categoria": "Chocolates",
+        "precio": 11676.5,
+        "imagen": "372.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 536,
+        "codigo": 9833,
+        "nombre": "JABON EN PAN ALA 200G",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 1518.55,
+        "imagen": "9833.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 537,
+        "codigo": 8891,
+        "nombre": "MILKA RASPBERRY CREME 100GR",
+        "marca": "Milka",
+        "categoria": "Chocolates",
+        "precio": 6008.86,
+        "imagen": "8891.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 538,
+        "codigo": 2988,
+        "nombre": "PAPEL  HIGIEN.VUAL 4X80 MT",
+        "marca": "Vual",
+        "categoria": "Limpieza",
+        "precio": 2528.9,
+        "imagen": "2988.webp",
+        "activo": true
     }
 ]
