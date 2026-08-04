@@ -5368,5 +5368,55 @@
         "precio": 2528.9,
         "imagen": "2988.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 539,
+        "codigo": 203,
+        "nombre": "BONOBON BCO/NEGRO 15GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 382.36,
+        "imagen": "203.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 540,
+        "codigo": 1306,
+        "nombre": "BONOBON OBLEA 30 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 786.5,
+        "imagen": "1306.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 541,
+        "codigo": 1731,
+        "nombre": "ROCKLETS 20 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 773.19,
+        "imagen": "1731.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 542,
+        "codigo": 1732,
+        "nombre": "ROCKLETS 40 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 1322.53,
+        "imagen": "1732.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 543,
+        "codigo": 1730,
+        "nombre": "ROCKLETS MINI 10 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 370.26,
+        "imagen": "1730.webp",
+        "activo": true
     }
 ]
