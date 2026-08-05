@@ -2556,7 +2556,7 @@
         "marca": "Capitán del Espacio",
         "categoria": "Alfajores",
         "precio": 1343.1,
-        "imagen": "39.webp",
+        "imagen": "9858.webp",
         "activo": true
     },
     {
@@ -5437,6 +5437,266 @@
         "categoria": "Golosinas",
         "precio": 5575.68,
         "imagen": "9882.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 546,
+        "codigo": 53,
+        "nombre": "ALF TERRABUSI TRIPLE TORTA",
+        "marca": "Mondelez",
+        "categoria": "Alfajores",
+        "precio": 1225.73,
+        "imagen": "53.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 547,
+        "codigo": 57,
+        "nombre": "ALFAJOR JORGELÍN X85 GR",
+        "marca": "Jorgito",
+        "categoria": "Alfajores",
+        "precio": 1159.18,
+        "imagen": "57.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 548,
+        "codigo": 62,
+        "nombre": "ALFAJOR GUAYMALLEN TRIPLE",
+        "marca": "Guaymallén",
+        "categoria": "Alfajores",
+        "precio": 422.29,
+        "imagen": "62.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 549,
+        "codigo": 1664,
+        "nombre": "RAPSODIA MINI TORTA 80 GR",
+        "marca": "Nevares",
+        "categoria": "Golosinas",
+        "precio": 600.16,
+        "imagen": "1664.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 550,
+        "codigo": 2301,
+        "nombre": "ALFAJOR TITA 36 GR",
+        "marca": "Mondelez",
+        "categoria": "Alfajores",
+        "precio": 598.95,
+        "imagen": "2301.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 551,
+        "codigo": 2356,
+        "nombre": "ALFAJOR RECOVA",
+        "marca": "La Recova",
+        "categoria": "Alfajores",
+        "precio": 536.03,
+        "imagen": "2356.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 552,
+        "codigo": 2553,
+        "nombre": "PATE PICADILLO MAROLIO 90GS",
+        "marca": "Marolio",
+        "categoria": "Almacén",
+        "precio": 906.29,
+        "imagen": "2553.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 553,
+        "codigo": 2718,
+        "nombre": "MINI PEPITOS 50 GR",
+        "marca": "Mondelez",
+        "categoria": "Galletitas",
+        "precio": 849.36,
+        "imagen": "2718.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 554,
+        "codigo": 3145,
+        "nombre": "CUMANA LOMOS ATUN 170GR",
+        "marca": "Bavosi",
+        "categoria": "Almacén",
+        "precio": 2783.0,
+        "imagen": "3145.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 555,
+        "codigo": 3172,
+        "nombre": "ALFAJOR VAUQUITA SUBLIME",
+        "marca": "Vauquita",
+        "categoria": "Alfajores",
+        "precio": 895.4,
+        "imagen": "3172.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 556,
+        "codigo": 3251,
+        "nombre": "FIDEO LUCHETTI TIRAB 500GR",
+        "marca": "Molinos Río de la Plata",
+        "categoria": "Almacén",
+        "precio": 1196.69,
+        "imagen": "3251.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 557,
+        "codigo": 3252,
+        "nombre": "FIDEO LUCHETTI MOSTA 500GR",
+        "marca": "Molinos Río de la Plata",
+        "categoria": "Almacén",
+        "precio": 1196.69,
+        "imagen": "3252.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 558,
+        "codigo": 3253,
+        "nombre": "FIDEO LUCCHETTI SPAGHE 500GR",
+        "marca": "Molinos Río de la Plata",
+        "categoria": "Almacén",
+        "precio": 1196.69,
+        "imagen": "3253.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 559,
+        "codigo": 3254,
+        "nombre": "ACEITE MANCERA 900ML",
+        "marca": "La Mancera",
+        "categoria": "Almacén",
+        "precio": 3458.18,
+        "imagen": "3254.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 560,
+        "codigo": 8838,
+        "nombre": "ALFAJOR GUAYMALLEN RUBI 50G",
+        "marca": "Guaymallén",
+        "categoria": "Alfajores",
+        "precio": 532.4,
+        "imagen": "8838.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 561,
+        "codigo": 8842,
+        "nombre": "ALFAJOR DON QUIQUE MERENGUE",
+        "marca": "Don Quique",
+        "categoria": "Alfajores",
+        "precio": 1059.96,
+        "imagen": "8842.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 562,
+        "codigo": 9862,
+        "nombre": "PICNIC NEVARES",
+        "marca": "Nevares",
+        "categoria": "Golosinas",
+        "precio": 350.9,
+        "imagen": "9862.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 563,
+        "codigo": 9864,
+        "nombre": "ALFAJOR DON QUIQUE NEGRO",
+        "marca": "Don Quique",
+        "categoria": "Alfajores",
+        "precio": 750.2,
+        "imagen": "9864.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 564,
+        "codigo": 9865,
+        "nombre": "ALFAJOR DON QUIQUE MAICENA",
+        "marca": "Don Quique",
+        "categoria": "Alfajores",
+        "precio": 678.81,
+        "imagen": "9865.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 565,
+        "codigo": 9867,
+        "nombre": "ALFAJOR MARLEY SIMPLE",
+        "marca": "Marley",
+        "categoria": "Alfajores",
+        "precio": 937.75,
+        "imagen": "9867.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 566,
+        "codigo": 9869,
+        "nombre": "ALFAJOR CACHAFAZ 60G",
+        "marca": "Cachafaz",
+        "categoria": "Alfajores",
+        "precio": 1686.74,
+        "imagen": "9869.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 567,
+        "codigo": 9883,
+        "nombre": "MANTECOL BAÑADO 20GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 847.0,
+        "imagen": "9883.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 568,
+        "codigo": 9884,
+        "nombre": "SPORT POP C/U",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1804.11,
+        "imagen": "9884.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 569,
+        "codigo": 9885,
+        "nombre": "UNI POP  C/U",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 2065.47,
+        "imagen": "9885.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 570,
+        "codigo": 9887,
+        "nombre": "BELDENT CONFITADO SANDIA",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 7223.7,
+        "imagen": "9887.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 571,
+        "codigo": 8831,
+        "nombre": "BULLDOG REGALIZ ACIDO 75GR",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 793.76,
+        "imagen": "8831.webp",
         "activo": true
     }
 ]
