@@ -257,7 +257,7 @@
         "categoria": "Lácteos",
         "precio": 4781.92,
         "imagen": "3204.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 28,
@@ -267,7 +267,7 @@
         "categoria": "Lácteos",
         "precio": 2035.22,
         "imagen": "3208.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 29,
@@ -277,7 +277,7 @@
         "categoria": "Lácteos",
         "precio": 1358.83,
         "imagen": "3207.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 30,
@@ -337,7 +337,7 @@
         "categoria": "Lácteos",
         "precio": 3916.77,
         "imagen": "3210.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 36,
@@ -1307,7 +1307,7 @@
         "categoria": "Lácteos",
         "precio": 1874.29,
         "imagen": "3209.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 133,
