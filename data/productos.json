@@ -5698,5 +5698,25 @@
         "precio": 793.76,
         "imagen": "8831.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 572,
+        "codigo": 1312,
+        "nombre": "OBLEA SMACK X 33 GR",
+        "marca": "Smack",
+        "categoria": "Golosinas",
+        "precio": 278.3,
+        "imagen": "1312.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 573,
+        "codigo": 2615,
+        "nombre": "CUBANITO SMACK X 27 GR",
+        "marca": "Smack",
+        "categoria": "Golosinas",
+        "precio": 290.4,
+        "imagen": "2615.webp",
+        "activo": true
     }
 ]
