@@ -1,6 +1,11 @@
 from openpyxl import load_workbook
 from pathlib import Path
-from scripts.config import HOJA_PRODUCTOS, BASE_DIR, RUTA_ICONO
+from scripts.config import (
+    HOJA_PRODUCTOS,
+    BASE_DIR,
+    RUTA_ICONO,
+    RUTA_CONFIG
+)
 import tkinter as tk
 from tkinter import filedialog, messagebox
 # Pillow nos permite abrir, redimensionar y mostrar imágenes.
@@ -8,6 +13,8 @@ from PIL import Image, ImageTk, ImageFile
 # Permite abrir PNG ligeramente truncados o incompletos
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 import shutil
+import json
+import re
 
 # ==========================================
 # RUTAS
@@ -18,13 +25,26 @@ EXCEL = BASE_DIR / "data" / "Excel_Maestro.xlsx"
 CARPETA_PENDIENTES = BASE_DIR / "img" / "pendientes"
 
 CARPETA_PRODUCTOS = BASE_DIR / "img" / "productos"
+# ==========================================
+# CONFIGURACIÓN DE VENTANA
+# ==========================================
+
+RUTA_VENTANA_ASISTENTE = (
+    RUTA_CONFIG / "asistente_imagenes_ventana.json"
+)
 
 # ==========================================
 # VARIABLES GLOBALES
 # ==========================================
 
-# Guarda la ruta de la imagen seleccionada
+# Imagen utilizada en el flujo normal
 archivo_seleccionado = None
+
+# Imágenes seleccionadas para agregar variantes
+archivos_variantes = []
+
+# Producto seleccionado para agregar variantes
+producto_variantes = None
 
 # ==========================================
 # CARGAR EXCEL
@@ -97,7 +117,245 @@ def mostrar_producto():
     lblMarca.config(text=producto["marca"])
     lblCategoria.config(text=producto["categoria"])
 
+# ==========================================
+# SELECCIONAR PRODUCTO PARA VARIANTES
+# Permite elegir un producto existente del Excel.
+# ==========================================
 
+def seleccionar_producto_variantes():
+
+    global producto_variantes
+    global archivos_variantes
+
+    ventana = tk.Toplevel(root)
+    ventana.title("Seleccionar producto")
+    ventana.geometry("900x650")
+    ventana.minsize(750, 550)
+    ventana.configure(bg="white")
+
+    # ------------------------------------------
+    # TÍTULO
+    # ------------------------------------------
+
+    tk.Label(
+        ventana,
+        text="Seleccione el producto",
+        font=("Segoe UI", 18, "bold"),
+        bg="white"
+    ).pack(
+        pady=(20, 10)
+    )
+
+    # ------------------------------------------
+    # BUSCADOR
+    # ------------------------------------------
+
+    tk.Label(
+        ventana,
+        text="Buscar por código o nombre:",
+        font=("Segoe UI", 10, "bold"),
+        bg="white"
+    ).pack(
+        anchor="w",
+        padx=25
+    )
+
+    entrada_busqueda = tk.Entry(
+        ventana,
+        font=("Segoe UI", 12)
+    )
+
+    entrada_busqueda.pack(
+        fill="x",
+        padx=25,
+        pady=(5, 10)
+    )
+
+    # ------------------------------------------
+    # CONTENEDOR DE LISTA + SCROLLBAR
+    # ------------------------------------------
+
+    frameLista = tk.Frame(
+        ventana,
+        bg="white"
+    )
+
+    frameLista.pack(
+        fill="both",
+        expand=True,
+        padx=25,
+        pady=5
+    )
+
+    scrollbar = tk.Scrollbar(
+        frameLista
+    )
+
+    scrollbar.pack(
+        side="right",
+        fill="y"
+    )
+
+    lista = tk.Listbox(
+        frameLista,
+        font=("Segoe UI", 11),
+        selectmode=tk.SINGLE,
+        yscrollcommand=scrollbar.set
+    )
+
+    lista.pack(
+        side="left",
+        fill="both",
+        expand=True
+    )
+
+    scrollbar.config(
+        command=lista.yview
+    )
+
+    # ------------------------------------------
+    # CARGAR PRODUCTOS
+    # ------------------------------------------
+
+    productos = []
+
+    for fila in range(2, ws.max_row + 1):
+
+        codigo = ws[fila][0].value
+        nombre = ws[fila][1].value
+        imagen = ws[fila][5].value
+
+        if codigo is not None and nombre is not None:
+
+            productos.append({
+                "fila": fila,
+                "codigo": codigo,
+                "nombre": nombre,
+                "imagen": imagen
+            })
+
+    # ------------------------------------------
+    # ORDENAR POR CÓDIGO ASCENDENTE
+    # ------------------------------------------
+
+    def clave_codigo(producto):
+
+        codigo = str(producto["codigo"]).strip()
+
+        try:
+            return (0, int(codigo))
+        except ValueError:
+            return (1, codigo.lower())
+
+    productos.sort(
+        key=clave_codigo
+    )
+
+    # ------------------------------------------
+    # ACTUALIZAR LISTA SEGÚN BÚSQUEDA
+    # ------------------------------------------
+
+    productos_filtrados = []
+
+    def actualizar_lista(event=None):
+
+        nonlocal productos_filtrados
+
+        texto = entrada_busqueda.get().strip().lower()
+
+        productos_filtrados = [
+            producto
+            for producto in productos
+            if texto in str(producto["codigo"]).lower()
+            or texto in str(producto["nombre"]).lower()
+        ]
+
+        lista.delete(
+            0,
+            "end"
+        )
+
+        for producto in productos_filtrados:
+
+            lista.insert(
+                "end",
+                f"{producto['codigo']} - {producto['nombre']}"
+            )
+
+    entrada_busqueda.bind(
+        "<KeyRelease>",
+        actualizar_lista
+    )
+
+    actualizar_lista()
+
+    # ------------------------------------------
+    # CONFIRMAR PRODUCTO
+    # ------------------------------------------
+
+    def confirmar_producto():
+
+        global producto_variantes
+        global archivos_variantes
+
+        seleccion = lista.curselection()
+
+        if not seleccion:
+
+            messagebox.showwarning(
+                "Producto",
+                "Seleccione un producto."
+            )
+
+            return
+
+        producto_variantes = productos_filtrados[
+            seleccion[0]
+        ]
+
+        archivos_variantes = []
+
+        ventana.destroy()
+
+        actualizar_estado(
+            f"Producto seleccionado: "
+            f"{producto_variantes['codigo']} - "
+            f"{producto_variantes['nombre']}"
+        )
+
+        lblCodigo.config(
+            text=producto_variantes["codigo"]
+        )
+
+        lblNombre.config(
+            text=producto_variantes["nombre"]
+        )
+
+        if producto_variantes["imagen"]:
+
+            actualizar_estado(
+                f"Producto seleccionado. "
+                f"Imagen principal: "
+                f"{producto_variantes['imagen']}"
+            )
+
+    # ------------------------------------------
+    # BOTÓN
+    # ------------------------------------------
+
+    tk.Button(
+        ventana,
+        text="Seleccionar producto",
+        font=("Segoe UI", 11, "bold"),
+        bg="#2563EB",
+        fg="white",
+        padx=20,
+        pady=10,
+        cursor="hand2",
+        command=confirmar_producto
+    ).pack(
+        pady=(10, 20)
+    )
 # ==========================================
 # SELECCIONAR IMAGEN
 # Abre el explorador y muestra una vista previa.
@@ -107,28 +365,42 @@ def mostrar_producto():
 def seleccionar_imagen():
 
     global archivo_seleccionado
+    global archivos_variantes
 
-    archivo = filedialog.askopenfilename(
-
-        title="Seleccione una imagen",
-
+    archivos = filedialog.askopenfilenames(
+        title="Seleccione una o varias imágenes",
         filetypes=[
-            ("Imágenes", "*.png *.jpg *.jpeg *.webp")
+            ("Imágenes", "*.png *.jpg *.jpeg *.jfif *.webp")
         ]
     )
 
-    if not archivo:
+    if not archivos:
         return
 
-    archivo_seleccionado = archivo
-    
-    actualizar_estado("Imagen seleccionada. Presione Confirmar para continuar.")
+    # Guardamos todas las imágenes seleccionadas
+    archivos_variantes = list(archivos)
 
-    mostrar_vista_previa(archivo)
+    # Limpiar cualquier previsualización anterior
+    limpiar_previsualizacion()
 
-    # Habilitar el botón Confirmar
+    # La primera también queda registrada como imagen principal
+    archivo_seleccionado = archivos_variantes[0]
+
+    actualizar_estado(
+        f"{len(archivos_variantes)} imagen(es) seleccionada(s). "
+        "Presione Confirmar para continuar."
+    )
+
+    # Una sola imagen
+    if len(archivos_variantes) == 1:
+        mostrar_vista_previa(archivos_variantes[0])
+
+    # Varias imágenes
+    else:
+        mostrar_previsualizacion_variantes()
+
+    # Un único botón de confirmación
     btnConfirmar.config(state="normal")
-
 
 # ==========================================
 # MOSTRAR VISTA PREVIA
@@ -156,6 +428,208 @@ def mostrar_vista_previa(ruta):
     # Evita que Python elimine la imagen
     lblImagen.image = foto
 
+# ==========================================
+# PREVISUALIZAR VARIANTES
+# Muestra miniaturas de todas las imágenes
+# seleccionadas.
+# ==========================================
+
+def mostrar_previsualizacion_variantes():
+
+    # ------------------------------------------
+    # Ocultar la vista previa principal
+    # ------------------------------------------
+
+    lblImagen.pack_forget()
+
+    # ------------------------------------------
+    # Hacer que el área de variantes ocupe
+    # todo el recuadro disponible
+    # ------------------------------------------
+
+    frameVariantes.pack_forget()
+
+    frameVariantes.pack(
+        fill="both",
+        expand=True,
+        padx=10,
+        pady=10
+    )
+
+    # ------------------------------------------
+    # Limpiar previsualización anterior
+    # ------------------------------------------
+
+    for widget in frameVariantes.winfo_children():
+        widget.destroy()
+
+    # ------------------------------------------
+    # Configurar cuadrícula
+    # ------------------------------------------
+
+    columnas = 3
+
+    for columna in range(columnas):
+        frameVariantes.grid_columnconfigure(
+            columna,
+            weight=1
+        )
+
+    # ------------------------------------------
+    # Crear miniaturas
+    # ------------------------------------------
+
+    for indice, ruta in enumerate(archivos_variantes):
+
+        try:
+
+            imagen = Image.open(ruta)
+
+            imagen.thumbnail((120, 120))
+
+            foto = ImageTk.PhotoImage(imagen)
+
+            fila = indice // columnas
+            columna = indice % columnas
+
+            contenedor = tk.Frame(
+                frameVariantes,
+                bg="#f5f5f5",
+                bd=1,
+                relief="solid"
+            )
+
+            contenedor.grid(
+                row=fila,
+                column=columna,
+                padx=5,
+                pady=5,
+                sticky="nsew"
+            )
+
+            label = tk.Label(
+                contenedor,
+                image=foto,
+                bg="#f5f5f5"
+            )
+
+            label.image = foto
+
+            label.pack(
+                padx=5,
+                pady=5
+            )
+
+            tk.Label(
+                contenedor,
+                text=f"Imagen {indice + 1}",
+                font=("Segoe UI", 9),
+                bg="#f5f5f5"
+            ).pack(
+                pady=(0, 5)
+            )
+
+        except Exception:
+            continue
+
+# ==========================================
+# Limpiar imagen principal
+# ==========================================
+def limpiar_previsualizacion():
+
+    # ------------------------------------------
+    # Limpiar imagen principal
+    # ------------------------------------------
+
+    lblImagen.config(
+        image="",
+        text="Vista previa\n\n(Sin imagen)"
+    )
+
+    lblImagen.image = None
+
+    # ------------------------------------------
+    # Limpiar miniaturas
+    # ------------------------------------------
+
+    for widget in frameVariantes.winfo_children():
+        widget.destroy()
+
+    # ------------------------------------------
+    # Restaurar distribución original
+    # ------------------------------------------
+
+    frameVariantes.pack_forget()
+
+    lblImagen.pack(
+        expand=True
+    )
+
+    frameVariantes.pack(
+        fill="x",
+        padx=10,
+        pady=10
+    )
+# ==========================================
+# FUNCION PARA CAMBIAR FORMATO DE IMAGENES A WEBP Y MOVERLAS A /PROCESADAS_PNG
+# ==========================================
+def procesar_imagen(archivo, nuevo_nombre):
+    
+    destino = CARPETA_PRODUCTOS / nuevo_nombre
+
+    # --------------------------------------
+    # Abrir la imagen
+    # --------------------------------------
+
+    imagen = Image.open(archivo)
+
+    # --------------------------------------
+    # Convertir al modo adecuado
+    # --------------------------------------
+
+    # PNG con paleta → RGBA para conservar transparencia
+    if imagen.mode == "P":
+        imagen = imagen.convert("RGBA")
+
+    # Otros modos → RGB/RGBA compatible con WEBP
+    elif imagen.mode not in ("RGB", "RGBA"):
+        imagen = imagen.convert("RGBA")
+
+    # --------------------------------------
+    # Guardar como WEBP
+    # --------------------------------------
+
+    imagen.save(
+        destino,
+        format="WEBP",
+        quality=90,
+        method=0
+    )
+
+    imagen.close()
+
+    # --------------------------------------
+    # Verificar y mover original
+    # --------------------------------------
+
+    if destino.exists():
+
+        carpeta_procesadas = (
+            BASE_DIR / "img" / "procesadas_png"
+        )
+
+        carpeta_procesadas.mkdir(
+            exist_ok=True
+        )
+
+        shutil.move(
+            archivo,
+            carpeta_procesadas / Path(archivo).name
+        )
+
+        return True
+
+    return False
 # ==========================================
 # GUARDAR IMAGEN
 # Convierte la imagen a WEBP, la renombra,
@@ -196,62 +670,20 @@ def guardar_imagen():
 
         if not respuesta:
             return False
-        
-    # --------------------------------------
-    # Abrir la imagen
-    # --------------------------------------
-    imagen = Image.open(archivo_seleccionado)
 
     # --------------------------------------
-    # Convertir al modo adecuado
+    # Procesar imagen
     # --------------------------------------
 
-    # Si la imagen está indexada (PNG con paleta),
-    # convertirla a RGBA para conservar transparencia.
-    if imagen.mode == "P":
-        imagen = imagen.convert("RGBA")
-
-    # Si viene en un formato distinto,
-    # convertirlo a RGBA.
-    elif imagen.mode not in ("RGB", "RGBA"):
-        imagen = imagen.convert("RGBA")
-
-    # --------------------------------------
-    # Guardar como WEBP
-    # --------------------------------------
-    imagen.save(
-        destino,
-        format="WEBP",
-        quality=90,
-        method=0
-    )
-
-    # Liberar el archivo
-    imagen.close()
-
-    # --------------------------------------
-    # Verificar que se creó correctamente
-    # y mover el original
-    # --------------------------------------
-
-    if destino.exists():
-
-        carpeta_procesadas = BASE_DIR / "img" / "procesadas_png"
-        carpeta_procesadas.mkdir(exist_ok=True)
-
-        shutil.move(
-            archivo_seleccionado,
-            carpeta_procesadas / Path(archivo_seleccionado).name
-        )
-    else:
-
+    if not procesar_imagen(
+        archivo_seleccionado,
+        nuevo_nombre
+    ):
         messagebox.showerror(
             "Error",
             "No se pudo guardar la imagen."
         )
-
         return False
-
     # --------------------------------------
     # Actualizar Excel
     # --------------------------------------
@@ -263,6 +695,110 @@ def guardar_imagen():
     return True
 
 # ==========================================
+# función que guarda las variantes
+# ==========================================
+def guardar_variantes(producto, archivos):
+
+    if not archivos:
+        return True
+
+    VARIANTES_JSON = BASE_DIR / "data" / "variantes.json"
+
+    # ------------------------------------------
+    # Cargar variantes existentes
+    # ------------------------------------------
+
+    if VARIANTES_JSON.exists():
+
+        try:
+            with open(
+                VARIANTES_JSON,
+                "r",
+                encoding="utf-8"
+            ) as archivo:
+
+                variantes = json.load(archivo)
+
+        except (json.JSONDecodeError, OSError):
+
+            variantes = {}
+
+    else:
+        variantes = {}
+
+    codigo = str(producto["codigo"])
+
+    if codigo not in variantes:
+        variantes[codigo] = []
+
+    # ------------------------------------------
+    # Determinar siguiente número
+    # ------------------------------------------
+
+    existentes = variantes[codigo]
+
+    # ------------------------------------------
+    # Determinar próximo número de variante
+    # ------------------------------------------
+
+    numeros = []
+
+    patron = re.compile(
+        rf"^{re.escape(codigo)}-(\d+)\.webp$"
+    )
+
+    for nombre in existentes:
+
+        coincidencia = patron.match(nombre)
+
+        if coincidencia:
+            numeros.append(
+                int(coincidencia.group(1))
+            )
+
+    siguiente = max(numeros, default=1) + 1
+
+    # ------------------------------------------
+    # Procesar imágenes
+    # ------------------------------------------
+
+    for archivo in archivos:
+
+        nuevo_nombre = (
+            f"{codigo}-{siguiente}.webp"
+        )
+
+        if procesar_imagen(
+            archivo,
+            nuevo_nombre
+        ):
+
+            variantes[codigo].append(
+                nuevo_nombre
+            )
+
+            siguiente += 1
+
+
+    # ------------------------------------------
+    # Guardar variantes.json
+    # ------------------------------------------
+
+    with open(
+        VARIANTES_JSON,
+        "w",
+        encoding="utf-8"
+    ) as archivo:
+
+        json.dump(
+            variantes,
+            archivo,
+            indent=4,
+            ensure_ascii=False
+        )
+
+    return True
+# ==========================================
 # CONFIRMAR IMAGEN
 # Guarda la imagen y avanza al siguiente
 # producto.
@@ -271,33 +807,91 @@ def guardar_imagen():
 def confirmar_imagen():
 
     global archivo_seleccionado
+    global archivos_variantes
+    global producto_variantes
 
-    # Guarda la imagen. Si hubo un error, termina la función.
+    # ------------------------------------------
+    # VALIDAR QUE HAYA IMÁGENES
+    # ------------------------------------------
+
+    if not archivos_variantes:
+        messagebox.showwarning(
+            "Sin imágenes",
+            "Seleccione al menos una imagen."
+        )
+        return
+
+    # ------------------------------------------
+    # PRODUCTO EXISTENTE → AGREGAR VARIANTES
+    # ------------------------------------------
+
+    if producto_variantes is not None:
+
+        if guardar_variantes(
+            producto_variantes,
+            archivos_variantes
+        ):
+            actualizar_estado(
+                "Variantes guardadas correctamente."
+            )
+
+            producto_variantes = None
+            archivo_seleccionado = None
+            archivos_variantes = []
+
+            btnConfirmar.config(
+                state="disabled"
+            )
+
+            limpiar_previsualizacion()
+
+        return
+
+    # ------------------------------------------
+    # PRODUCTO SIN IMAGEN
+    # ------------------------------------------
+
+    producto = obtener_producto_pendiente()
+
+    if producto is None:
+        return
+
+    # La primera imagen es la principal
+    archivo_seleccionado = archivos_variantes[0]
+
     if not guardar_imagen():
         return
 
+    # Si hay más imágenes, son variantes
+    if len(archivos_variantes) > 1:
+
+        guardar_variantes(
+            producto,
+            archivos_variantes[1:]
+        )
+
+    # ------------------------------------------
+    # LIMPIAR ESTADO
+    # ------------------------------------------
+
     archivo_seleccionado = None
+    archivos_variantes = []
 
-    btnConfirmar.config(state="disabled")
-
-    lblImagen.config(
-        image="",
-        text="Vista previa\n\n(Sin imagen)"
+    btnConfirmar.config(
+        state="disabled"
     )
 
-    lblImagen.image = None
+    limpiar_previsualizacion()
 
-    # Mostrar el siguiente producto
+    # Mostrar siguiente producto
     mostrar_producto()
 
-    # Esperar 2 segundos antes de cambiar el mensaje
     root.after(
         2000,
         lambda: actualizar_estado(
             "Seleccione una imagen para el siguiente producto."
         )
     )
-
 # ==========================================
 # OMITIR IMAGEN
 # Asigna la imagen genérica y avanza al
@@ -347,11 +941,85 @@ def actualizar_estado(texto):
     root.update_idletasks()
 
 # ==========================================
+# GEOMETRÍA DE LA VENTANA
+# ==========================================
+
+def cargar_geometria():
+
+    if not RUTA_VENTANA_ASISTENTE.exists():
+        return
+
+    try:
+
+        with open(
+            RUTA_VENTANA_ASISTENTE,
+            "r",
+            encoding="utf-8"
+        ) as archivo:
+
+            datos = json.load(archivo)
+
+        root.geometry(
+            datos["geometry"]
+        )
+
+        if datos.get("state") == "zoomed":
+
+            root.after(
+                50,
+                lambda: root.state("zoomed")
+            )
+
+    except Exception:
+        pass
+
+
+def guardar_geometria():
+
+    try:
+
+        RUTA_CONFIG.mkdir(
+            exist_ok=True
+        )
+
+        datos = {
+            "geometry": root.geometry(),
+            "state": root.state()
+        }
+
+        with open(
+            RUTA_VENTANA_ASISTENTE,
+            "w",
+            encoding="utf-8"
+        ) as archivo:
+
+            json.dump(
+                datos,
+                archivo,
+                indent=4,
+                ensure_ascii=False
+            )
+
+    except Exception:
+        pass
+
+
+def cerrar_aplicacion():
+
+    guardar_geometria()
+
+    root.destroy()
+# ==========================================
 # CREACIÓN DE LA VENTANA PRINCIPAL
 # ==========================================
 
 # Creamos la ventana principal de la aplicación.
 root = tk.Tk()
+
+root.protocol(
+    "WM_DELETE_WINDOW",
+    cerrar_aplicacion
+)
 try:
     root.iconbitmap(str(RUTA_ICONO))
 except Exception:
@@ -365,20 +1033,13 @@ root.after(
 # Título que aparecerá en la barra superior.
 root.title("Asistente de imágenes - Catálogo Mi Mayo")
 
-# Centrar la ventana en la pantalla
-root.update_idletasks()
+# Tamaño inicial de la ventana.
 
-ancho = 1150
-alto = 780
-
-x = (root.winfo_screenwidth() - ancho) // 2
-y = (root.winfo_screenheight() - alto) // 2
-
-root.geometry(f"{ancho}x{alto}+{x}+{y}")
+root.geometry("1150x850")
 
 # Impide que la ventana sea demasiado pequeña.
-root.minsize(800, 580)
 
+root.minsize(900, 700)
 # Color de fondo.
 root.configure(bg="#f3f4f6")
 
@@ -393,7 +1054,7 @@ titulo = tk.Label(
     bg="#f3f4f6",
 )
 
-titulo.pack(pady=(20, 10))
+titulo.pack(pady=(8, 4))
 
 # ==========================================
 # SUBTÍTULO
@@ -407,8 +1068,36 @@ subtitulo = tk.Label(
     bg="#f3f4f6"
 )
 
-subtitulo.pack()
+subtitulo.pack(pady=(0, 2))
 
+# ==========================================
+# LEYENDA DE USO
+# ==========================================
+
+instrucciones = tk.Label(
+    root,
+    text=(
+        "¿Qué desea hacer?\n"
+        "• Producto sin imagen → "
+        "Seleccionar imagen y elegir una o varias imágenes.\n"
+        "• Producto con imagen → "
+        "Agregar variantes para incorporar imágenes adicionales.\n"
+        "• Confirmar → guarda las imágenes seleccionadas.\n"
+        "• Omitir → asigna la imagen genérica y continúa."
+    ),
+    font=("Segoe UI", 10),
+    fg="#555",
+    bg="#f3f4f6",
+    justify="left",
+    anchor="w",
+    wraplength=1000
+)
+
+instrucciones.pack(
+    padx=30,
+    pady=(2, 4),
+    anchor="w"
+)
 # ==========================================
 # CONTENEDOR PRINCIPAL
 # Agrupa todos los controles de la aplicación.
@@ -480,6 +1169,16 @@ lblImagen = tk.Label(
 
 lblImagen.pack(expand=True)
 
+frameVariantes = tk.Frame(
+    frameImagen,
+    bg="#f5f5f5"
+)
+
+frameVariantes.pack(
+    fill="x",
+    padx=10,
+    pady=10
+)
 # -------------------------------------------------
 # Frame derecho
 # Información del producto
@@ -604,6 +1303,35 @@ btnSeleccionar.pack(
 )
 
 # ==========================================
+# BOTÓN AGREGAR VARIANTES
+# Permite seleccionar un producto existente
+# y agregarle imágenes adicionales.
+# ==========================================
+
+tk.Frame(
+    frameInfo,
+    height=10,
+    bg="white"
+).pack()
+
+btnVariantes = tk.Button(
+    frameInfo,
+    text="🖼 Agregar variantes",
+    font=("Segoe UI", 11, "bold"),
+    bg="#7C3AED",
+    fg="white",
+    padx=20,
+    pady=10,
+    cursor="hand2",
+    command=seleccionar_producto_variantes
+)
+
+btnVariantes.pack(
+    anchor="w",
+    fill="x"
+)
+
+# ==========================================
 # BOTÓN CONFIRMAR
 # Guarda definitivamente la imagen.
 # ==========================================
@@ -660,6 +1388,7 @@ def main():
     # Mostrar el primer producto pendiente
     mostrar_producto()
     actualizar_estado("Seleccione una imagen para comenzar.")
+    cargar_geometria()
     root.mainloop()
 
 if __name__ == "__main__":
