@@ -1250,8 +1250,10 @@ main {
 }
 
 /* Pausar al pasar el mouse */
-.marcas-viewport:hover .marcas-track {
-  animation-play-state: paused;
+@media (hover: hover) and (pointer: fine) {
+  .marcas-viewport:hover .marcas-track {
+    animation-play-state: paused;
+  }
 }
 
 /* Movimiento infinito */
