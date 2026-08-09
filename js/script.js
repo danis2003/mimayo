@@ -147,6 +147,50 @@ function renderizarProductos(listaProductos) {
         : "";
 
       // ------------------------------------------
+      // Construir área de imagen
+      // ------------------------------------------
+
+      const contenidoImagen = tieneCarrusel
+        ? `
+        <div class="carrusel-producto">
+
+          <div class="carrusel-viewport">
+
+            <div class="carrusel-track">
+
+              ${imagenes
+                .map(
+                  (imagen) => `
+                    <div class="carrusel-slide">
+                      <img
+                        src="img/productos/${imagen}"
+                        alt="${producto.nombre}"
+                        loading="lazy"
+                      />
+                    </div>
+                  `,
+                )
+                .join("")}
+
+            </div>
+
+          </div>
+
+          ${controlesFlechas}
+
+          ${indicadores}
+
+          </div>
+          `
+        : `
+          <img
+            src="img/productos/${imagenes[0]}"
+            alt="${producto.nombre}"
+            loading="lazy"
+          />
+        `;
+
+      // ------------------------------------------
       // Tarjeta
       // ------------------------------------------
 
@@ -158,35 +202,7 @@ function renderizarProductos(listaProductos) {
           data-indice-imagen="0"
         >
 
-          <div class="carrusel-producto">
-
-            <div class="carrusel-viewport">
-
-              <div class="carrusel-track">
-
-                ${imagenes
-                  .map(
-                    (imagen) => `
-                      <div class="carrusel-slide">
-                        <img
-                          src="img/productos/${imagen}"
-                          alt="${producto.nombre}"
-                          loading="lazy"
-                        />
-                      </div>
-                    `,
-                  )
-                  .join("")}
-
-              </div>
-
-            </div>
-
-            ${controlesFlechas}
-
-            ${indicadores}
-
-          </div>
+          ${contenidoImagen}
 
           <div class="contenido-tarjeta">
             <h3>${producto.nombre}</h3>
