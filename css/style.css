@@ -1174,6 +1174,97 @@ main {
   display: none;
 }
 
+.sin-resultados {
+  width: 100%;
+  text-align: center;
+  padding: 50px 20px;
+  grid-column: 1 / -1;
+}
+
+.sin-resultados p {
+  margin: 0 0 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.sin-resultados span {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+/* =========================================
+   CARRUSEL DE MARCAS
+========================================= */
+
+.marcas {
+  width: 100%;
+  height: 72px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.marcas-viewport {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.marcas-track {
+  display: flex;
+  align-items: center;
+  gap: 45px;
+  width: max-content;
+  height: 100%;
+
+  animation: desplazamientoMarcas 25s linear infinite;
+}
+
+.marca-item {
+  width: 105px;
+  height: 60px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-shrink: 0;
+
+  background: transparent;
+  border: none;
+  padding: 5px;
+
+  cursor: pointer;
+}
+
+.marca-item img {
+  max-width: 95px;
+  max-height: 48px;
+
+  object-fit: contain;
+
+  transition: transform 0.25s ease;
+}
+
+.marca-item:hover img {
+  transform: scale(1.08);
+}
+
+/* Pausar al pasar el mouse */
+.marcas-viewport:hover .marcas-track {
+  animation-play-state: paused;
+}
+
+/* Movimiento infinito */
+@keyframes desplazamientoMarcas {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-50%);
+  }
+}
+
 /* ==========================================
    FOOTER RESPONSIVE
 ========================================== */
@@ -1257,5 +1348,24 @@ main {
   }
   .footer-horarios {
     justify-content: flex-start;
+  }
+  .marcas {
+    height: 62px;
+    margin-bottom: 15px;
+  }
+
+  .marcas-track {
+    gap: 25px;
+    animation-duration: 28s;
+  }
+
+  .marca-item {
+    width: 85px;
+    height: 52px;
+  }
+
+  .marca-item img {
+    max-width: 75px;
+    max-height: 40px;
   }
 }

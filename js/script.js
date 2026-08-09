@@ -9,12 +9,15 @@ const iconoMenu = document.getElementById("iconoMenu");
 const overlay = document.getElementById("overlay");
 const btnWhatsapp = document.getElementById("btnWhatsapp");
 const btnArriba = document.getElementById("btnArriba");
+const marcasTrack = document.getElementById("marcasTrack");
 
 // =========================================
 // DATOS
 // =========================================
 let productos = [];
 let categoriaSeleccionada = "Todos";
+let marcaSeleccionada = "Todas";
+let ultimoFiltro = null;
 let textoBusqueda = "";
 let criterioOrden = "default";
 let productosVisibles = 50;
@@ -58,34 +61,40 @@ function mostrarBotonArriba() {
 function renderizarProductos(listaProductos) {
   let html = "";
 
-  listaProductos.forEach((producto) => {
-    html += `
-      <article class="tarjeta" data-codigo="${producto.codigo}">
-        <img
-          src="img/productos/${producto.imagen}"
-          alt="${producto.nombre}"
-          loading="lazy"
-        />
-
-        <div class="contenido-tarjeta">
-          <h3>${producto.nombre}</h3>
-
-          <p class="precio">$ ${producto.precio.toLocaleString("es-AR")}</p>
-
-          <p class="marca">${producto.marca}</p>
-        </div>
-      </article>
+  if (listaProductos.length === 0) {
+    html = `
+      <div class="sin-resultados">
+        <p>No encontramos productos que coincidan con estos filtros.</p>
+        <span>Probá seleccionando otra categoría o marca.</span>
+      </div>
     `;
-  });
+  } else {
+    listaProductos.forEach((producto) => {
+      html += `
+        <article class="tarjeta" data-codigo="${producto.codigo}">
+          <img
+            src="img/productos/${producto.imagen}"
+            alt="${producto.nombre}"
+            loading="lazy"
+          />
+
+          <div class="contenido-tarjeta">
+            <h3>${producto.nombre}</h3>
+
+            <p class="precio">$ ${producto.precio.toLocaleString("es-AR")}</p>
+
+            <p class="marca">${producto.marca}</p>
+          </div>
+        </article>
+      `;
+    });
+  }
 
   contenedorProductos.innerHTML = html;
 
-  // Contador de productos
-  // Contador de productos
   document.getElementById("contadorResultados").textContent =
     `Mostrando ${listaProductos.length} de ${productosFiltrados.length} producto${productosFiltrados.length !== 1 ? "s" : ""}`;
 }
-
 function renderizarCategorias() {
   contenedorCategorias.innerHTML = "";
   contenedorCategoriasMenu.innerHTML = "";
@@ -104,6 +113,8 @@ function renderizarCategorias() {
 
   botonTodos.addEventListener("click", () => {
     categoriaSeleccionada = "Todos";
+    marcaSeleccionada = "Todas";
+    ultimoFiltro = null;
     productosVisibles = 50;
     renderizarCategorias();
     aplicarFiltros();
@@ -115,6 +126,7 @@ function renderizarCategorias() {
 
   botonTodosMenu.addEventListener("click", () => {
     categoriaSeleccionada = "Todos";
+    marcaSeleccionada = "Todas";
     productosVisibles = 50;
     renderizarCategorias();
     aplicarFiltros();
@@ -162,6 +174,14 @@ function renderizarCategorias() {
 
 function filtrarPorCategoria(categoria) {
   categoriaSeleccionada = categoria;
+
+  // Si veníamos de una marca, al elegir una categoría
+  // la categoría pasa a ser el filtro principal.
+  if (ultimoFiltro === "marca") {
+    marcaSeleccionada = "Todas";
+  }
+
+  ultimoFiltro = "categoria";
   productosVisibles = 50;
 
   renderizarCategorias();
@@ -177,7 +197,12 @@ function aplicarFiltros() {
       (producto) => producto.categoria === categoriaSeleccionada,
     );
   }
-
+  // Filtrar por marca
+  if (marcaSeleccionada !== "Todas") {
+    resultado = resultado.filter(
+      (producto) => producto.marca === marcaSeleccionada,
+    );
+  }
   // Filtrar por texto
   if (textoBusqueda !== "") {
     resultado = resultado.filter(
@@ -281,7 +306,56 @@ function abrirModalProducto(producto) {
     }
   };
 }
+async function cargarMarcas() {
+  try {
+    const respuesta = await fetch("data/marcas.json");
+    const marcas = await respuesta.json();
 
+    marcasTrack.innerHTML = "";
+
+    // Primera copia
+    marcas.forEach((marca) => {
+      const item = crearMarca(marca);
+      marcasTrack.appendChild(item);
+    });
+
+    // Segunda copia para crear el bucle infinito
+    marcas.forEach((marca) => {
+      const item = crearMarca(marca);
+      item.setAttribute("aria-hidden", "true");
+      marcasTrack.appendChild(item);
+    });
+  } catch (error) {
+    console.error("Error al cargar las marcas:", error);
+  }
+}
+
+function crearMarca(marca) {
+  const boton = document.createElement("button");
+
+  boton.className = "marca-item";
+  boton.type = "button";
+  boton.title = marca.nombre;
+
+  const imagen = document.createElement("img");
+
+  imagen.src = `img/marcas/${marca.imagen}`;
+  imagen.alt = marca.nombre;
+  //imagen.loading = "lazy";
+
+  boton.appendChild(imagen);
+
+  boton.addEventListener("click", () => {
+    marcaSeleccionada = marca.nombre;
+
+    ultimoFiltro = "marca";
+
+    productosVisibles = 50;
+    aplicarFiltros();
+  });
+
+  return boton;
+}
 // =========================================
 // EVENTOS
 // =========================================
@@ -420,5 +494,5 @@ btnMapaPc.addEventListener("click", (e) => {
 // =========================================
 // INICIALIZACIÓN
 // =========================================
-
+cargarMarcas();
 cargarProductos();
