@@ -230,7 +230,29 @@
 
         <div class="producto-modal-grid">
           <div class="producto-imagen">
-            <img id="modalImagen" src="" alt="" />
+            <div class="modal-carrusel-viewport">
+              <div id="modalImagenTrack" class="modal-carrusel-track"></div>
+            </div>
+
+            <button
+              type="button"
+              id="modalImagenAnterior"
+              class="modal-carrusel-control modal-carrusel-anterior oculto"
+              aria-label="Imagen anterior"
+            >
+              ‹
+            </button>
+
+            <button
+              type="button"
+              id="modalImagenSiguiente"
+              class="modal-carrusel-control modal-carrusel-siguiente oculto"
+              aria-label="Imagen siguiente"
+            >
+              ›
+            </button>
+
+            <div id="modalIndicadores" class="modal-carrusel-indicadores"></div>
           </div>
 
           <div class="producto-info">

@@ -15,6 +15,7 @@ const marcasTrack = document.getElementById("marcasTrack");
 // DATOS
 // =========================================
 let productos = [];
+let variantes = {};
 let categoriaSeleccionada = "Todos";
 let marcaSeleccionada = "Todas";
 let ultimoFiltro = null;
@@ -26,8 +27,20 @@ const contenedorProductos = document.getElementById("productos");
 const contenedorCategorias = document.getElementById("categorias");
 const contenedorCategoriasMenu = document.getElementById("categoriasMenu");
 const btnMostrarMas = document.getElementById("btnMostrarMas");
+const modalImagenAnterior = document.getElementById("modalImagenAnterior");
+const modalImagenSiguiente = document.getElementById("modalImagenSiguiente");
+const modalIndicadores = document.getElementById("modalIndicadores");
+const modalImagenTrack = document.getElementById("modalImagenTrack");
+
+let imagenesModal = [];
+let indiceImagenModal = 0;
 
 contenedorProductos.addEventListener("click", (e) => {
+  // Los controles del carrusel no deben abrir el modal.
+  if (e.target.closest(".carrusel-control")) {
+    return;
+  }
+
   const tarjeta = e.target.closest(".tarjeta");
 
   if (!tarjeta) return;
@@ -70,21 +83,123 @@ function renderizarProductos(listaProductos) {
     `;
   } else {
     listaProductos.forEach((producto) => {
+      // ------------------------------------------
+      // Construir lista de imágenes
+      // ------------------------------------------
+
+      const imagenes = [
+        producto.imagen,
+        ...(variantes[String(producto.codigo)] || []),
+      ];
+
+      const tieneCarrusel = imagenes.length > 1;
+
+      // ------------------------------------------
+      // Flechas
+      // ------------------------------------------
+
+      const controlesFlechas = tieneCarrusel
+        ? `
+          <button
+            type="button"
+            class="carrusel-control carrusel-anterior"
+            data-carrusel="anterior"
+            aria-label="Imagen anterior"
+          >
+            ‹
+          </button>
+
+          <button
+            type="button"
+            class="carrusel-control carrusel-siguiente"
+            data-carrusel="siguiente"
+            aria-label="Imagen siguiente"
+          >
+            ›
+          </button>
+        `
+        : "";
+
+      // ------------------------------------------
+      // Puntos indicadores
+      // ------------------------------------------
+
+      const indicadores = tieneCarrusel
+        ? `
+          <div class="carrusel-indicadores">
+            ${imagenes
+              .map(
+                (_, indice) => `
+                  <button
+                    type="button"
+                    class="carrusel-control carrusel-punto ${
+                      indice === 0 ? "activo" : ""
+                    }"
+                    data-carrusel="punto"
+                    data-indice="${indice}"
+                    aria-label="Ir a imagen ${indice + 1}"
+                  ></button>
+                `,
+              )
+              .join("")}
+          </div>
+        `
+        : "";
+
+      // ------------------------------------------
+      // Tarjeta
+      // ------------------------------------------
+
       html += `
-        <article class="tarjeta" data-codigo="${producto.codigo}">
-          <img
-            src="img/productos/${producto.imagen}"
-            alt="${producto.nombre}"
-            loading="lazy"
-          />
+        <article
+          class="tarjeta"
+          data-codigo="${producto.codigo}"
+          data-imagenes='${JSON.stringify(imagenes)}'
+          data-indice-imagen="0"
+        >
+
+          <div class="carrusel-producto">
+
+            <div class="carrusel-viewport">
+
+              <div class="carrusel-track">
+
+                ${imagenes
+                  .map(
+                    (imagen) => `
+                      <div class="carrusel-slide">
+                        <img
+                          src="img/productos/${imagen}"
+                          alt="${producto.nombre}"
+                          loading="lazy"
+                        />
+                      </div>
+                    `,
+                  )
+                  .join("")}
+
+              </div>
+
+            </div>
+
+            ${controlesFlechas}
+
+            ${indicadores}
+
+          </div>
 
           <div class="contenido-tarjeta">
             <h3>${producto.nombre}</h3>
 
-            <p class="precio">$ ${producto.precio.toLocaleString("es-AR")}</p>
+            <p class="precio">
+              $ ${producto.precio.toLocaleString("es-AR")}
+            </p>
 
-            <p class="marca">${producto.marca}</p>
+            <p class="marca">
+              ${producto.marca}
+            </p>
           </div>
+
         </article>
       `;
     });
@@ -93,8 +208,105 @@ function renderizarProductos(listaProductos) {
   contenedorProductos.innerHTML = html;
 
   document.getElementById("contadorResultados").textContent =
-    `Mostrando ${listaProductos.length} de ${productosFiltrados.length} producto${productosFiltrados.length !== 1 ? "s" : ""}`;
+    `Mostrando ${listaProductos.length} de ${productosFiltrados.length} producto${
+      productosFiltrados.length !== 1 ? "s" : ""
+    }`;
 }
+
+// =========================================
+// CARRUSEL DE PRODUCTOS
+// =========================================
+
+function cambiarImagenCarrusel(tarjeta, nuevoIndice) {
+  const imagenes = JSON.parse(tarjeta.dataset.imagenes);
+
+  if (nuevoIndice < 0 || nuevoIndice >= imagenes.length) {
+    return;
+  }
+
+  // ------------------------------------------
+  // Mover la pista del carrusel
+  // ------------------------------------------
+
+  const track = tarjeta.querySelector(".carrusel-track");
+
+  track.style.transform = `translateX(-${nuevoIndice * 100}%)`;
+
+  // ------------------------------------------
+  // Guardar índice actual
+  // ------------------------------------------
+
+  tarjeta.dataset.indiceImagen = nuevoIndice;
+
+  // ------------------------------------------
+  // Actualizar indicador activo
+  // ------------------------------------------
+
+  const puntos = tarjeta.querySelectorAll(".carrusel-punto");
+
+  puntos.forEach((punto, indice) => {
+    punto.classList.toggle("activo", indice === nuevoIndice);
+  });
+}
+
+contenedorProductos.addEventListener("click", (e) => {
+  const control = e.target.closest(".carrusel-control");
+
+  if (!control) {
+    return;
+  }
+
+  // Evita que el clic llegue al listener
+  // que abre el modal.
+
+  e.preventDefault();
+  e.stopPropagation();
+
+  const tarjeta = control.closest(".tarjeta");
+
+  if (!tarjeta) {
+    return;
+  }
+
+  const imagenes = JSON.parse(tarjeta.dataset.imagenes);
+
+  const indiceActual = Number(tarjeta.dataset.indiceImagen);
+
+  let nuevoIndice = indiceActual;
+
+  // ------------------------------------------
+  // Flecha anterior
+  // ------------------------------------------
+
+  if (control.dataset.carrusel === "anterior") {
+    nuevoIndice = indiceActual - 1;
+
+    if (nuevoIndice < 0) {
+      nuevoIndice = imagenes.length - 1;
+    }
+  }
+
+  // ------------------------------------------
+  // Flecha siguiente
+  // ------------------------------------------
+  else if (control.dataset.carrusel === "siguiente") {
+    nuevoIndice = indiceActual + 1;
+
+    if (nuevoIndice >= imagenes.length) {
+      nuevoIndice = 0;
+    }
+  }
+
+  // ------------------------------------------
+  // Punto
+  // ------------------------------------------
+  else if (control.dataset.carrusel === "punto") {
+    nuevoIndice = Number(control.dataset.indice);
+  }
+
+  cambiarImagenCarrusel(tarjeta, nuevoIndice);
+});
+
 function renderizarCategorias() {
   contenedorCategorias.innerHTML = "";
   contenedorCategoriasMenu.innerHTML = "";
@@ -250,22 +462,42 @@ function aplicarFiltros() {
 
 async function cargarProductos() {
   try {
-    const respuesta = await fetch("data/productos.json");
+    const [respuestaProductos, respuestaVariantes] = await Promise.all([
+      fetch("data/productos.json"),
+      fetch("data/variantes.json"),
+    ]);
 
-    productos = (await respuesta.json()).filter((producto) => producto.activo);
+    productos = (await respuestaProductos.json()).filter(
+      (producto) => producto.activo,
+    );
+
+    variantes = await respuestaVariantes.json();
 
     renderizarCategorias();
     aplicarFiltros();
   } catch (error) {
-    console.error("Error al cargar productos:", error);
+    console.error("Error al cargar productos o variantes:", error);
   }
 }
 
 function abrirModalProducto(producto) {
-  document.getElementById("modalImagen").src =
-    `img/productos/${producto.imagen}`;
+  // =========================================
+  // IMÁGENES DEL PRODUCTO
+  // =========================================
 
-  document.getElementById("modalImagen").alt = producto.nombre;
+  imagenesModal = [
+    producto.imagen,
+    ...(variantes[String(producto.codigo)] || []),
+  ];
+
+  indiceImagenModal = 0;
+
+  prepararCarruselModal();
+  actualizarImagenModal();
+
+  // =========================================
+  // INFORMACIÓN DEL PRODUCTO
+  // =========================================
 
   document.getElementById("modalNombre").textContent = producto.nombre;
 
@@ -278,9 +510,19 @@ function abrirModalProducto(producto) {
   document.getElementById("modalPrecio").textContent =
     `$ ${producto.precio.toLocaleString("es-AR")}`;
 
+  // =========================================
+  // ABRIR MODAL
+  // =========================================
+
   document.getElementById("modalProducto").classList.add("abierto");
+
   ocultarWhatsapp();
   ocultarBotonArriba();
+
+  // =========================================
+  // WHATSAPP
+  // =========================================
+
   document.getElementById("btnWhatsappProducto").onclick = () => {
     const mensaje = `Hola, quisiera consultar por:\n\n${producto.nombre}\nCódigo: ${producto.codigo}`;
 
@@ -290,10 +532,16 @@ function abrirModalProducto(producto) {
     );
   };
 
+  // =========================================
+  // COMPARTIR
+  // =========================================
+
   document.getElementById("btnCompartir").onclick = async () => {
     const datos = {
       title: producto.nombre,
+
       text: `${producto.nombre}\nCódigo: ${producto.codigo}\n$ ${producto.precio.toLocaleString("es-AR")}`,
+
       url: window.location.href,
     };
 
@@ -306,6 +554,122 @@ function abrirModalProducto(producto) {
     }
   };
 }
+
+function prepararCarruselModal() {
+  // -----------------------------------------
+  // Crear las slides una sola vez
+  // -----------------------------------------
+
+  modalImagenTrack.innerHTML = imagenesModal
+    .map(
+      (imagen, indice) => `
+          <div class="modal-carrusel-slide">
+
+            <img
+              src="img/productos/${imagen}"
+              alt=""
+              loading="${indice === 0 ? "eager" : "lazy"}"
+            />
+
+          </div>
+        `,
+    )
+    .join("");
+
+  // -----------------------------------------
+  // Crear indicadores
+  // -----------------------------------------
+
+  modalIndicadores.innerHTML = "";
+
+  if (imagenesModal.length <= 1) {
+    return;
+  }
+
+  imagenesModal.forEach((_, indice) => {
+    const punto = document.createElement("button");
+
+    punto.type = "button";
+
+    punto.className = "modal-carrusel-punto";
+
+    punto.dataset.indice = indice;
+
+    punto.setAttribute("aria-label", `Ir a imagen ${indice + 1}`);
+
+    modalIndicadores.appendChild(punto);
+  });
+}
+
+function actualizarImagenModal() {
+  const tieneCarrusel = imagenesModal.length > 1;
+
+  // -----------------------------------------
+  // Mover la pista
+  // -----------------------------------------
+
+  modalImagenTrack.style.transform = `translateX(-${indiceImagenModal * 100}%)`;
+
+  // -----------------------------------------
+  // Flechas
+  // -----------------------------------------
+
+  modalImagenAnterior.classList.toggle("oculto", !tieneCarrusel);
+
+  modalImagenSiguiente.classList.toggle("oculto", !tieneCarrusel);
+
+  // -----------------------------------------
+  // Indicador activo
+  // -----------------------------------------
+
+  const puntos = modalIndicadores.querySelectorAll(".modal-carrusel-punto");
+
+  puntos.forEach((punto, indice) => {
+    punto.classList.toggle("activo", indice === indiceImagenModal);
+  });
+}
+
+modalImagenAnterior.addEventListener("click", (e) => {
+  e.preventDefault();
+  e.stopPropagation();
+
+  indiceImagenModal--;
+
+  if (indiceImagenModal < 0) {
+    indiceImagenModal = imagenesModal.length - 1;
+  }
+
+  actualizarImagenModal();
+});
+
+modalImagenSiguiente.addEventListener("click", (e) => {
+  e.preventDefault();
+  e.stopPropagation();
+
+  indiceImagenModal++;
+
+  if (indiceImagenModal >= imagenesModal.length) {
+    indiceImagenModal = 0;
+  }
+
+  actualizarImagenModal();
+});
+
+modalIndicadores.addEventListener("click", (e) => {
+  const punto = e.target.closest(".modal-carrusel-punto");
+
+  if (!punto) {
+    return;
+  }
+
+  e.preventDefault();
+  e.stopPropagation();
+
+  indiceImagenModal = Number(punto.dataset.indice);
+
+  actualizarImagenModal();
+});
+
 async function cargarMarcas() {
   try {
     const respuesta = await fetch("data/marcas.json");
