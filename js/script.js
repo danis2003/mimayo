@@ -246,7 +246,10 @@ function cambiarImagenCarrusel(tarjeta, nuevoIndice) {
 
   const track = tarjeta.querySelector(".carrusel-track");
 
-  track.style.transform = `translateX(-${nuevoIndice * 100}%)`;
+  const viewport = tarjeta.querySelector(".carrusel-viewport");
+  const anchoViewport = viewport.clientWidth;
+
+  track.style.transform = `translateX(-${nuevoIndice * anchoViewport}px)`;
 
   // ------------------------------------------
   // Guardar índice actual
