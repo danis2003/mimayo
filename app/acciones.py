@@ -104,6 +104,27 @@ def abrir_asistente():
 
     return True
 
+def abrir_normalizador():
+
+    if getattr(sys, "frozen", False):
+
+        archivo = RAIZ / "NormalizadorImagenes.exe"
+
+        subprocess.Popen([str(archivo)])
+
+    else:
+
+        subprocess.Popen(
+            [
+                sys.executable,
+                "-m",
+                "scripts.normalizar_imagenes"
+            ],
+            cwd=str(RAIZ)
+        )
+
+    return True
+
 def ejecutar_generacion_json():
 
     generar_json()

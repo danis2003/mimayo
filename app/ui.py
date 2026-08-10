@@ -13,6 +13,7 @@ from acciones import (
     ejecutar_actualizacion,
     abrir_excel_maestro,
     abrir_asistente,
+    abrir_normalizador,
     ejecutar_generacion_json,
     publicar_github
 )
@@ -203,15 +204,15 @@ class App(ctk.CTk):
             comando=self.abrir_asistente_click
         )
 
-        self.lbl_json = self.crear_tarjeta(
+        self.lbl_normalizador = self.crear_tarjeta(
             fila=2,
             columna=0,
-            titulo="🌐 Catálogo Web",
-            descripcion="Regenerar el archivo productos.json.",
-            informacion="🟡 No generado",
-            texto_boton="Regenerar Catálogo JSON",
-            comando=self.generar_json_click
-        )
+            titulo="🖼 Normalizador de imágenes",
+            descripcion="Preparar y normalizar imágenes para el catálogo.",
+            informacion="🟢 Listo para usar",
+            texto_boton="Abrir normalizador",
+            comando=self.abrir_normalizador_click
+)
 
         self.lbl_github = self.crear_tarjeta(
             fila=2,
@@ -653,7 +654,33 @@ class App(ctk.CTk):
             self.agregar_evento(
                 f"ERROR: {e}"
             )
-    
+
+    def abrir_normalizador_click(self):
+
+        try:
+
+            abrir_normalizador()
+
+            self.actualizar_estado(
+                "🟢 Normalizador de imágenes abierto"
+            )
+
+            self.agregar_evento(
+                "Normalizador de imágenes abierto."
+            )
+
+        except Exception as e:
+
+            self.actualizar_estado(
+                "🔴 Error al abrir el normalizador",
+                "#dc2626"
+            )
+
+            self.agregar_evento(
+                f"ERROR: {e}"
+            )  
+
+
     def generar_json_click(self):
 
         try:

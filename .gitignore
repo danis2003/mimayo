@@ -33,3 +33,6 @@ data/*.xlsx
 
 # Variables de entorno
 .env
+
+NormalizadorImagenes.exe
+

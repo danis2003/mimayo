@@ -24,6 +24,16 @@ venv\Scripts\python.exe -m PyInstaller ^
 --icon "logo.ico" ^
 scripts/asistente_imagenes.py
 
+venv\Scripts\python.exe -m PyInstaller ^
+--clean ^
+--onefile ^
+--windowed ^
+--name "NormalizadorImagenes" ^
+--icon "logo.ico" ^
+--collect-all rembg ^
+--copy-metadata pymatting ^
+scripts/normalizar_imagenes.py
+
 echo.
 echo ======================================
 echo Compilacion finalizada
@@ -38,6 +48,18 @@ if exist .env copy .env dist\
 
 copy dist\CatalogoMiMayo.exe . /Y
 copy dist\AsistenteImagenes.exe . /Y
+copy dist\NormalizadorImagenes.exe . /Y
 
 del /q *.spec 2>nul
+
+echo.
+echo ======================================
+echo   EJECUTABLES GENERADOS
+echo ======================================
+echo.
+echo CatalogoMiMayo.exe
+echo AsistenteImagenes.exe
+echo NormalizadorImagenes.exe
+echo.
+
 pause

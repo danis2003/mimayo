@@ -223,7 +223,7 @@
         "fila_excel": 24,
         "codigo": 3203,
         "nombre": "CREMA LS BATIR 200ML",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Lácteos",
         "precio": 2609.97,
         "imagen": "3203.webp",
@@ -233,7 +233,7 @@
         "fila_excel": 25,
         "codigo": 3202,
         "nombre": "CREMA LS CULINARIA 200ML",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Lácteos",
         "precio": 2487.76,
         "imagen": "3202.webp",
@@ -243,7 +243,7 @@
         "fila_excel": 26,
         "codigo": 3306,
         "nombre": "CREMA LS LARGA VIDA 200ML",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Lácteos",
         "precio": 2439.36,
         "imagen": "3306.webp",
@@ -253,11 +253,11 @@
         "fila_excel": 27,
         "codigo": 3204,
         "nombre": "DANETTE POSTRES 190 GR X2U",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Lácteos",
         "precio": 4781.92,
         "imagen": "3204.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 28,
@@ -267,7 +267,7 @@
         "categoria": "Lácteos",
         "precio": 2035.22,
         "imagen": "3208.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 29,
@@ -277,7 +277,7 @@
         "categoria": "Lácteos",
         "precio": 1358.83,
         "imagen": "3207.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 30,
@@ -293,7 +293,7 @@
         "fila_excel": 31,
         "codigo": 1022,
         "nombre": "LECHE LA SERENISIMA ROJA 1L",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Lácteos",
         "precio": 2390.96,
         "imagen": "1022.webp",
@@ -303,7 +303,7 @@
         "fila_excel": 32,
         "codigo": 1023,
         "nombre": "LECHE LA SERENISIMA VERDE 1L",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Lácteos",
         "precio": 2390.96,
         "imagen": "1023.webp",
@@ -313,7 +313,7 @@
         "fila_excel": 33,
         "codigo": 3201,
         "nombre": "LECHE SERENISIMA SACHET 1L",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Lácteos",
         "precio": 1860.98,
         "imagen": "3201.webp",
@@ -323,7 +323,7 @@
         "fila_excel": 34,
         "codigo": 3245,
         "nombre": "MANTECA LS 100GR",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Lácteos",
         "precio": 2117.5,
         "imagen": "3245.webp",
@@ -333,11 +333,11 @@
         "fila_excel": 35,
         "codigo": 3210,
         "nombre": "POSTRE SERENITO",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Lácteos",
         "precio": 3916.77,
         "imagen": "3210.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 36,
@@ -345,7 +345,7 @@
         "nombre": "ALFAJOR FANTOCHE PESCADO RAUL",
         "marca": "Fantoche",
         "categoria": "Alfajores",
-        "precio": 629.2,
+        "precio": 592.9,
         "imagen": "8734.webp",
         "activo": true
     },
@@ -365,7 +365,7 @@
         "nombre": "ALFAJOR FANTOCHE TRIPLE",
         "marca": "Fantoche",
         "categoria": "Alfajores",
-        "precio": 847.0,
+        "precio": 854.26,
         "imagen": "3012.webp",
         "activo": true
     },
@@ -385,7 +385,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1193.06,
+        "precio": 1225.73,
         "imagen": "3082.webp",
         "activo": true
     },
@@ -415,7 +415,7 @@
         "nombre": "ALFAJOR VIMAR ESCOLAR/GLAS CAJA",
         "marca": "Vimar",
         "categoria": "Alfajores",
-        "precio": 11712.8,
+        "precio": 11952.38,
         "imagen": "3019.webp",
         "activo": true
     },
@@ -425,7 +425,7 @@
         "nombre": "ALFAJOR BONOBON SIMPLE",
         "marca": "Arcor",
         "categoria": "Alfajores",
-        "precio": 649.77,
+        "precio": 682.26,
         "imagen": "30.webp",
         "activo": true
     },
@@ -435,7 +435,7 @@
         "nombre": "ALFAJOR BONOBON TRIPLE",
         "marca": "Arcor",
         "categoria": "Alfajores",
-        "precio": 1124.09,
+        "precio": 1206.98,
         "imagen": "31.webp",
         "activo": true
     },
@@ -445,7 +445,7 @@
         "nombre": "ALFAJOR COFLER BLOCK TRIPLE",
         "marca": "Cofler",
         "categoria": "Alfajores",
-        "precio": 1149.5,
+        "precio": 1206.98,
         "imagen": "41.webp",
         "activo": true
     },
@@ -475,7 +475,7 @@
         "nombre": "ALFAJOR GOAT",
         "marca": "Arcor",
         "categoria": "Alfajores",
-        "precio": 1675.85,
+        "precio": 1759.64,
         "imagen": "8733.webp",
         "activo": true
     },
@@ -485,7 +485,7 @@
         "nombre": "ALFAJOR GUAYMALLÉN L/CH/FR CAJA",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 9930.47,
+        "precio": 10133.75,
         "imagen": "61.webp",
         "activo": true
     },
@@ -515,7 +515,7 @@
         "nombre": "ALFAJOR JORGITO",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 848.21,
+        "precio": 866.36,
         "imagen": "3010.webp",
         "activo": true
     },
@@ -525,7 +525,7 @@
         "nombre": "ALFAJOR JORGITO SIN GLUTEN",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 792.55,
+        "precio": 866.36,
         "imagen": "2464.webp",
         "activo": true
     },
@@ -535,7 +535,7 @@
         "nombre": "ALFAJOR MANTECOL 60GR",
         "marca": "Georgalos",
         "categoria": "Alfajores",
-        "precio": 1280.18,
+        "precio": 847.0,
         "imagen": "3193.webp",
         "activo": true
     },
@@ -565,7 +565,7 @@
         "nombre": "ALFAJOR MILKA SUPER DDL 70GR",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1203.95,
+        "precio": 1235.41,
         "imagen": "2302.webp",
         "activo": true
     },
@@ -575,7 +575,7 @@
         "nombre": "ALFAJOR MINITORTA AGUILA",
         "marca": "Aguila",
         "categoria": "Alfajores",
-        "precio": 1149.5,
+        "precio": 1206.98,
         "imagen": "64.webp",
         "activo": true
     },
@@ -583,7 +583,7 @@
         "fila_excel": 60,
         "codigo": 50,
         "nombre": "ALFAJOR TRISHOT",
-        "marca": "Mondelez",
+        "marca": "Shot",
         "categoria": "Alfajores",
         "precio": 1225.73,
         "imagen": "50.webp",
@@ -595,7 +595,7 @@
         "nombre": "ARCOR RELLENO MIEL 675 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7332.6,
+        "precio": 7699.23,
         "imagen": "1791.webp",
         "activo": true
     },
@@ -645,7 +645,7 @@
         "nombre": "BILLIKEN MAST FRUTA 600GR",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 4388.67,
+        "precio": 4750.46,
         "imagen": "887.webp",
         "activo": true
     },
@@ -655,7 +655,7 @@
         "nombre": "BILLIKEN MAST YOGURT 600GR",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 4750.46,
+        "precio": 4235.0,
         "imagen": "3075.webp",
         "activo": true
     },
@@ -715,7 +715,7 @@
         "nombre": "CAJA RASTA BCO-NGO X18U",
         "marca": "Rasta",
         "categoria": "Alfajores",
-        "precio": 16999.0,
+        "precio": 16748.82,
         "imagen": "3176.webp",
         "activo": true
     },
@@ -725,7 +725,7 @@
         "nombre": "CHOCOLATE CADBURY TODOS 82 G",
         "marca": "Cadbury",
         "categoria": "Chocolates",
-        "precio": 4241.05,
+        "precio": 4351.16,
         "imagen": "335.webp",
         "activo": true
     },
@@ -745,7 +745,7 @@
         "nombre": "CHOCOLATE COFLER AIREADO 60GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 2722.5,
+        "precio": 2972.97,
         "imagen": "339.webp",
         "activo": true
     },
@@ -755,7 +755,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 110GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 3509.0,
+        "precio": 3684.45,
         "imagen": "342.webp",
         "activo": true
     },
@@ -765,7 +765,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 170GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 5989.5,
+        "precio": 6559.59,
         "imagen": "340.webp",
         "activo": true
     },
@@ -775,7 +775,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 38GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 1427.8,
+        "precio": 1499.19,
         "imagen": "341.webp",
         "activo": true
     },
@@ -785,7 +785,7 @@
         "nombre": "CHOCOLATE MILKA OREO 37 GR",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2081.2,
+        "precio": 2127.18,
         "imagen": "3084.webp",
         "activo": true
     },
@@ -795,7 +795,7 @@
         "nombre": "CHOCOLATE TOFI DDL 28 GR",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 1414.49,
+        "precio": 1397.55,
         "imagen": "360.webp",
         "activo": true
     },
@@ -813,7 +813,7 @@
         "fila_excel": 83,
         "codigo": 540,
         "nombre": "DOS CORAZONES 26 GR",
-        "marca": "FeltFort",
+        "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 982.52,
         "imagen": "540.webp",
@@ -833,7 +833,7 @@
         "fila_excel": 85,
         "codigo": 8825,
         "nombre": "FELFORT CHOCO CON MANI 20 GR",
-        "marca": "FeltFort",
+        "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 698.17,
         "imagen": "8825.webp",
@@ -843,7 +843,7 @@
         "fila_excel": 86,
         "codigo": 8806,
         "nombre": "FELFORT CHOCO CON MANI 250 GR",
-        "marca": "FeltFort",
+        "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 7562.5,
         "imagen": "8806.webp",
@@ -853,7 +853,7 @@
         "fila_excel": 87,
         "codigo": 2160,
         "nombre": "FELFORT CHOCO CON MANI 75 GR",
-        "marca": "FeltFort",
+        "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 2722.5,
         "imagen": "2160.webp",
@@ -873,7 +873,7 @@
         "fila_excel": 89,
         "codigo": 8826,
         "nombre": "FORT MINT 14 GR",
-        "marca": "FeltFort",
+        "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 718.74,
         "imagen": "8826.webp",
@@ -885,7 +885,7 @@
         "nombre": "GALLET OREO X 118 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1697.63,
+        "precio": 1742.4,
         "imagen": "724.webp",
         "activo": true
     },
@@ -903,7 +903,7 @@
         "fila_excel": 92,
         "codigo": 3235,
         "nombre": "HAMB CLASICA UG 4U 332GR",
-        "marca": "Union Ganadera",
+        "marca": "Unión Ganadera",
         "categoria": "Congelados",
         "precio": 7593.96,
         "imagen": "3235.webp",
@@ -913,7 +913,7 @@
         "fila_excel": 93,
         "codigo": 3233,
         "nombre": "HAMB FINITA UG 2U 110GR",
-        "marca": "Union Ganadera",
+        "marca": "Unión Ganadera",
         "categoria": "Congelados",
         "precio": 2433.31,
         "imagen": "3233.webp",
@@ -923,7 +923,7 @@
         "fila_excel": 94,
         "codigo": 3234,
         "nombre": "HAMB MEDIANA UG 4U 276GR",
-        "marca": "Union Ganadera",
+        "marca": "Unión Ganadera",
         "categoria": "Congelados",
         "precio": 6558.2,
         "imagen": "3234.webp",
@@ -935,7 +935,7 @@
         "nombre": "KINDER BARRITA 24 U",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 18857.85,
+        "precio": 20369.14,
         "imagen": "946.webp",
         "activo": true
     },
@@ -955,7 +955,7 @@
         "nombre": "KINDER HUEVO SORPRESA",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2311.1,
+        "precio": 2331.67,
         "imagen": "950.webp",
         "activo": true
     },
@@ -965,7 +965,7 @@
         "nombre": "KINDER MAXI*10 UNI",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 13054.69,
+        "precio": 13915.0,
         "imagen": "954.webp",
         "activo": true
     },
@@ -975,7 +975,7 @@
         "nombre": "KITKAT NESTLE 41,5 GR",
         "marca": "Nestlé",
         "categoria": "Chocolates",
-        "precio": 1391.5,
+        "precio": 1470.15,
         "imagen": "955.webp",
         "activo": true
     },
@@ -1015,7 +1015,7 @@
         "nombre": "MILKA CHOCOLATE LECHE 55 GR",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2807.2,
+        "precio": 2888.27,
         "imagen": "8818.webp",
         "activo": true
     },
@@ -1035,7 +1035,7 @@
         "nombre": "MILKA DULCE DE LECHE 68 GR",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 5326.42,
+        "precio": 3509.0,
         "imagen": "3018.webp",
         "activo": true
     },
@@ -1065,7 +1065,7 @@
         "nombre": "MOGUL DIENTES 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5563.58,
+        "precio": 5841.76,
         "imagen": "1240.webp",
         "activo": true
     },
@@ -1075,7 +1075,7 @@
         "nombre": "MOGUL EXTREME FRUTILLA 500 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5336.1,
+        "precio": 5602.91,
         "imagen": "8804.webp",
         "activo": true
     },
@@ -1085,7 +1085,7 @@
         "nombre": "MOGUL EXTREME LADRILLOS 500GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5336.1,
+        "precio": 5602.91,
         "imagen": "2894.webp",
         "activo": true
     },
@@ -1095,7 +1095,7 @@
         "nombre": "MOGUL MORAS 500 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5563.58,
+        "precio": 5841.76,
         "imagen": "1245.webp",
         "activo": true
     },
@@ -1103,7 +1103,7 @@
         "fila_excel": 112,
         "codigo": 3240,
         "nombre": "NUGGETS UG 300 GR",
-        "marca": "Union Ganadera",
+        "marca": "Unión Ganadera",
         "categoria": "Congelados",
         "precio": 3777.62,
         "imagen": "3240.webp",
@@ -1155,7 +1155,7 @@
         "nombre": "PEPAS TRIO /TRICHOC 200 GR",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 750.2,
+        "precio": 744.15,
         "imagen": "727.webp",
         "activo": true
     },
@@ -1173,7 +1173,7 @@
         "fila_excel": 119,
         "codigo": 3242,
         "nombre": "SALCHICHA UG 12U 380 GR",
-        "marca": "Union Ganadera",
+        "marca": "Unión Ganadera",
         "categoria": "Frescos",
         "precio": 3590.07,
         "imagen": "3242.webp",
@@ -1183,7 +1183,7 @@
         "fila_excel": 120,
         "codigo": 3243,
         "nombre": "SALCHICHA UG 6U 190 GR",
-        "marca": "Union Ganadera",
+        "marca": "Unión Ganadera",
         "categoria": "Frescos",
         "precio": 1890.02,
         "imagen": "3243.webp",
@@ -1193,7 +1193,7 @@
         "fila_excel": 121,
         "codigo": 3241,
         "nombre": "SALCHICHA UG 6U 230 GR",
-        "marca": "Union Ganadera",
+        "marca": "Unión Ganadera",
         "categoria": "Frescos",
         "precio": 2203.41,
         "imagen": "3241.webp",
@@ -1203,9 +1203,9 @@
         "fila_excel": 122,
         "codigo": 1826,
         "nombre": "SHOT CHOC 35 GR",
-        "marca": "Mondelez",
+        "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 1228.15,
+        "precio": 1226.94,
         "imagen": "1826.webp",
         "activo": true
     },
@@ -1213,9 +1213,9 @@
         "fila_excel": 123,
         "codigo": 1823,
         "nombre": "SHOT CHOC 90 GS*",
-        "marca": "Mondelez",
+        "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 3499.32,
+        "precio": 3498.11,
         "imagen": "1823.webp",
         "activo": true
     },
@@ -1223,9 +1223,9 @@
         "fila_excel": 124,
         "codigo": 1825,
         "nombre": "SHOT CHOC* 170 GS",
-        "marca": "Mondelez",
+        "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 5590.2,
+        "precio": 5588.99,
         "imagen": "1825.webp",
         "activo": true
     },
@@ -1245,7 +1245,7 @@
         "nombre": "TABLETA AGUILA 100 GR",
         "marca": "Aguila",
         "categoria": "Chocolates",
-        "precio": 4176.92,
+        "precio": 4385.77,
         "imagen": "1884.webp",
         "activo": true
     },
@@ -1255,7 +1255,7 @@
         "nombre": "TABLETA AGUILA 150 GR",
         "marca": "Aguila",
         "categoria": "Chocolates",
-        "precio": 5299.8,
+        "precio": 5564.79,
         "imagen": "1885.webp",
         "activo": true
     },
@@ -1295,7 +1295,7 @@
         "nombre": "ALFAJOR RASTA 70 GR",
         "marca": "Rasta",
         "categoria": "Alfajores",
-        "precio": 1044.23,
+        "precio": 995.83,
         "imagen": "2708.webp",
         "activo": true
     },
@@ -1303,11 +1303,11 @@
         "fila_excel": 132,
         "codigo": 3209,
         "nombre": "YOGURT GRIEGO YOGURISIMO 140 GR",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Lácteos",
         "precio": 1874.29,
         "imagen": "3209.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 133,
@@ -1315,7 +1315,7 @@
         "nombre": "ARCOR MENTA CRISTAL/MIX 810 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9750.18,
+        "precio": 10237.69,
         "imagen": "1163.webp",
         "activo": true
     },
@@ -1325,7 +1325,7 @@
         "nombre": "LOTZA FIZZ 48 U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 11289.3,
+        "precio": 11853.77,
         "imagen": "1051.webp",
         "activo": true
     },
@@ -1335,7 +1335,7 @@
         "nombre": "BABY DOLL CHUP X 4 UNI",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 496.1,
+        "precio": 592.9,
         "imagen": "107.webp",
         "activo": true
     },
@@ -1365,7 +1365,7 @@
         "nombre": "BUTTER TOFFEES TODOS 822 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8808.8,
+        "precio": 9401.7,
         "imagen": "890.webp",
         "activo": true
     },
@@ -1375,7 +1375,7 @@
         "nombre": "CHUPETIN PICO DULCE *48 UNID",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 9388.39,
+        "precio": 9580.78,
         "imagen": "390.webp",
         "activo": true
     },
@@ -1405,7 +1405,7 @@
         "nombre": "GOMA MISKY 1 KL",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8995.14,
+        "precio": 9153.65,
         "imagen": "798.webp",
         "activo": true
     },
@@ -1415,7 +1415,7 @@
         "nombre": "HALLS TODAS 12 U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6988.0,
+        "precio": 6836.5,
         "imagen": "828.webp",
         "activo": true
     },
@@ -1425,7 +1425,7 @@
         "nombre": "LENGUETAZO TODOS 32 UNIDADES",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 6982.91,
+        "precio": 6386.38,
         "imagen": "1024.webp",
         "activo": true
     },
@@ -1435,7 +1435,7 @@
         "nombre": "MENTHOPLUS ACIDO X 12 UNI",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7502.0,
+        "precio": 7877.1,
         "imagen": "1166.webp",
         "activo": true
     },
@@ -1445,7 +1445,7 @@
         "nombre": "MENTHOPLUS TODAS X 12 UNI",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5903.59,
+        "precio": 6198.77,
         "imagen": "1169.webp",
         "activo": true
     },
@@ -1455,7 +1455,7 @@
         "nombre": "MOGUL 12X30 GR TODAS",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5724.51,
+        "precio": 6010.74,
         "imagen": "687.webp",
         "activo": true
     },
@@ -1465,7 +1465,7 @@
         "nombre": "MOGUL EXTREME OSITO X 500 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5724.51,
+        "precio": 6010.74,
         "imagen": "8725.webp",
         "activo": true
     },
@@ -1475,7 +1475,7 @@
         "nombre": "MOGUL EXTREME SANDIA 500 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5833.41,
+        "precio": 6125.08,
         "imagen": "3068.webp",
         "activo": true
     },
@@ -1485,7 +1485,7 @@
         "nombre": "MOGUL EXTREME TUBITOS 500 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5603.51,
+        "precio": 6422.38,
         "imagen": "8713.webp",
         "activo": true
     },
@@ -1495,7 +1495,7 @@
         "nombre": "MOGUL EXTREME X 10 X 50 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7723.43,
+        "precio": 9655.8,
         "imagen": "2253.webp",
         "activo": true
     },
@@ -1505,7 +1505,7 @@
         "nombre": "MOGUL GELATIN CEREBRITOS 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5724.51,
+        "precio": 6010.74,
         "imagen": "686.webp",
         "activo": true
     },
@@ -1515,7 +1515,7 @@
         "nombre": "MOGUL MORAS Y DIENTES 10 X 50GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7723.43,
+        "precio": 8109.6,
         "imagen": "2900.webp",
         "activo": true
     },
@@ -1525,7 +1525,7 @@
         "nombre": "PALITO DE LA SELVA 660 GR",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 9052.01,
+        "precio": 9846.38,
         "imagen": "1388.webp",
         "activo": true
     },
@@ -1535,7 +1535,7 @@
         "nombre": "ROLLO MOGUL 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5315.53,
+        "precio": 5581.31,
         "imagen": "1745.webp",
         "activo": true
     },
@@ -1545,7 +1545,7 @@
         "nombre": "ROLLO MOGUL BERRIES",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6759.06,
+        "precio": 6413.0,
         "imagen": "26.webp",
         "activo": true
     },
@@ -1555,7 +1555,7 @@
         "nombre": "SUGUS CONFITADOS X 50 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 1125.3,
+        "precio": 1181.57,
         "imagen": "1871.webp",
         "activo": true
     },
@@ -1565,7 +1565,7 @@
         "nombre": "SUGUS MASTICABLE X 700 GS 210",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6571.51,
+        "precio": 6900.09,
         "imagen": "1873.webp",
         "activo": true
     },
@@ -1575,7 +1575,7 @@
         "nombre": "TOPLINE SEVEN TODOS 16 UN",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12463.0,
+        "precio": 13659.15,
         "imagen": "1996.webp",
         "activo": true
     },
@@ -1595,7 +1595,7 @@
         "nombre": "MISKY ROLL ROLLO 12 UNID",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 3977.27,
+        "precio": 3976.06,
         "imagen": "1234.webp",
         "activo": true
     },
@@ -1655,7 +1655,7 @@
         "nombre": "ARVEJAS MOLTO 340 GR",
         "marca": "Molto",
         "categoria": "Almacén",
-        "precio": 732.05,
+        "precio": 799.81,
         "imagen": "3017.webp",
         "activo": true
     },
@@ -1665,7 +1665,7 @@
         "nombre": "AZUCAR LEDESMA 1 KILO",
         "marca": "Ledesma",
         "categoria": "Almacén",
-        "precio": 1551.22,
+        "precio": 1604.46,
         "imagen": "101.webp",
         "activo": true
     },
@@ -1695,7 +1695,7 @@
         "nombre": "CAFE LA MORENITA EN SAQUIT *",
         "marca": "Morenita",
         "categoria": "Almacén",
-        "precio": 4662.13,
+        "precio": 5123.14,
         "imagen": "235.webp",
         "activo": true
     },
@@ -1705,7 +1705,7 @@
         "nombre": "CAFE LA VIRG SAQUI 20 U*5GR",
         "marca": "La Virginia",
         "categoria": "Almacén",
-        "precio": 4829.11,
+        "precio": 5304.64,
         "imagen": "244.webp",
         "activo": true
     },
@@ -1793,7 +1793,7 @@
         "fila_excel": 181,
         "codigo": 6071,
         "nombre": "DULCE DE LECHE COLON LS 400G",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Almacén",
         "precio": 3477.54,
         "imagen": "6071.webp",
@@ -1803,7 +1803,7 @@
         "fila_excel": 182,
         "codigo": 3308,
         "nombre": "DULCE DE LECHE LS COL 250 GR",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Almacén",
         "precio": 2456.3,
         "imagen": "3308.webp",
@@ -1813,7 +1813,7 @@
         "fila_excel": 183,
         "codigo": 3307,
         "nombre": "DULCE DE LECHE REPOS LS 400G",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Almacén",
         "precio": 3630.0,
         "imagen": "3307.webp",
@@ -1823,9 +1823,9 @@
         "fila_excel": 184,
         "codigo": 9848,
         "nombre": "FIDEO LUCCHETTI DEDALITO 500",
-        "marca": "Molinos Río de la Plata",
+        "marca": "Molinos",
         "categoria": "Almacén",
-        "precio": 1367.3,
+        "precio": 1196.69,
         "imagen": "9848.webp",
         "activo": true
     },
@@ -1915,7 +1915,7 @@
         "nombre": "NESQUIK ORIGINAL * 180 GS",
         "marca": "Nestlé",
         "categoria": "Almacén",
-        "precio": 1869.45,
+        "precio": 2086.04,
         "imagen": "2945.webp",
         "activo": true
     },
@@ -1933,7 +1933,7 @@
         "fila_excel": 195,
         "codigo": 1648,
         "nombre": "QUESO LA SERENISIMA 10U",
-        "marca": "La Serenisima",
+        "marca": "La Serenísima",
         "categoria": "Almacén",
         "precio": 14795.88,
         "imagen": "1648.webp",
@@ -2205,7 +2205,7 @@
         "nombre": "CEREALITAS 212 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1674.64,
+        "precio": 1633.5,
         "imagen": "302.webp",
         "activo": true
     },
@@ -2235,7 +2235,7 @@
         "nombre": "DON SATUR BIZCOCHOS x 200GS",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1073.27,
+        "precio": 1096.26,
         "imagen": "534.webp",
         "activo": true
     },
@@ -2245,7 +2245,7 @@
         "nombre": "GALLETITA CEREAL MIX 207 GR",
         "marca": "Arcor",
         "categoria": "Galletitas",
-        "precio": 1739.98,
+        "precio": 1826.98,
         "imagen": "303.webp",
         "activo": true
     },
@@ -2263,9 +2263,9 @@
         "fila_excel": 228,
         "codigo": 1155,
         "nombre": "MEDIA TARDE SANDWICH TRI 321GR",
-        "marca": "Lia",
+        "marca": "Lía",
         "categoria": "Galletitas",
-        "precio": 1512.5,
+        "precio": 1473.78,
         "imagen": "1155.webp",
         "activo": true
     },
@@ -2305,7 +2305,7 @@
         "nombre": "SONRISAS FRAMBUESA x 108 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1159.18,
+        "precio": 1087.79,
         "imagen": "1851.webp",
         "activo": true
     },
@@ -2335,7 +2335,7 @@
         "nombre": "TRAVIATA TRIPACK 324 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1754.5,
+        "precio": 1698.84,
         "imagen": "2033.webp",
         "activo": true
     },
@@ -2343,9 +2343,9 @@
         "fila_excel": 236,
         "codigo": 8708,
         "nombre": "BASTONITOS KRACHITOS X60GR",
-        "marca": "PepsiCo",
+        "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1006.72,
+        "precio": 1041.81,
         "imagen": "8708.webp",
         "activo": true
     },
@@ -2383,9 +2383,9 @@
         "fila_excel": 240,
         "codigo": 8729,
         "nombre": "KRACHITOS CHIZITOS X 60GR",
-        "marca": "PepsiCo",
+        "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1006.72,
+        "precio": 1020.03,
         "imagen": "8729.webp",
         "activo": true
     },
@@ -2403,9 +2403,9 @@
         "fila_excel": 242,
         "codigo": 3059,
         "nombre": "PAPAS KRACHITOS SABORES 55GR",
-        "marca": "PepsiCo",
+        "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1177.33,
+        "precio": 1242.67,
         "imagen": "3059.webp",
         "activo": true
     },
@@ -2413,9 +2413,9 @@
         "fila_excel": 243,
         "codigo": 3058,
         "nombre": "PAPAS KRACHITOS TRAD/AMER 50",
-        "marca": "PepsiCo",
+        "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1201.53,
+        "precio": 1242.67,
         "imagen": "3058.webp",
         "activo": true
     },
@@ -2423,7 +2423,7 @@
         "fila_excel": 244,
         "codigo": 1498,
         "nombre": "PEPSICO 40 GR TODOS",
-        "marca": "PepsiCo",
+        "marca": "Lays",
         "categoria": "Snacks",
         "precio": 1723.04,
         "imagen": "1498.webp",
@@ -2433,9 +2433,9 @@
         "fila_excel": 245,
         "codigo": 1501,
         "nombre": "PEPSICO 77/85 GR TODOS",
-        "marca": "PepsiCo",
+        "marca": "Lays",
         "categoria": "Snacks",
-        "precio": 2544.63,
+        "precio": 2874.96,
         "imagen": "1501.webp",
         "activo": true
     },
@@ -2485,7 +2485,7 @@
         "nombre": "ALFAJOR JORGITO x 6 UNID",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 2504.7,
+        "precio": 2651.11,
         "imagen": "56.webp",
         "activo": true
     },
@@ -2515,7 +2515,7 @@
         "nombre": "ALFAJOR RED VELVET 70 GR",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1393.92,
+        "precio": 1530.65,
         "imagen": "3098.webp",
         "activo": true
     },
@@ -2555,8 +2555,8 @@
         "nombre": "ALFAJOR CAPITÁN DEL ESPACIO X 40G",
         "marca": "Capitán del Espacio",
         "categoria": "Alfajores",
-        "precio": 1355.2,
-        "imagen": "39.webp",
+        "precio": 1343.1,
+        "imagen": "9858.webp",
         "activo": true
     },
     {
@@ -2625,7 +2625,7 @@
         "nombre": "BONOBON PASTA 290 G",
         "marca": "Arcor",
         "categoria": "Almacén",
-        "precio": 5069.9,
+        "precio": 5323.4,
         "imagen": "8710.webp",
         "activo": true
     },
@@ -2915,7 +2915,7 @@
         "nombre": "PURE MAGGI 125GR",
         "marca": "Nestlé",
         "categoria": "Almacén",
-        "precio": 1836.78,
+        "precio": 1920.27,
         "imagen": "3157.webp",
         "activo": true
     },
@@ -3065,7 +3065,7 @@
         "nombre": "DURACELL 2A C/U",
         "marca": "Duracell",
         "categoria": "Varios",
-        "precio": 1035.76,
+        "precio": 1026.08,
         "imagen": "551.webp",
         "activo": true
     },
@@ -3075,7 +3075,7 @@
         "nombre": "DURACELL 3A  C/U",
         "marca": "Duracell",
         "categoria": "Varios",
-        "precio": 1035.76,
+        "precio": 1026.08,
         "imagen": "552.webp",
         "activo": true
     },
@@ -3305,7 +3305,7 @@
         "nombre": "PRESERVATIVOS PRIME x3 TODOS C/U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3206.5,
+        "precio": 3354.12,
         "imagen": "1609.webp",
         "activo": true
     },
@@ -3315,7 +3315,7 @@
         "nombre": "PRESERVATIVOS TULIPAN x3 C/GEL C/U",
         "marca": "Tulipán",
         "categoria": "Varios",
-        "precio": 1776.28,
+        "precio": 1837.99,
         "imagen": "1610.webp",
         "activo": true
     },
@@ -3395,7 +3395,7 @@
         "nombre": "CARAMELO ALKA CHE/STR 800G",
         "marca": "Alka",
         "categoria": "Golosinas",
-        "precio": 10043.0,
+        "precio": 10545.15,
         "imagen": "263.webp",
         "activo": true
     },
@@ -3405,7 +3405,7 @@
         "nombre": "CARAMELO TNT ACIDO *60 UNIDA",
         "marca": "TNT",
         "categoria": "Golosinas",
-        "precio": 2178.0,
+        "precio": 4629.46,
         "imagen": "267.webp",
         "activo": true
     },
@@ -3465,7 +3465,7 @@
         "nombre": "DRF PASTILLAS *12 UNIDADES",
         "marca": "D.R.F.",
         "categoria": "Golosinas",
-        "precio": 3610.64,
+        "precio": 3787.3,
         "imagen": "542.webp",
         "activo": true
     },
@@ -3485,7 +3485,7 @@
         "nombre": "MENTITAS LACASA 25 GS",
         "marca": "D.R.F.",
         "categoria": "Golosinas",
-        "precio": 355.74,
+        "precio": 387.2,
         "imagen": "1171.webp",
         "activo": true
     },
@@ -3515,7 +3515,7 @@
         "nombre": "MOGUL ANILLOS X 1KG",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9105.25,
+        "precio": 9560.51,
         "imagen": "8843.webp",
         "activo": true
     },
@@ -3575,7 +3575,7 @@
         "nombre": "TIC TAC TODOS* 12 UNIDADES",
         "marca": "Tic Tac",
         "categoria": "Golosinas",
-        "precio": 10403.58,
+        "precio": 10769.0,
         "imagen": "1951.webp",
         "activo": true
     },
@@ -3597,6 +3597,2156 @@
         "categoria": "Golosinas",
         "precio": 2503.49,
         "imagen": "9852.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 362,
+        "codigo": 2929,
+        "nombre": "GALLETITA HIPOPO 100GR",
+        "marca": "Cory",
+        "categoria": "Galletitas",
+        "precio": 423.5,
+        "imagen": "2929.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 363,
+        "codigo": 3170,
+        "nombre": "GALLETITAS ANILLOS 170 GR",
+        "marca": "Terrabusi",
+        "categoria": "Galletitas",
+        "precio": 1225.73,
+        "imagen": "3170.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 364,
+        "codigo": 3171,
+        "nombre": "GALLETITAS ANILLOS 300 GR",
+        "marca": "Terrabusi",
+        "categoria": "Galletitas",
+        "precio": 2163.48,
+        "imagen": "3171.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 365,
+        "codigo": 888,
+        "nombre": "BISCUIT HJ* 130 GS",
+        "marca": "HJ",
+        "categoria": "Galletitas",
+        "precio": 1488.3,
+        "imagen": "888.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 366,
+        "codigo": 483,
+        "nombre": "CRIOLLITAS *100 GS",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 571.12,
+        "imagen": "483.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 367,
+        "codigo": 502,
+        "nombre": "DELICIAS NONNA PEPAS *180GS",
+        "marca": "Delicias de la Nonna",
+        "categoria": "Galletitas",
+        "precio": 713.9,
+        "imagen": "502.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 368,
+        "codigo": 537,
+        "nombre": "DON SATUR TALITAS 140  GS",
+        "marca": "Don Satur",
+        "categoria": "Galletitas",
+        "precio": 1012.77,
+        "imagen": "537.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 369,
+        "codigo": 626,
+        "nombre": "FAMILIARES SALVADO BAGLEY x 169GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1216.05,
+        "imagen": "626.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 370,
+        "codigo": 9877,
+        "nombre": "FILTROS DE PAPEL LV 40U",
+        "marca": "La Virginia",
+        "categoria": "Almacén",
+        "precio": 4112.79,
+        "imagen": "9877.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 371,
+        "codigo": 9871,
+        "nombre": "FRUTIGRAN AVENAS/PASAS",
+        "marca": "Granix",
+        "categoria": "Galletitas",
+        "precio": 2122.34,
+        "imagen": "9871.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 372,
+        "codigo": 1341,
+        "nombre": "FRUTIGRAN C/CHIPS CHOCO  255",
+        "marca": "Granix",
+        "categoria": "Galletitas",
+        "precio": 2203.41,
+        "imagen": "1341.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 373,
+        "codigo": 690,
+        "nombre": "FRUTIGRAN TROPICAL *    250",
+        "marca": "Granix",
+        "categoria": "Galletitas",
+        "precio": 2171.95,
+        "imagen": "690.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 374,
+        "codigo": 700,
+        "nombre": "GALLET CELOSAS *110 GS",
+        "marca": "Celosas",
+        "categoria": "Galletitas",
+        "precio": 568.7,
+        "imagen": "700.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 375,
+        "codigo": 701,
+        "nombre": "GALLET CELOSAS *230 GS",
+        "marca": "Celosas",
+        "categoria": "Galletitas",
+        "precio": 1137.4,
+        "imagen": "701.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 376,
+        "codigo": 702,
+        "nombre": "GALLET CELOSAS *350 GS",
+        "marca": "Celosas",
+        "categoria": "Galletitas",
+        "precio": 1706.1,
+        "imagen": "702.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 377,
+        "codigo": 709,
+        "nombre": "GALLET DIVERSION *400GS",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 2032.8,
+        "imagen": "709.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 378,
+        "codigo": 753,
+        "nombre": "GALLET GLUTEN RIERA X 200 GR",
+        "marca": "Riera",
+        "categoria": "Galletitas",
+        "precio": 1218.47,
+        "imagen": "753.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 379,
+        "codigo": 715,
+        "nombre": "GALLET MANA RELLENA *152 GS",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 1105.34,
+        "imagen": "715.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 380,
+        "codigo": 716,
+        "nombre": "GALLET MANA TODAS *145GS",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 1134.98,
+        "imagen": "716.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 381,
+        "codigo": 755,
+        "nombre": "GALLET SURT FAUNA *400 GS",
+        "marca": "Mauri",
+        "categoria": "Galletitas",
+        "precio": 1331.0,
+        "imagen": "755.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 382,
+        "codigo": 2951,
+        "nombre": "GALLET SURTIDO LIA 400 GR",
+        "marca": "Lía",
+        "categoria": "Galletitas",
+        "precio": 1905.75,
+        "imagen": "2951.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 383,
+        "codigo": 745,
+        "nombre": "GALLET VARIEDAD *390 GS",
+        "marca": "Terrabusi",
+        "categoria": "Galletitas",
+        "precio": 2406.69,
+        "imagen": "745.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 384,
+        "codigo": 749,
+        "nombre": "GALLET VOCACION 141 GR",
+        "marca": "Lía",
+        "categoria": "Galletitas",
+        "precio": 730.54,
+        "imagen": "749.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 385,
+        "codigo": 750,
+        "nombre": "GALLET VOCACION TRIPACK",
+        "marca": "Lía",
+        "categoria": "Galletitas",
+        "precio": 2013.74,
+        "imagen": "750.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 386,
+        "codigo": 809,
+        "nombre": "GRANIX SANDWICH *200 GS",
+        "marca": "Granix",
+        "categoria": "Galletitas",
+        "precio": 1173.7,
+        "imagen": "809.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 387,
+        "codigo": 808,
+        "nombre": "GRANIX SIN SAL *200 GS",
+        "marca": "Granix",
+        "categoria": "Galletitas",
+        "precio": 1210.0,
+        "imagen": "808.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 388,
+        "codigo": 2039,
+        "nombre": "HOJALMAR/RONDA TRI/LAR 150 G",
+        "marca": "Hojalmar",
+        "categoria": "Galletitas",
+        "precio": 1370.93,
+        "imagen": "2039.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 389,
+        "codigo": 956,
+        "nombre": "KOKIS GALLET.TODAS*200GS",
+        "marca": "Kokis",
+        "categoria": "Galletitas",
+        "precio": 1040.6,
+        "imagen": "956.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 390,
+        "codigo": 713,
+        "nombre": "LINCOLN 160 G",
+        "marca": "Terrabusi",
+        "categoria": "Galletitas",
+        "precio": 1379.4,
+        "imagen": "713.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 391,
+        "codigo": 1065,
+        "nombre": "MAGDALENA DON SATUR 200/250G",
+        "marca": "Don Satur",
+        "categoria": "Galletitas",
+        "precio": 2107.82,
+        "imagen": "1065.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 392,
+        "codigo": 1153,
+        "nombre": "MEDIA TARDE CLASICA TRI 330",
+        "marca": "Lía",
+        "categoria": "Galletitas",
+        "precio": 1410.26,
+        "imagen": "1153.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 393,
+        "codigo": 1177,
+        "nombre": "MERENGADAS X 88 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1159.18,
+        "imagen": "1177.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 394,
+        "codigo": 8791,
+        "nombre": "MINI OREO 150 GR",
+        "marca": "Mondelez",
+        "categoria": "Galletitas",
+        "precio": 1998.92,
+        "imagen": "8791.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 395,
+        "codigo": 1316,
+        "nombre": "OBLEA OBLITA 50GR",
+        "marca": "Oblita",
+        "categoria": "Galletitas",
+        "precio": 332.75,
+        "imagen": "1316.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 396,
+        "codigo": 8716,
+        "nombre": "OBLEA OBLITA 100 GR",
+        "marca": "Oblita",
+        "categoria": "Galletitas",
+        "precio": 726.0,
+        "imagen": "8716.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 397,
+        "codigo": 1338,
+        "nombre": "OKEBON CHICA* 165 GS",
+        "marca": "Okebon",
+        "categoria": "Galletitas",
+        "precio": 1078.11,
+        "imagen": "1338.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 398,
+        "codigo": 1340,
+        "nombre": "OKEBON CHO=LECHE 273 GS",
+        "marca": "Okebon",
+        "categoria": "Galletitas",
+        "precio": 1615.35,
+        "imagen": "1340.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 399,
+        "codigo": 1457,
+        "nombre": "PARNOR TODAS 140 GS",
+        "marca": "ParNor",
+        "categoria": "Galletitas",
+        "precio": 877.25,
+        "imagen": "1457.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 400,
+        "codigo": 1465,
+        "nombre": "PASEO AGUA* 300 GS",
+        "marca": "Molino Cañuelas",
+        "categoria": "Galletitas",
+        "precio": 1350.36,
+        "imagen": "1465.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 401,
+        "codigo": 1468,
+        "nombre": "PASEO SALVADO* 300 GS",
+        "marca": "Molino Cañuelas",
+        "categoria": "Galletitas",
+        "precio": 1643.18,
+        "imagen": "1468.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 402,
+        "codigo": 951,
+        "nombre": "PEPA ALEMANA 180 GR",
+        "marca": "Trio",
+        "categoria": "Galletitas",
+        "precio": 738.1,
+        "imagen": "951.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 403,
+        "codigo": 3005,
+        "nombre": "PEPAS BENJAMIN 400 GS",
+        "marca": "Benjamín",
+        "categoria": "Galletitas",
+        "precio": 1337.05,
+        "imagen": "3005.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 404,
+        "codigo": 8906,
+        "nombre": "PEPAS CHOCOTRIO 500GR",
+        "marca": "Trio",
+        "categoria": "Galletitas",
+        "precio": 2712.82,
+        "imagen": "8906.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 405,
+        "codigo": 8706,
+        "nombre": "PEPAS TRICHOC 300GR",
+        "marca": "Trio",
+        "categoria": "Galletitas",
+        "precio": 1099.89,
+        "imagen": "8706.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 406,
+        "codigo": 740,
+        "nombre": "PEPAS TRICHOC 500 GR",
+        "marca": "Trio",
+        "categoria": "Galletitas",
+        "precio": 2032.8,
+        "imagen": "740.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 407,
+        "codigo": 739,
+        "nombre": "PEPAS TRIO 500 GR",
+        "marca": "Trio",
+        "categoria": "Galletitas",
+        "precio": 1883.97,
+        "imagen": "739.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 408,
+        "codigo": 1718,
+        "nombre": "REX/KESITAS ESTUCHE 125 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 1724.25,
+        "imagen": "1718.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 409,
+        "codigo": 3090,
+        "nombre": "SALADIX CROSS 135 GR",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 1770.23,
+        "imagen": "3090.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 410,
+        "codigo": 1781,
+        "nombre": "SALADIX CROSS 67 GR",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 898.43,
+        "imagen": "1781.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 411,
+        "codigo": 1778,
+        "nombre": "SALADIX ESTUCHE TODOS 100 GR",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 1330.21,
+        "imagen": "1778.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 412,
+        "codigo": 1780,
+        "nombre": "SALADIX TIRA X6 40 GR",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 3788.63,
+        "imagen": "1780.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 413,
+        "codigo": 737,
+        "nombre": "SURTIDO BAGLEY 400 GR",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 2729.76,
+        "imagen": "737.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 414,
+        "codigo": 8836,
+        "nombre": "TEREPIN 200 GR",
+        "marca": "Terepín",
+        "categoria": "Galletitas",
+        "precio": 752.62,
+        "imagen": "8836.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 415,
+        "codigo": 1944,
+        "nombre": "TEREPIN 400 GR",
+        "marca": "Terepín",
+        "categoria": "Galletitas",
+        "precio": 1403.6,
+        "imagen": "1944.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 416,
+        "codigo": 2904,
+        "nombre": "TRAVIATA TOQUE REX/KES",
+        "marca": "Bagley",
+        "categoria": "Galletitas",
+        "precio": 738.1,
+        "imagen": "2904.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 417,
+        "codigo": 2079,
+        "nombre": "VAINILLA MAURI * 160 GS 14 U",
+        "marca": "Mauri",
+        "categoria": "Galletitas",
+        "precio": 968.0,
+        "imagen": "2079.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 418,
+        "codigo": 2077,
+        "nombre": "VAINILLA MAURI* 80 GS",
+        "marca": "Mauri",
+        "categoria": "Galletitas",
+        "precio": 453.75,
+        "imagen": "2077.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 419,
+        "codigo": 154,
+        "nombre": "BIZCOCHOS JORGITO *200 GS",
+        "marca": "Jorgito",
+        "categoria": "Galletitas",
+        "precio": 871.2,
+        "imagen": "154.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 420,
+        "codigo": 155,
+        "nombre": "BIZCOCHOS JORGITO *400 GS",
+        "marca": "Jorgito",
+        "categoria": "Galletitas",
+        "precio": 1512.5,
+        "imagen": "155.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 421,
+        "codigo": 1459,
+        "nombre": "PAR-NOR PITUSAS 160 GR",
+        "marca": "ParNor",
+        "categoria": "Galletitas",
+        "precio": 976.47,
+        "imagen": "1459.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 422,
+        "codigo": 8714,
+        "nombre": "ACE JABON LIQUIDO 800ML",
+        "marca": "ACE",
+        "categoria": "Limpieza",
+        "precio": 3025.0,
+        "imagen": "8714.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 423,
+        "codigo": 477,
+        "nombre": "ACONDICIONADOR SEDAL 190ML",
+        "marca": "Sedal",
+        "categoria": "Perfumería",
+        "precio": 3022.58,
+        "imagen": "477.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 424,
+        "codigo": 3380,
+        "nombre": "ALA CREMOSO 750ML",
+        "marca": "Ala",
+        "categoria": "Limpieza",
+        "precio": 2688.62,
+        "imagen": "3380.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 425,
+        "codigo": 2688,
+        "nombre": "ALGODON CARESS 75GR",
+        "marca": "Caress",
+        "categoria": "Perfumería",
+        "precio": 592.9,
+        "imagen": "2688.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 426,
+        "codigo": 65,
+        "nombre": "ALGODON DONCELLA *70GS",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 965.58,
+        "imagen": "65.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 427,
+        "codigo": 3155,
+        "nombre": "ALGODON DONCELLA 140GR",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 1530.65,
+        "imagen": "3155.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 428,
+        "codigo": 67,
+        "nombre": "ALGODON ESTRELLA 140GR",
+        "marca": "Estrella",
+        "categoria": "Perfumería",
+        "precio": 2268.75,
+        "imagen": "67.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 429,
+        "codigo": 66,
+        "nombre": "ALGODON ESTRELLA 75GR",
+        "marca": "Estrella",
+        "categoria": "Perfumería",
+        "precio": 925.65,
+        "imagen": "66.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 430,
+        "codigo": 1792,
+        "nombre": "ARCOR MIEL MENTA 335 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 3840.72,
+        "imagen": "1792.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 431,
+        "codigo": 1735,
+        "nombre": "ARCOR RODAJAS ACIDAS 930 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 12179.65,
+        "imagen": "1735.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 432,
+        "codigo": 2521,
+        "nombre": "BANANINA 15 GR",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 399.3,
+        "imagen": "2521.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 433,
+        "codigo": 114,
+        "nombre": "BANANITA DOLCA 14GR",
+        "marca": "Nestlé",
+        "categoria": "Golosinas",
+        "precio": 660.66,
+        "imagen": "114.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 434,
+        "codigo": 115,
+        "nombre": "BANANITA DOLCA 30GR",
+        "marca": "Nestlé",
+        "categoria": "Golosinas",
+        "precio": 1142.24,
+        "imagen": "115.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 435,
+        "codigo": 119,
+        "nombre": "BARRITA AGUILA 14GR",
+        "marca": "Aguila",
+        "categoria": "Chocolates",
+        "precio": 849.96,
+        "imagen": "119.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 436,
+        "codigo": 791,
+        "nombre": "BLEM LUSTRAMUEBLE*360",
+        "marca": "Blem",
+        "categoria": "Limpieza",
+        "precio": 4415.29,
+        "imagen": "791.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 437,
+        "codigo": 9837,
+        "nombre": "BOCADITO CERICET FELFORT",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 1689.16,
+        "imagen": "9837.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 438,
+        "codigo": 177,
+        "nombre": "BOCADITO MARROC CAJA 60 U",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 33052.36,
+        "imagen": "177.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 439,
+        "codigo": 2980,
+        "nombre": "BOMBON DOR 12 GR",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 363.0,
+        "imagen": "2980.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 440,
+        "codigo": 366,
+        "nombre": "BONAFIDE CHOCMAN 35GR",
+        "marca": "Bonafide",
+        "categoria": "Golosinas",
+        "precio": 665.5,
+        "imagen": "366.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 441,
+        "codigo": 1149,
+        "nombre": "BONAFIDE MECANO 19 GR",
+        "marca": "Bonafide",
+        "categoria": "Chocolates",
+        "precio": 728.42,
+        "imagen": "1149.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 442,
+        "codigo": 212,
+        "nombre": "BOTELLITA DE WISKY 24 GR",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 1127.12,
+        "imagen": "212.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 443,
+        "codigo": 230,
+        "nombre": "CABSHA",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 463.73,
+        "imagen": "230.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 444,
+        "codigo": 299,
+        "nombre": "CEREALFORT 23 GR",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 439.23,
+        "imagen": "299.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 445,
+        "codigo": 2173,
+        "nombre": "CHOC GEORGALOS FULL MANI 150",
+        "marca": "Georgalos",
+        "categoria": "Chocolates",
+        "precio": 3037.1,
+        "imagen": "2173.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 446,
+        "codigo": 1887,
+        "nombre": "CHOCO AGUILA 70% CACAO 150GR",
+        "marca": "Aguila",
+        "categoria": "Chocolates",
+        "precio": 8016.86,
+        "imagen": "1887.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 447,
+        "codigo": 6091,
+        "nombre": "CHOCOLATE AGUILA 70% CACAO 70 GR",
+        "marca": "Aguila",
+        "categoria": "Chocolates",
+        "precio": 4199.0,
+        "imagen": "6091.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 448,
+        "codigo": 338,
+        "nombre": "CHOCOLATE COFLER AIREADO X 27GR",
+        "marca": "Cofler",
+        "categoria": "Chocolates",
+        "precio": 1539.85,
+        "imagen": "338.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 449,
+        "codigo": 349,
+        "nombre": "CHOCOLATE DAQUI 70 GR",
+        "marca": "Georgalos",
+        "categoria": "Chocolates",
+        "precio": 605.0,
+        "imagen": "349.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 450,
+        "codigo": 354,
+        "nombre": "CHOCOLATE HAMLET TODOS 43 GS",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 787.71,
+        "imagen": "354.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 451,
+        "codigo": 1862,
+        "nombre": "CHOCOLATE JACK FELFORT 14 GR",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 1441.11,
+        "imagen": "1862.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 452,
+        "codigo": 356,
+        "nombre": "CHOCOLATE MISKY 25 GR",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 827.64,
+        "imagen": "356.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 453,
+        "codigo": 357,
+        "nombre": "CHOCOLATE MISKY 50 GR",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 1262.03,
+        "imagen": "357.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 454,
+        "codigo": 369,
+        "nombre": "CHOCOLATIN MISKY 8GR C/U",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 297.66,
+        "imagen": "369.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 455,
+        "codigo": 375,
+        "nombre": "CHUP ARCOR MR POP FRUTAL 50U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5844.3,
+        "imagen": "375.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 456,
+        "codigo": 392,
+        "nombre": "CHUPELATIN FELFORT UNIDAD 15 GR",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 932.91,
+        "imagen": "392.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 457,
+        "codigo": 1028,
+        "nombre": "CHUPETIN PELOTITAS 50 U",
+        "marca": "Lheritier",
+        "categoria": "Golosinas",
+        "precio": 2088.46,
+        "imagen": "1028.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 458,
+        "codigo": 391,
+        "nombre": "CHUPETIN PITO PITO 24 U",
+        "marca": "Lheritier",
+        "categoria": "Golosinas",
+        "precio": 2420.0,
+        "imagen": "391.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 459,
+        "codigo": 3302,
+        "nombre": "CIF CREMA 375GR",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 2069.1,
+        "imagen": "3302.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 460,
+        "codigo": 9874,
+        "nombre": "COFLER EXTRA 46 GR",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 1722.8,
+        "imagen": "9874.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 461,
+        "codigo": 430,
+        "nombre": "COLGATE 70GR",
+        "marca": "Colgate",
+        "categoria": "Perfumería",
+        "precio": 1928.74,
+        "imagen": "430.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 462,
+        "codigo": 9866,
+        "nombre": "CONITO DON QUIQUE",
+        "marca": "Don Quique",
+        "categoria": "Golosinas",
+        "precio": 670.34,
+        "imagen": "9866.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 463,
+        "codigo": 501,
+        "nombre": "DANCING BOCADITO *50UN",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 8359.89,
+        "imagen": "501.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 464,
+        "codigo": 2624,
+        "nombre": "DETER CIF ACTIVE 300 ML",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 1799.27,
+        "imagen": "2624.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 465,
+        "codigo": 2625,
+        "nombre": "DETER CIF ACTIVE 500 ML",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 3239.17,
+        "imagen": "2625.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 466,
+        "codigo": 9863,
+        "nombre": "DETERG.ALA CONCENT 500ML",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 2279.64,
+        "imagen": "9863.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 467,
+        "codigo": 3064,
+        "nombre": "DETERGENTE MAGISTRAL X 300",
+        "marca": "Magistral",
+        "categoria": "Limpieza",
+        "precio": 2032.8,
+        "imagen": "3064.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 468,
+        "codigo": 8828,
+        "nombre": "DONCELLA NOCTURNA",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 1239.04,
+        "imagen": "8828.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 469,
+        "codigo": 595,
+        "nombre": "ESPIRALES RAID(CAJA *12 SOBR",
+        "marca": "SC Johnson",
+        "categoria": "Varios",
+        "precio": 11071.5,
+        "imagen": "595.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 470,
+        "codigo": 3066,
+        "nombre": "ESPONJA VIRULANA LISA",
+        "marca": "Mapa Virulana",
+        "categoria": "Limpieza",
+        "precio": 750.2,
+        "imagen": "3066.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 471,
+        "codigo": 637,
+        "nombre": "FEELING *20GS",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 511.83,
+        "imagen": "637.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 472,
+        "codigo": 774,
+        "nombre": "GEL DOREE 180GR",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 2038.85,
+        "imagen": "774.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 473,
+        "codigo": 911,
+        "nombre": "JABON ALA MATIC 400GR",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 1573.0,
+        "imagen": "911.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 474,
+        "codigo": 2400,
+        "nombre": "JABON ALA MATIC 800ML",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 2620.86,
+        "imagen": "2400.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 475,
+        "codigo": 9836,
+        "nombre": "JABON ARIEL X 800 SACH",
+        "marca": "Ariel",
+        "categoria": "Limpieza",
+        "precio": 2758.8,
+        "imagen": "9836.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 476,
+        "codigo": 913,
+        "nombre": "JABON CUPIDO X 3 *90 GS",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 1379.4,
+        "imagen": "913.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 477,
+        "codigo": 914,
+        "nombre": "JABON DOVE 90 GR",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 1793.22,
+        "imagen": "914.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 478,
+        "codigo": 3183,
+        "nombre": "JABON EN PAN SIGNO",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 515.46,
+        "imagen": "3183.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 479,
+        "codigo": 3182,
+        "nombre": "JABON GRANBY 800 ML",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 2067.89,
+        "imagen": "3182.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 480,
+        "codigo": 3187,
+        "nombre": "JABON LIQ ALGABO 300 ML",
+        "marca": "Algabo S.A.",
+        "categoria": "Perfumería",
+        "precio": 1519.76,
+        "imagen": "3187.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 481,
+        "codigo": 2771,
+        "nombre": "JABON LIQUI QUERUBIN* 800 ML",
+        "marca": "Grupo Queruclor",
+        "categoria": "Limpieza",
+        "precio": 2724.92,
+        "imagen": "2771.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 482,
+        "codigo": 925,
+        "nombre": "JABON LUX 125 GR",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 1141.03,
+        "imagen": "925.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 483,
+        "codigo": 932,
+        "nombre": "JABON REXONA",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 1197.9,
+        "imagen": "932.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 484,
+        "codigo": 3188,
+        "nombre": "JABON SIGNO X3",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 1189.43,
+        "imagen": "3188.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 485,
+        "codigo": 198,
+        "nombre": "JACKELIN BOMBON 14 GR  C/U",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 809.49,
+        "imagen": "198.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 486,
+        "codigo": 938,
+        "nombre": "JUGO CLIGHT* 20 SOBRES",
+        "marca": "Mondelez",
+        "categoria": "Almacén",
+        "precio": 7875.89,
+        "imagen": "938.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 487,
+        "codigo": 947,
+        "nombre": "KINDER BUENO* 43 GS",
+        "marca": "Ferrero Rocher",
+        "categoria": "Chocolates",
+        "precio": 2826.56,
+        "imagen": "947.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 488,
+        "codigo": 958,
+        "nombre": "KOLYNOS 70 GR",
+        "marca": "Colgate",
+        "categoria": "Perfumería",
+        "precio": 1649.23,
+        "imagen": "958.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 489,
+        "codigo": 2487,
+        "nombre": "KOOKY BON 10 GR",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 278.3,
+        "imagen": "2487.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 490,
+        "codigo": 2340,
+        "nombre": "LAVANDINA  HEROE  1 LITRO",
+        "marca": "",
+        "categoria": "Limpieza",
+        "precio": 767.14,
+        "imagen": "2340.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 491,
+        "codigo": 1010,
+        "nombre": "LAVANDINA AYUDIN CLASICA 1 L",
+        "marca": "Ayudín",
+        "categoria": "Limpieza",
+        "precio": 1056.33,
+        "imagen": "1010.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 492,
+        "codigo": 9875,
+        "nombre": "LICOR AL CHOCOLATE  500 GR",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 15622.31,
+        "imagen": "9875.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 493,
+        "codigo": 8723,
+        "nombre": "LICORFORT WHISKY 13 G",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 808.28,
+        "imagen": "8723.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 494,
+        "codigo": 1033,
+        "nombre": "LICORITAS* 20 GS",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 768.35,
+        "imagen": "1033.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 495,
+        "codigo": 1042,
+        "nombre": "LIMPIADOR POETT 900ML",
+        "marca": "Ayudín",
+        "categoria": "Limpieza",
+        "precio": 1754.5,
+        "imagen": "1042.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 496,
+        "codigo": 3381,
+        "nombre": "MAGISTRAL DETERGENT 225ML",
+        "marca": "Magistral",
+        "categoria": "Limpieza",
+        "precio": 1517.34,
+        "imagen": "3381.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 497,
+        "codigo": 1095,
+        "nombre": "MANTECOL 111 GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 2480.5,
+        "imagen": "1095.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 498,
+        "codigo": 1093,
+        "nombre": "MANTECOL 26GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 706.64,
+        "imagen": "1093.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 499,
+        "codigo": 1103,
+        "nombre": "MANTECOL 40 GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 1246.3,
+        "imagen": "1103.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 500,
+        "codigo": 1090,
+        "nombre": "MANTECOL 64 GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 1429.01,
+        "imagen": "1090.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 501,
+        "codigo": 176,
+        "nombre": "MARROC",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 550.55,
+        "imagen": "176.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 502,
+        "codigo": 903,
+        "nombre": "MATA MOSCAS SELTON*360 CC",
+        "marca": "Ayudín",
+        "categoria": "Varios",
+        "precio": 4446.75,
+        "imagen": "903.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 503,
+        "codigo": 1152,
+        "nombre": "MEDALLON DDL 21GS",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 728.96,
+        "imagen": "1152.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 504,
+        "codigo": 1151,
+        "nombre": "MENTITAS FELFORT 16 GR",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 453.75,
+        "imagen": "1151.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 505,
+        "codigo": 1197,
+        "nombre": "MILKA CHOCO PAUSE* 45 GS",
+        "marca": "Milka",
+        "categoria": "Chocolates",
+        "precio": 1502.82,
+        "imagen": "1197.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 506,
+        "codigo": 688,
+        "nombre": "MOGUL VIBORITA  12 U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 7474.35,
+        "imagen": "688.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 507,
+        "codigo": 1247,
+        "nombre": "MONEDA PIRATA FELFORT 5 GR  C/U",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 324.28,
+        "imagen": "1247.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 508,
+        "codigo": 9868,
+        "nombre": "NUGATON 27G",
+        "marca": "Bonafide",
+        "categoria": "Golosinas",
+        "precio": 716.32,
+        "imagen": "9868.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 509,
+        "codigo": 1440,
+        "nombre": "PAPEL HIG FELPITA*4 X 30 MTS",
+        "marca": "Felpita",
+        "categoria": "Limpieza",
+        "precio": 1639.55,
+        "imagen": "1440.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 510,
+        "codigo": 1444,
+        "nombre": "PAPEL HIGIENICO VUAL*50 MTS",
+        "marca": "Vual",
+        "categoria": "Limpieza",
+        "precio": 514.25,
+        "imagen": "1444.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 511,
+        "codigo": 1439,
+        "nombre": "PAPEL HIGIENOL MAX 80M",
+        "marca": "Higienol",
+        "categoria": "Limpieza",
+        "precio": 4114.0,
+        "imagen": "1439.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 512,
+        "codigo": 1462,
+        "nombre": "PARAGUITAS FELFORT 13 GR",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 615.41,
+        "imagen": "1462.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 513,
+        "codigo": 3184,
+        "nombre": "PASTA ORAL-B  70 GR",
+        "marca": "Oral-b",
+        "categoria": "Perfumería",
+        "precio": 1712.15,
+        "imagen": "3184.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 514,
+        "codigo": 1617,
+        "nombre": "PROCENEX 900",
+        "marca": "Procenex",
+        "categoria": "Limpieza",
+        "precio": 1512.5,
+        "imagen": "1617.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 515,
+        "codigo": 3065,
+        "nombre": "PROTECTOR DONCELLA ROSA X 40",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 1754.5,
+        "imagen": "3065.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 516,
+        "codigo": 1623,
+        "nombre": "PROTECTORES CALIPSO* 20 UNI",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 963.16,
+        "imagen": "1623.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 517,
+        "codigo": 2456,
+        "nombre": "PROTECTORES DONCELLA VERDE*2",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 974.05,
+        "imagen": "2456.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 518,
+        "codigo": 1630,
+        "nombre": "PROTECTORES DONCELLA VIOLETA",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 1119.25,
+        "imagen": "1630.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 519,
+        "codigo": 1017,
+        "nombre": "QUERUBIN SUAVIZANTE*900",
+        "marca": "Grupo Queruclor",
+        "categoria": "Limpieza",
+        "precio": 2843.5,
+        "imagen": "1017.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 520,
+        "codigo": 8724,
+        "nombre": "REGALIZ BULL DOG 360 GR",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 5465.57,
+        "imagen": "8724.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 521,
+        "codigo": 3305,
+        "nombre": "ROLLO CARTABELLA 3X120 PAÑOS",
+        "marca": "",
+        "categoria": "Limpieza",
+        "precio": 1303.17,
+        "imagen": "3305.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 522,
+        "codigo": 1737,
+        "nombre": "ROLLO COCINA ELEGANTE 3 UNID",
+        "marca": "Elegante",
+        "categoria": "Limpieza",
+        "precio": 1675.85,
+        "imagen": "1737.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 523,
+        "codigo": 1740,
+        "nombre": "ROLLO COCINA SPUM* 3 UNID",
+        "marca": "",
+        "categoria": "Limpieza",
+        "precio": 1168.86,
+        "imagen": "1740.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 524,
+        "codigo": 1741,
+        "nombre": "ROLLO COCINA SUSSEX* 3 UNID",
+        "marca": "Sussex",
+        "categoria": "Limpieza",
+        "precio": 1931.16,
+        "imagen": "1741.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 525,
+        "codigo": 3153,
+        "nombre": "SHAMPOO PLUSBELLE 1000ML",
+        "marca": "Plusbelle",
+        "categoria": "Perfumería",
+        "precio": 3161.73,
+        "imagen": "3153.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 526,
+        "codigo": 1819,
+        "nombre": "SHAMPOO SEDAL TODOS 190ML",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 3022.58,
+        "imagen": "1819.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 527,
+        "codigo": 3174,
+        "nombre": "TABLETA VAUQUITA 25 GR",
+        "marca": "Vauquita",
+        "categoria": "Golosinas",
+        "precio": 465.85,
+        "imagen": "3174.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 528,
+        "codigo": 1900,
+        "nombre": "TALCO EFFICIENT 100GR",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 2894.32,
+        "imagen": "1900.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 529,
+        "codigo": 1957,
+        "nombre": "TIVIS* 25 GS",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 813.4,
+        "imagen": "1957.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 530,
+        "codigo": 1962,
+        "nombre": "TOALLAS  LINA C/ ALAS* 8 UNI",
+        "marca": "Lina",
+        "categoria": "Perfumería",
+        "precio": 1012.77,
+        "imagen": "1962.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 531,
+        "codigo": 1963,
+        "nombre": "TOALLAS DONCELLA TANGA* 8 UN",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 756.25,
+        "imagen": "1963.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 532,
+        "codigo": 1966,
+        "nombre": "TOALLAS LADYSOF NORMAL 8U",
+        "marca": "Ladysoft",
+        "categoria": "Perfumería",
+        "precio": 959.53,
+        "imagen": "1966.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 533,
+        "codigo": 8835,
+        "nombre": "WINING 20 GR",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 635.25,
+        "imagen": "8835.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 534,
+        "codigo": 2519,
+        "nombre": "YUMMY ANIMALES/MORAS 12 UN",
+        "marca": "Billiken",
+        "categoria": "Golosinas",
+        "precio": 5368.77,
+        "imagen": "2519.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 535,
+        "codigo": 372,
+        "nombre": "CHOCOLATIN GEORGALOS *40UNID",
+        "marca": "Georgalos",
+        "categoria": "Chocolates",
+        "precio": 11676.5,
+        "imagen": "372.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 536,
+        "codigo": 9833,
+        "nombre": "JABON EN PAN ALA 200G",
+        "marca": "Unilever",
+        "categoria": "Limpieza",
+        "precio": 1518.55,
+        "imagen": "9833.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 537,
+        "codigo": 8891,
+        "nombre": "MILKA RASPBERRY CREME 100GR",
+        "marca": "Milka",
+        "categoria": "Chocolates",
+        "precio": 6166.16,
+        "imagen": "8891.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 538,
+        "codigo": 2988,
+        "nombre": "PAPEL  HIGIEN.VUAL 4X80 MT",
+        "marca": "Vual",
+        "categoria": "Limpieza",
+        "precio": 2528.9,
+        "imagen": "2988.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 539,
+        "codigo": 203,
+        "nombre": "BONOBON BCO/NEGRO 15GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 401.48,
+        "imagen": "203.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 540,
+        "codigo": 1306,
+        "nombre": "BONOBON OBLEA 30 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 825.83,
+        "imagen": "1306.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 541,
+        "codigo": 1731,
+        "nombre": "ROCKLETS 20 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 785.17,
+        "imagen": "1731.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 542,
+        "codigo": 1732,
+        "nombre": "ROCKLETS 40 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 1388.66,
+        "imagen": "1732.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 543,
+        "codigo": 1730,
+        "nombre": "ROCKLETS MINI 10 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 388.77,
+        "imagen": "1730.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 544,
+        "codigo": 3250,
+        "nombre": "MAIZENA 220GR",
+        "marca": "Unilever",
+        "categoria": "Almacén",
+        "precio": 1749.66,
+        "imagen": "3250.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 545,
+        "codigo": 9882,
+        "nombre": "CARAMELOS BUTTER TOFFEES PISTACHO 648 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5854.46,
+        "imagen": "9882.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 546,
+        "codigo": 53,
+        "nombre": "ALF TERRABUSI TRIPLE TORTA",
+        "marca": "Terrabusi",
+        "categoria": "Alfajores",
+        "precio": 1225.73,
+        "imagen": "53.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 547,
+        "codigo": 57,
+        "nombre": "ALFAJOR JORGELÍN X85 GR",
+        "marca": "Jorgito",
+        "categoria": "Alfajores",
+        "precio": 1159.18,
+        "imagen": "57.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 548,
+        "codigo": 62,
+        "nombre": "ALFAJOR GUAYMALLEN TRIPLE",
+        "marca": "Guaymallén",
+        "categoria": "Alfajores",
+        "precio": 422.29,
+        "imagen": "62.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 549,
+        "codigo": 1664,
+        "nombre": "RAPSODIA MINI TORTA 80 GR",
+        "marca": "Nevares",
+        "categoria": "Golosinas",
+        "precio": 600.16,
+        "imagen": "1664.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 550,
+        "codigo": 2301,
+        "nombre": "ALFAJOR TITA 36 GR",
+        "marca": "Mondelez",
+        "categoria": "Alfajores",
+        "precio": 598.95,
+        "imagen": "2301.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 551,
+        "codigo": 2356,
+        "nombre": "ALFAJOR RECOVA",
+        "marca": "La Recova",
+        "categoria": "Alfajores",
+        "precio": 536.03,
+        "imagen": "2356.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 552,
+        "codigo": 2553,
+        "nombre": "PATE PICADILLO MAROLIO 90GS",
+        "marca": "Marolio",
+        "categoria": "Almacén",
+        "precio": 906.29,
+        "imagen": "2553.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 553,
+        "codigo": 2718,
+        "nombre": "MINI PEPITOS 50 GR",
+        "marca": "Mondelez",
+        "categoria": "Galletitas",
+        "precio": 849.36,
+        "imagen": "2718.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 554,
+        "codigo": 3145,
+        "nombre": "CUMANA LOMOS ATUN 170GR",
+        "marca": "Bavosi",
+        "categoria": "Almacén",
+        "precio": 2783.0,
+        "imagen": "3145.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 555,
+        "codigo": 3172,
+        "nombre": "ALFAJOR VAUQUITA SUBLIME",
+        "marca": "Vauquita",
+        "categoria": "Alfajores",
+        "precio": 895.4,
+        "imagen": "3172.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 556,
+        "codigo": 3251,
+        "nombre": "FIDEO LUCCHETTI TIRAB 500GR",
+        "marca": "Molinos",
+        "categoria": "Almacén",
+        "precio": 1196.69,
+        "imagen": "3251.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 557,
+        "codigo": 3252,
+        "nombre": "FIDEO LUCCHETTI MOSTA 500GR",
+        "marca": "Molinos",
+        "categoria": "Almacén",
+        "precio": 1196.69,
+        "imagen": "3252.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 558,
+        "codigo": 3253,
+        "nombre": "FIDEO LUCCHETTI SPAGHE 500GR",
+        "marca": "Molinos",
+        "categoria": "Almacén",
+        "precio": 1196.69,
+        "imagen": "3253.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 559,
+        "codigo": 3254,
+        "nombre": "ACEITE MANCERA 900ML",
+        "marca": "La Mancera",
+        "categoria": "Almacén",
+        "precio": 3458.18,
+        "imagen": "3254.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 560,
+        "codigo": 8838,
+        "nombre": "ALFAJOR GUAYMALLEN RUBI 50G",
+        "marca": "Guaymallén",
+        "categoria": "Alfajores",
+        "precio": 532.4,
+        "imagen": "8838.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 561,
+        "codigo": 8842,
+        "nombre": "ALFAJOR DON QUIQUE MERENGUE",
+        "marca": "Don Quique",
+        "categoria": "Alfajores",
+        "precio": 1059.96,
+        "imagen": "8842.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 562,
+        "codigo": 9862,
+        "nombre": "PICNIC NEVARES",
+        "marca": "Nevares",
+        "categoria": "Golosinas",
+        "precio": 350.9,
+        "imagen": "9862.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 563,
+        "codigo": 9864,
+        "nombre": "ALFAJOR DON QUIQUE NEGRO",
+        "marca": "Don Quique",
+        "categoria": "Alfajores",
+        "precio": 750.2,
+        "imagen": "9864.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 564,
+        "codigo": 9865,
+        "nombre": "ALFAJOR DON QUIQUE MAICENA",
+        "marca": "Don Quique",
+        "categoria": "Alfajores",
+        "precio": 678.81,
+        "imagen": "9865.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 565,
+        "codigo": 9867,
+        "nombre": "ALFAJOR MARLEY SIMPLE",
+        "marca": "Marley",
+        "categoria": "Alfajores",
+        "precio": 937.75,
+        "imagen": "9867.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 566,
+        "codigo": 9869,
+        "nombre": "ALFAJOR CACHAFAZ 60G",
+        "marca": "Cachafaz",
+        "categoria": "Alfajores",
+        "precio": 1686.74,
+        "imagen": "9869.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 567,
+        "codigo": 9883,
+        "nombre": "MANTECOL BAÑADO 20GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 847.0,
+        "imagen": "9883.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 568,
+        "codigo": 9884,
+        "nombre": "SPORT POP C/U",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1804.11,
+        "imagen": "9884.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 569,
+        "codigo": 9885,
+        "nombre": "UNI POP  C/U",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 2065.47,
+        "imagen": "9885.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 570,
+        "codigo": 9887,
+        "nombre": "BELDENT CONFITADO SANDIA",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 7223.7,
+        "imagen": "9887.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 571,
+        "codigo": 8831,
+        "nombre": "BULLDOG REGALIZ ACIDO 75GR",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 793.76,
+        "imagen": "8831.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 572,
+        "codigo": 1312,
+        "nombre": "OBLEA SMACK X 33 GR",
+        "marca": "Smack",
+        "categoria": "Golosinas",
+        "precio": 278.3,
+        "imagen": "1312.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 573,
+        "codigo": 2615,
+        "nombre": "CUBANITO SMACK X 27 GR",
+        "marca": "Smack",
+        "categoria": "Golosinas",
+        "precio": 278.3,
+        "imagen": "2615.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 574,
+        "codigo": 2050,
+        "nombre": "TURRON DE MANI ARCOR X 25 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 226.15,
+        "imagen": "2050.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 575,
+        "codigo": 2052,
+        "nombre": "TURRON MANI  NEVARES X 25 GR",
+        "marca": "Nevares",
+        "categoria": "Golosinas",
+        "precio": 205.7,
+        "imagen": "2052.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 576,
+        "codigo": 2051,
+        "nombre": "TURRON MANI MISKY X 25 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 186.34,
+        "imagen": "2051.webp",
         "activo": true
     }
 ]
