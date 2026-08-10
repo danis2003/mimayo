@@ -35,6 +35,20 @@ const modalImagenTrack = document.getElementById("modalImagenTrack");
 let imagenesModal = [];
 let indiceImagenModal = 0;
 
+// ==========================================
+// SWIPE TÁCTIL DEL CARRUSEL
+// ==========================================
+
+let inicioTouchX = 0;
+let inicioTouchY = 0;
+
+// ==========================================
+// SWIPE TÁCTIL DEL MODAL
+// ==========================================
+
+let inicioTouchModalX = 0;
+let inicioTouchModalY = 0;
+
 contenedorProductos.addEventListener("click", (e) => {
   // Los controles del carrusel no deben abrir el modal.
   if (e.target.closest(".carrusel-control")) {
@@ -44,6 +58,11 @@ contenedorProductos.addEventListener("click", (e) => {
   const tarjeta = e.target.closest(".tarjeta");
 
   if (!tarjeta) return;
+
+  if (tarjeta.dataset.suprimirClick === "true") {
+    tarjeta.dataset.suprimirClick = "false";
+    return;
+  }
 
   const codigo = Number(tarjeta.dataset.codigo);
 
@@ -324,6 +343,89 @@ contenedorProductos.addEventListener("click", (e) => {
   }
 
   cambiarImagenCarrusel(tarjeta, nuevoIndice);
+});
+
+// ==========================================
+// DETECTAR SWIPE EN CARRUSEL
+// ==========================================
+
+contenedorProductos.addEventListener("touchstart", (e) => {
+  const carrusel = e.target.closest(".carrusel-producto");
+
+  if (!carrusel) return;
+
+  const tarjeta = carrusel.closest(".tarjeta");
+
+  if (!tarjeta) return;
+
+  const imagenes = JSON.parse(tarjeta.dataset.imagenes);
+
+  // Un producto con una sola imagen no tiene swipe.
+  if (imagenes.length <= 1) return;
+
+  const touch = e.touches[0];
+
+  inicioTouchX = touch.clientX;
+  inicioTouchY = touch.clientY;
+});
+
+contenedorProductos.addEventListener("touchend", (e) => {
+  const carrusel = e.target.closest(".carrusel-producto");
+
+  if (!carrusel) return;
+
+  const tarjeta = carrusel.closest(".tarjeta");
+
+  if (!tarjeta) return;
+
+  const imagenes = JSON.parse(tarjeta.dataset.imagenes);
+
+  if (imagenes.length <= 1) return;
+
+  const touch = e.changedTouches[0];
+
+  const diferenciaX = touch.clientX - inicioTouchX;
+  const diferenciaY = touch.clientY - inicioTouchY;
+
+  const distanciaMinima = 50;
+
+  // Si el movimiento fue principalmente vertical,
+  // no intervenimos en el scroll de la página.
+  if (Math.abs(diferenciaX) <= Math.abs(diferenciaY)) {
+    return;
+  }
+
+  // Movimiento horizontal demasiado pequeño:
+  // se considera un toque normal.
+  if (Math.abs(diferenciaX) < distanciaMinima) {
+    return;
+  }
+
+  const indiceActual = Number(tarjeta.dataset.indiceImagen);
+
+  let nuevoIndice;
+
+  if (diferenciaX < 0) {
+    // Deslizar hacia la izquierda → siguiente.
+    nuevoIndice = indiceActual + 1;
+
+    if (nuevoIndice >= imagenes.length) {
+      nuevoIndice = 0;
+    }
+  } else {
+    // Deslizar hacia la derecha → anterior.
+    nuevoIndice = indiceActual - 1;
+
+    if (nuevoIndice < 0) {
+      nuevoIndice = imagenes.length - 1;
+    }
+  }
+
+  cambiarImagenCarrusel(tarjeta, nuevoIndice);
+
+  // Evita que el click generado después del gesto
+  // abra accidentalmente el modal.
+  tarjeta.dataset.suprimirClick = "true";
 });
 
 function renderizarCategorias() {
@@ -685,6 +787,69 @@ modalIndicadores.addEventListener("click", (e) => {
   e.stopPropagation();
 
   indiceImagenModal = Number(punto.dataset.indice);
+
+  actualizarImagenModal();
+});
+
+// ==========================================
+// SWIPE TÁCTIL DEL MODAL
+// ==========================================
+
+const modalCarruselViewport = document.querySelector(
+  ".modal-carrusel-viewport",
+);
+
+modalCarruselViewport.addEventListener("touchstart", (e) => {
+  if (imagenesModal.length <= 1) {
+    return;
+  }
+
+  const touch = e.touches[0];
+
+  inicioTouchModalX = touch.clientX;
+  inicioTouchModalY = touch.clientY;
+});
+
+modalCarruselViewport.addEventListener("touchend", (e) => {
+  if (imagenesModal.length <= 1) {
+    return;
+  }
+
+  const touch = e.changedTouches[0];
+
+  const diferenciaX = touch.clientX - inicioTouchModalX;
+
+  const diferenciaY = touch.clientY - inicioTouchModalY;
+
+  const distanciaMinima = 50;
+
+  // Si el movimiento fue principalmente vertical,
+  // dejamos que el usuario haga scroll.
+  if (Math.abs(diferenciaX) <= Math.abs(diferenciaY)) {
+    return;
+  }
+
+  // Movimiento horizontal demasiado pequeño:
+  // se considera un toque normal.
+  if (Math.abs(diferenciaX) < distanciaMinima) {
+    return;
+  }
+
+  if (diferenciaX < 0) {
+    // Deslizar hacia la izquierda → siguiente imagen.
+    indiceImagenModal++;
+
+    if (indiceImagenModal >= imagenesModal.length) {
+      indiceImagenModal = 0;
+    }
+  } else {
+    // Deslizar hacia la derecha → imagen anterior.
+    indiceImagenModal--;
+
+    if (indiceImagenModal < 0) {
+      indiceImagenModal = imagenesModal.length - 1;
+    }
+  }
 
   actualizarImagenModal();
 });
