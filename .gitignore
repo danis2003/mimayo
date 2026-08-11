@@ -27,6 +27,8 @@ build/
 img/pendientes/
 img/procesadas_png/
 img/productos_defectuosos/
+img/normalizadas/
+img/originales_descargadas/
 
 # Datos del negocio
 data/*.xlsx
