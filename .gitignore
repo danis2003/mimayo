@@ -20,9 +20,6 @@ Desktop.ini
 .pytest_cache/
 .mypy_cache/
 
-# PyInstaller
-build/
-
 # Carpetas temporales
 img/pendientes/
 img/procesadas_png/
@@ -30,11 +27,15 @@ img/productos_defectuosos/
 img/normalizadas/
 img/originales_descargadas/
 
+# Carpetas de compilación
+build/
+dist/
+
 # Datos del negocio
 data/*.xlsx
 
 # Variables de entorno
 .env
 
-NormalizadorImagenes.exe
-
+# Ejecutables compilados
+*.exe
