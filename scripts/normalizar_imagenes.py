@@ -14,7 +14,7 @@ from scripts.config import BASE_DIR, RUTA_ICONO
 # CONFIGURACIÓN
 # ==========================================
 
-TAMAÑO_LIENZO = 600
+TAMAÑO_LIENZO = 800
 OCUPACION = 0.90
 TAMAÑO_PRODUCTO = int(TAMAÑO_LIENZO * OCUPACION)
 
@@ -71,7 +71,7 @@ def normalizar_imagen(ruta_origen):
     1. Elimina el fondo.
     2. Obtiene el área visible del producto.
     3. Redimensiona conservando proporción.
-    4. Lo centra en un lienzo transparente 600x600.
+    4. Lo centra en un lienzo transparente 800x800.
     5. Guarda el resultado como PNG.
     6. Mueve el original a originales_descargadas.
     """
