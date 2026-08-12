@@ -2837,7 +2837,7 @@
         "categoria": "Almacén",
         "precio": 847.0,
         "imagen": "sin-imagen.png",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 286,
@@ -4064,7 +4064,7 @@
         "codigo": 1718,
         "nombre": "REX/KESITAS ESTUCHE 125 GR",
         "marca": "Bagley",
-        "categoria": "Galletitas",
+        "categoria": "Snacks",
         "precio": 1724.25,
         "imagen": "1718.webp",
         "activo": true
