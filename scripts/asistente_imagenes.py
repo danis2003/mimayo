@@ -429,9 +429,34 @@ def mostrar_vista_previa(ruta):
     lblImagen.image = foto
 
 # ==========================================
+# MOVER IMAGEN EN LA PREVISUALIZACIÓN
+# Cambia la posición de una imagen dentro
+# de la lista de imágenes seleccionadas.
+# ==========================================
+
+def mover_imagen(indice, desplazamiento):
+
+    global archivos_variantes
+
+    nueva_posicion = indice + desplazamiento
+
+    # Verificar que la nueva posición sea válida
+    if nueva_posicion < 0 or nueva_posicion >= len(archivos_variantes):
+        return
+
+    # Intercambiar las posiciones
+    archivos_variantes[indice], archivos_variantes[nueva_posicion] = (
+        archivos_variantes[nueva_posicion],
+        archivos_variantes[indice]
+    )
+
+    # Volver a construir la previsualización
+    mostrar_previsualizacion_variantes()
+
+# ==========================================
 # PREVISUALIZAR VARIANTES
 # Muestra miniaturas de todas las imágenes
-# seleccionadas.
+# seleccionadas y permite cambiar su orden.
 # ==========================================
 
 def mostrar_previsualizacion_variantes():
@@ -507,6 +532,10 @@ def mostrar_previsualizacion_variantes():
                 sticky="nsew"
             )
 
+            # ----------------------------------
+            # Imagen
+            # ----------------------------------
+
             label = tk.Label(
                 contenedor,
                 image=foto,
@@ -517,21 +546,71 @@ def mostrar_previsualizacion_variantes():
 
             label.pack(
                 padx=5,
-                pady=5
+                pady=(5, 2)
             )
+
+            # ----------------------------------
+            # Número de imagen
+            # ----------------------------------
 
             tk.Label(
                 contenedor,
                 text=f"Imagen {indice + 1}",
-                font=("Segoe UI", 9),
+                font=("Segoe UI", 9, "bold"),
                 bg="#f5f5f5"
             ).pack(
+                pady=(0, 3)
+            )
+
+            # ----------------------------------
+            # Botones para cambiar posición
+            # ----------------------------------
+
+            frameBotones = tk.Frame(
+                contenedor,
+                bg="#f5f5f5"
+            )
+
+            frameBotones.pack(
                 pady=(0, 5)
+            )
+
+            btnSubir = tk.Button(
+                frameBotones,
+                text="▲",
+                font=("Segoe UI", 9, "bold"),
+                width=3,
+                cursor="hand2",
+                command=lambda i=indice: mover_imagen(i, -1),
+                state="disabled" if indice == 0 else "normal"
+            )
+
+            btnSubir.pack(
+                side="left",
+                padx=2
+            )
+
+            btnBajar = tk.Button(
+                frameBotones,
+                text="▼",
+                font=("Segoe UI", 9, "bold"),
+                width=3,
+                cursor="hand2",
+                command=lambda i=indice: mover_imagen(i, 1),
+                state=(
+                    "disabled"
+                    if indice == len(archivos_variantes) - 1
+                    else "normal"
+                )
+            )
+
+            btnBajar.pack(
+                side="left",
+                padx=2
             )
 
         except Exception:
             continue
-
 # ==========================================
 # Limpiar imagen principal
 # ==========================================

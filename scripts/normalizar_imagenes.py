@@ -2,12 +2,18 @@ import customtkinter as ctk
 from tkinter import filedialog, messagebox
 from pathlib import Path
 from PIL import Image, ImageFile
-from rembg import remove, new_session
-sesion_rembg = new_session("birefnet-general")
 import threading
 import shutil
+import time
+import onnxruntime as ort
+ort.preload_dlls(directory="")
+
 
 from scripts.config import BASE_DIR, RUTA_ICONO
+
+sesion_rembg = None
+remove = None
+motor_rembg_listo = False
 
 
 # ==========================================
@@ -33,6 +39,29 @@ CARPETA_ORIGINALES = BASE_DIR / "img" / "originales_descargadas"
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
+# ==========================================
+# CARGA DEL MOTOR REMBG
+# ==========================================
+
+def cargar_motor_rembg():
+
+    global sesion_rembg
+    global remove
+    global motor_rembg_listo
+
+    try:
+
+        from rembg import remove as rembg_remove, new_session
+
+        remove = rembg_remove
+
+        motor_rembg_listo = True
+
+    except Exception as error:
+
+        motor_rembg_listo = False
+
+        print(f"Error al cargar rembg: {error}")
 
 # ==========================================
 # UTILIDADES
@@ -65,63 +94,67 @@ def obtener_nombre_disponible(carpeta, nombre):
 
 
 def normalizar_imagen(ruta_origen):
-    """
-    Procesa una imagen:
+    inicio = time.perf_counter()
 
-    1. Elimina el fondo.
-    2. Obtiene el área visible del producto.
-    3. Redimensiona conservando proporción.
-    4. Lo centra en un lienzo transparente 800x800.
-    5. Guarda el resultado como PNG.
-    6. Mueve el original a originales_descargadas.
-    """
+    global sesion_rembg
+
+    if sesion_rembg is None:
+
+        from rembg import new_session
+
+        print("\nCargando motor de imágenes: bria-rmbg...")
+
+        opciones = ort.SessionOptions()
+        opciones.intra_op_num_threads = 4
+        opciones.inter_op_num_threads = 1
+
+        sesion_rembg = new_session(
+            "bria-rmbg",
+            providers=[
+                "CPUExecutionProvider",
+            ],
+            sess_options=opciones,
+        )
 
     ruta_origen = Path(ruta_origen)
 
-    # --------------------------------------
-    # Abrir imagen
-    # --------------------------------------
-
     imagen = Image.open(ruta_origen).convert("RGBA")
+    t_entrada = time.perf_counter()
 
-    # --------------------------------------
-    # Eliminar fondo
-    # --------------------------------------
-
-    imagen_sin_fondo = remove(imagen, session=sesion_rembg)
+    imagen_sin_fondo = remove(
+        imagen,
+        session=sesion_rembg,
+    )
+    print(f"BRIA remove: {time.perf_counter() - t_entrada:.2f} s")
+    t_post = time.perf_counter()
 
     if not imagen_sin_fondo.getbbox():
         raise ValueError(
             "No se pudo detectar el producto."
         )
 
-    # --------------------------------------
-    # Recortar al contenido visible
-    # --------------------------------------
-
     bbox = imagen_sin_fondo.getbbox()
 
     producto = imagen_sin_fondo.crop(bbox)
-
-    # --------------------------------------
-    # Redimensionar manteniendo proporción
-    # --------------------------------------
 
     ancho, alto = producto.size
 
     escala = TAMAÑO_PRODUCTO / max(ancho, alto)
 
-    nuevo_ancho = max(1, int(ancho * escala))
-    nuevo_alto = max(1, int(alto * escala))
+    nuevo_ancho = max(
+        1,
+        int(ancho * escala)
+    )
+
+    nuevo_alto = max(
+        1,
+        int(alto * escala)
+    )
 
     producto = producto.resize(
         (nuevo_ancho, nuevo_alto),
         Image.Resampling.LANCZOS,
     )
-
-    # --------------------------------------
-    # Crear lienzo transparente
-    # --------------------------------------
 
     lienzo = Image.new(
         "RGBA",
@@ -129,21 +162,18 @@ def normalizar_imagen(ruta_origen):
         (0, 0, 0, 0),
     )
 
-    # --------------------------------------
-    # Centrar producto
-    # --------------------------------------
+    posicion_x = (
+        TAMAÑO_LIENZO - nuevo_ancho
+    ) // 2
 
-    posicion_x = (TAMAÑO_LIENZO - nuevo_ancho) // 2
-    posicion_y = (TAMAÑO_LIENZO - nuevo_alto) // 2
+    posicion_y = (
+        TAMAÑO_LIENZO - nuevo_alto
+    ) // 2
 
     lienzo.alpha_composite(
         producto,
         (posicion_x, posicion_y),
     )
-
-    # --------------------------------------
-    # Nombre de salida
-    # --------------------------------------
 
     nombre_salida = f"{ruta_origen.stem}.png"
 
@@ -152,18 +182,10 @@ def normalizar_imagen(ruta_origen):
         nombre_salida,
     )
 
-    # --------------------------------------
-    # Guardar normalizada
-    # --------------------------------------
-
     lienzo.save(
         destino_normalizado,
         format="PNG",
     )
-
-    # --------------------------------------
-    # Mover original
-    # --------------------------------------
 
     destino_original = obtener_nombre_disponible(
         CARPETA_ORIGINALES,
@@ -175,9 +197,11 @@ def normalizar_imagen(ruta_origen):
         str(destino_original),
     )
 
+    print(f"Postprocesado + guardado: {time.perf_counter() - t_post:.2f} s")
+    print(f"TOTAL imagen: {time.perf_counter() - inicio:.2f} s")
+    print("-" * 40)
+
     return destino_normalizado
-
-
 # ==========================================
 # INTERFAZ
 # ==========================================
@@ -186,6 +210,7 @@ class Normalizador(ctk.CTk):
 
     def __init__(self):
         super().__init__()
+        self.carpeta_seleccionada = CARPETA_ENTRADA
 
         self.title("Normalizador de imágenes")
         self.geometry("850x650")
@@ -198,6 +223,37 @@ class Normalizador(ctk.CTk):
                 pass
 
         self.crear_interfaz()
+
+        self.lbl_estado.configure(
+            text="Preparando motor de imágenes..."
+        )
+
+        threading.Thread(
+            target=self.preparar_motor,
+            daemon=True
+        ).start()
+
+    def preparar_motor(self):
+
+        cargar_motor_rembg()
+
+        if motor_rembg_listo:
+
+            self.after(
+                0,
+                lambda: self.lbl_estado.configure(
+                    text="Motor listo. Preparado para normalizar."
+                )
+            )
+
+        else:
+
+            self.after(
+                0,
+                lambda: self.lbl_estado.configure(
+                    text="Error al preparar el motor."
+                )
+            )
 
     # ======================================
     # INTERFAZ
@@ -219,7 +275,7 @@ class Normalizador(ctk.CTk):
             self,
             text=(
                 "Prepara imágenes de productos para el catálogo.\n"
-                "600 × 600 px · Fondo transparente · 90% de ocupación"
+                "800 × 800 px · Fondo transparente · 90% de ocupación"
             ),
             font=("Segoe UI", 14),
         )
@@ -399,6 +455,16 @@ class Normalizador(ctk.CTk):
 
     def iniciar_proceso(self):
 
+        if not motor_rembg_listo:
+
+            messagebox.showwarning(
+                "Motor no preparado",
+                "El motor de procesamiento todavía se está preparando.\n\n"
+                "Espere unos segundos e inténtelo nuevamente."
+            )
+
+            return
+
         carpeta = getattr(
             self,
             "carpeta_seleccionada",
@@ -431,7 +497,7 @@ class Normalizador(ctk.CTk):
             (
                 f"Se encontraron {len(imagenes)} imagen(es).\n\n"
                 "Las imágenes procesadas serán:\n"
-                "• normalizadas a 600 × 600 px\n"
+                "• normalizadas a 800 × 800 px\n"
                 "• convertidas a fondo transparente\n"
                 "• guardadas en img/normalizadas/\n"
                 "• movidas a img/originales_descargadas/\n\n"
@@ -459,7 +525,6 @@ class Normalizador(ctk.CTk):
         )
 
         hilo.start()
-
     # ======================================
     # PROCESAR LOTE
     # ======================================
@@ -469,6 +534,7 @@ class Normalizador(ctk.CTk):
         total = len(imagenes)
         correctas = 0
         errores = []
+        tiempo_inicio = time.perf_counter()
 
         CARPETA_NORMALIZADAS.mkdir(
             parents=True,
@@ -489,7 +555,6 @@ class Normalizador(ctk.CTk):
             )
 
             try:
-
                 normalizar_imagen(imagen)
 
                 correctas += 1
@@ -499,6 +564,18 @@ class Normalizador(ctk.CTk):
                 errores.append(
                     f"{imagen.name}: {error}"
                 )
+        tiempo_total = time.perf_counter() - tiempo_inicio
+
+        print("\n" + "=" * 50)
+        print("RESUMEN DEL PROCESAMIENTO")
+        print("=" * 50)
+        print(f"Imágenes: {total}")
+        print(f"Correctas: {correctas}")
+        print(f"Errores: {len(errores)}")
+        print(f"Tiempo total: {tiempo_total:.2f} segundos")
+        print(f"Tiempo total: {tiempo_total / 60:.2f} minutos")
+        print(f"Promedio por imagen: {tiempo_total / total:.2f} segundos")
+        print("=" * 50)
 
         self.after(
             0,
@@ -606,7 +683,7 @@ class Normalizador(ctk.CTk):
 
 if __name__ == "__main__":
 
-    ctk.set_appearance_mode("dark")
+    ctk.set_appearance_mode("light")
     ctk.set_default_color_theme("blue")
 
     app = Normalizador()
