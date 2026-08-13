@@ -435,7 +435,7 @@
         "nombre": "ALFAJOR BONOBON TRIPLE",
         "marca": "Arcor",
         "categoria": "Alfajores",
-        "precio": 1206.98,
+        "precio": 1363.67,
         "imagen": "31.webp",
         "activo": true
     },
@@ -445,7 +445,7 @@
         "nombre": "ALFAJOR COFLER BLOCK TRIPLE",
         "marca": "Cofler",
         "categoria": "Alfajores",
-        "precio": 1206.98,
+        "precio": 1363.67,
         "imagen": "41.webp",
         "activo": true
     },
@@ -475,7 +475,7 @@
         "nombre": "ALFAJOR GOAT",
         "marca": "Arcor",
         "categoria": "Alfajores",
-        "precio": 1759.64,
+        "precio": 1452.0,
         "imagen": "8733.webp",
         "activo": true
     },
@@ -575,7 +575,7 @@
         "nombre": "ALFAJOR MINITORTA AGUILA",
         "marca": "Aguila",
         "categoria": "Alfajores",
-        "precio": 1206.98,
+        "precio": 1331.0,
         "imagen": "64.webp",
         "activo": true
     },
@@ -595,7 +595,7 @@
         "nombre": "ARCOR RELLENO MIEL 675 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7699.23,
+        "precio": 7441.5,
         "imagen": "1791.webp",
         "activo": true
     },
@@ -645,7 +645,7 @@
         "nombre": "BILLIKEN MAST FRUTA 600GR",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 4750.46,
+        "precio": 4235.0,
         "imagen": "887.webp",
         "activo": true
     },
@@ -755,7 +755,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 110GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 3684.45,
+        "precio": 3533.2,
         "imagen": "342.webp",
         "activo": true
     },
@@ -765,7 +765,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 170GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 6559.59,
+        "precio": 6292.0,
         "imagen": "340.webp",
         "activo": true
     },
@@ -775,7 +775,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 38GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 1499.19,
+        "precio": 1524.6,
         "imagen": "341.webp",
         "activo": true
     },
@@ -1065,7 +1065,7 @@
         "nombre": "MOGUL DIENTES 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5841.76,
+        "precio": 6071.78,
         "imagen": "1240.webp",
         "activo": true
     },
@@ -1075,7 +1075,7 @@
         "nombre": "MOGUL EXTREME FRUTILLA 500 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5602.91,
+        "precio": 6071.78,
         "imagen": "8804.webp",
         "activo": true
     },
@@ -1095,7 +1095,7 @@
         "nombre": "MOGUL MORAS 500 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5841.76,
+        "precio": 6071.78,
         "imagen": "1245.webp",
         "activo": true
     },
@@ -1365,7 +1365,7 @@
         "nombre": "BUTTER TOFFEES TODOS 822 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9401.7,
+        "precio": 8914.07,
         "imagen": "890.webp",
         "activo": true
     },
@@ -1485,7 +1485,7 @@
         "nombre": "MOGUL EXTREME TUBITOS 500 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6422.38,
+        "precio": 6171.0,
         "imagen": "8713.webp",
         "activo": true
     },
@@ -1525,7 +1525,7 @@
         "nombre": "PALITO DE LA SELVA 660 GR",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 9846.38,
+        "precio": 9377.5,
         "imagen": "1388.webp",
         "activo": true
     },
@@ -1555,7 +1555,7 @@
         "nombre": "SUGUS CONFITADOS X 50 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 1181.57,
+        "precio": 1149.5,
         "imagen": "1871.webp",
         "activo": true
     },
@@ -1695,7 +1695,7 @@
         "nombre": "CAFE LA MORENITA EN SAQUIT *",
         "marca": "Morenita",
         "categoria": "Almacén",
-        "precio": 5123.14,
+        "precio": 4895.66,
         "imagen": "235.webp",
         "activo": true
     },
@@ -1705,7 +1705,7 @@
         "nombre": "CAFE LA VIRG SAQUI 20 U*5GR",
         "marca": "La Virginia",
         "categoria": "Almacén",
-        "precio": 5304.64,
+        "precio": 4976.73,
         "imagen": "244.webp",
         "activo": true
     },
@@ -1755,7 +1755,7 @@
         "nombre": "CAPPU MOCHA LV DOYPACK 125G",
         "marca": "La Virginia",
         "categoria": "Almacén",
-        "precio": 3698.97,
+        "precio": 3988.16,
         "imagen": "9842.webp",
         "activo": true
     },
@@ -1765,7 +1765,7 @@
         "nombre": "CAPPUCCINO LV DOYPACK 125GR",
         "marca": "La Virginia",
         "categoria": "Almacén",
-        "precio": 2911.26,
+        "precio": 3327.5,
         "imagen": "9840.webp",
         "activo": true
     },
@@ -2125,7 +2125,7 @@
         "nombre": "YERBA UNION 500 GR",
         "marca": "Las Marías",
         "categoria": "Almacén",
-        "precio": 1891.23,
+        "precio": 2030.38,
         "imagen": "2149.webp",
         "activo": true
     },
@@ -2195,7 +2195,7 @@
         "nombre": "BIZCOCHO 9 DE ORO TODOS 200G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1197.9,
+        "precio": 1234.2,
         "imagen": "156.webp",
         "activo": true
     },
@@ -2295,7 +2295,7 @@
         "nombre": "RUMBA x 112 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1149.5,
+        "precio": 1361.25,
         "imagen": "1764.webp",
         "activo": true
     },
@@ -2705,7 +2705,7 @@
         "nombre": "CONDIMENTO PIZZA ALICANTE 25GR",
         "marca": "Alicante",
         "categoria": "Almacén",
-        "precio": 807.07,
+        "precio": 853.05,
         "imagen": "440.webp",
         "activo": true
     },
@@ -2815,7 +2815,7 @@
         "nombre": "OREGANO ALICANTE 25GR",
         "marca": "Alicante",
         "categoria": "Almacén",
-        "precio": 1155.55,
+        "precio": 1110.78,
         "imagen": "1357.webp",
         "activo": true
     },
@@ -3385,7 +3385,7 @@
         "nombre": "CAJA MERENKOA 12 UNIDADES",
         "marca": "Urquiza",
         "categoria": "Golosinas",
-        "precio": 7550.4,
+        "precio": 9002.4,
         "imagen": "9843.webp",
         "activo": true
     },
@@ -3455,7 +3455,7 @@
         "nombre": "CONITO JORGITO",
         "marca": "Jorgito",
         "categoria": "Golosinas",
-        "precio": 951.06,
+        "precio": 971.63,
         "imagen": "9856.webp",
         "activo": true
     },
@@ -3505,7 +3505,7 @@
         "nombre": "MERENKOA 15GR",
         "marca": "Urquiza",
         "categoria": "Golosinas",
-        "precio": 629.2,
+        "precio": 750.2,
         "imagen": "1179.webp",
         "activo": true
     },
@@ -3515,7 +3515,7 @@
         "nombre": "MOGUL ANILLOS X 1KG",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9560.51,
+        "precio": 9631.6,
         "imagen": "8843.webp",
         "activo": true
     },
@@ -3665,7 +3665,7 @@
         "nombre": "DON SATUR TALITAS 140  GS",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1012.77,
+        "precio": 1418.12,
         "imagen": "537.webp",
         "activo": true
     },
@@ -3705,7 +3705,7 @@
         "nombre": "FRUTIGRAN C/CHIPS CHOCO  255",
         "marca": "Granix",
         "categoria": "Galletitas",
-        "precio": 2203.41,
+        "precio": 2249.39,
         "imagen": "1341.webp",
         "activo": true
     },
@@ -3845,7 +3845,7 @@
         "nombre": "GRANIX SANDWICH *200 GS",
         "marca": "Granix",
         "categoria": "Galletitas",
-        "precio": 1173.7,
+        "precio": 1113.2,
         "imagen": "809.webp",
         "activo": true
     },
@@ -3975,7 +3975,7 @@
         "nombre": "PARNOR TODAS 140 GS",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 877.25,
+        "precio": 895.4,
         "imagen": "1457.webp",
         "activo": true
     },
@@ -4175,7 +4175,7 @@
         "nombre": "BIZCOCHOS JORGITO *200 GS",
         "marca": "Jorgito",
         "categoria": "Galletitas",
-        "precio": 871.2,
+        "precio": 889.35,
         "imagen": "154.webp",
         "activo": true
     },
@@ -4515,7 +4515,7 @@
         "nombre": "CHOCOLATE MISKY 50 GR",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 1262.03,
+        "precio": 1418.12,
         "imagen": "357.webp",
         "activo": true
     },
@@ -4535,7 +4535,7 @@
         "nombre": "CHUP ARCOR MR POP FRUTAL 50U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5844.3,
+        "precio": 5912.06,
         "imagen": "375.webp",
         "activo": true
     },
@@ -4855,7 +4855,7 @@
         "nombre": "KINDER BUENO* 43 GS",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 2826.56,
+        "precio": 2308.68,
         "imagen": "947.webp",
         "activo": true
     },
@@ -5055,7 +5055,7 @@
         "nombre": "MONEDA PIRATA FELFORT 5 GR  C/U",
         "marca": "FelFort",
         "categoria": "Chocolates",
-        "precio": 324.28,
+        "precio": 308.55,
         "imagen": "1247.webp",
         "activo": true
     },
@@ -5225,7 +5225,7 @@
         "nombre": "ROLLO COCINA SUSSEX* 3 UNID",
         "marca": "Sussex",
         "categoria": "Limpieza",
-        "precio": 1931.16,
+        "precio": 1754.5,
         "imagen": "1741.webp",
         "activo": true
     },
@@ -5325,7 +5325,7 @@
         "nombre": "YUMMY ANIMALES/MORAS 12 UN",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 5368.77,
+        "precio": 5478.88,
         "imagen": "2519.webp",
         "activo": true
     },
@@ -5375,7 +5375,7 @@
         "nombre": "BONOBON BCO/NEGRO 15GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 401.48,
+        "precio": 423.5,
         "imagen": "203.webp",
         "activo": true
     },
@@ -5395,7 +5395,7 @@
         "nombre": "ROCKLETS 20 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 785.17,
+        "precio": 745.36,
         "imagen": "1731.webp",
         "activo": true
     },
@@ -5405,7 +5405,7 @@
         "nombre": "ROCKLETS 40 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 1388.66,
+        "precio": 1506.45,
         "imagen": "1732.webp",
         "activo": true
     },
@@ -5495,7 +5495,7 @@
         "nombre": "ALFAJOR RECOVA",
         "marca": "La Recova",
         "categoria": "Alfajores",
-        "precio": 536.03,
+        "precio": 556.6,
         "imagen": "2356.webp",
         "activo": true
     },
@@ -5725,7 +5725,7 @@
         "nombre": "TURRON DE MANI ARCOR X 25 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 226.15,
+        "precio": 261.36,
         "imagen": "2050.webp",
         "activo": true
     },
@@ -5745,7 +5745,7 @@
         "nombre": "TURRON MANI MISKY X 25 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 186.34,
+        "precio": 208.12,
         "imagen": "2051.webp",
         "activo": true
     }
