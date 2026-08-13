@@ -375,7 +375,7 @@
         "nombre": "ALFAJOR MILKA  SIMPLE",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 773.19,
+        "precio": 790.13,
         "imagen": "3011.webp",
         "activo": true
     },
@@ -565,7 +565,7 @@
         "nombre": "ALFAJOR MILKA SUPER DDL 70GR",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1235.41,
+        "precio": 1203.95,
         "imagen": "2302.webp",
         "activo": true
     },
@@ -585,7 +585,7 @@
         "nombre": "ALFAJOR TRISHOT",
         "marca": "Shot",
         "categoria": "Alfajores",
-        "precio": 1225.73,
+        "precio": 1193.06,
         "imagen": "50.webp",
         "activo": true
     },
@@ -725,7 +725,7 @@
         "nombre": "CHOCOLATE CADBURY TODOS 82 G",
         "marca": "Cadbury",
         "categoria": "Chocolates",
-        "precio": 4351.16,
+        "precio": 4241.05,
         "imagen": "335.webp",
         "activo": true
     },
@@ -1055,7 +1055,7 @@
         "nombre": "MINI OREO X 50 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 733.26,
+        "precio": 790.13,
         "imagen": "1226.webp",
         "activo": true
     },
@@ -1225,7 +1225,7 @@
         "nombre": "SHOT CHOC* 170 GS",
         "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 5588.99,
+        "precio": 5447.42,
         "imagen": "1825.webp",
         "activo": true
     },
@@ -1415,7 +1415,7 @@
         "nombre": "HALLS TODAS 12 U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6836.5,
+        "precio": 6559.41,
         "imagen": "828.webp",
         "activo": true
     },
@@ -1525,7 +1525,7 @@
         "nombre": "PALITO DE LA SELVA 660 GR",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 9377.5,
+        "precio": 9075.0,
         "imagen": "1388.webp",
         "activo": true
     },
@@ -2205,7 +2205,7 @@
         "nombre": "CEREALITAS 212 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1633.5,
+        "precio": 1562.11,
         "imagen": "302.webp",
         "activo": true
     },
@@ -2315,7 +2315,7 @@
         "nombre": "SUEROX x 630ML",
         "marca": "Suerox",
         "categoria": "Bebidas",
-        "precio": 2184.05,
+        "precio": 1598.41,
         "imagen": "3177.webp",
         "activo": true
     },
@@ -2495,7 +2495,7 @@
         "nombre": "ALFAJOR OREO TRIPLE 56 GR",
         "marca": "Mondelez",
         "categoria": "Alfajores",
-        "precio": 1225.73,
+        "precio": 1193.06,
         "imagen": "32.webp",
         "activo": true
     },
@@ -4765,7 +4765,7 @@
         "nombre": "JABON EN PAN SIGNO",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 515.46,
+        "precio": 537.24,
         "imagen": "3183.webp",
         "activo": true
     },
@@ -4845,7 +4845,7 @@
         "nombre": "JUGO CLIGHT* 20 SOBRES",
         "marca": "Mondelez",
         "categoria": "Almacén",
-        "precio": 7875.89,
+        "precio": 7676.24,
         "imagen": "938.webp",
         "activo": true
     },
@@ -5205,7 +5205,7 @@
         "nombre": "ROLLO COCINA ELEGANTE 3 UNID",
         "marca": "Elegante",
         "categoria": "Limpieza",
-        "precio": 1675.85,
+        "precio": 1779.91,
         "imagen": "1737.webp",
         "activo": true
     },
@@ -5485,7 +5485,7 @@
         "nombre": "ALFAJOR TITA 36 GR",
         "marca": "Mondelez",
         "categoria": "Alfajores",
-        "precio": 598.95,
+        "precio": 568.7,
         "imagen": "2301.webp",
         "activo": true
     },
