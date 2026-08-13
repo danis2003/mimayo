@@ -5748,5 +5748,155 @@
         "precio": 208.12,
         "imagen": "2051.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 577,
+        "codigo": 15,
+        "nombre": "MIELCITAS X5 TIRAS",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 2536.16,
+        "imagen": "15.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 578,
+        "codigo": 226,
+        "nombre": "BURBUJAS CEREALES 80GR",
+        "marca": "Burbujas",
+        "categoria": "Golosinas",
+        "precio": 765.93,
+        "imagen": "226.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 579,
+        "codigo": 475,
+        "nombre": "CRAZY POP X5 U",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 2415.16,
+        "imagen": "475.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 580,
+        "codigo": 733,
+        "nombre": "RHODESIA 22 GR",
+        "marca": "Terrabusi",
+        "categoria": "Golosinas",
+        "precio": 719.95,
+        "imagen": "733.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 581,
+        "codigo": 738,
+        "nombre": "TITA 19 GR",
+        "marca": "Terrabusi",
+        "categoria": "Golosinas",
+        "precio": 654.61,
+        "imagen": "738.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 582,
+        "codigo": 784,
+        "nombre": "PIPAS GIGANTES *50 G X12 U",
+        "marca": "Pipas",
+        "categoria": "Golosinas",
+        "precio": 7474.17,
+        "imagen": "784.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 583,
+        "codigo": 1210,
+        "nombre": "MILKA OREO BOMBON 19 G",
+        "marca": "Milka",
+        "categoria": "Golosinas",
+        "precio": 439.23,
+        "imagen": "1210.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 584,
+        "codigo": 1359,
+        "nombre": "PAÑAL HUGGIES XXG* 8 UNIDADE",
+        "marca": "Huggies",
+        "categoria": "Perfumería",
+        "precio": 2577.3,
+        "imagen": "1359.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 585,
+        "codigo": 1385,
+        "nombre": "PALITO SALADO BURBUJA* 150 G",
+        "marca": "Burbujas",
+        "categoria": "Snacks",
+        "precio": 1113.2,
+        "imagen": "1385.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 586,
+        "codigo": 1422,
+        "nombre": "PAPAS PRINGLES 105GR",
+        "marca": "Pringles",
+        "categoria": "Snacks",
+        "precio": 3771.57,
+        "imagen": "1422.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 587,
+        "codigo": 1423,
+        "nombre": "PAPAS PRINGLES 37 GR",
+        "marca": "Pringles",
+        "categoria": "Snacks",
+        "precio": 1830.73,
+        "imagen": "1423.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 588,
+        "codigo": 3051,
+        "nombre": "PIPA GIGANTE TIRA 10 UNI",
+        "marca": "Pipas",
+        "categoria": "Golosinas",
+        "precio": 5933.84,
+        "imagen": "3051.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 589,
+        "codigo": 3143,
+        "nombre": "LATITA CANDY 10GR",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 8228.0,
+        "imagen": "3143.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 590,
+        "codigo": 3270,
+        "nombre": "TOBLERONE 100GR",
+        "marca": "Mondelez",
+        "categoria": "Chocolates",
+        "precio": 6760.27,
+        "imagen": "3270.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 591,
+        "codigo": 6081,
+        "nombre": "PIPA CLASICA 18GR TIRA  X 10",
+        "marca": "Pipas",
+        "categoria": "Golosinas",
+        "precio": 2490.18,
+        "imagen": "6081.webp",
+        "activo": true
     }
 ]
