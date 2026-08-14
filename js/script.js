@@ -233,6 +233,10 @@ function renderizarProductos(listaProductos) {
             <p class="marca">
               ${producto.marca}
             </p>
+
+            <p class="codigo">
+              Código: ${producto.codigo}
+            </p>
           </div>
 
         </article>
@@ -541,7 +545,8 @@ function aplicarFiltros() {
     resultado = resultado.filter(
       (producto) =>
         producto.nombre.toLowerCase().includes(textoBusqueda.toLowerCase()) ||
-        producto.marca.toLowerCase().includes(textoBusqueda.toLowerCase()),
+        producto.marca.toLowerCase().includes(textoBusqueda.toLowerCase()) ||
+        String(producto.codigo).includes(textoBusqueda),
     );
   }
 
@@ -1044,3 +1049,13 @@ btnMapaPc.addEventListener("click", (e) => {
 // =========================================
 cargarMarcas();
 cargarProductos();
+
+window.addEventListener("scroll", () => {
+  const header = document.querySelector("header");
+
+  if (window.scrollY > 80) {
+    header.classList.add("header-compacto");
+  } else {
+    header.classList.remove("header-compacto");
+  }
+});
