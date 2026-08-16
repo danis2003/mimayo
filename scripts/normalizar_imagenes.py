@@ -5,11 +5,14 @@ from PIL import Image, ImageFile
 import threading
 import shutil
 import time
-import onnxruntime as ort
-ort.preload_dlls(directory="")
+import json
 
-
-from scripts.config import BASE_DIR, RUTA_ICONO
+from scripts.config import (
+    BASE_DIR,
+    RUTA_ICONO,
+    RUTA_CONFIG,
+    RUTA_NORMALIZADOR_VENTANA,
+)
 
 sesion_rembg = None
 remove = None
@@ -102,19 +105,7 @@ def normalizar_imagen(ruta_origen):
 
         from rembg import new_session
 
-        print("\nCargando motor de imágenes: bria-rmbg...")
-
-        opciones = ort.SessionOptions()
-        opciones.intra_op_num_threads = 4
-        opciones.inter_op_num_threads = 1
-
-        sesion_rembg = new_session(
-            "bria-rmbg",
-            providers=[
-                "CPUExecutionProvider",
-            ],
-            sess_options=opciones,
-        )
+        sesion_rembg = new_session("bria-rmbg")
 
     ruta_origen = Path(ruta_origen)
 
@@ -125,7 +116,7 @@ def normalizar_imagen(ruta_origen):
         imagen,
         session=sesion_rembg,
     )
-    print(f"BRIA remove: {time.perf_counter() - t_entrada:.2f} s")
+    tiempo_bria = time.perf_counter() - t_entrada
     t_post = time.perf_counter()
 
     if not imagen_sin_fondo.getbbox():
@@ -197,11 +188,18 @@ def normalizar_imagen(ruta_origen):
         str(destino_original),
     )
 
-    print(f"Postprocesado + guardado: {time.perf_counter() - t_post:.2f} s")
-    print(f"TOTAL imagen: {time.perf_counter() - inicio:.2f} s")
-    print("-" * 40)
+    tiempo_post = time.perf_counter() - t_post
+    tiempo_total = time.perf_counter() - inicio
 
-    return destino_normalizado
+    return {
+        "destino": destino_normalizado,
+        "bria": tiempo_bria,
+        "post": tiempo_post,
+        "total": tiempo_total,
+    }
+
+
+#return destino_normalizado
 # ==========================================
 # INTERFAZ
 # ==========================================
@@ -211,6 +209,7 @@ class Normalizador(ctk.CTk):
     def __init__(self):
         super().__init__()
         self.carpeta_seleccionada = CARPETA_ENTRADA
+        self.imagenes_seleccionadas = None
 
         self.title("Normalizador de imágenes")
         self.geometry("850x650")
@@ -224,6 +223,9 @@ class Normalizador(ctk.CTk):
 
         self.crear_interfaz()
 
+        self.cargar_geometria()
+        self.protocol("WM_DELETE_WINDOW", self.cerrar_aplicacion)
+
         self.lbl_estado.configure(
             text="Preparando motor de imágenes..."
         )
@@ -232,6 +234,62 @@ class Normalizador(ctk.CTk):
             target=self.preparar_motor,
             daemon=True
         ).start()
+
+    # ======================================
+    # GEOMETRÍA DE LA VENTANA
+    # ======================================
+
+    def cargar_geometria(self):
+
+        if not RUTA_NORMALIZADOR_VENTANA.exists():
+            return
+
+        try:
+
+            with open(RUTA_NORMALIZADOR_VENTANA, "r", encoding="utf-8") as archivo:
+                datos = json.load(archivo)
+
+            self.geometry(datos["geometry"])
+
+            if datos.get("state") == "zoomed":
+                self.after(
+                    50,
+                    lambda: self.state("zoomed")
+                )
+
+        except Exception:
+            pass
+
+
+    def guardar_geometria(self):
+
+        try:
+
+            RUTA_CONFIG.mkdir(exist_ok=True)
+
+            datos = {
+                "geometry": self.geometry(),
+                "state": self.state()
+            }
+
+            with open(RUTA_NORMALIZADOR_VENTANA, "w", encoding="utf-8") as archivo:
+
+                json.dump(
+                    datos,
+                    archivo,
+                    indent=4,
+                    ensure_ascii=False
+                )
+
+        except Exception:
+            pass
+
+
+    def cerrar_aplicacion(self):
+
+        self.guardar_geometria()
+
+        self.destroy()
 
     def preparar_motor(self):
 
@@ -264,7 +322,7 @@ class Normalizador(ctk.CTk):
         titulo = ctk.CTkLabel(
             self,
             text="Normalizador de imágenes",
-            font=("Segoe UI", 26, "bold"),
+            font=("Segoe UI", 29, "bold"),
         )
 
         titulo.pack(
@@ -277,16 +335,12 @@ class Normalizador(ctk.CTk):
                 "Prepara imágenes de productos para el catálogo.\n"
                 "800 × 800 px · Fondo transparente · 90% de ocupación"
             ),
-            font=("Segoe UI", 14),
+            font=("Segoe UI", 17),
         )
 
         descripcion.pack(
             pady=(0, 25)
         )
-
-        # ----------------------------------
-        # Carpeta de entrada
-        # ----------------------------------
 
         self.frame_carpeta = ctk.CTkFrame(
             self,
@@ -297,6 +351,34 @@ class Normalizador(ctk.CTk):
             fill="x",
             padx=30,
             pady=10,
+        )
+
+        # ----------------------------------
+        # Carpeta de entrada
+        # ----------------------------------
+
+        self.btn_imagenes = ctk.CTkButton(
+            self.frame_carpeta,
+            text="Seleccionar imágenes",
+            command=self.seleccionar_imagenes,
+            width=170,
+        )
+
+        self.btn_imagenes.pack(
+            side="right",
+            padx=10,
+        )
+
+        self.btn_carpeta = ctk.CTkButton(
+            self.frame_carpeta,
+            text="Seleccionar carpeta",
+            command=self.seleccionar_carpeta,
+            width=170,
+        )
+
+        self.btn_carpeta.pack(
+            side="right",
+            padx=10,
         )
 
         self.lbl_carpeta = ctk.CTkLabel(
@@ -314,17 +396,6 @@ class Normalizador(ctk.CTk):
             pady=15,
         )
 
-        self.btn_carpeta = ctk.CTkButton(
-            self.frame_carpeta,
-            text="Seleccionar carpeta",
-            command=self.seleccionar_carpeta,
-            width=170,
-        )
-
-        self.btn_carpeta.pack(
-            side="right",
-            padx=20,
-        )
 
         # ----------------------------------
         # Información del lote
@@ -333,7 +404,7 @@ class Normalizador(ctk.CTk):
         self.lbl_info = ctk.CTkLabel(
             self,
             text="Preparado para procesar imágenes.",
-            font=("Segoe UI", 14),
+            font=("Segoe UI", 16),
         )
 
         self.lbl_info.pack(
@@ -362,11 +433,26 @@ class Normalizador(ctk.CTk):
         self.lbl_actual = ctk.CTkLabel(
             self,
             text="",
-            font=("Segoe UI", 12),
+            font=("Segoe UI", 16),
         )
 
         self.lbl_actual.pack(
             pady=5
+        )
+
+        # ----------------------------------
+        # Estadísticas
+        # ----------------------------------
+
+        self.lbl_estadisticas = ctk.CTkLabel(
+            self,
+            text="",
+            font=("Segoe UI", 16),
+            justify="left",
+        )
+
+        self.lbl_estadisticas.pack(
+            pady=(10, 5)
         )
 
         # ----------------------------------
@@ -377,7 +463,7 @@ class Normalizador(ctk.CTk):
             self,
             text="Normalizar imágenes",
             height=45,
-            font=("Segoe UI", 15, "bold"),
+            font=("Segoe UI", 16, "bold"),
             command=self.iniciar_proceso,
         )
 
@@ -394,7 +480,7 @@ class Normalizador(ctk.CTk):
         self.lbl_estado = ctk.CTkLabel(
             self,
             text="Listo.",
-            font=("Segoe UI", 12),
+            font=("Segoe UI", 16),
         )
 
         self.lbl_estado.pack(
@@ -415,6 +501,7 @@ class Normalizador(ctk.CTk):
         if not carpeta:
             return
 
+        self.imagenes_seleccionadas = None
         self.carpeta_seleccionada = Path(carpeta)
 
         self.lbl_carpeta.configure(
@@ -426,6 +513,51 @@ class Normalizador(ctk.CTk):
         self.lbl_info.configure(
             text=f"{cantidad} imagen(es) encontrada(s)."
         )
+    # ======================================
+    # SELECCIONAR IMÁGENES
+    # ======================================
+
+    def seleccionar_imagenes(self):
+
+        imagenes = filedialog.askopenfilenames(
+            title="Seleccione las imágenes a normalizar",
+            initialdir=str(CARPETA_ENTRADA),
+            filetypes=[
+                (
+                    "Imágenes",
+                    "*.png *.jpg *.jpeg *.jfif *.webp"
+                ),
+                ("Todos los archivos", "*.*"),
+            ],
+        )
+
+        if not imagenes:
+            return
+
+        self.imagenes_seleccionadas = [
+            Path(imagen)
+            for imagen in imagenes
+        ]
+
+        self.carpeta_seleccionada = (
+            self.imagenes_seleccionadas[0].parent
+        )
+
+        self.lbl_carpeta.configure(
+            text=(
+                f"Imágenes seleccionadas: "
+                f"{len(self.imagenes_seleccionadas)}\n"
+                f"{self.carpeta_seleccionada}"
+            )
+        )
+
+        self.lbl_info.configure(
+            text=(
+                f"{len(self.imagenes_seleccionadas)} "
+                f"imagen(es) seleccionada(s)."
+            )
+        )
+
 
     # ======================================
     # CONTAR IMÁGENES
@@ -457,10 +589,8 @@ class Normalizador(ctk.CTk):
 
         if not motor_rembg_listo:
 
-            messagebox.showwarning(
-                "Motor no preparado",
-                "El motor de procesamiento todavía se está preparando.\n\n"
-                "Espere unos segundos e inténtelo nuevamente."
+            self.lbl_estado.configure(
+                text="El motor todavía se está preparando. Espere unos segundos e inténtelo nuevamente."
             )
 
             return
@@ -472,40 +602,32 @@ class Normalizador(ctk.CTk):
         )
 
         if not carpeta.exists():
-            messagebox.showwarning(
-                "Carpeta no encontrada",
-                "La carpeta seleccionada no existe.",
+
+            self.lbl_estado.configure(
+                text="La carpeta seleccionada no existe."
             )
+
             return
 
-        imagenes = [
-            archivo
-            for archivo in carpeta.iterdir()
-            if archivo.is_file()
-            and archivo.suffix.lower() in EXTENSIONES_VALIDAS
-        ]
+        if self.imagenes_seleccionadas is not None:
+
+            imagenes = self.imagenes_seleccionadas.copy()
+
+        else:
+
+            imagenes = [
+                archivo
+                for archivo in carpeta.iterdir()
+                if archivo.is_file()
+                and archivo.suffix.lower() in EXTENSIONES_VALIDAS
+            ]
 
         if not imagenes:
-            messagebox.showinfo(
-                "Sin imágenes",
-                "No se encontraron imágenes para procesar.",
+
+            self.lbl_estado.configure(
+                text="No se encontraron imágenes para procesar."
             )
-            return
 
-        respuesta = messagebox.askyesno(
-            "Confirmar procesamiento",
-            (
-                f"Se encontraron {len(imagenes)} imagen(es).\n\n"
-                "Las imágenes procesadas serán:\n"
-                "• normalizadas a 800 × 800 px\n"
-                "• convertidas a fondo transparente\n"
-                "• guardadas en img/normalizadas/\n"
-                "• movidas a img/originales_descargadas/\n\n"
-                "¿Desea continuar?"
-            ),
-        )
-
-        if not respuesta:
             return
 
         self.btn_procesar.configure(
@@ -513,6 +635,10 @@ class Normalizador(ctk.CTk):
         )
 
         self.btn_carpeta.configure(
+            state="disabled"
+        )
+
+        self.btn_imagenes.configure(
             state="disabled"
         )
 
@@ -555,9 +681,15 @@ class Normalizador(ctk.CTk):
             )
 
             try:
-                normalizar_imagen(imagen)
+                resultado = normalizar_imagen(imagen)
 
                 correctas += 1
+
+                self.after(
+                    0,
+                    lambda r=resultado:
+                        self.actualizar_estadisticas(r)
+                )
 
             except Exception as error:
 
@@ -565,17 +697,7 @@ class Normalizador(ctk.CTk):
                     f"{imagen.name}: {error}"
                 )
         tiempo_total = time.perf_counter() - tiempo_inicio
-
-        print("\n" + "=" * 50)
-        print("RESUMEN DEL PROCESAMIENTO")
-        print("=" * 50)
-        print(f"Imágenes: {total}")
-        print(f"Correctas: {correctas}")
-        print(f"Errores: {len(errores)}")
-        print(f"Tiempo total: {tiempo_total:.2f} segundos")
-        print(f"Tiempo total: {tiempo_total / 60:.2f} minutos")
-        print(f"Promedio por imagen: {tiempo_total / total:.2f} segundos")
-        print("=" * 50)
+        promedio = tiempo_total / total
 
         self.after(
             0,
@@ -583,6 +705,8 @@ class Normalizador(ctk.CTk):
                 total,
                 correctas,
                 errores,
+                tiempo_total,
+                promedio,
             )
         )
 
@@ -611,6 +735,19 @@ class Normalizador(ctk.CTk):
             text=nombre
         )
 
+    def actualizar_estadisticas(
+        self,
+        resultado,
+        ):
+
+        self.lbl_estadisticas.configure(
+            text=(
+                f"Última imagen: {resultado['total']:.2f} s\n"
+                f"BRIA: {resultado['bria']:.2f} s · "
+                f"Postprocesado: {resultado['post']:.2f} s"
+            )
+        )
+
     # ======================================
     # FINALIZAR
     # ======================================
@@ -620,6 +757,8 @@ class Normalizador(ctk.CTk):
         total,
         correctas,
         errores,
+        tiempo_total,
+        promedio,
     ):
 
         self.btn_procesar.configure(
@@ -627,6 +766,10 @@ class Normalizador(ctk.CTk):
         )
 
         self.btn_carpeta.configure(
+            state="normal"
+        )
+
+        self.btn_imagenes.configure(
             state="normal"
         )
 
@@ -639,6 +782,15 @@ class Normalizador(ctk.CTk):
 
         self.lbl_actual.configure(
             text=""
+        )
+
+        self.lbl_estadisticas.configure(
+            text=(
+                f"Imágenes: {total}\n"
+                f"Correctas: {correctas} · Errores: {len(errores)}\n"
+                f"Tiempo total: {tiempo_total:.2f} s\n"
+                f"Promedio por imagen: {promedio:.2f} s"
+            )
         )
 
         if errores:
@@ -662,19 +814,6 @@ class Normalizador(ctk.CTk):
                 ),
             )
 
-        else:
-
-            messagebox.showinfo(
-                "Proceso terminado",
-                (
-                    f"Se procesaron correctamente "
-                    f"{correctas} imagen(es).\n\n"
-                    "Las imágenes normalizadas se encuentran en:\n"
-                    "img/normalizadas/\n\n"
-                    "Los originales fueron movidos a:\n"
-                    "img/originales_descargadas/"
-                ),
-            )
 
 
 # ==========================================

@@ -323,21 +323,21 @@ def seleccionar_producto_variantes():
             f"{producto_variantes['nombre']}"
         )
 
-        lblCodigo.config(
-            text=producto_variantes["codigo"]
-        )
+        # lblCodigo.config(
+        #     text=producto_variantes["codigo"]
+        # )
 
-        lblNombre.config(
-            text=producto_variantes["nombre"]
-        )
+        # lblNombre.config(
+        #     text=producto_variantes["nombre"]
+        # )
 
-        if producto_variantes["imagen"]:
+        # if producto_variantes["imagen"]:
 
-            actualizar_estado(
-                f"Producto seleccionado. "
-                f"Imagen principal: "
-                f"{producto_variantes['imagen']}"
-            )
+        #     actualizar_estado(
+        #         f"Producto seleccionado. "
+        #         f"Imagen principal: "
+        #         f"{producto_variantes['imagen']}"
+        #     )
 
     # ------------------------------------------
     # BOTÓN

@@ -21,3 +21,4 @@ HOJA_PRODUCTOS = "Productos"
 
 RUTA_CONFIG = BASE_DIR / "config"
 RUTA_VENTANA = RUTA_CONFIG / "ventana.json"
+RUTA_NORMALIZADOR_VENTANA = RUTA_CONFIG / "normalizador_ventana.json"
