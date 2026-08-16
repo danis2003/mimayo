@@ -36,6 +36,18 @@ let imagenesModal = [];
 let indiceImagenModal = 0;
 
 // ==========================================
+// GOOGLE ANALYTICS
+// ==========================================
+
+function registrarEventoGA4(nombreEvento, parametros = {}) {
+  if (typeof gtag !== "function") {
+    return;
+  }
+
+  gtag("event", nombreEvento, parametros);
+}
+
+// ==========================================
 // SWIPE TÁCTIL DEL CARRUSEL
 // ==========================================
 
@@ -245,11 +257,89 @@ function renderizarProductos(listaProductos) {
   }
 
   contenedorProductos.innerHTML = html;
+  observarImpresionesProductos();
 
   document.getElementById("contadorResultados").textContent =
     `Mostrando ${listaProductos.length} de ${productosFiltrados.length} producto${
       productosFiltrados.length !== 1 ? "s" : ""
     }`;
+}
+
+// ==========================================
+// IMPRESIONES DE PRODUCTOS
+// ==========================================
+
+const productosImpresos = new Set();
+const temporizadoresImpresion = new Map();
+
+function observarImpresionesProductos() {
+  const tarjetas = document.querySelectorAll(".tarjeta");
+
+  const porcentajeVisible = window.matchMedia("(max-width: 768px)").matches
+    ? 0.7
+    : 1.0;
+
+  const observer = new IntersectionObserver(
+    (entradas) => {
+      entradas.forEach((entrada) => {
+        const tarjeta = entrada.target;
+        const codigo = tarjeta.dataset.codigo;
+
+        if (!codigo || productosImpresos.has(codigo)) {
+          return;
+        }
+
+        if (
+          entrada.isIntersecting &&
+          entrada.intersectionRatio >= porcentajeVisible
+        ) {
+          if (temporizadoresImpresion.has(codigo)) {
+            return;
+          }
+
+          const temporizador = setTimeout(() => {
+            if (productosImpresos.has(codigo)) {
+              return;
+            }
+
+            productosImpresos.add(codigo);
+            temporizadoresImpresion.delete(codigo);
+
+            const producto = productos.find(
+              (item) => String(item.codigo) === String(codigo),
+            );
+
+            if (!producto) {
+              return;
+            }
+
+            registrarEventoGA4("product_impression", {
+              product_name: producto.nombre,
+              product_code: String(producto.codigo),
+              brand: producto.marca,
+              category: producto.categoria,
+            });
+          }, 1000);
+
+          temporizadoresImpresion.set(codigo, temporizador);
+        } else {
+          const temporizador = temporizadoresImpresion.get(codigo);
+
+          if (temporizador) {
+            clearTimeout(temporizador);
+            temporizadoresImpresion.delete(codigo);
+          }
+        }
+      });
+    },
+    {
+      threshold: porcentajeVisible,
+    },
+  );
+
+  tarjetas.forEach((tarjeta) => {
+    observer.observe(tarjeta);
+  });
 }
 
 // =========================================
@@ -512,6 +602,10 @@ function renderizarCategorias() {
 function filtrarPorCategoria(categoria) {
   categoriaSeleccionada = categoria;
 
+  registrarEventoGA4("select_category", {
+    category: categoria,
+  });
+
   // Si veníamos de una marca, al elegir una categoría
   // la categoría pasa a ser el filtro principal.
   if (ultimoFiltro === "marca") {
@@ -607,6 +701,12 @@ async function cargarProductos() {
 }
 
 function abrirModalProducto(producto) {
+  registrarEventoGA4("view_product", {
+    product_name: producto.nombre,
+    product_code: String(producto.codigo),
+    brand: producto.marca,
+    category: producto.categoria,
+  });
   // =========================================
   // IMÁGENES DEL PRODUCTO
   // =========================================
@@ -652,6 +752,12 @@ function abrirModalProducto(producto) {
   document.getElementById("btnWhatsappProducto").onclick = () => {
     const mensaje = `Hola, quisiera consultar por:\n\n${producto.nombre}\nCódigo: ${producto.codigo}`;
 
+    registrarEventoGA4("contact_whatsapp", {
+      source: "product",
+      product_name: producto.nombre,
+      product_code: String(producto.codigo),
+    });
+
     window.open(
       `https://wa.me/5491169117952?text=${encodeURIComponent(mensaje)}`,
       "_blank",
@@ -663,6 +769,10 @@ function abrirModalProducto(producto) {
   // =========================================
 
   document.getElementById("btnCompartir").onclick = async () => {
+    registrarEventoGA4("share_product", {
+      product_name: producto.nombre,
+      product_code: String(producto.codigo),
+    });
     const datos = {
       title: producto.nombre,
 
@@ -901,6 +1011,10 @@ function crearMarca(marca) {
   boton.addEventListener("click", () => {
     marcaSeleccionada = marca.nombre;
 
+    registrarEventoGA4("select_brand", {
+      brand: marca.nombre,
+    });
+
     ultimoFiltro = "marca";
 
     productosVisibles = 50;
@@ -912,6 +1026,34 @@ function crearMarca(marca) {
 // =========================================
 // EVENTOS
 // =========================================
+
+// ==========================================
+// GOOGLE ANALYTICS - WHATSAPP E INSTAGRAM
+// ==========================================
+
+document.querySelectorAll('a[href*="wa.me"]').forEach((enlace) => {
+  enlace.addEventListener("click", () => {
+    registrarEventoGA4("contact_whatsapp", {
+      source: enlace.id === "btnWhatsapp" ? "floating" : "menu",
+    });
+  });
+});
+
+document.querySelectorAll('a[href*="instagram.com"]').forEach((enlace) => {
+  enlace.addEventListener("click", () => {
+    registrarEventoGA4("visit_instagram", {
+      source: "menu",
+    });
+  });
+});
+
+document.querySelectorAll('a[href*="maps.app.goo.gl"]').forEach((enlace) => {
+  enlace.addEventListener("click", () => {
+    registrarEventoGA4("get_directions", {
+      source: "location_modal",
+    });
+  });
+});
 
 botonMenu.addEventListener("click", () => {
   menu.classList.toggle("abierto");
@@ -941,10 +1083,27 @@ overlay.addEventListener("click", () => {
   }
 });
 
+let temporizadorBusqueda;
+
 inputBuscar.addEventListener("input", (event) => {
   textoBusqueda = event.target.value;
   productosVisibles = 50;
+
   aplicarFiltros();
+
+  clearTimeout(temporizadorBusqueda);
+
+  const termino = textoBusqueda.trim();
+
+  if (termino.length < 3) {
+    return;
+  }
+
+  temporizadorBusqueda = setTimeout(() => {
+    registrarEventoGA4("search", {
+      search_term: termino,
+    });
+  }, 800);
 });
 
 document.getElementById("ordenar").addEventListener("change", (e) => {
@@ -958,7 +1117,15 @@ document.getElementById("ordenar").addEventListener("change", (e) => {
 // =========================================
 
 btnMostrarMas.addEventListener("click", () => {
+  const cantidadAntes = productosVisibles;
+
   productosVisibles += 50;
+
+  registrarEventoGA4("view_more_products", {
+    products_before: cantidadAntes,
+    products_after: productosVisibles,
+  });
+
   aplicarFiltros();
 });
 
@@ -971,6 +1138,9 @@ const btnMapa = document.getElementById("btnMapa");
 const cerrarModal = document.getElementById("cerrarModal");
 
 btnMapa.addEventListener("click", () => {
+  registrarEventoGA4("view_location", {
+    source: "menu",
+  });
   modalUbicacion.classList.add("abierto");
   ocultarWhatsapp();
   ocultarBotonArriba();
@@ -1039,6 +1209,9 @@ btnArriba.addEventListener("click", (e) => {
 const btnMapaPc = document.getElementById("btnMapaPc");
 
 btnMapaPc.addEventListener("click", (e) => {
+  registrarEventoGA4("view_location", {
+    source: "desktop",
+  });
   e.preventDefault();
   modalUbicacion.classList.add("abierto");
   ocultarWhatsapp();
