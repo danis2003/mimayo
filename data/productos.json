@@ -385,7 +385,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1225.73,
+        "precio": 1193.06,
         "imagen": "3082.webp",
         "activo": true
     },
@@ -1005,7 +1005,7 @@
         "nombre": "MILKA AIREADO LEGER 50 GS",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2821.72,
+        "precio": 2631.75,
         "imagen": "3014.webp",
         "activo": true
     },
@@ -1205,7 +1205,7 @@
         "nombre": "SHOT CHOC 35 GR",
         "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 1226.94,
+        "precio": 1246.3,
         "imagen": "1826.webp",
         "activo": true
     },
@@ -1215,7 +1215,7 @@
         "nombre": "SHOT CHOC 90 GS*",
         "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 3498.11,
+        "precio": 3409.78,
         "imagen": "1823.webp",
         "activo": true
     },
@@ -1693,7 +1693,7 @@
         "fila_excel": 171,
         "codigo": 235,
         "nombre": "CAFE LA MORENITA EN SAQUIT *",
-        "marca": "Morenita",
+        "marca": "La Morenita",
         "categoria": "Almacén",
         "precio": 4895.66,
         "imagen": "235.webp",
@@ -1723,7 +1723,7 @@
         "fila_excel": 174,
         "codigo": 237,
         "nombre": "CAFE MOLIDO LA MORENITA 125",
-        "marca": "Morenita",
+        "marca": "La Morenita",
         "categoria": "Almacén",
         "precio": 2761.22,
         "imagen": "237.webp",
@@ -1733,7 +1733,7 @@
         "fila_excel": 175,
         "codigo": 238,
         "nombre": "CAFE MOLIDO LA MORENITA 250",
-        "marca": "Morenita",
+        "marca": "La Morenita",
         "categoria": "Almacén",
         "precio": 5083.21,
         "imagen": "238.webp",
@@ -2622,9 +2622,9 @@
     {
         "fila_excel": 264,
         "codigo": 8710,
-        "nombre": "BONOBON PASTA 290 G",
+        "nombre": "PASTA BONOBON/AGUILA/BLOCK UNTABLE 290 G",
         "marca": "Arcor",
-        "categoria": "Almacén",
+        "categoria": "Chocolates",
         "precio": 5538.17,
         "imagen": "8710.webp",
         "activo": true
@@ -3235,7 +3235,7 @@
         "nombre": "HALLS FREE *12 UNIDADES",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 7814.18,
+        "precio": 8007.78,
         "imagen": "830.webp",
         "activo": true
     },
@@ -5815,7 +5815,7 @@
         "nombre": "MILKA OREO BOMBON 19 G",
         "marca": "Milka",
         "categoria": "Golosinas",
-        "precio": 439.23,
+        "precio": 544.5,
         "imagen": "1210.webp",
         "activo": true
     },
@@ -5917,6 +5917,46 @@
         "categoria": "Alfajores",
         "precio": 1458.05,
         "imagen": "9894.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 594,
+        "codigo": 3280,
+        "nombre": "CHOCLO NOEL 300GR",
+        "marca": "Noel",
+        "categoria": "Almacén",
+        "precio": 1247.51,
+        "imagen": "3280.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 595,
+        "codigo": 6096,
+        "nombre": "NUTELLA 350 GR",
+        "marca": "Ferrero Rocher",
+        "categoria": "Chocolates",
+        "precio": 7874.68,
+        "imagen": "6096.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 596,
+        "codigo": 9872,
+        "nombre": "OBLEA MANTECOL X 27 GR",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 665.5,
+        "imagen": "9872.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 597,
+        "codigo": 2061,
+        "nombre": "TE MANZANILLA LA MORENITA 20",
+        "marca": "La Morenita",
+        "categoria": "Almacén",
+        "precio": 990.99,
+        "imagen": "2061.webp",
         "activo": true
     }
 ]

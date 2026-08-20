@@ -216,21 +216,21 @@ def seleccionar_producto_variantes():
     # ------------------------------------------
     # CARGAR PRODUCTOS
     # ------------------------------------------
-
     productos = []
-
     for fila in range(2, ws.max_row + 1):
-
         codigo = ws[fila][0].value
         nombre = ws[fila][1].value
+        marca = ws[fila][2].value
+        categoria = ws[fila][3].value
         imagen = ws[fila][5].value
 
         if codigo is not None and nombre is not None:
-
             productos.append({
                 "fila": fila,
                 "codigo": codigo,
                 "nombre": nombre,
+                "marca": marca,
+                "categoria": categoria,
                 "imagen": imagen
             })
 
@@ -323,21 +323,21 @@ def seleccionar_producto_variantes():
             f"{producto_variantes['nombre']}"
         )
 
-        # lblCodigo.config(
-        #     text=producto_variantes["codigo"]
-        # )
+        lblCodigo.config(
+            text=producto_variantes["codigo"]
+        )
 
-        # lblNombre.config(
-        #     text=producto_variantes["nombre"]
-        # )
+        lblNombre.config(
+            text=producto_variantes["nombre"]
+        )
 
-        # if producto_variantes["imagen"]:
+        lblMarca.config(
+            text=producto_variantes["marca"]
+        )
 
-        #     actualizar_estado(
-        #         f"Producto seleccionado. "
-        #         f"Imagen principal: "
-        #         f"{producto_variantes['imagen']}"
-        #     )
+        lblCategoria.config(
+            text=producto_variantes["categoria"]
+        )
 
     # ------------------------------------------
     # BOTÓN
@@ -923,6 +923,7 @@ def confirmar_imagen():
             )
 
             limpiar_previsualizacion()
+            mostrar_producto()
 
         return
 
