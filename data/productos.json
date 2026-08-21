@@ -215,7 +215,7 @@
         "nombre": "CINDOR 200ML",
         "marca": "Cindor",
         "categoria": "Lácteos",
-        "precio": 2446.62,
+        "precio": 2541.0,
         "imagen": "407.webp",
         "activo": true
     },
@@ -245,7 +245,7 @@
         "nombre": "CREMA LS LARGA VIDA 200ML",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2439.36,
+        "precio": 2499.86,
         "imagen": "3306.webp",
         "activo": true
     },
@@ -555,7 +555,7 @@
         "nombre": "ALFAJOR MATILDA 80GR",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1684.32,
+        "precio": 1668.59,
         "imagen": "3160.webp",
         "activo": true
     },
@@ -1105,7 +1105,7 @@
         "nombre": "NUGGETS UG 300 GR",
         "marca": "Unión Ganadera",
         "categoria": "Congelados",
-        "precio": 3777.62,
+        "precio": 3932.5,
         "imagen": "3240.webp",
         "activo": true
     },
@@ -1115,7 +1115,7 @@
         "nombre": "PAPAS AIR FRY MC-CAIN 700 GR",
         "marca": "McCain",
         "categoria": "Congelados",
-        "precio": 6893.37,
+        "precio": 6352.5,
         "imagen": "3238.webp",
         "activo": true
     },
@@ -1135,7 +1135,7 @@
         "nombre": "PAPAS MC-CAIN 700 GR",
         "marca": "McCain",
         "categoria": "Congelados",
-        "precio": 5585.36,
+        "precio": 4900.5,
         "imagen": "3236.webp",
         "activo": true
     },
@@ -1175,7 +1175,7 @@
         "nombre": "SALCHICHA UG 12U 380 GR",
         "marca": "Unión Ganadera",
         "categoria": "Frescos",
-        "precio": 3590.07,
+        "precio": 3751.0,
         "imagen": "3242.webp",
         "activo": true
     },
@@ -1185,7 +1185,7 @@
         "nombre": "SALCHICHA UG 6U 190 GR",
         "marca": "Unión Ganadera",
         "categoria": "Frescos",
-        "precio": 1890.02,
+        "precio": 2014.65,
         "imagen": "3243.webp",
         "activo": true
     },
@@ -1935,7 +1935,7 @@
         "nombre": "QUESO LA SERENISIMA 10U",
         "marca": "La Serenísima",
         "categoria": "Almacén",
-        "precio": 14795.88,
+        "precio": 15158.88,
         "imagen": "1648.webp",
         "activo": true
     },
@@ -2385,7 +2385,7 @@
         "nombre": "KRACHITOS CHIZITOS X 60GR",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1020.03,
+        "precio": 1041.81,
         "imagen": "8729.webp",
         "activo": true
     },
@@ -3025,7 +3025,7 @@
         "nombre": "CASINO NAIPES 50 U",
         "marca": "Casino",
         "categoria": "Varios",
-        "precio": 2457.51,
+        "precio": 2613.6,
         "imagen": "286.webp",
         "activo": true
     },
@@ -3265,7 +3265,7 @@
         "nombre": "PAPELILLO OCB NEGRO",
         "marca": "OCB",
         "categoria": "Varios",
-        "precio": 779.24,
+        "precio": 810.7,
         "imagen": "1455.webp",
         "activo": true
     },
@@ -4615,7 +4615,7 @@
         "nombre": "DANCING BOCADITO *50UN",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8359.89,
+        "precio": 8463.95,
         "imagen": "501.webp",
         "activo": true
     },
@@ -4655,7 +4655,7 @@
         "nombre": "DETERGENTE MAGISTRAL X 300",
         "marca": "Magistral",
         "categoria": "Limpieza",
-        "precio": 2032.8,
+        "precio": 2107.82,
         "imagen": "3064.webp",
         "activo": true
     },
@@ -4705,7 +4705,7 @@
         "nombre": "GEL DOREE 180GR",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 2038.85,
+        "precio": 2221.56,
         "imagen": "774.webp",
         "activo": true
     },
@@ -4715,7 +4715,7 @@
         "nombre": "JABON ALA MATIC 400GR",
         "marca": "Unilever",
         "categoria": "Limpieza",
-        "precio": 1573.0,
+        "precio": 1657.7,
         "imagen": "911.webp",
         "activo": true
     },
@@ -4795,7 +4795,7 @@
         "nombre": "JABON LIQUI QUERUBIN* 800 ML",
         "marca": "Grupo Queruclor",
         "categoria": "Limpieza",
-        "precio": 2724.92,
+        "precio": 3206.5,
         "imagen": "2771.webp",
         "activo": true
     },
@@ -4895,7 +4895,7 @@
         "nombre": "LAVANDINA AYUDIN CLASICA 1 L",
         "marca": "Ayudín",
         "categoria": "Limpieza",
-        "precio": 1056.33,
+        "precio": 968.0,
         "imagen": "1010.webp",
         "activo": true
     },
@@ -5957,6 +5957,16 @@
         "categoria": "Almacén",
         "precio": 990.99,
         "imagen": "2061.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 598,
+        "codigo": 9898,
+        "nombre": "CAPITAN DEL ESPACIO TRIPLE",
+        "marca": "Capitán del Espacio",
+        "categoria": "Alfajores",
+        "precio": 2349.82,
+        "imagen": "9898.webp",
         "activo": true
     }
 ]
