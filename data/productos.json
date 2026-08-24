@@ -515,7 +515,7 @@
         "nombre": "ALFAJOR JORGITO",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 866.36,
+        "precio": 885.72,
         "imagen": "3010.webp",
         "activo": true
     },
@@ -955,7 +955,7 @@
         "nombre": "KINDER HUEVO SORPRESA",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2331.67,
+        "precio": 2536.16,
         "imagen": "950.webp",
         "activo": true
     },
@@ -1895,7 +1895,7 @@
         "nombre": "MATECOCIDO  PLAYADITO 25 SAQ",
         "marca": "Liebig",
         "categoria": "Almacén",
-        "precio": 1137.4,
+        "precio": 1149.5,
         "imagen": "2990.webp",
         "activo": true
     },
@@ -2055,7 +2055,7 @@
         "nombre": "YERBA AMANDA X 500 GS",
         "marca": "Amanda",
         "categoria": "Almacén",
-        "precio": 1897.28,
+        "precio": 1952.94,
         "imagen": "2141.webp",
         "activo": true
     },
@@ -2065,7 +2065,7 @@
         "nombre": "YERBA CBSE 500 GR",
         "marca": "CBSé",
         "categoria": "Almacén",
-        "precio": 1770.23,
+        "precio": 1793.22,
         "imagen": "2633.webp",
         "activo": true
     },
@@ -2075,7 +2075,7 @@
         "nombre": "YERBA LA  CUMBRECITA 500 GR",
         "marca": "La Cumbrecita",
         "categoria": "Almacén",
-        "precio": 1493.14,
+        "precio": 1633.5,
         "imagen": "2140.webp",
         "activo": true
     },
@@ -2095,7 +2095,7 @@
         "nombre": "YERBA PLAYADITO X 500 GR",
         "marca": "Liebig",
         "categoria": "Almacén",
-        "precio": 2299.0,
+        "precio": 2359.5,
         "imagen": "2809.webp",
         "activo": true
     },
@@ -2405,7 +2405,7 @@
         "nombre": "PAPAS KRACHITOS SABORES 55GR",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1214.84,
+        "precio": 1303.17,
         "imagen": "3059.webp",
         "activo": true
     },
@@ -2415,7 +2415,7 @@
         "nombre": "PAPAS KRACHITOS TRAD/AMER 50",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1242.67,
+        "precio": 1303.17,
         "imagen": "3058.webp",
         "activo": true
     },
@@ -3525,7 +3525,7 @@
         "nombre": "PASTILLA BIYU SORPRESA",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 1283.81,
+        "precio": 1397.55,
         "imagen": "1472.webp",
         "activo": true
     },
@@ -3795,7 +3795,7 @@
         "nombre": "GALLET SURT FAUNA *400 GS",
         "marca": "Mauri",
         "categoria": "Galletitas",
-        "precio": 1331.0,
+        "precio": 1643.18,
         "imagen": "755.webp",
         "activo": true
     },
@@ -4855,7 +4855,7 @@
         "nombre": "KINDER BUENO* 43 GS",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 2308.68,
+        "precio": 2861.65,
         "imagen": "947.webp",
         "activo": true
     },
@@ -5385,7 +5385,7 @@
         "nombre": "BONOBON OBLEA 30 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 825.83,
+        "precio": 928.07,
         "imagen": "1306.webp",
         "activo": true
     },
@@ -5465,7 +5465,7 @@
         "nombre": "ALFAJOR GUAYMALLEN TRIPLE",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 422.29,
+        "precio": 429.55,
         "imagen": "62.webp",
         "activo": true
     },
@@ -5755,7 +5755,7 @@
         "nombre": "MIELCITAS X5 TIRAS",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 2536.16,
+        "precio": 2970.55,
         "imagen": "15.webp",
         "activo": true
     },
