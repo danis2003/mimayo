@@ -6218,5 +6218,25 @@
         "precio": 2456.3,
         "imagen": "1129.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 624,
+        "codigo": 1161,
+        "nombre": "ARCOR MENTA CHOCOLATE 715 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 7441.5,
+        "imagen": "1161.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 625,
+        "codigo": 1790,
+        "nombre": "ARCOR RELLENO FRUTAL 810 GR",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 8475.51,
+        "imagen": "1790.webp",
+        "activo": true
     }
 ]
