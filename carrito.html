@@ -1,0 +1,496 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="description" content="Pedido Mi Mayo Mayorista." />
+
+    <meta name="robots" content="noindex, nofollow" />
+
+    <meta name="author" content="Daniel García" />
+
+    <link rel="icon" type="image/png" href="img/logos/favicon.png" />
+
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/carrito.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+
+    <title>Mi Mayo Mayorista | Mi Pedido</title>
+  </head>
+
+  <body>
+    <a id="btnArriba" href="#" aria-label="Volver arriba"> ↑ </a>
+    <!-- =========================================
+         ENCABEZADO
+         ========================================= -->
+
+    <header>
+      <div class="logo">
+        <a href="index.html">
+          <img src="img/logos/logo.png" alt="Mi Mayo" />
+        </a>
+      </div>
+
+      <div class="carrito-titulo">
+        <h1>
+          <i class="fa-solid fa-box-open"></i>
+          Mi pedido
+        </h1>
+      </div>
+    </header>
+
+    <!-- =========================================
+         CONTENIDO PRINCIPAL
+         ========================================= -->
+
+    <main class="carrito-pagina">
+      <!-- Carrito con productos -->
+
+      <section id="carritoConProductos" class="carrito-contenedor">
+        <div class="carrito-encabezado">
+          <h2>
+            <i class="fa-solid fa-cart-shopping"></i>
+            Productos seleccionados
+          </h2>
+
+          <button
+            type="button"
+            id="btnSeguirComprando"
+            class="btn-volver-catalogo"
+          >
+            <i class="fa-solid fa-arrow-left"></i>
+            Seguir comprando
+          </button>
+        </div>
+
+        <!--
+          JavaScript insertará aquí las tarjetas
+          de los productos almacenados en localStorage.
+        -->
+
+        <div id="listaCarrito" class="lista-carrito"></div>
+
+        <button type="button" id="btnVaciarCarrito" class="btn-vaciar-carrito">
+          <i class="fa-solid fa-trash"></i>
+          Vaciar pedido
+        </button>
+
+        <!-- =====================================
+     COLUMNA LATERAL
+     ===================================== -->
+
+        <aside class="carrito-sidebar">
+          <!-- =====================================
+       RESUMEN
+       ===================================== -->
+
+          <div class="carrito-resumen">
+            <h3>Resumen del Pedido</h3>
+
+            <div class="resumen-separador"></div>
+
+            <div class="resumen-linea">
+              <span>Productos:</span>
+              <strong id="cantidadProductos">0</strong>
+            </div>
+
+            <div class="resumen-linea resumen-total">
+              <span>Total:</span>
+              <strong id="totalCarrito">$ 0,00</strong>
+            </div>
+          </div>
+
+          <!-- =====================================
+       ACCIONES
+       ===================================== -->
+
+          <div class="carrito-acciones">
+            <!-- NUEVO: solo PC -->
+            <button
+              type="button"
+              id="btnVaciarCarritoDesktop"
+              class="btn-vaciar-pedido"
+            >
+              <i class="fa-solid fa-trash"></i>
+              Vaciar pedido
+            </button>
+            <button
+              type="button"
+              id="btnContinuarPedido"
+              class="btn-continuar-pedido"
+            >
+              Enviar pedido por WhatsApp
+              <i class="fa-brands fa-whatsapp"></i>
+            </button>
+          </div>
+          <p class="leyenda-pedido">
+            Tu pedido se enviará por WhatsApp para confirmar disponibilidad y
+            monto final.
+          </p>
+        </aside>
+      </section>
+      <!-- =========================================
+           CARRITO VACÍO
+           ========================================= -->
+
+      <section id="carritoVacio" class="carrito-vacio oculto">
+        <i class="fa-solid fa-cart-shopping carrito-vacio-icono"></i>
+
+        <h2>Tu pedido está vacío</h2>
+
+        <p>Todavía no agregaste productos a tu pedido.</p>
+        <a href="index.html" id="btnVolverCatalogo" class="btn-ir-catalogo">
+          <i class="fa-solid fa-store"></i>
+          Ver catálogo
+        </a>
+      </section>
+    </main>
+    <!-- =========================================
+     MODAL DE CONFIRMACIÓN DEL PEDIDO
+     ========================================= -->
+
+    <div
+      id="modalConfirmacionPedido"
+      class="modal-confirmacion oculto"
+      aria-hidden="true"
+    >
+      <div class="modal-confirmacion-contenido">
+        <div class="modal-confirmacion-encabezado">
+          <h2>Confirmar pedido</h2>
+
+          <button
+            type="button"
+            id="btnCerrarModalPedido"
+            class="btn-cerrar-modal-pedido"
+            aria-label="Cerrar"
+          >
+            <i class="fa-solid fa-xmark"></i>
+          </button>
+        </div>
+
+        <div class="modal-confirmacion-cuerpo">
+          <!-- NOMBRE -->
+          <div class="campo-pedido">
+            <label for="nombreCliente"> Nombre del cliente </label>
+
+            <input
+              type="text"
+              id="nombreCliente"
+              name="nombreCliente"
+              autocomplete="name"
+              placeholder="Ingresá tu nombre"
+            />
+          </div>
+
+          <!-- MODALIDAD -->
+          <fieldset class="modalidad-pedido">
+            <legend>¿Cómo querés recibir tu pedido?</legend>
+
+            <label class="opcion-modalidad">
+              <input
+                type="radio"
+                name="modalidadPedido"
+                value="retiro"
+                checked
+              />
+              <span>Retiro en tienda</span>
+            </label>
+
+            <label class="opcion-modalidad">
+              <input type="radio" name="modalidadPedido" value="envio" />
+              <span>Envío a domicilio</span>
+            </label>
+          </fieldset>
+
+          <!-- DIRECCIÓN -->
+          <div id="datosEnvio" class="datos-envio oculto">
+            <h3>Dirección de entrega</h3>
+
+            <div class="fila-direccion">
+              <div class="campo-pedido campo-calle">
+                <label for="calleEntrega"> Calle </label>
+
+                <input
+                  type="text"
+                  id="calleEntrega"
+                  name="calleEntrega"
+                  autocomplete="street-address"
+                  placeholder="Ej.: Av. Perón"
+                />
+              </div>
+
+              <div class="campo-pedido campo-numero">
+                <label for="numeroEntrega"> Número </label>
+
+                <input
+                  type="text"
+                  id="numeroEntrega"
+                  name="numeroEntrega"
+                  inputmode="numeric"
+                  placeholder="N.º"
+                />
+              </div>
+            </div>
+
+            <div class="campo-pedido">
+              <label for="localidadEntrega"> Localidad </label>
+
+              <input
+                type="text"
+                id="localidadEntrega"
+                name="localidadEntrega"
+                autocomplete="address-level2"
+                placeholder="Ej.: Ciudad Evita"
+              />
+            </div>
+
+            <div class="campo-pedido">
+              <label for="referenciaEntrega"> Entre calles / referencia </label>
+
+              <input
+                type="text"
+                id="referenciaEntrega"
+                name="referenciaEntrega"
+                placeholder="Ej.: Entre Calle A y Calle B"
+              />
+            </div>
+          </div>
+
+          <!-- ALERTA DE VALIDACIÓN -->
+          <div
+            id="errorConfirmacionPedido"
+            class="alert-danger oculto"
+            role="alert"
+          >
+            <i class="fa-solid fa-circle-exclamation"></i>
+
+            <span id="mensajeErrorConfirmacion"></span>
+          </div>
+
+          <!-- RESUMEN -->
+          <div class="resumen-confirmacion">
+            <div class="resumen-confirmacion-linea">
+              <span>Productos:</span>
+              <strong id="cantidadProductosConfirmacion">0</strong>
+            </div>
+
+            <div class="resumen-confirmacion-linea resumen-confirmacion-total">
+              <span>Total:</span>
+              <strong id="totalConfirmacion">$ 0,00</strong>
+            </div>
+
+            <div class="advertencias-confirmacion">
+              <p>
+                <i class="fa-solid fa-triangle-exclamation"></i>
+                <span>
+                  <strong>Importante:</strong>
+                  El monto final queda sujeto a confirmación por parte de
+                  Mi-Mayo.
+                </span>
+              </p>
+
+              <p id="advertenciaEnvio">
+                <i class="fa-solid fa-triangle-exclamation"></i>
+                <span>
+                  <strong>Envío a domicilio:</strong>
+                  El envío queda sujeto a confirmación por parte de Mi-Mayo.
+                </span>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <p class="leyenda-confirmacion">
+          Al confirmar, se abrirá WhatsApp con tu pedido listo para enviar.
+        </p>
+
+        <!-- ACCIONES -->
+        <div class="modal-confirmacion-acciones">
+          <button
+            type="button"
+            id="btnCancelarPedido"
+            class="btn-cancelar-pedido"
+          >
+            Cancelar
+          </button>
+
+          <button
+            type="button"
+            id="btnConfirmarPedido"
+            class="btn-confirmar-pedido"
+          >
+            Confirmar pedido
+            <i class="fa-solid fa-check"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- =========================================
+     MODAL PEDIDO ENVIADO
+     ========================================= -->
+
+    <div
+      id="modalPedidoEnviado"
+      class="modal-pedido-enviado oculto"
+      aria-hidden="true"
+    >
+      <div class="modal-pedido-enviado-contenido">
+        <div class="modal-pedido-enviado-icono">
+          <i class="fa-solid fa-check"></i>
+        </div>
+
+        <h2>Pedido enviado</h2>
+
+        <p>¿Deseás vaciar el carrito?</p>
+
+        <div class="modal-pedido-enviado-acciones">
+          <button
+            type="button"
+            id="btnConservarCarrito"
+            class="btn-conservar-carrito"
+          >
+            No, conservar
+          </button>
+
+          <button
+            type="button"
+            id="btnVaciarCarritoConfirmado"
+            class="btn-vaciar-carrito-confirmado"
+          >
+            Vaciar
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- =========================================
+     MODAL CONFIRMAR VACIADO DEL CARRITO
+     ========================================= -->
+
+    <div
+      id="modalVaciarCarrito"
+      class="modal-confirmacion oculto"
+      aria-hidden="true"
+    >
+      <div class="modal-confirmacion-contenido modal-vaciar-contenido">
+        <h2>Vaciar pedido</h2>
+
+        <p>¿Seguro que querés vaciar todo el pedido?</p>
+
+        <div class="modal-confirmacion-acciones">
+          <button type="button" id="btnCancelarVaciado" class="btn-cancelar">
+            Cancelar
+          </button>
+
+          <button
+            type="button"
+            id="btnConfirmarVaciado"
+            class="btn-confirmar-vaciado"
+          >
+            Vaciar
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- =========================================
+     TOAST PRODUCTO ELIMINADO
+     ========================================= -->
+
+    <div id="toastProductoEliminado" class="toast-eliminado">
+      <div class="toast-eliminado-icono">
+        <i class="fa-solid fa-trash"></i>
+      </div>
+
+      <div class="toast-eliminado-texto">
+        <strong>Producto eliminado</strong>
+        <span id="toastProductoEliminadoNombre"></span>
+      </div>
+    </div>
+
+    <!-- =========================================
+         FOOTER
+         ========================================= -->
+
+    <footer class="footer">
+      <div class="footer-contenido">
+        <div class="footer-col footer-logo-col">
+          <img
+            src="img/logos/logo-mi-mayo.png"
+            alt="Mi Mayo Mayorista"
+            class="footer-logo"
+          />
+
+          <p class="footer-descripcion">
+            Autoservicio mayorista de golosinas, cigarrillos, perfumería,
+            artículos de limpieza y almacén.
+          </p>
+        </div>
+
+        <div class="footer-separador"></div>
+
+        <div class="footer-col">
+          <div class="footer-item">
+            <i class="fa-solid fa-location-dot"></i>
+
+            <span>
+              Tte. Gral. Juan Domingo Perón 2280<br />
+              (Ex Lapacho)<br />
+              Ciudad Evita, Buenos Aires.
+            </span>
+          </div>
+
+          <div class="footer-item">
+            <i class="fa-brands fa-whatsapp"></i>
+
+            <span> +54 9 11 6911-7952 </span>
+          </div>
+
+          <div class="footer-item">
+            <i class="fa-brands fa-instagram"></i>
+
+            <span> @mimayo.ciudadevita </span>
+          </div>
+        </div>
+
+        <div class="footer-col footer-horarios">
+          <div class="footer-item">
+            <i class="fa-regular fa-clock"></i>
+
+            <div>
+              <strong>Horarios</strong><br />
+
+              Lunes a Viernes: 08:00 a 16:00 hs.<br /><br />
+
+              Sábados: 08:00 a 14:00 hs.<br /><br />
+
+              Domingos: Cerrado.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-inferior">
+        <p>Los precios pueden sufrir modificaciones sin previo aviso.</p>
+
+        <p>
+          © 2026 Mi Mayo Mayorista. Todos los derechos reservados. Desarrollo:
+          Daniel A. García - danis2003ar@yahoo.com.ar
+        </p>
+      </div>
+    </footer>
+
+    <!-- =========================================
+         JAVASCRIPT
+         ========================================= -->
+
+    <script src="js/carrito.js"></script>
+  </body>
+</html>

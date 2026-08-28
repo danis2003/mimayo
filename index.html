@@ -111,7 +111,9 @@
 
     <header>
       <div class="logo">
-        <img src="img/logos/logo.png" alt="Mi Mayo" />
+        <a href="index.html">
+          <img src="img/logos/logo.png" alt="Mi Mayo" />
+        </a>
       </div>
 
       <div class="buscador">
@@ -145,16 +147,47 @@
           <i class="fa-solid fa-location-dot"></i>
           Ubicación
         </a>
+        <a href="carrito.html" aria-label="Ver mi pedido">
+          <i class="fa-solid fa-cart-shopping"></i>
+          Mi pedido
+        </a>
       </nav>
 
-      <button id="btnMenu" class="btn-menu">
-        <span id="iconoMenu">☰</span>
+      <!-- Acceso directo al carrito en celular -->
+      <a
+        href="carrito.html"
+        id="carritoMovilDirecto"
+        class="carrito-movil-directo"
+        aria-label="Ver mi pedido"
+      >
+        <i class="fa-solid fa-cart-shopping"></i>
+        <span id="contadorCarritoHeaderMovil">0</span>
+      </a>
+      <!-- Botón hamburguesa propio del header -->
+      <button
+        id="btnMenu"
+        class="btn-menu"
+        type="button"
+        aria-label="Abrir menú"
+      >
+        ☰
       </button>
     </header>
+
     <div id="overlay" class="overlay"></div>
     <aside id="menuLateral" class="menu-lateral">
-      <h2>Categorías</h2>
+      <div class="menu-lateral-header">
+        <h2>Categorías</h2>
 
+        <button
+          id="btnCerrarMenu"
+          class="btn-cerrar-menu"
+          type="button"
+          aria-label="Cerrar menú"
+        >
+          ×
+        </button>
+      </div>
       <section id="categoriasMenu"></section>
 
       <hr />
@@ -177,6 +210,11 @@
         <i class="fa-solid fa-location-dot"></i>
         Ubicación
       </button>
+
+      <a href="carrito.html" class="menu-carrito">
+        <i class="fa-solid fa-cart-shopping"></i>
+        Mi pedido <span id="contadorCarritoMovil">(0)</span>
+      </a>
     </aside>
     <main>
       <section id="categorias" class="categorias"></section>
@@ -305,6 +343,57 @@
             <p><strong>Código:</strong> <span id="modalCodigo"></span></p>
 
             <p class="modal-precio" id="modalPrecio"></p>
+            <div id="modalAvisoVariantes" class="modal-aviso-variantes oculto">
+              <i class="fa-solid fa-triangle-exclamation"></i>
+
+              <span>
+                Este producto tiene diferentes variedades. Podrás indicar los
+                sabores y cantidades en el carrito.
+              </span>
+            </div>
+
+            <div class="modal-carrito">
+              <label for="modalCantidad">Cantidad:</label>
+
+              <div class="modal-carrito-controles">
+                <button
+                  type="button"
+                  id="btnCantidadMenos"
+                  aria-label="Disminuir cantidad"
+                >
+                  −
+                </button>
+
+                <input
+                  type="number"
+                  id="modalCantidad"
+                  min="1"
+                  value="1"
+                  inputmode="numeric"
+                />
+
+                <button
+                  type="button"
+                  id="btnCantidadMas"
+                  aria-label="Aumentar cantidad"
+                >
+                  +
+                </button>
+                <span
+                  id="modalCantidadCarrito"
+                  class="modal-cantidad-carrito"
+                ></span>
+              </div>
+
+              <button
+                type="button"
+                id="btnAgregarCarrito"
+                class="btn-agregar-carrito"
+              >
+                <i class="fa-solid fa-cart-plus"></i>
+                Agregar al carrito
+              </button>
+            </div>
 
             <div class="modal-botones">
               <button id="btnCompartir">
@@ -384,10 +473,23 @@
 
         <p>
           © 2026 Mi Mayo Mayorista. Todos los derechos reservados. Desarrollo:
-          Daniel A. García
+          Daniel A. García - danis2003ar@yahoo.com.ar
         </p>
       </div>
     </footer>
+    <!-- TOAST - PRODUCTO AGREGADO -->
+    <div id="toastCarrito" class="toast-carrito" aria-live="polite">
+      <div class="toast-carrito-contenido">
+        <span class="toast-carrito-icono">✓</span>
+
+        <div class="toast-carrito-texto">
+          <strong>Producto agregado</strong>
+          <span id="toastNombreProducto"></span>
+        </div>
+      </div>
+
+      <a href="carrito.html" class="toast-carrito-enlace"> Ver carrito → </a>
+    </div>
     <script src="js/script.js"></script>
   </body>
 </html>
