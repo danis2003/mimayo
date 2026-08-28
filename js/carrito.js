@@ -3,7 +3,7 @@
 // =========================================
 
 const CLAVE_CARRITO = "mimayo_carrito";
-const NUMERO_WHATSAPP = "5491161731286";
+const NUMERO_WHATSAPP = "5491169117952";
 
 // =========================================
 // ELEMENTOS DEL DOM
