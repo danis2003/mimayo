@@ -9,6 +9,14 @@
 }
 
 /* =========================================
+   UTILIDADES
+========================================= */
+
+.oculto {
+  display: none !important;
+}
+
+/* =========================================
    VARIABLES
 ========================================= */
 
@@ -153,13 +161,14 @@ header .menu-pc a {
 .menu-pc a:hover {
   color: var(--color-principal);
 }
+
 .btn-menu {
   display: none;
+
   width: 50px;
   height: 50px;
 
   border: none;
-
   border-radius: 10px;
 
   background: white;
@@ -170,9 +179,7 @@ header .menu-pc a {
 
   transition: 0.2s;
 
-  position: relative;
-
-  z-index: 1000;
+  z-index: 1200;
 }
 
 .btn-menu:hover {
@@ -206,7 +213,7 @@ header .menu-pc a {
 }
 
 .menu-lateral hr {
-  margin: 18px 0;
+  margin: 4px 0;
   border: none;
   border-top: 1px solid #ddd;
 }
@@ -214,6 +221,50 @@ header .menu-pc a {
 .menu-lateral i {
   font-size: 18px;
   width: 20px;
+}
+
+/* =========================================
+   MI PEDIDO - MENÚ MÓVIL
+   ========================================= */
+
+.menu-carrito {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+
+  width: 100%;
+  padding: 14px 18px;
+  margin-top: 6px;
+
+  border-radius: 10px;
+
+  background: #f1f2f4;
+  color: #333;
+  text-decoration: none;
+
+  font-size: 1rem;
+  font-weight: 500;
+
+  box-sizing: border-box;
+  transition: 0.2s;
+}
+
+.menu-carrito i {
+  color: #25d366;
+  font-size: 1.25rem;
+}
+
+.menu-carrito:hover {
+  background: #e5e7eb;
+}
+
+.menu-carrito:hover i {
+  color: #581c87;
+}
+
+#contadorCarritoMovil {
+  font-weight: 600;
 }
 /* =========================================
    MAIN
@@ -542,20 +593,20 @@ main {
   position: fixed;
   top: 0;
   right: -320px;
-
   width: 300px;
-  height: 100vh;
+  height: 90vh;
+  box-sizing: border-box;
 
   background: white;
-
   box-shadow: -5px 0 15px rgba(0, 0, 0, 0.15);
-
   padding: 25px;
 
   transition: 0.3s;
-  z-index: 999;
+  z-index: 1100;
+
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 
 .menu-lateral.abierto {
@@ -568,7 +619,7 @@ main {
 
 #categoriasMenu {
   flex: 1;
-
+  min-height: 0;
   overflow-y: auto;
 }
 
@@ -583,7 +634,7 @@ main {
 
 .menu-lateral button {
   width: 100%;
-  margin-top: 12px;
+  margin-top: 6px;
   padding: 12px;
 
   border: none;
@@ -592,6 +643,39 @@ main {
   background: #f3f4f6;
 
   cursor: pointer;
+}
+
+.btn-cerrar-menu {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+
+  width: 38px !important;
+  height: 38px;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  border: none;
+  border-radius: 50%;
+
+  background: #f3f4f6;
+  color: #333;
+
+  font-size: 24px;
+  line-height: 1;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  cursor: pointer;
+  z-index: 10;
+}
+
+.btn-cerrar-menu:hover {
+  background: #e5e7eb;
+  color: #111;
 }
 /* =========================================
    OVERLAY
@@ -656,6 +740,14 @@ main {
   position: relative;
 
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.18);
+  transition:
+    opacity 0.5s ease,
+    transform 0.5s ease;
+}
+
+.modal-contenido.cerrando {
+  opacity: 0;
+  transform: scale(0.9);
 }
 
 .cerrar-modal {
@@ -836,26 +928,138 @@ main {
   margin: 25px 0;
 }
 
+/* Aviso de variantes en modal de producto */
+
+.modal-aviso-variantes {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+
+  margin: 7px 0;
+
+  color: #666666;
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
+
+.modal-aviso-variantes i {
+  flex-shrink: 0;
+  margin-top: 2px;
+
+  color: #eab308;
+  font-size: 0.9rem;
+}
+
+/* =========================================
+   CANTIDAD Y CARRITO DEL MODAL
+   ========================================= */
+
+.modal-carrito {
+  margin-top: 10px;
+}
+
+.modal-carrito > label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333333;
+}
+
+.modal-carrito-controles {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.modal-carrito-controles button {
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  border: 1px solid #d9dde3;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #222222;
+  font-size: 1.25rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.modal-carrito-controles button:hover {
+  background: #f3f4f6;
+  border-color: #bfc5cc;
+}
+
+.modal-carrito-controles button:active {
+  transform: scale(0.95);
+}
+
+#modalCantidad {
+  width: 70px;
+  height: 38px;
+  box-sizing: border-box;
+  padding: 0 8px;
+  border: 1px solid #d9dde3;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #222222;
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* Evita que las flechas nativas del input
+   interfieran visualmente con nuestros botones */
+#modalCantidad::-webkit-inner-spin-button,
+#modalCantidad::-webkit-outer-spin-button {
+  margin: 0;
+}
+
+.btn-agregar-carrito {
+  width: 100%;
+  padding: 13px 18px;
+  border: none;
+  border-radius: 10px;
+  background: #757b85;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.btn-agregar-carrito:hover {
+  background: #5b5f64;
+}
+
+.btn-agregar-carrito:active {
+  transform: scale(0.98);
+}
+
+.btn-agregar-carrito i {
+  margin-right: 9px;
+}
+
 .modal-botones {
   display: flex;
   gap: 15px;
+  margin-top: 14px;
 }
 
 .modal-botones button {
   flex: 1;
-
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
   padding: 14px;
-
   border: none;
-
   border-radius: 10px;
-
   cursor: pointer;
-
   font-size: 0.95rem;
-
   font-weight: 600;
-
   transition: 0.2s;
 }
 
@@ -873,6 +1077,18 @@ main {
   filter: brightness(0.92);
 }
 
+.modal-cantidad-carrito {
+  display: block;
+  margin: 8px 0 12px;
+  color: #6b7280;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-align: center;
+}
+
+.modal-cantidad-carrito.oculto {
+  display: none;
+}
 /* =========================================
    CARRUSEL DEL MODAL DE PRODUCTO
 ========================================= */
@@ -1003,7 +1219,11 @@ main {
 
   object-fit: contain;
 }
+/* Ocultar 2do enlace a carrito en vista pc */
 
+.carrito-movil-directo {
+  display: none;
+}
 /* =========================================
    RESPONSIVE
 ========================================= */
@@ -1013,9 +1233,6 @@ main {
     display: none;
   }
 
-  .btn-menu {
-    display: block;
-  }
   main {
     padding: 15px;
   }
@@ -1042,7 +1259,46 @@ main {
     gap: 12px;
   }
   .producto-info h2 {
-    font-size: 1.7rem;
+    font-size: 1.25rem;
+    margin-bottom: 4px;
+    line-height: 1.15;
+  }
+  .modal-marca {
+    font-size: 0.85rem;
+    margin-bottom: 8px;
+  }
+
+  .modal-precio {
+    font-size: 1.35rem;
+    margin: 16px 0;
+  }
+
+  .modal-carrito {
+    margin-top: 4px;
+  }
+
+  .modal-carrito > label {
+    margin-bottom: 4px;
+    font-size: 0.9rem;
+  }
+
+  .modal-carrito-controles {
+    margin-bottom: 6px;
+  }
+
+  .btn-agregar-carrito {
+    padding: 11px 16px;
+    font-size: 0.95rem;
+  }
+
+  .modal-botones {
+    gap: 8px;
+    margin-top: 8px;
+  }
+
+  .modal-botones button {
+    padding: 10px;
+    font-size: 0.9rem;
   }
   /* Categorías en celulares */
   .categorias {
@@ -1071,9 +1327,109 @@ main {
     height: 60px;
   }
 
+  /* HEADER */
+  header {
+    display: grid;
+
+    grid-template-columns: 1fr auto auto;
+
+    grid-template-areas:
+      "logo carrito menu"
+      "buscador buscador buscador";
+
+    gap: 12px;
+    padding: 16px;
+  }
+
+  .logo {
+    grid-area: logo;
+  }
+
+  .logo img {
+    height: 60px;
+  }
+
+  /* HEADER */
+  header {
+    display: grid;
+
+    grid-template-columns: 1fr auto auto;
+
+    grid-template-areas:
+      "logo carrito menu"
+      "buscador buscador buscador";
+
+    gap: 12px;
+    padding: 16px;
+  }
+
+  .logo {
+    grid-area: logo;
+  }
+
+  .logo img {
+    height: 60px;
+  }
+
+  /* CARRITO DIRECTO EN MÓVIL */
+  .carrito-movil-directo {
+    display: flex;
+    grid-area: carrito;
+
+    width: 44px;
+    height: 44px;
+
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+
+    color: #25d366;
+    text-decoration: none;
+
+    font-size: 1.5rem;
+
+    border-radius: 10px;
+
+    transition: 0.2s;
+  }
+
+  .carrito-movil-directo:hover {
+    background: #f1f2f4;
+  }
+
+  #contadorCarritoHeaderMovil {
+    position: absolute;
+
+    top: -3px;
+    right: -4px;
+
+    min-width: 19px;
+    height: 19px;
+
+    padding: 0 4px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 50%;
+
+    background: #25d366;
+    color: #ffffff;
+
+    font-size: 0.7rem;
+    font-weight: 700;
+
+    line-height: 1;
+  }
+
+  /* BOTÓN HAMBURGUESA */
   .btn-menu {
+    display: block;
     grid-area: menu;
     justify-self: end;
+    transform: translateY(-4px);
   }
 
   .buscador {
@@ -1111,8 +1467,13 @@ main {
     max-height: 240px;
   }
 
+  .modal-carrusel-slide img {
+    max-height: 155px;
+  }
+
   .modal-precio {
-    font-size: 1.5rem;
+    font-size: 1.35rem;
+    margin: 12px 0;
   }
 
   .modal-botones {
@@ -1623,7 +1984,116 @@ main {
     transform: translateX(-50%);
   }
 }
+/* =========================================
+   TOAST - PRODUCTO AGREGADO
+   ========================================= */
 
+.toast-carrito {
+  position: fixed;
+  top: 50%;
+  right: 24px;
+
+  width: 380px;
+  box-sizing: border-box;
+
+  padding: 18px 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+
+  /* background: #ffffff;
+  border: 1px solid #e5e7eb; */
+  background: #eaf7ef;
+  border: 1px solid #c8ead5;
+  border-radius: 12px;
+
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+
+  z-index: 2000;
+
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(60px, calc(-50% - 40px));
+
+  transition:
+    opacity 0.25s ease,
+    right 0.25s ease,
+    transform 0.25s ease,
+    visibility 0.25s ease;
+}
+
+.toast-carrito.visible {
+  opacity: 1;
+  visibility: visible;
+  right: 24px;
+  transform: translateY(-50%);
+}
+
+.toast-carrito-contenido {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.toast-carrito-icono {
+  width: 28px;
+  height: 28px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-shrink: 0;
+
+  border-radius: 50%;
+
+  background: #16a34a;
+  color: #ffffff;
+
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.toast-carrito-texto {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+
+  min-width: 0;
+}
+
+.toast-carrito-texto strong {
+  color: #222222;
+  font-size: 15px;
+}
+
+.toast-carrito-texto span {
+  overflow: hidden;
+
+  color: #6b7280;
+  font-size: 14px;
+
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.toast-carrito-enlace {
+  flex-shrink: 0;
+
+  color: #2563eb;
+  font-size: 14px;
+  font-weight: 700;
+
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.toast-carrito-enlace:hover {
+  text-decoration: underline;
+}
 /* ==========================================
    FOOTER RESPONSIVE
 ========================================== */
@@ -1730,5 +2200,28 @@ main {
   .carrusel-anterior,
   .carrusel-siguiente {
     opacity: 1;
+  }
+
+  /* Toast de producto agregado en celular */
+
+  .toast-carrito {
+    top: auto;
+    right: 16px;
+    bottom: 24px;
+    left: 16px;
+    background: #eaf7ef;
+    border: 1px solid #c8ead5;
+
+    width: auto;
+
+    transform: translateY(20px);
+  }
+
+  .toast-carrito.visible {
+    transform: translateY(0);
+  }
+
+  .toast-carrito-enlace {
+    display: none;
   }
 }

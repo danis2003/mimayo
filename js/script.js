@@ -3,9 +3,9 @@
 // =========================================
 
 const botonMenu = document.getElementById("btnMenu");
+const botonCerrarMenu = document.getElementById("btnCerrarMenu");
 const inputBuscar = document.getElementById("buscar");
 const menu = document.getElementById("menuLateral");
-const iconoMenu = document.getElementById("iconoMenu");
 const overlay = document.getElementById("overlay");
 const btnWhatsapp = document.getElementById("btnWhatsapp");
 const btnArriba = document.getElementById("btnArriba");
@@ -23,6 +23,7 @@ let textoBusqueda = "";
 let criterioOrden = "default";
 let productosVisibles = 50;
 let productosFiltrados = [];
+
 const contenedorProductos = document.getElementById("productos");
 const contenedorCategorias = document.getElementById("categorias");
 const contenedorCategoriasMenu = document.getElementById("categoriasMenu");
@@ -31,9 +32,133 @@ const modalImagenAnterior = document.getElementById("modalImagenAnterior");
 const modalImagenSiguiente = document.getElementById("modalImagenSiguiente");
 const modalIndicadores = document.getElementById("modalIndicadores");
 const modalImagenTrack = document.getElementById("modalImagenTrack");
+const toastCarrito = document.getElementById("toastCarrito");
+const toastNombreProducto = document.getElementById("toastNombreProducto");
 
 let imagenesModal = [];
 let indiceImagenModal = 0;
+
+// =========================================
+// CARRITO
+// =========================================
+
+const CLAVE_CARRITO = "mimayo_carrito";
+let carrito = cargarCarrito();
+
+function cargarCarrito() {
+  try {
+    const carritoGuardado = localStorage.getItem(CLAVE_CARRITO);
+
+    if (!carritoGuardado) {
+      return [];
+    }
+
+    const carritoParseado = JSON.parse(carritoGuardado);
+
+    return Array.isArray(carritoParseado) ? carritoParseado : [];
+  } catch (error) {
+    console.error("Error al cargar el carrito:", error);
+    return [];
+  }
+}
+
+function guardarCarrito() {
+  localStorage.setItem(CLAVE_CARRITO, JSON.stringify(carrito));
+
+  actualizarContadorCarrito();
+}
+
+function actualizarContadorCarrito() {
+  carrito = cargarCarrito();
+
+  const cantidadTotal = carrito.reduce(
+    (total, producto) => total + Number(producto.cantidad || 0),
+    0,
+  );
+
+  // ==========================================
+  // CARRITO DE PC
+  // ==========================================
+  const enlacesCarritoPc = document.querySelectorAll(
+    '.menu-pc a[href="carrito.html"]',
+  );
+
+  enlacesCarritoPc.forEach((enlaceCarrito) => {
+    enlaceCarrito.innerHTML = `
+      <i class="fa-solid fa-cart-shopping"></i>
+      Mi pedido${cantidadTotal > 0 ? ` (${cantidadTotal})` : " (0)"}
+    `;
+  });
+
+  // ==========================================
+  // CARRITO MÓVIL
+  // ==========================================
+  const contadorMovil = document.getElementById("contadorCarritoHeaderMovil");
+
+  if (contadorMovil) {
+    contadorMovil.textContent = cantidadTotal;
+  }
+}
+
+actualizarContadorCarrito();
+
+window.addEventListener("storage", (evento) => {
+  if (evento.key === CLAVE_CARRITO) {
+    actualizarContadorCarrito();
+  }
+});
+
+let temporizadorToastCarrito;
+
+function mostrarToastCarrito(nombreProducto) {
+  clearTimeout(temporizadorToastCarrito);
+
+  toastNombreProducto.textContent = nombreProducto;
+
+  toastCarrito.classList.add("visible");
+
+  temporizadorToastCarrito = setTimeout(() => {
+    toastCarrito.classList.remove("visible");
+  }, 3000);
+}
+
+function agregarAlCarrito(producto, cantidad) {
+  carrito = cargarCarrito();
+  const cantidadNumerica = Number(cantidad);
+
+  if (!Number.isInteger(cantidadNumerica) || cantidadNumerica < 1) {
+    alert("La cantidad debe ser un número entero mayor o igual a 1.");
+    return;
+  }
+
+  const codigo = String(producto.codigo);
+
+  const tieneVariantes = (variantes[codigo] || []).length > 0;
+
+  const productoExistente = carrito.find(
+    (item) => String(item.codigo) === codigo,
+  );
+
+  if (productoExistente) {
+    productoExistente.cantidad += cantidadNumerica;
+    productoExistente.requiereVariantes = tieneVariantes;
+  } else {
+    carrito.push({
+      codigo: producto.codigo,
+      nombre: producto.nombre,
+      marca: producto.marca,
+      precio: producto.precio,
+      cantidad: cantidadNumerica,
+      imagen: producto.imagen,
+      requiereVariantes: tieneVariantes,
+      detalleVariantes: "",
+    });
+  }
+
+  guardarCarrito();
+
+  console.log("Carrito actualizado:", carrito);
+}
 
 // ==========================================
 // GOOGLE ANALYTICS
@@ -560,7 +685,7 @@ function renderizarCategorias() {
 
     menu.classList.remove("abierto");
     overlay.classList.remove("activo");
-    iconoMenu.textContent = "☰";
+    botonMenu.classList.remove("oculto");
     mostrarWhatsapp();
     if (window.scrollY > 300) {
       mostrarBotonArriba();
@@ -588,7 +713,7 @@ function renderizarCategorias() {
 
       menu.classList.remove("abierto");
       overlay.classList.remove("activo");
-      iconoMenu.textContent = "☰";
+      botonMenu.classList.remove("oculto");
       mostrarWhatsapp();
       if (window.scrollY > 300) {
         mostrarBotonArriba();
@@ -735,6 +860,76 @@ function abrirModalProducto(producto) {
 
   document.getElementById("modalPrecio").textContent =
     `$ ${producto.precio.toLocaleString("es-AR")}`;
+
+  document.getElementById("modalCantidad").value = 1;
+
+  // =========================================
+  // CANTIDAD EXISTENTE EN EL CARRITO
+  // =========================================
+
+  const avisoCantidadCarrito = document.getElementById("modalCantidadCarrito");
+
+  const productoEnCarrito = carrito.find(
+    (item) => String(item.codigo) === String(producto.codigo),
+  );
+
+  if (productoEnCarrito) {
+    avisoCantidadCarrito.textContent = `Ya tenés ${productoEnCarrito.cantidad} unidades en tu pedido.`;
+
+    avisoCantidadCarrito.classList.remove("oculto");
+  } else {
+    avisoCantidadCarrito.textContent = "";
+    avisoCantidadCarrito.classList.add("oculto");
+  }
+
+  const avisoVariantes = document.getElementById("modalAvisoVariantes");
+  const tieneVariantes = (variantes[String(producto.codigo)] || []).length > 0;
+
+  if (tieneVariantes) {
+    avisoVariantes.classList.remove("oculto");
+  } else {
+    avisoVariantes.classList.add("oculto");
+  }
+
+  document.getElementById("btnCantidadMenos").onclick = () => {
+    const inputCantidad = document.getElementById("modalCantidad");
+
+    const cantidadActual = Number(inputCantidad.value) || 1;
+
+    inputCantidad.value = Math.max(1, cantidadActual - 1);
+  };
+
+  document.getElementById("btnCantidadMas").onclick = () => {
+    const inputCantidad = document.getElementById("modalCantidad");
+
+    const cantidadActual = Number(inputCantidad.value) || 1;
+
+    inputCantidad.value = cantidadActual + 1;
+  };
+
+  document.getElementById("btnAgregarCarrito").onclick = () => {
+    const cantidad = Number(document.getElementById("modalCantidad").value);
+
+    agregarAlCarrito(producto, cantidad);
+
+    registrarEventoGA4("add_to_cart", {
+      product_name: producto.nombre,
+      product_code: String(producto.codigo),
+      quantity: cantidad,
+    });
+    // document.getElementById("modalProducto").classList.remove("abierto");
+    // mostrarToastCarrito(producto.nombre);
+    const modalProducto = document.getElementById("modalProducto");
+
+    modalProducto.classList.add("cerrando");
+
+    setTimeout(() => {
+      modalProducto.classList.remove("abierto");
+      modalProducto.classList.remove("cerrando");
+
+      mostrarToastCarrito(producto.nombre);
+    }, 100);
+  };
 
   // =========================================
   // ABRIR MODAL
@@ -1056,28 +1251,36 @@ document.querySelectorAll('a[href*="maps.app.goo.gl"]').forEach((enlace) => {
 });
 
 botonMenu.addEventListener("click", () => {
-  menu.classList.toggle("abierto");
-  overlay.classList.toggle("activo");
+  menu.classList.add("abierto");
+  overlay.classList.add("activo");
 
-  if (menu.classList.contains("abierto")) {
-    iconoMenu.textContent = "✕";
-    ocultarWhatsapp();
-    ocultarBotonArriba();
-  } else {
-    iconoMenu.textContent = "☰";
-    mostrarWhatsapp();
-    if (window.scrollY > 300) {
-      mostrarBotonArriba();
-    }
+  botonMenu.classList.add("oculto");
+
+  ocultarWhatsapp();
+  ocultarBotonArriba();
+});
+
+botonCerrarMenu.addEventListener("click", () => {
+  menu.classList.remove("abierto");
+  overlay.classList.remove("activo");
+
+  botonMenu.classList.remove("oculto");
+
+  mostrarWhatsapp();
+
+  if (window.scrollY > 300) {
+    mostrarBotonArriba();
   }
 });
 
 overlay.addEventListener("click", () => {
   menu.classList.remove("abierto");
   overlay.classList.remove("activo");
-  iconoMenu.textContent = "☰";
+
+  botonMenu.classList.remove("oculto");
 
   mostrarWhatsapp();
+
   if (window.scrollY > 300) {
     mostrarBotonArriba();
   }
