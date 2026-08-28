@@ -6238,5 +6238,15 @@
         "precio": 8475.51,
         "imagen": "1790.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 626,
+        "codigo": 3293,
+        "nombre": "POCHOCLO BURBUJAS 60GR",
+        "marca": "Burbujas",
+        "categoria": "Golosinas",
+        "precio": 544.5,
+        "imagen": "3293.webp",
+        "activo": true
     }
 ]
