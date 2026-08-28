@@ -685,7 +685,7 @@
         "nombre": "BOMBOM FERRERO ROCHER X 3UNID",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 2533.74,
+        "precio": 2972.97,
         "imagen": "200.webp",
         "activo": true
     },
@@ -895,7 +895,7 @@
         "nombre": "GALLET PEPITOS  X 118 GR",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1697.63,
+        "precio": 1621.4,
         "imagen": "730.webp",
         "activo": true
     },
@@ -955,7 +955,7 @@
         "nombre": "KINDER HUEVO SORPRESA",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2536.16,
+        "precio": 2331.67,
         "imagen": "950.webp",
         "activo": true
     },
@@ -965,7 +965,7 @@
         "nombre": "KINDER MAXI*10 UNI",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 13915.0,
+        "precio": 10890.0,
         "imagen": "954.webp",
         "activo": true
     },
@@ -1245,7 +1245,7 @@
         "nombre": "TABLETA AGUILA 100 GR",
         "marca": "Aguila",
         "categoria": "Chocolates",
-        "precio": 4385.77,
+        "precio": 4670.6,
         "imagen": "1884.webp",
         "activo": true
     },
@@ -1435,7 +1435,7 @@
         "nombre": "MENTHOPLUS ACIDO X 12 UNI",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7308.4,
+        "precio": 7018.0,
         "imagen": "1166.webp",
         "activo": true
     },
@@ -1445,7 +1445,7 @@
         "nombre": "MENTHOPLUS TODAS X 12 UNI",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6198.77,
+        "precio": 5626.5,
         "imagen": "1169.webp",
         "activo": true
     },
@@ -1565,7 +1565,7 @@
         "nombre": "SUGUS MASTICABLE X 700 GS 210",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7399.15,
+        "precio": 6957.5,
         "imagen": "1873.webp",
         "activo": true
     },
@@ -2175,7 +2175,7 @@
         "nombre": "SPEED ENERGIZANTE x 250 ML",
         "marca": "Speed",
         "categoria": "Bebidas",
-        "precio": 1357.62,
+        "precio": 1452.0,
         "imagen": "1863.webp",
         "activo": true
     },
@@ -2185,7 +2185,7 @@
         "nombre": "SPEED ENERGY x 473 ML",
         "marca": "Speed",
         "categoria": "Bebidas",
-        "precio": 2217.93,
+        "precio": 2299.0,
         "imagen": "2662.webp",
         "activo": true
     },
@@ -2305,7 +2305,7 @@
         "nombre": "SONRISAS FRAMBUESA x 108 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1087.79,
+        "precio": 1224.52,
         "imagen": "1851.webp",
         "activo": true
     },
@@ -2345,7 +2345,7 @@
         "nombre": "BASTONITOS KRACHITOS X60GR",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1041.81,
+        "precio": 1134.98,
         "imagen": "8708.webp",
         "activo": true
     },
@@ -2355,7 +2355,7 @@
         "nombre": "DORITOS  DINAMITA  45 GS",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1641.97,
+        "precio": 1585.1,
         "imagen": "2914.webp",
         "activo": true
     },
@@ -2365,7 +2365,7 @@
         "nombre": "DORITOS DINAMITA 82 GR",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2462.35,
+        "precio": 2420.0,
         "imagen": "2913.webp",
         "activo": true
     },
@@ -2375,7 +2375,7 @@
         "nombre": "DORITOS TODOS 77 GR",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2873.75,
+        "precio": 2837.45,
         "imagen": "3000.webp",
         "activo": true
     },
@@ -2385,7 +2385,7 @@
         "nombre": "KRACHITOS CHIZITOS X 60GR",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1041.81,
+        "precio": 1134.98,
         "imagen": "8729.webp",
         "activo": true
     },
@@ -2425,7 +2425,7 @@
         "nombre": "PEPSICO 40 GR TODOS",
         "marca": "Lays",
         "categoria": "Snacks",
-        "precio": 1723.04,
+        "precio": 1633.5,
         "imagen": "1498.webp",
         "activo": true
     },
@@ -2435,7 +2435,7 @@
         "nombre": "PEPSICO 77/85 GR TODOS",
         "marca": "Lays",
         "categoria": "Snacks",
-        "precio": 2874.96,
+        "precio": 2837.45,
         "imagen": "1501.webp",
         "activo": true
     },
@@ -2485,7 +2485,7 @@
         "nombre": "ALFAJOR JORGITO x 6 UNID",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 2651.11,
+        "precio": 2712.82,
         "imagen": "56.webp",
         "activo": true
     },
@@ -3555,7 +3555,7 @@
         "nombre": "PUSH POP CHUPETIN TODOS   C/U",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
-        "precio": 479.16,
+        "precio": 389.62,
         "imagen": "1643.webp",
         "activo": true
     },
@@ -3675,7 +3675,7 @@
         "nombre": "FAMILIARES SALVADO BAGLEY x 169GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1216.05,
+        "precio": 1331.0,
         "imagen": "626.webp",
         "activo": true
     },
@@ -3825,7 +3825,7 @@
         "nombre": "GALLET VOCACION 141 GR",
         "marca": "Lía",
         "categoria": "Galletitas",
-        "precio": 822.8,
+        "precio": 774.4,
         "imagen": "749.webp",
         "activo": true
     },
@@ -3905,7 +3905,7 @@
         "nombre": "MEDIA TARDE CLASICA TRI 330",
         "marca": "Lía",
         "categoria": "Galletitas",
-        "precio": 1410.26,
+        "precio": 1442.32,
         "imagen": "1153.webp",
         "activo": true
     },
@@ -3915,7 +3915,7 @@
         "nombre": "MERENGADAS X 88 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1159.18,
+        "precio": 1224.52,
         "imagen": "1177.webp",
         "activo": true
     },
@@ -4115,7 +4115,7 @@
         "nombre": "SURTIDO BAGLEY 400 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 2904.0,
+        "precio": 2949.98,
         "imagen": "737.webp",
         "activo": true
     },
@@ -4275,7 +4275,7 @@
         "nombre": "ALGODON ESTRELLA 75GR",
         "marca": "Estrella",
         "categoria": "Perfumería",
-        "precio": 925.65,
+        "precio": 965.58,
         "imagen": "66.webp",
         "activo": true
     },
@@ -4415,7 +4415,7 @@
         "nombre": "CABSHA",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 463.73,
+        "precio": 464.64,
         "imagen": "230.webp",
         "activo": true
     },
@@ -4705,7 +4705,7 @@
         "nombre": "GEL DOREE 180GR",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 2221.56,
+        "precio": 2318.36,
         "imagen": "774.webp",
         "activo": true
     },
@@ -4765,7 +4765,7 @@
         "nombre": "JABON EN PAN SIGNO",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 537.24,
+        "precio": 568.7,
         "imagen": "3183.webp",
         "activo": true
     },
@@ -4855,7 +4855,7 @@
         "nombre": "KINDER BUENO* 43 GS",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2861.65,
+        "precio": 2625.7,
         "imagen": "947.webp",
         "activo": true
     },
@@ -4895,7 +4895,7 @@
         "nombre": "LAVANDINA AYUDIN CLASICA 1 L",
         "marca": "Ayudín",
         "categoria": "Limpieza",
-        "precio": 968.0,
+        "precio": 920.81,
         "imagen": "1010.webp",
         "activo": true
     },
@@ -4945,7 +4945,7 @@
         "nombre": "MAGISTRAL DETERGENT 225ML",
         "marca": "Magistral",
         "categoria": "Limpieza",
-        "precio": 1517.34,
+        "precio": 1723.04,
         "imagen": "3381.webp",
         "activo": true
     },
@@ -5085,7 +5085,7 @@
         "nombre": "PAPEL HIGIENICO VUAL*50 MTS",
         "marca": "Vual",
         "categoria": "Limpieza",
-        "precio": 514.25,
+        "precio": 562.65,
         "imagen": "1444.webp",
         "activo": true
     },
@@ -5265,7 +5265,7 @@
         "nombre": "TALCO EFFICIENT 100GR",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 2894.32,
+        "precio": 3253.69,
         "imagen": "1900.webp",
         "activo": true
     },
@@ -5335,7 +5335,7 @@
         "nombre": "CHOCOLATIN GEORGALOS *40UNID",
         "marca": "Georgalos",
         "categoria": "Chocolates",
-        "precio": 11676.5,
+        "precio": 11132.0,
         "imagen": "372.webp",
         "activo": true
     },
@@ -5385,7 +5385,7 @@
         "nombre": "BONOBON OBLEA 30 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 928.07,
+        "precio": 895.4,
         "imagen": "1306.webp",
         "activo": true
     },
@@ -6125,7 +6125,7 @@
         "nombre": "SUGUS MAX TODOS X 70 UNI",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6207.3,
+        "precio": 5517.6,
         "imagen": "1875.webp",
         "activo": true
     },
