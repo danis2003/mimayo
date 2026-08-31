@@ -765,3 +765,4 @@ class App(ctk.CTk):
             "la publicación",
             error
         )
+        
