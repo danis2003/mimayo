@@ -3572,7 +3572,7 @@
     {
         "fila_excel": 359,
         "codigo": 1951,
-        "nombre": "TIC TAC TODOS* 12 UNIDADES",
+        "nombre": "TICTAC UNIDAD 16GR",
         "marca": "Tic Tac",
         "categoria": "Golosinas",
         "precio": 897.41,
@@ -6246,7 +6246,7 @@
         "marca": "Burbujas",
         "categoria": "Golosinas",
         "precio": 544.5,
-        "imagen": "3293.webp",
+        "imagen": "sin-imagen.png",
         "activo": true
     }
 ]
