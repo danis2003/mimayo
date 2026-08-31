@@ -807,6 +807,10 @@ btnConfirmarPedido.addEventListener("click", () => {
 
   const urlWhatsApp = `https://api.whatsapp.com/send?phone=${NUMERO_WHATSAPP}&text=${encodeURIComponent(mensaje)}`;
 
+  registrarEventoGA4("confirm_order", {
+    items_count: obtenerCarrito().length,
+  });
+
   window.open(urlWhatsApp, "_blank");
 
   cerrarModalConfirmacion();
@@ -916,6 +920,9 @@ btnContinuarPedido.addEventListener("click", () => {
     alert(validacionVariantes.mensaje);
     return;
   }
+  registrarEventoGA4("begin_checkout", {
+    items_count: carrito.length,
+  });
 
   abrirModalConfirmacion();
 });
