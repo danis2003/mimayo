@@ -55,6 +55,9 @@ modo_administracion = False
 # Orden original de las imágenes al cargar el producto
 archivos_variantes_originales = []
 
+# Imágenes que el producto ya tenía antes de agregar nuevas variantes
+archivos_variantes_existentes = []
+
 # Indica si estamos trabajando en modo administración
 
 
@@ -203,6 +206,7 @@ def seleccionar_producto_variantes(modo="variantes"):
     global producto_variantes
     global archivos_variantes
     global archivo_seleccionado
+    global archivos_variantes_existentes
 
     ventana = tk.Toplevel(root)
     ventana.title("Seleccionar producto")
@@ -403,8 +407,11 @@ def seleccionar_producto_variantes(modo="variantes"):
 
         if modo == "variantes":
 
+            global archivos_variantes_existentes
+
             producto_variantes = producto
             archivos_variantes = []
+            archivos_variantes_existentes = cargar_imagenes_producto(producto)
             archivo_seleccionado = None
 
             actualizar_estado(
@@ -429,7 +436,42 @@ def seleccionar_producto_variantes(modo="variantes"):
                 text=producto["categoria"]
             )
 
+            limpiar_previsualizacion()
+
+            if archivos_variantes_existentes:
+                mostrar_previsualizacion_variantes()
+
             return
+
+        # if modo == "variantes":
+
+        #     producto_variantes = producto
+        #     archivos_variantes = []
+        #     archivo_seleccionado = None
+
+        #     actualizar_estado(
+        #         f"Producto seleccionado: "
+        #         f"{producto['codigo']} - "
+        #         f"{producto['nombre']}"
+        #     )
+
+        #     lblCodigo.config(
+        #         text=producto["codigo"]
+        #     )
+
+        #     lblNombre.config(
+        #         text=producto["nombre"]
+        #     )
+
+        #     lblMarca.config(
+        #         text=producto["marca"]
+        #     )
+
+        #     lblCategoria.config(
+        #         text=producto["categoria"]
+        #     )
+
+        #     return
 
         # ======================================
         # MODO ADMINISTRAR IMÁGENES
@@ -559,6 +601,7 @@ def administrar_imagenes():
     global indice_imagen_reemplazo
     global imagen_nueva_reemplazo
     global imagenes_marcadas_eliminar
+    global archivos_variantes_existentes
 
     # ------------------------------------------
     # Preparar modo administración
@@ -566,6 +609,7 @@ def administrar_imagenes():
 
     archivos_variantes = []
     archivos_variantes_originales = []
+    archivos_variantes_existentes = []
 
     archivo_seleccionado = None
     producto_variantes = None
@@ -798,7 +842,8 @@ def seleccionar_imagen():
 
     global archivo_seleccionado
     global archivos_variantes
-    global imagen_nueva_reemplazo
+
+    global archivos_variantes_existentes
 
     # ==========================================
     # MODO ADMINISTRACIÓN
@@ -941,6 +986,30 @@ def seleccionar_imagen():
     )
 
     if not archivos:
+        return
+
+    # ==========================================
+    # AGREGAR VARIANTES A PRODUCTO EXISTENTE
+    # ==========================================
+
+    if producto_variantes is not None:
+
+        archivos_variantes.extend(
+            Path(archivo)
+            for archivo in archivos
+        )
+
+        mostrar_previsualizacion_variantes()
+
+        actualizar_estado(
+            f"{len(archivos_variantes)} nueva(s) imagen(es) "
+            "seleccionada(s)."
+        )
+
+        btnConfirmar.config(
+            state="normal"
+        )
+
         return
 
     # ------------------------------------------
@@ -2150,6 +2219,7 @@ def guardar_cambios_imagenes():
 def mostrar_previsualizacion_variantes():
 
     global indice_imagen_reemplazo
+    global archivos_variantes_existentes
 
     # ------------------------------------------
     # Limpiar contenido anterior
@@ -2158,7 +2228,7 @@ def mostrar_previsualizacion_variantes():
     for widget in frameVariantes.winfo_children():
         widget.destroy()
 
-    if not archivos_variantes:
+    if not archivos_variantes and not archivos_variantes_existentes:
         return
 
     # ------------------------------------------
@@ -2286,7 +2356,15 @@ def mostrar_previsualizacion_variantes():
     # CREAR MINIATURAS
     # ------------------------------------------
 
-    for indice, ruta in enumerate(archivos_variantes):
+        if producto_variantes is not None:
+            imagenes_mostrar = (
+                archivos_variantes_existentes
+                + archivos_variantes
+            )
+        else:
+            imagenes_mostrar = archivos_variantes
+
+    for indice, ruta in enumerate(imagenes_mostrar):
 
         frameImagen = tk.Frame(
             frameImagenes,
@@ -2788,6 +2866,7 @@ def confirmar_imagen():
     global archivo_seleccionado
     global archivos_variantes
     global producto_variantes
+    global archivos_variantes_existentes
 
     # ------------------------------------------
     # VALIDAR QUE HAYA IMÁGENES
@@ -2817,6 +2896,7 @@ def confirmar_imagen():
             producto_variantes = None
             archivo_seleccionado = None
             archivos_variantes = []
+            archivos_variantes_existentes = []
 
             btnConfirmar.config(
                 state="disabled"
