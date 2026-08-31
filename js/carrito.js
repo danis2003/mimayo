@@ -894,6 +894,18 @@ btnSeguirComprando.addEventListener("click", () => {
 });
 
 // =========================================
+// GOOGLE ANALYTICS
+// =========================================
+
+function registrarEventoGA4(nombreEvento, parametros = {}) {
+  if (typeof gtag !== "function") {
+    return;
+  }
+
+  gtag("event", nombreEvento, parametros);
+}
+
+// =========================================
 // ABRIR MODAL DE CONFIRMACIÓN
 // =========================================
 
