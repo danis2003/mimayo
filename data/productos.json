@@ -6168,5 +6168,15 @@
         "precio": 544.5,
         "imagen": "3293.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 619,
+        "codigo": 2522,
+        "nombre": "BARRA INTEGRA 41 GR",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1089.0,
+        "imagen": "2522.webp",
+        "activo": true
     }
 ]
