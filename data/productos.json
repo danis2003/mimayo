@@ -315,7 +315,7 @@
         "nombre": "ALFAJOR FANTOCHE SUPER TRIPLE",
         "marca": "Fantoche",
         "categoria": "Alfajores",
-        "precio": 917.18,
+        "precio": 1096.26,
         "imagen": "8736.webp",
         "activo": true
     },
@@ -325,7 +325,7 @@
         "nombre": "ALFAJOR FANTOCHE TRIPLE",
         "marca": "Fantoche",
         "categoria": "Alfajores",
-        "precio": 854.26,
+        "precio": 901.45,
         "imagen": "3012.webp",
         "activo": true
     },
@@ -335,7 +335,7 @@
         "nombre": "ALFAJOR MILKA  SIMPLE",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 790.13,
+        "precio": 930.49,
         "imagen": "3011.webp",
         "activo": true
     },
@@ -435,7 +435,7 @@
         "nombre": "ALFAJOR GUAYMALLÉN L/CH/FR CAJA",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 10327.35,
+        "precio": 10842.81,
         "imagen": "61.webp",
         "activo": true
     },
@@ -445,7 +445,7 @@
         "nombre": "ALFAJOR GUAYMALLÉN ORO *48G",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 532.4,
+        "precio": 588.24,
         "imagen": "63.webp",
         "activo": true
     },
@@ -465,7 +465,7 @@
         "nombre": "ALFAJOR JORGITO",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 885.72,
+        "precio": 930.49,
         "imagen": "3010.webp",
         "activo": true
     },
@@ -475,7 +475,7 @@
         "nombre": "ALFAJOR JORGITO SIN GLUTEN",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 866.36,
+        "precio": 909.92,
         "imagen": "2464.webp",
         "activo": true
     },
@@ -705,7 +705,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 110GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 3521.1,
+        "precio": 3518.68,
         "imagen": "342.webp",
         "activo": true
     },
@@ -725,7 +725,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 38GR",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 1407.23,
+        "precio": 1452.0,
         "imagen": "341.webp",
         "activo": true
     },
@@ -1255,7 +1255,7 @@
         "nombre": "ARCOR MENTA CRISTAL/MIX 810 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9882.07,
+        "precio": 12027.4,
         "imagen": "1163.webp",
         "activo": true
     },
@@ -1455,7 +1455,7 @@
         "nombre": "MOGUL MORAS Y DIENTES 10 X 50GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8109.6,
+        "precio": 8107.0,
         "imagen": "2900.webp",
         "activo": true
     },
@@ -2235,7 +2235,7 @@
         "nombre": "RUMBA x 112 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1210.0,
+        "precio": 1237.83,
         "imagen": "1764.webp",
         "activo": true
     },
@@ -2295,7 +2295,7 @@
         "nombre": "DORITOS  DINAMITA  45 GS",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1585.1,
+        "precio": 1887.6,
         "imagen": "2914.webp",
         "activo": true
     },
@@ -2305,7 +2305,7 @@
         "nombre": "DORITOS DINAMITA 82 GR",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2420.0,
+        "precio": 2783.0,
         "imagen": "2913.webp",
         "activo": true
     },
@@ -2315,7 +2315,7 @@
         "nombre": "DORITOS TODOS 77 GR",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2837.45,
+        "precio": 2874.96,
         "imagen": "3000.webp",
         "activo": true
     },
@@ -2365,7 +2365,7 @@
         "nombre": "PEPSICO 40 GR TODOS",
         "marca": "Lays",
         "categoria": "Snacks",
-        "precio": 1633.5,
+        "precio": 1887.6,
         "imagen": "1498.webp",
         "activo": true
     },
@@ -2375,7 +2375,7 @@
         "nombre": "PEPSICO 77/85 GR TODOS",
         "marca": "Lays",
         "categoria": "Snacks",
-        "precio": 2837.45,
+        "precio": 1633.5,
         "imagen": "1501.webp",
         "activo": true
     },
@@ -2385,7 +2385,7 @@
         "nombre": "TWISTOS 95 GR",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2956.03,
+        "precio": 3025.0,
         "imagen": "2063.webp",
         "activo": true
     },
@@ -2405,7 +2405,7 @@
         "nombre": "ALFAJOR CHOCOTORTA TRIPLE",
         "marca": "Bagley",
         "categoria": "Alfajores",
-        "precio": 1147.08,
+        "precio": 1167.65,
         "imagen": "3062.webp",
         "activo": true
     },
@@ -2425,7 +2425,7 @@
         "nombre": "ALFAJOR JORGITO x 6 UNID",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 2712.82,
+        "precio": 2848.34,
         "imagen": "56.webp",
         "activo": true
     },
@@ -2965,7 +2965,7 @@
         "nombre": "CELULOSA STAMPS 50 HOJAS",
         "marca": "Stamps",
         "categoria": "Varios",
-        "precio": 1056.33,
+        "precio": 1062.38,
         "imagen": "2715.webp",
         "activo": true
     },
@@ -3085,7 +3085,7 @@
         "nombre": "EVEREADY AA NEGRA",
         "marca": "Eveready",
         "categoria": "Varios",
-        "precio": 520.3,
+        "precio": 701.8,
         "imagen": "615.webp",
         "activo": true
     },
@@ -3095,7 +3095,7 @@
         "nombre": "EVEREADY AAA NEGRA",
         "marca": "Eveready",
         "categoria": "Varios",
-        "precio": 520.3,
+        "precio": 701.8,
         "imagen": "614.webp",
         "activo": true
     },
@@ -3135,7 +3135,7 @@
         "nombre": "FILTROS OCB EXTRA SLIM 150",
         "marca": "OCB",
         "categoria": "Varios",
-        "precio": 1913.01,
+        "precio": 1995.29,
         "imagen": "2567.webp",
         "activo": true
     },
@@ -3275,7 +3275,7 @@
         "nombre": "TABACO CERRITO*45 GS",
         "marca": "Cerrito",
         "categoria": "Varios",
-        "precio": 5994.34,
+        "precio": 6254.49,
         "imagen": "2587.webp",
         "activo": true
     },
@@ -3295,7 +3295,7 @@
         "nombre": "TABACO LAS HOJAS*50GS",
         "marca": "Cuatro Leguas",
         "categoria": "Varios",
-        "precio": 4658.5,
+        "precio": 4815.8,
         "imagen": "2702.webp",
         "activo": true
     },
@@ -3325,7 +3325,7 @@
         "nombre": "CARAMELO ALKA CHE/STR 800G",
         "marca": "Alka",
         "categoria": "Golosinas",
-        "precio": 10545.15,
+        "precio": 11017.05,
         "imagen": "263.webp",
         "activo": true
     },
@@ -3385,7 +3385,7 @@
         "nombre": "CONITO JORGITO",
         "marca": "Jorgito",
         "categoria": "Golosinas",
-        "precio": 971.63,
+        "precio": 1020.03,
         "imagen": "9856.webp",
         "activo": true
     },
@@ -3505,7 +3505,7 @@
         "nombre": "TICTAC UNIDAD 16GR",
         "marca": "Tic Tac",
         "categoria": "Golosinas",
-        "precio": 897.41,
+        "precio": 805.86,
         "imagen": "1951.webp",
         "activo": true
     },
@@ -3875,7 +3875,7 @@
         "nombre": "OKEBON CHICA* 165 GS",
         "marca": "Okebon",
         "categoria": "Galletitas",
-        "precio": 1078.11,
+        "precio": 750.2,
         "imagen": "1338.webp",
         "activo": true
     },
@@ -3885,7 +3885,7 @@
         "nombre": "OKEBON CHO=LECHE 273 GS",
         "marca": "Okebon",
         "categoria": "Galletitas",
-        "precio": 1615.35,
+        "precio": 1125.3,
         "imagen": "1340.webp",
         "activo": true
     },
@@ -4075,7 +4075,7 @@
         "nombre": "VAINILLA MAURI * 160 GS 14 U",
         "marca": "Mauri",
         "categoria": "Galletitas",
-        "precio": 968.0,
+        "precio": 1004.3,
         "imagen": "2079.webp",
         "activo": true
     },
@@ -4095,7 +4095,7 @@
         "nombre": "BIZCOCHOS JORGITO *200 GS",
         "marca": "Jorgito",
         "categoria": "Galletitas",
-        "precio": 889.35,
+        "precio": 933.82,
         "imagen": "154.webp",
         "activo": true
     },
@@ -4105,7 +4105,7 @@
         "nombre": "BIZCOCHOS JORGITO *400 GS",
         "marca": "Jorgito",
         "categoria": "Galletitas",
-        "precio": 1512.5,
+        "precio": 1587.52,
         "imagen": "155.webp",
         "activo": true
     },
@@ -4285,7 +4285,7 @@
         "nombre": "BOCADITO MARROC CAJA 60 U",
         "marca": "FelFort",
         "categoria": "Golosinas",
-        "precio": 33052.36,
+        "precio": 550.55,
         "imagen": "177.webp",
         "activo": true
     },
@@ -4625,7 +4625,7 @@
         "nombre": "GEL DOREE 180GR",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 2318.36,
+        "precio": 1841.62,
         "imagen": "774.webp",
         "activo": true
     },
@@ -4675,7 +4675,7 @@
         "nombre": "JABON DOVE 90 GR",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1793.22,
+        "precio": 1694.0,
         "imagen": "914.webp",
         "activo": true
     },
@@ -4935,7 +4935,7 @@
         "nombre": "MEDALLON DDL 21GS",
         "marca": "FelFort",
         "categoria": "Golosinas",
-        "precio": 728.96,
+        "precio": 451.03,
         "imagen": "1152.webp",
         "activo": true
     },
@@ -4965,7 +4965,7 @@
         "nombre": "MOGUL VIBORITA  12 U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7857.74,
+        "precio": 7865.0,
         "imagen": "688.webp",
         "activo": true
     },
@@ -5245,7 +5245,7 @@
         "nombre": "YUMMY ANIMALES/MORAS 12 UN",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 5478.88,
+        "precio": 5657.96,
         "imagen": "2519.webp",
         "activo": true
     },
@@ -5385,7 +5385,7 @@
         "nombre": "ALFAJOR GUAYMALLEN TRIPLE",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 429.55,
+        "precio": 451.03,
         "imagen": "62.webp",
         "activo": true
     },
@@ -5505,7 +5505,7 @@
         "nombre": "ALFAJOR GUAYMALLEN RUBI 50G",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 532.4,
+        "precio": 588.24,
         "imagen": "8838.webp",
         "activo": true
     },
@@ -5675,7 +5675,7 @@
         "nombre": "MIELCITAS X5 TIRAS",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 2970.55,
+        "precio": 2536.16,
         "imagen": "15.webp",
         "activo": true
     },
@@ -5915,7 +5915,7 @@
         "nombre": "CARAMELO PICO DULCE DURO",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 5166.7,
+        "precio": 5644.65,
         "imagen": "266.webp",
         "activo": true
     },
@@ -5925,7 +5925,7 @@
         "nombre": "MISKY SURTIDO MASTICABLE 800",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7161.99,
+        "precio": 7308.4,
         "imagen": "270.webp",
         "activo": true
     },
@@ -5945,7 +5945,7 @@
         "nombre": "LIPO SUPER ACIDO 454 GR 63 U",
         "marca": "Lipo",
         "categoria": "Golosinas",
-        "precio": 3025.0,
+        "precio": 3061.3,
         "imagen": "385.webp",
         "activo": true
     },
@@ -5995,7 +5995,7 @@
         "nombre": "CUBANITOS OBLITA X 48 UNI",
         "marca": "Oblita",
         "categoria": "Golosinas",
-        "precio": 4057.13,
+        "precio": 4537.5,
         "imagen": "498.webp",
         "activo": true
     },
@@ -6105,7 +6105,7 @@
         "nombre": "BUTTER TOFFEES BONOBON 822 G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 10170.35,
+        "precio": 11187.66,
         "imagen": "9846.webp",
         "activo": true
     },
@@ -6145,7 +6145,7 @@
         "nombre": "ARCOR MENTA CHOCOLATE 715 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7441.5,
+        "precio": 8857.2,
         "imagen": "1161.webp",
         "activo": true
     },
