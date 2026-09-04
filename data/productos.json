@@ -612,7 +612,7 @@
     {
         "fila_excel": 63,
         "codigo": 201,
-        "nombre": "BOMBOM FERRERO 8 U",
+        "nombre": "BOMBON FERRERO ROCHER 8U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
         "precio": 7619.37,
@@ -622,7 +622,7 @@
     {
         "fila_excel": 64,
         "codigo": 199,
-        "nombre": "BOMBOM FERRERO ROCHER X 12 UN",
+        "nombre": "BOMBON FERRERO ROCHER 12U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
         "precio": 13519.33,
@@ -632,7 +632,7 @@
     {
         "fila_excel": 65,
         "codigo": 200,
-        "nombre": "BOMBOM FERRERO ROCHER X 3UNID",
+        "nombre": "BOMBON FERRERO ROCHER 3U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
         "precio": 2972.97,
@@ -642,7 +642,7 @@
     {
         "fila_excel": 66,
         "codigo": 2570,
-        "nombre": "BOMBON FERRERO  ESTUCHE 4 UN",
+        "nombre": "BOMBON FERRERO ROCHER 4U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
         "precio": 4485.47,
@@ -652,7 +652,7 @@
     {
         "fila_excel": 67,
         "codigo": 3055,
-        "nombre": "BOMBON FERRERO ESTUCH 24U",
+        "nombre": "BOMBON FERRERO ESTUCHE 24U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
         "precio": 22748.0,
@@ -672,7 +672,7 @@
     {
         "fila_excel": 69,
         "codigo": 335,
-        "nombre": "CHOCOLATE CADBURY TODOS 82 G",
+        "nombre": "CHOC CADBURY YOGURT 82G",
         "marca": "Cadbury",
         "categoria": "Chocolates",
         "precio": 4241.05,
@@ -682,7 +682,7 @@
     {
         "fila_excel": 70,
         "codigo": 334,
-        "nombre": "CHOCOLATE CADBURY YOGUR29",
+        "nombre": "CHOC CADBURY YOGURT 29G",
         "marca": "Cadbury",
         "categoria": "Chocolates",
         "precio": 1770.23,
@@ -692,7 +692,7 @@
     {
         "fila_excel": 71,
         "codigo": 339,
-        "nombre": "CHOCOLATE COFLER AIREADO 60GR",
+        "nombre": "CHOC COFLER AIR MIXTO 55G",
         "marca": "Cofler",
         "categoria": "Chocolates",
         "precio": 2972.97,
@@ -702,7 +702,7 @@
     {
         "fila_excel": 72,
         "codigo": 342,
-        "nombre": "CHOCOLATE COFLER BLOCK 110GR",
+        "nombre": "CHOCOLATE COFLER BLOCK 110G",
         "marca": "Cofler",
         "categoria": "Chocolates",
         "precio": 3518.68,
@@ -712,7 +712,7 @@
     {
         "fila_excel": 73,
         "codigo": 340,
-        "nombre": "CHOCOLATE COFLER BLOCK 170GR",
+        "nombre": "CHOCOLATE COFLER BLOCK 170G",
         "marca": "Cofler",
         "categoria": "Chocolates",
         "precio": 6292.0,
@@ -722,7 +722,7 @@
     {
         "fila_excel": 74,
         "codigo": 341,
-        "nombre": "CHOCOLATE COFLER BLOCK 38GR",
+        "nombre": "CHOCOLATE COFLER BLOCK 38G",
         "marca": "Cofler",
         "categoria": "Chocolates",
         "precio": 1452.0,
@@ -732,7 +732,7 @@
     {
         "fila_excel": 75,
         "codigo": 3084,
-        "nombre": "CHOCOLATE MILKA OREO 37 GR",
+        "nombre": "CHOCOLATE MILKA OREO 37G",
         "marca": "Milka",
         "categoria": "Chocolates",
         "precio": 2127.18,
@@ -742,7 +742,7 @@
     {
         "fila_excel": 76,
         "codigo": 360,
-        "nombre": "CHOCOLATE TOFI DDL 28 GR",
+        "nombre": "CHOCOLATE TOFI NEGRO 28G",
         "marca": "Arcor",
         "categoria": "Chocolates",
         "precio": 1450.79,
@@ -762,7 +762,7 @@
     {
         "fila_excel": 78,
         "codigo": 540,
-        "nombre": "DOS CORAZONES 26 GR",
+        "nombre": "CHOCOLATE DOS CORAZONES 26G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 982.52,
@@ -782,7 +782,7 @@
     {
         "fila_excel": 80,
         "codigo": 8825,
-        "nombre": "FELFORT CHOCO CON MANI 20 GR",
+        "nombre": "FELFORT CHOCO CON MANI 20G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 698.17,
@@ -792,7 +792,7 @@
     {
         "fila_excel": 81,
         "codigo": 8806,
-        "nombre": "FELFORT CHOCO CON MANI 250 GR",
+        "nombre": "FELFORT CHOCO CON MANI 250G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 7562.5,
@@ -802,7 +802,7 @@
     {
         "fila_excel": 82,
         "codigo": 2160,
-        "nombre": "FELFORT CHOCO CON MANI 75 GR",
+        "nombre": "FELFORT CHOCO CON MANI 75G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 2722.5,
@@ -812,7 +812,7 @@
     {
         "fila_excel": 83,
         "codigo": 3056,
-        "nombre": "FERRERO ESTUCHE 7U",
+        "nombre": "BOMBON FERRERO ROCHER 7U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
         "precio": 8681.75,
@@ -822,7 +822,7 @@
     {
         "fila_excel": 84,
         "codigo": 8826,
-        "nombre": "FORT MINT 14 GR",
+        "nombre": "CHOCOLATE FORT MINT 14G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 718.74,
@@ -882,7 +882,7 @@
     {
         "fila_excel": 90,
         "codigo": 946,
-        "nombre": "KINDER BARRITA 24 U",
+        "nombre": "CHOC KINDER BARRITA 24U",
         "marca": "Kinder",
         "categoria": "Chocolates",
         "precio": 20369.14,
@@ -892,7 +892,7 @@
     {
         "fila_excel": 91,
         "codigo": 949,
-        "nombre": "KINDER BARRITA 4 UN X 50 GR",
+        "nombre": "CHOC KINDER BARRITA 4U",
         "marca": "Kinder",
         "categoria": "Chocolates",
         "precio": 2554.31,
@@ -902,7 +902,7 @@
     {
         "fila_excel": 92,
         "codigo": 950,
-        "nombre": "KINDER HUEVO SORPRESA",
+        "nombre": "HUEVO KINDER SORPRESA NENE",
         "marca": "Kinder",
         "categoria": "Chocolates",
         "precio": 2331.67,
@@ -912,7 +912,7 @@
     {
         "fila_excel": 93,
         "codigo": 954,
-        "nombre": "KINDER MAXI*10 UNI",
+        "nombre": "CHOC KINDER MAXI 10U",
         "marca": "Kinder",
         "categoria": "Chocolates",
         "precio": 10890.0,
@@ -922,7 +922,7 @@
     {
         "fila_excel": 94,
         "codigo": 955,
-        "nombre": "KITKAT NESTLE 41,5 GR",
+        "nombre": "CHOCOLATE KITKAT NEGRO 41G",
         "marca": "Nestlé",
         "categoria": "Chocolates",
         "precio": 1470.15,
@@ -942,7 +942,7 @@
     {
         "fila_excel": 96,
         "codigo": 8817,
-        "nombre": "MILKA AIREADO LEGER 110 GR",
+        "nombre": "CHOC MILKA AIR ALMENDRA 110G",
         "marca": "Milka",
         "categoria": "Chocolates",
         "precio": 6289.58,
@@ -952,7 +952,7 @@
     {
         "fila_excel": 97,
         "codigo": 3014,
-        "nombre": "MILKA AIREADO LEGER 50 GS",
+        "nombre": "CHOC MILKA AIR LECHE 50G",
         "marca": "Milka",
         "categoria": "Chocolates",
         "precio": 2631.75,
@@ -962,7 +962,7 @@
     {
         "fila_excel": 98,
         "codigo": 8818,
-        "nombre": "MILKA CHOCOLATE LECHE 55 GR",
+        "nombre": "CHOC MILKA CHOCOLAT LECHE 55G",
         "marca": "Milka",
         "categoria": "Chocolates",
         "precio": 2888.27,
@@ -972,7 +972,7 @@
     {
         "fila_excel": 99,
         "codigo": 3063,
-        "nombre": "MILKA DDLECHE 29 GR",
+        "nombre": "CHOC MILKA DDLECHE 29G",
         "marca": "Milka",
         "categoria": "Chocolates",
         "precio": 1274.13,
@@ -982,7 +982,7 @@
     {
         "fila_excel": 100,
         "codigo": 3018,
-        "nombre": "MILKA DULCE DE LECHE 68 GR",
+        "nombre": "CHOC MILKA DULCE DE LECH 68G",
         "marca": "Milka",
         "categoria": "Chocolates",
         "precio": 3509.0,
@@ -1152,7 +1152,7 @@
     {
         "fila_excel": 117,
         "codigo": 1826,
-        "nombre": "SHOT CHOC 35 GR",
+        "nombre": "CHOCOLATE SHOT 35G",
         "marca": "Shot",
         "categoria": "Chocolates",
         "precio": 1246.3,
@@ -1162,7 +1162,7 @@
     {
         "fila_excel": 118,
         "codigo": 1823,
-        "nombre": "SHOT CHOC 90 GS*",
+        "nombre": "CHOCOLATE SHOT 90G",
         "marca": "Shot",
         "categoria": "Chocolates",
         "precio": 3409.78,
@@ -1172,7 +1172,7 @@
     {
         "fila_excel": 119,
         "codigo": 1825,
-        "nombre": "SHOT CHOC* 170 GS",
+        "nombre": "CHOCOLATE SHOT 170G",
         "marca": "Shot",
         "categoria": "Chocolates",
         "precio": 5447.42,
@@ -1192,7 +1192,7 @@
     {
         "fila_excel": 121,
         "codigo": 1884,
-        "nombre": "TABLETA AGUILA 100 GR",
+        "nombre": "CHOC TABLETA AGUILA 100G",
         "marca": "Aguila",
         "categoria": "Chocolates",
         "precio": 4670.6,
@@ -1202,7 +1202,7 @@
     {
         "fila_excel": 122,
         "codigo": 1885,
-        "nombre": "TABLETA AGUILA 150 GR",
+        "nombre": "CHOC TABLETA AGUILA 150G",
         "marca": "Aguila",
         "categoria": "Chocolates",
         "precio": 5564.79,
@@ -3382,7 +3382,7 @@
     {
         "fila_excel": 340,
         "codigo": 9856,
-        "nombre": "CONITO JORGITO",
+        "nombre": "CONITO JORGITO 34G",
         "marca": "Jorgito",
         "categoria": "Golosinas",
         "precio": 1020.03,
@@ -3422,7 +3422,7 @@
     {
         "fila_excel": 344,
         "codigo": 1182,
-        "nombre": "MERENBOM 25GR",
+        "nombre": "BOMBON MERENBOM 25G",
         "marca": "Urquiza",
         "categoria": "Golosinas",
         "precio": 636.46,
@@ -3432,7 +3432,7 @@
     {
         "fila_excel": 345,
         "codigo": 1179,
-        "nombre": "MERENKOA 15GR",
+        "nombre": "BOMBON MERENKOA 15G",
         "marca": "Urquiza",
         "categoria": "Golosinas",
         "precio": 750.2,
@@ -3852,7 +3852,7 @@
     {
         "fila_excel": 387,
         "codigo": 1316,
-        "nombre": "OBLEA OBLITA 50GR",
+        "nombre": "OBLEA OBLITA 50G",
         "marca": "Oblita",
         "categoria": "Galletitas",
         "precio": 332.75,
@@ -4222,7 +4222,7 @@
     {
         "fila_excel": 424,
         "codigo": 2521,
-        "nombre": "BANANINA 15 GR",
+        "nombre": "CHOC FELFORT BANANINA 15G",
         "marca": "FelFort",
         "categoria": "Golosinas",
         "precio": 399.3,
@@ -4232,7 +4232,7 @@
     {
         "fila_excel": 425,
         "codigo": 114,
-        "nombre": "BANANITA DOLCA 14GR",
+        "nombre": "CHOC BANANITA DOLCA 14G",
         "marca": "Nestlé",
         "categoria": "Golosinas",
         "precio": 660.66,
@@ -4242,7 +4242,7 @@
     {
         "fila_excel": 426,
         "codigo": 115,
-        "nombre": "BANANITA DOLCA 30GR",
+        "nombre": "CHOC BANANITA DOLCA 30G",
         "marca": "Nestlé",
         "categoria": "Golosinas",
         "precio": 1142.24,
@@ -4252,7 +4252,7 @@
     {
         "fila_excel": 427,
         "codigo": 119,
-        "nombre": "BARRITA AGUILA 14GR",
+        "nombre": "CHOC BARRITA AGUILA 14GR",
         "marca": "Aguila",
         "categoria": "Chocolates",
         "precio": 919.6,
@@ -4282,7 +4282,7 @@
     {
         "fila_excel": 430,
         "codigo": 177,
-        "nombre": "BOCADITO MARROC CAJA 60 U",
+        "nombre": "CHOCOLATE MARROC CRIC 14G",
         "marca": "FelFort",
         "categoria": "Golosinas",
         "precio": 550.55,
@@ -4292,7 +4292,7 @@
     {
         "fila_excel": 431,
         "codigo": 2980,
-        "nombre": "BOMBON DOR 12 GR",
+        "nombre": "BOMBON FELFORT D'OR 12G",
         "marca": "FelFort",
         "categoria": "Golosinas",
         "precio": 363.0,
@@ -4302,7 +4302,7 @@
     {
         "fila_excel": 432,
         "codigo": 366,
-        "nombre": "BONAFIDE CHOCMAN 35GR",
+        "nombre": "BONAFIDE CHOCMAN 35G",
         "marca": "Bonafide",
         "categoria": "Golosinas",
         "precio": 665.5,
@@ -4312,7 +4312,7 @@
     {
         "fila_excel": 433,
         "codigo": 1149,
-        "nombre": "BONAFIDE MECANO 19 GR",
+        "nombre": "CHOCOLATE MECANO BLANCO 19G",
         "marca": "Bonafide",
         "categoria": "Chocolates",
         "precio": 728.42,
@@ -4322,7 +4322,7 @@
     {
         "fila_excel": 434,
         "codigo": 212,
-        "nombre": "BOTELLITA DE WISKY 24 GR",
+        "nombre": "CHOC BOTELLITA DE WHISKY 24G",
         "marca": "FelFort",
         "categoria": "Golosinas",
         "precio": 1127.12,
@@ -4332,7 +4332,7 @@
     {
         "fila_excel": 435,
         "codigo": 230,
-        "nombre": "CABSHA",
+        "nombre": "CHOCOLATE CABSHA 10G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 464.64,
@@ -4352,7 +4352,7 @@
     {
         "fila_excel": 437,
         "codigo": 2173,
-        "nombre": "CHOC GEORGALOS FULL MANI 150",
+        "nombre": "CHOCOLATE FULL MANI 150G",
         "marca": "Georgalos",
         "categoria": "Chocolates",
         "precio": 3037.1,
@@ -4362,7 +4362,7 @@
     {
         "fila_excel": 438,
         "codigo": 1887,
-        "nombre": "CHOCO AGUILA 70% CACAO 150GR",
+        "nombre": "CHOC AGUILA 70% CACAO 150G",
         "marca": "Aguila",
         "categoria": "Chocolates",
         "precio": 8016.86,
@@ -4372,7 +4372,7 @@
     {
         "fila_excel": 439,
         "codigo": 6091,
-        "nombre": "CHOCOLATE AGUILA 70% CACAO 70 GR",
+        "nombre": "CHOC AGUILA 70% CACAO 70G",
         "marca": "Aguila",
         "categoria": "Chocolates",
         "precio": 4598.0,
@@ -4382,7 +4382,7 @@
     {
         "fila_excel": 440,
         "codigo": 338,
-        "nombre": "CHOCOLATE COFLER AIREADO X 27GR",
+        "nombre": "CHOC COFLER AIR BLANCO 27G",
         "marca": "Cofler",
         "categoria": "Chocolates",
         "precio": 1476.2,
@@ -4392,7 +4392,7 @@
     {
         "fila_excel": 441,
         "codigo": 349,
-        "nombre": "CHOCOLATE DAQUI 70 GR",
+        "nombre": "CHOCOLATE DAQUI 70G",
         "marca": "Georgalos",
         "categoria": "Chocolates",
         "precio": 605.0,
@@ -4402,7 +4402,7 @@
     {
         "fila_excel": 442,
         "codigo": 354,
-        "nombre": "CHOCOLATE HAMLET TODOS 43 GS",
+        "nombre": "CHOC HAMLET COOKIES 43G",
         "marca": "Arcor",
         "categoria": "Chocolates",
         "precio": 787.71,
@@ -4412,7 +4412,7 @@
     {
         "fila_excel": 443,
         "codigo": 1862,
-        "nombre": "CHOCOLATE JACK FELFORT 14 GR",
+        "nombre": "CHOCOLATE JACK FELFORT 14G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 1441.11,
@@ -4422,7 +4422,7 @@
     {
         "fila_excel": 444,
         "codigo": 356,
-        "nombre": "CHOCOLATE MISKY 25 GR",
+        "nombre": "CHOCOLATE MISKY NEGRO 25G",
         "marca": "Arcor",
         "categoria": "Chocolates",
         "precio": 744.15,
@@ -4432,7 +4432,7 @@
     {
         "fila_excel": 445,
         "codigo": 357,
-        "nombre": "CHOCOLATE MISKY 50 GR",
+        "nombre": "CHOCOLATE MISKY NEGRO 50G",
         "marca": "Arcor",
         "categoria": "Chocolates",
         "precio": 1314.06,
@@ -4442,7 +4442,7 @@
     {
         "fila_excel": 446,
         "codigo": 369,
-        "nombre": "CHOCOLATIN MISKY 8GR C/U",
+        "nombre": "CHOCOLATIN MISKY 8G",
         "marca": "Arcor",
         "categoria": "Chocolates",
         "precio": 297.66,
@@ -4462,7 +4462,7 @@
     {
         "fila_excel": 448,
         "codigo": 392,
-        "nombre": "CHUPELATIN FELFORT UNIDAD 15 GR",
+        "nombre": "CHUPELATIN FELFORT 15G",
         "marca": "FelFort",
         "categoria": "Golosinas",
         "precio": 932.91,
@@ -4502,7 +4502,7 @@
     {
         "fila_excel": 452,
         "codigo": 9874,
-        "nombre": "COFLER EXTRA 46 GR",
+        "nombre": "CHOCOLATE COFLER EXTRA 46G",
         "marca": "Arcor",
         "categoria": "Chocolates",
         "precio": 1722.8,
@@ -4522,7 +4522,7 @@
     {
         "fila_excel": 454,
         "codigo": 9866,
-        "nombre": "CONITO DON QUIQUE",
+        "nombre": "CONITO DON QUIQUE 34G",
         "marca": "Don Quique",
         "categoria": "Golosinas",
         "precio": 670.34,
@@ -4532,7 +4532,7 @@
     {
         "fila_excel": 455,
         "codigo": 501,
-        "nombre": "DANCING BOCADITO *50UN",
+        "nombre": "BOCADITO DANCING 50U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 8463.95,
@@ -4612,7 +4612,7 @@
     {
         "fila_excel": 463,
         "codigo": 637,
-        "nombre": "FEELING *20GS",
+        "nombre": "CHOCOLATE FEELING 20G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 511.83,
@@ -4752,7 +4752,7 @@
     {
         "fila_excel": 477,
         "codigo": 198,
-        "nombre": "JACKELIN BOMBON 14 GR  C/U",
+        "nombre": "BOMBON JACKELIN 14G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 718.74,
@@ -4772,7 +4772,7 @@
     {
         "fila_excel": 479,
         "codigo": 947,
-        "nombre": "KINDER BUENO* 43 GS",
+        "nombre": "CHOC KINDER BUENO NEGRO 43G",
         "marca": "Kinder",
         "categoria": "Chocolates",
         "precio": 2625.7,
@@ -4792,7 +4792,7 @@
     {
         "fila_excel": 481,
         "codigo": 2487,
-        "nombre": "KOOKY BON 10 GR",
+        "nombre": "CHOC FELFORT KOOKY BON 10G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 278.3,
@@ -4822,7 +4822,7 @@
     {
         "fila_excel": 484,
         "codigo": 9875,
-        "nombre": "LICOR AL CHOCOLATE  500 GR",
+        "nombre": "LICOR AL CHOCOLATE  500G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 15622.31,
@@ -4832,7 +4832,7 @@
     {
         "fila_excel": 485,
         "codigo": 8723,
-        "nombre": "LICORFORT WHISKY 13 G",
+        "nombre": "CHOC LICORFORT WHISKY 13G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 808.28,
@@ -4842,7 +4842,7 @@
     {
         "fila_excel": 486,
         "codigo": 1033,
-        "nombre": "LICORITAS* 20 GS",
+        "nombre": "CHOCOLATE LICORITAS 20G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 768.35,
@@ -4872,7 +4872,7 @@
     {
         "fila_excel": 489,
         "codigo": 1095,
-        "nombre": "MANTECOL 111 GR",
+        "nombre": "MANTECOL 111G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 2480.5,
@@ -4882,7 +4882,7 @@
     {
         "fila_excel": 490,
         "codigo": 1093,
-        "nombre": "MANTECOL 26GR",
+        "nombre": "MANTECOL 26G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 786.5,
@@ -4892,7 +4892,7 @@
     {
         "fila_excel": 491,
         "codigo": 1103,
-        "nombre": "MANTECOL 40 GR",
+        "nombre": "MANTECOL 40G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 1246.3,
@@ -4902,7 +4902,7 @@
     {
         "fila_excel": 492,
         "codigo": 1090,
-        "nombre": "MANTECOL 64 GR",
+        "nombre": "MANTECOL 64G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 1429.01,
@@ -4912,7 +4912,7 @@
     {
         "fila_excel": 493,
         "codigo": 176,
-        "nombre": "MARROC",
+        "nombre": "CHOCOLATE MARROC 14G",
         "marca": "FelFort",
         "categoria": "Golosinas",
         "precio": 550.55,
@@ -4942,7 +4942,7 @@
     {
         "fila_excel": 496,
         "codigo": 1151,
-        "nombre": "MENTITAS FELFORT 16 GR",
+        "nombre": "CHOC MENTITAS FELFORT 16G",
         "marca": "FelFort",
         "categoria": "Golosinas",
         "precio": 453.75,
@@ -4952,7 +4952,7 @@
     {
         "fila_excel": 497,
         "codigo": 1197,
-        "nombre": "MILKA CHOCO PAUSE* 45 GS",
+        "nombre": "MILKA CHOCO PAUSE LECHE 45G",
         "marca": "Milka",
         "categoria": "Chocolates",
         "precio": 1502.82,
@@ -4972,7 +4972,7 @@
     {
         "fila_excel": 499,
         "codigo": 1247,
-        "nombre": "MONEDA PIRATA FELFORT 5 GR  C/U",
+        "nombre": "CHOC FELFORT MONEDA PIRATA",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 308.55,
@@ -5172,7 +5172,7 @@
     {
         "fila_excel": 519,
         "codigo": 3174,
-        "nombre": "TABLETA VAUQUITA 25 GR",
+        "nombre": "CHOC VAUQUITA CLASICA 25G",
         "marca": "Vauquita",
         "categoria": "Golosinas",
         "precio": 441.65,
@@ -5192,7 +5192,7 @@
     {
         "fila_excel": 521,
         "codigo": 1957,
-        "nombre": "TIVIS* 25 GS",
+        "nombre": "CHOCOLATE TIVIS 25G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 813.4,
@@ -5232,7 +5232,7 @@
     {
         "fila_excel": 525,
         "codigo": 8835,
-        "nombre": "WINING 20 GR",
+        "nombre": "CHOC FELFORT WINING 20G",
         "marca": "FelFort",
         "categoria": "Chocolates",
         "precio": 635.25,
@@ -5252,7 +5252,7 @@
     {
         "fila_excel": 527,
         "codigo": 372,
-        "nombre": "CHOCOLATIN GEORGALOS *40UNID",
+        "nombre": "CHOCOLATIN GEORGALOS 40U",
         "marca": "Georgalos",
         "categoria": "Chocolates",
         "precio": 11132.0,
@@ -5272,7 +5272,7 @@
     {
         "fila_excel": 529,
         "codigo": 8891,
-        "nombre": "MILKA RASPBERRY CREME 100GR",
+        "nombre": "MILKA RASPBERRY CREME 100G",
         "marca": "Milka",
         "categoria": "Chocolates",
         "precio": 6166.16,
@@ -5292,7 +5292,7 @@
     {
         "fila_excel": 531,
         "codigo": 203,
-        "nombre": "BONOBON BCO/NEGRO 15GR",
+        "nombre": "BOMBON BONOBON BLANCO 15G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 423.5,
@@ -5302,7 +5302,7 @@
     {
         "fila_excel": 532,
         "codigo": 1306,
-        "nombre": "BONOBON OBLEA 30 GR",
+        "nombre": "OBLEA BONOBON NEGRO 30G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 895.4,
@@ -5312,7 +5312,7 @@
     {
         "fila_excel": 533,
         "codigo": 1731,
-        "nombre": "ROCKLETS 20 GR",
+        "nombre": "CHOC ROCKLETS 20G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 745.36,
@@ -5322,7 +5322,7 @@
     {
         "fila_excel": 534,
         "codigo": 1732,
-        "nombre": "ROCKLETS 40 GR",
+        "nombre": "CHOC ROCKLETS 40G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 1506.45,
@@ -5332,7 +5332,7 @@
     {
         "fila_excel": 535,
         "codigo": 1730,
-        "nombre": "ROCKLETS MINI 10 GR",
+        "nombre": "CHOC ROCKLETS MINI 10G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 388.77,
@@ -5572,7 +5572,7 @@
     {
         "fila_excel": 559,
         "codigo": 9883,
-        "nombre": "MANTECOL BAÑADO 20GR",
+        "nombre": "MANTECOL BAÑADO 20G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 847.0,
@@ -5622,7 +5622,7 @@
     {
         "fila_excel": 564,
         "codigo": 1312,
-        "nombre": "OBLEA SMACK X 33 GR",
+        "nombre": "OBLEA SMACK 33G",
         "marca": "Smack",
         "categoria": "Golosinas",
         "precio": 278.3,
@@ -5632,7 +5632,7 @@
     {
         "fila_excel": 565,
         "codigo": 2615,
-        "nombre": "CUBANITO SMACK X 27 GR",
+        "nombre": "CUBANITO SMACK 27G",
         "marca": "Smack",
         "categoria": "Golosinas",
         "precio": 278.3,
@@ -5702,7 +5702,7 @@
     {
         "fila_excel": 572,
         "codigo": 733,
-        "nombre": "RHODESIA 22 GR",
+        "nombre": "RHODESIA 22G",
         "marca": "Terrabusi",
         "categoria": "Golosinas",
         "precio": 763.51,
@@ -5712,7 +5712,7 @@
     {
         "fila_excel": 573,
         "codigo": 738,
-        "nombre": "TITA 19 GR",
+        "nombre": "TITA 19G",
         "marca": "Terrabusi",
         "categoria": "Golosinas",
         "precio": 690.91,
@@ -5732,7 +5732,7 @@
     {
         "fila_excel": 575,
         "codigo": 1210,
-        "nombre": "MILKA OREO BOMBON 19 G",
+        "nombre": "BOMBON MILKA OREO 19G",
         "marca": "Milka",
         "categoria": "Golosinas",
         "precio": 544.5,
@@ -5802,7 +5802,7 @@
     {
         "fila_excel": 582,
         "codigo": 3270,
-        "nombre": "TOBLERONE 100GR",
+        "nombre": "CHOC TOBLERONE 100G",
         "marca": "Mondelez",
         "categoria": "Chocolates",
         "precio": 6760.27,
@@ -5862,7 +5862,7 @@
     {
         "fila_excel": 588,
         "codigo": 9872,
-        "nombre": "OBLEA MANTECOL X 27 GR",
+        "nombre": "OBLEA MANTECOL 27GR",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 665.5,
@@ -5992,7 +5992,7 @@
     {
         "fila_excel": 601,
         "codigo": 498,
-        "nombre": "CUBANITOS OBLITA X 48 UNI",
+        "nombre": "CUBANITOS OBLITA 48U",
         "marca": "Oblita",
         "categoria": "Golosinas",
         "precio": 4537.5,
@@ -6177,6 +6177,326 @@
         "categoria": "Golosinas",
         "precio": 1089.0,
         "imagen": "2522.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 620,
+        "codigo": 6093,
+        "nombre": "BOMBON BONOBON AGUILA 15G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 443.4,
+        "imagen": "6093.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 621,
+        "codigo": 204,
+        "nombre": "BOMBON BONOBON NEGRO 15G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 423.5,
+        "imagen": "204.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 622,
+        "codigo": 1888,
+        "nombre": "CHOC AGUILA 60% CACAO 150G",
+        "marca": "Aguila",
+        "categoria": "Chocolates",
+        "precio": 6969.6,
+        "imagen": "1888.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 623,
+        "codigo": 163,
+        "nombre": "CHOC BIZNIKKE NEVADO 28G",
+        "marca": "Biznikke",
+        "categoria": "Chocolates",
+        "precio": 883.3,
+        "imagen": "163.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 624,
+        "codigo": 337,
+        "nombre": "CHOC CADBURY 3 SUEÑOS 82G",
+        "marca": "Mondelez",
+        "categoria": "Chocolates",
+        "precio": 4241.05,
+        "imagen": "337.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 625,
+        "codigo": 336,
+        "nombre": "CHOC CADBURY ALMENDRAS 82G",
+        "marca": "Mondelez",
+        "categoria": "Chocolates",
+        "precio": 4241.05,
+        "imagen": "336.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 626,
+        "codigo": 348,
+        "nombre": "CHOC COFLER AIR ALMENDRA 55G",
+        "marca": "Cofler",
+        "categoria": "Chocolates",
+        "precio": 2972.97,
+        "imagen": "348.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 627,
+        "codigo": 346,
+        "nombre": "CHOC COFLER AIR BLANCO 55G",
+        "marca": "Cofler",
+        "categoria": "Chocolates",
+        "precio": 2972.97,
+        "imagen": "346.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 628,
+        "codigo": 343,
+        "nombre": "CHOC COFLER AIR BOB 27G",
+        "marca": "Cofler",
+        "categoria": "Chocolates",
+        "precio": 1476.2,
+        "imagen": "343.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 629,
+        "codigo": 345,
+        "nombre": "CHOC COFLER AIR BOB 67G",
+        "marca": "Cofler",
+        "categoria": "Chocolates",
+        "precio": 2972.97,
+        "imagen": "345.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 630,
+        "codigo": 344,
+        "nombre": "CHOC COFLER AIR LECHE 27G",
+        "marca": "Cofler",
+        "categoria": "Chocolates",
+        "precio": 1476.2,
+        "imagen": "344.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 631,
+        "codigo": 347,
+        "nombre": "CHOC COFLER AIR LECHE 55G",
+        "marca": "Cofler",
+        "categoria": "Chocolates",
+        "precio": 2972.97,
+        "imagen": "347.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 632,
+        "codigo": 350,
+        "nombre": "CHOC COFLER AIR MIXTO 27G",
+        "marca": "Cofler",
+        "categoria": "Chocolates",
+        "precio": 1476.2,
+        "imagen": "350.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 633,
+        "codigo": 2787,
+        "nombre": "CHOC FELFORT NOBEL 35G",
+        "marca": "FelFort",
+        "categoria": "Chocolates",
+        "precio": 1099.89,
+        "imagen": "2787.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 634,
+        "codigo": 353,
+        "nombre": "CHOC HAMLET CHOCOLATOSO 43G",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 787.71,
+        "imagen": "353.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 635,
+        "codigo": 355,
+        "nombre": "CHOC HAMLET FRUTILLA 43G",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 787.71,
+        "imagen": "355.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 636,
+        "codigo": 953,
+        "nombre": "CHOC KINDER BUENO DARK 43G",
+        "marca": "Kinder",
+        "categoria": "Chocolates",
+        "precio": 2625.7,
+        "imagen": "953.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 637,
+        "codigo": 948,
+        "nombre": "CHOC KINDER BUENO WHITE 39G",
+        "marca": "Kinder",
+        "categoria": "Chocolates",
+        "precio": 2625.7,
+        "imagen": "948.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 638,
+        "codigo": 3015,
+        "nombre": "CHOC MILKA AIR ALMENDRAS 50G",
+        "marca": "Milka",
+        "categoria": "Chocolates",
+        "precio": 2631.75,
+        "imagen": "3015.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 639,
+        "codigo": 3016,
+        "nombre": "CHOC MILKA AIR COMBINADO 50G",
+        "marca": "Milka",
+        "categoria": "Chocolates",
+        "precio": 2631.75,
+        "imagen": "3016.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 640,
+        "codigo": 3370,
+        "nombre": "CHOC VAUQUITA BLACK COIN 25G",
+        "marca": "Vauquita",
+        "categoria": "Chocolates",
+        "precio": 513.04,
+        "imagen": "3370.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 641,
+        "codigo": 3169,
+        "nombre": "CHOC VAUQUITA SUAVE 25G",
+        "marca": "Vauquita",
+        "categoria": "Chocolates",
+        "precio": 441.65,
+        "imagen": "3169.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 642,
+        "codigo": 2250,
+        "nombre": "CHOCOLATE FULL MANI 90G",
+        "marca": "Georgalos",
+        "categoria": "Chocolates",
+        "precio": 1948.1,
+        "imagen": "2250.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 643,
+        "codigo": 957,
+        "nombre": "CHOCOLATE KITKAT BLANCO 41G",
+        "marca": "Nestlé",
+        "categoria": "Chocolates",
+        "precio": 1470.15,
+        "imagen": "957.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 644,
+        "codigo": 1150,
+        "nombre": "CHOCOLATE MECANO NEGRO 19G",
+        "marca": "Bonafide",
+        "categoria": "Chocolates",
+        "precio": 728.42,
+        "imagen": "1150.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 645,
+        "codigo": 358,
+        "nombre": "CHOCOLATE MISKY BLANCO 25G",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 744.15,
+        "imagen": "358.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 646,
+        "codigo": 359,
+        "nombre": "CHOCOLATE MISKY BLANCO 50G",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 1314.06,
+        "imagen": "359.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 647,
+        "codigo": 361,
+        "nombre": "CHOCOLATE TOFI BLANCO 27G",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 1450.79,
+        "imagen": "361.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 648,
+        "codigo": 987,
+        "nombre": "HUEVO KINDER SORPRESA NENA",
+        "marca": "Kinder",
+        "categoria": "Chocolates",
+        "precio": 2331.67,
+        "imagen": "987.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 649,
+        "codigo": 1198,
+        "nombre": "MILKA CHOCO PAUSE OREO 45G",
+        "marca": "Milka",
+        "categoria": "Chocolates",
+        "precio": 1502.82,
+        "imagen": "1198.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 650,
+        "codigo": 1307,
+        "nombre": "OBLEA BONOBON BLANCO 30G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 895.4,
+        "imagen": "1307.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 651,
+        "codigo": 2066,
+        "nombre": "OBLEA BONOBON MEGA 48G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 1456.84,
+        "imagen": "2066.webp",
         "activo": true
     }
 ]
