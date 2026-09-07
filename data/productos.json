@@ -245,7 +245,7 @@
         "nombre": "CREMA LS LARGA VIDA 200ML",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2499.86,
+        "precio": 2601.5,
         "imagen": "3306.webp",
         "activo": true
     },
@@ -265,7 +265,7 @@
         "nombre": "LECHE LA SERENISIMA ROJA 1L",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2390.96,
+        "precio": 2486.55,
         "imagen": "1022.webp",
         "activo": true
     },
@@ -305,7 +305,7 @@
         "nombre": "ALFAJOR FANTOCHE PESCADO RAUL",
         "marca": "Fantoche",
         "categoria": "Alfajores",
-        "precio": 592.9,
+        "precio": 661.87,
         "imagen": "8734.webp",
         "activo": true
     },
@@ -315,7 +315,7 @@
         "nombre": "ALFAJOR FANTOCHE SUPER TRIPLE",
         "marca": "Fantoche",
         "categoria": "Alfajores",
-        "precio": 1096.26,
+        "precio": 949.85,
         "imagen": "8736.webp",
         "activo": true
     },
@@ -435,7 +435,7 @@
         "nombre": "ALFAJOR GUAYMALLÉN L/CH/FR CAJA",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 10842.81,
+        "precio": 10864.59,
         "imagen": "61.webp",
         "activo": true
     },
@@ -445,7 +445,7 @@
         "nombre": "ALFAJOR GUAYMALLÉN ORO *48G",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 588.24,
+        "precio": 560.23,
         "imagen": "63.webp",
         "activo": true
     },
@@ -605,7 +605,7 @@
         "nombre": "BILLIKEN MAST YOGURT 600GR",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 4235.0,
+        "precio": 4751.67,
         "imagen": "3075.webp",
         "activo": true
     },
@@ -1215,7 +1215,7 @@
         "nombre": "TALITA URQUIZA TODAS",
         "marca": "Urquiza",
         "categoria": "Galletitas",
-        "precio": 1149.5,
+        "precio": 1210.0,
         "imagen": "6075.webp",
         "activo": true
     },
@@ -1235,7 +1235,7 @@
         "nombre": "TOSTADAS ARROZ LEIVA 150 GR",
         "marca": "Leiva",
         "categoria": "Galletitas",
-        "precio": 1149.5,
+        "precio": 1222.1,
         "imagen": "2021.webp",
         "activo": true
     },
@@ -1305,7 +1305,7 @@
         "nombre": "BUTTER TOFFEES TODOS 822 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8914.07,
+        "precio": 11187.66,
         "imagen": "890.webp",
         "activo": true
     },
@@ -1345,7 +1345,7 @@
         "nombre": "GOMA MISKY 1 KL",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8878.98,
+        "precio": 9329.1,
         "imagen": "798.webp",
         "activo": true
     },
@@ -1365,7 +1365,7 @@
         "nombre": "LENGUETAZO TODOS 32 UNIDADES",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 7527.41,
+        "precio": 7262.42,
         "imagen": "1024.webp",
         "activo": true
     },
@@ -1445,7 +1445,7 @@
         "nombre": "MOGUL GELATIN CEREBRITOS 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6010.74,
+        "precio": 6037.9,
         "imagen": "686.webp",
         "activo": true
     },
@@ -1745,7 +1745,7 @@
         "nombre": "DULCE DE LECHE LS COL 250 GR",
         "marca": "La Serenísima",
         "categoria": "Almacén",
-        "precio": 2456.3,
+        "precio": 2594.24,
         "imagen": "3308.webp",
         "activo": true
     },
@@ -1805,7 +1805,7 @@
         "nombre": "HARINA PUREZA PIZZA 1KG",
         "marca": "Molino Cañuelas",
         "categoria": "Almacén",
-        "precio": 1583.89,
+        "precio": 1859.77,
         "imagen": "9851.webp",
         "activo": true
     },
@@ -1885,7 +1885,7 @@
         "nombre": "QUESO RALLADO LA QUESERA 40",
         "marca": "La Quesera",
         "categoria": "Almacén",
-        "precio": 792.55,
+        "precio": 826.43,
         "imagen": "3150.webp",
         "activo": true
     },
@@ -2185,7 +2185,7 @@
         "nombre": "GALLETITA CEREAL MIX 207 GR",
         "marca": "Arcor",
         "categoria": "Galletitas",
-        "precio": 1754.5,
+        "precio": 1940.84,
         "imagen": "303.webp",
         "activo": true
     },
@@ -2205,7 +2205,7 @@
         "nombre": "MEDIA TARDE SANDWICH TRI 321GR",
         "marca": "Lía",
         "categoria": "Galletitas",
-        "precio": 1518.55,
+        "precio": 1594.78,
         "imagen": "1155.webp",
         "activo": true
     },
@@ -2255,7 +2255,7 @@
         "nombre": "SUEROX x 630ML",
         "marca": "Suerox",
         "categoria": "Bebidas",
-        "precio": 1598.41,
+        "precio": 1667.38,
         "imagen": "3177.webp",
         "activo": true
     },
@@ -2265,7 +2265,7 @@
         "nombre": "TRAVIATA 108 GR",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 635.25,
+        "precio": 663.08,
         "imagen": "2032.webp",
         "activo": true
     },
@@ -2295,7 +2295,7 @@
         "nombre": "DORITOS  DINAMITA  45 GS",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1887.6,
+        "precio": 1588.73,
         "imagen": "2914.webp",
         "activo": true
     },
@@ -2305,7 +2305,7 @@
         "nombre": "DORITOS DINAMITA 82 GR",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2783.0,
+        "precio": 2433.31,
         "imagen": "2913.webp",
         "activo": true
     },
@@ -2365,7 +2365,7 @@
         "nombre": "PEPSICO 40 GR TODOS",
         "marca": "Lays",
         "categoria": "Snacks",
-        "precio": 1887.6,
+        "precio": 1633.5,
         "imagen": "1498.webp",
         "activo": true
     },
@@ -3305,7 +3305,7 @@
         "nombre": "BLUPER PASTILLAS 12 UNI",
         "marca": "Bluper",
         "categoria": "Golosinas",
-        "precio": 2862.86,
+        "precio": 3146.0,
         "imagen": "3076.webp",
         "activo": true
     },
@@ -3365,7 +3365,7 @@
         "nombre": "CHICLE BLUPER 400 GR",
         "marca": "Bluper",
         "categoria": "Golosinas",
-        "precio": 4997.3,
+        "precio": 5384.5,
         "imagen": "2380.webp",
         "activo": true
     },
@@ -3375,7 +3375,7 @@
         "nombre": "CHICLE METRO 4U",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 8680.54,
+        "precio": 2169.53,
         "imagen": "3191.webp",
         "activo": true
     },
@@ -3385,7 +3385,7 @@
         "nombre": "CONITO JORGITO 34G",
         "marca": "Jorgito",
         "categoria": "Golosinas",
-        "precio": 1020.03,
+        "precio": 1058.75,
         "imagen": "9856.webp",
         "activo": true
     },
@@ -3435,7 +3435,7 @@
         "nombre": "BOMBON MERENKOA 15G",
         "marca": "Urquiza",
         "categoria": "Golosinas",
-        "precio": 750.2,
+        "precio": 615.89,
         "imagen": "1179.webp",
         "activo": true
     },
@@ -3565,7 +3565,7 @@
         "nombre": "CRIOLLITAS *100 GS",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 571.12,
+        "precio": 589.27,
         "imagen": "483.webp",
         "activo": true
     },
@@ -3585,7 +3585,7 @@
         "nombre": "DON SATUR TALITAS 140  GS",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1418.12,
+        "precio": 1216.05,
         "imagen": "537.webp",
         "activo": true
     },
@@ -3615,7 +3615,7 @@
         "nombre": "FRUTIGRAN AVENAS/PASAS",
         "marca": "Granix",
         "categoria": "Galletitas",
-        "precio": 2122.34,
+        "precio": 2249.39,
         "imagen": "9871.webp",
         "activo": true
     },
@@ -3635,7 +3635,7 @@
         "nombre": "FRUTIGRAN TROPICAL *    250",
         "marca": "Granix",
         "categoria": "Galletitas",
-        "precio": 2171.95,
+        "precio": 2249.39,
         "imagen": "690.webp",
         "activo": true
     },
@@ -3775,7 +3775,7 @@
         "nombre": "GRANIX SIN SAL *200 GS",
         "marca": "Granix",
         "categoria": "Galletitas",
-        "precio": 1210.0,
+        "precio": 1287.44,
         "imagen": "808.webp",
         "activo": true
     },
@@ -3785,7 +3785,7 @@
         "nombre": "HOJALMAR/RONDA TRI/LAR 150 G",
         "marca": "Hojalmar",
         "categoria": "Galletitas",
-        "precio": 1370.93,
+        "precio": 1398.76,
         "imagen": "2039.webp",
         "activo": true
     },
@@ -3825,7 +3825,7 @@
         "nombre": "MEDIA TARDE CLASICA TRI 330",
         "marca": "Lía",
         "categoria": "Galletitas",
-        "precio": 1442.32,
+        "precio": 1514.92,
         "imagen": "1153.webp",
         "activo": true
     },
@@ -3905,7 +3905,7 @@
         "nombre": "PASEO AGUA* 300 GS",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1471.36,
+        "precio": 1350.36,
         "imagen": "1465.webp",
         "activo": true
     },
@@ -3925,7 +3925,7 @@
         "nombre": "PEPA ALEMANA 180 GR",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 738.1,
+        "precio": 719.95,
         "imagen": "951.webp",
         "activo": true
     },
@@ -4045,7 +4045,7 @@
         "nombre": "TEREPIN 200 GR",
         "marca": "Terepín",
         "categoria": "Galletitas",
-        "precio": 752.62,
+        "precio": 767.14,
         "imagen": "8836.webp",
         "activo": true
     },
@@ -4055,7 +4055,7 @@
         "nombre": "TEREPIN 400 GR",
         "marca": "Terepín",
         "categoria": "Galletitas",
-        "precio": 1403.6,
+        "precio": 1520.97,
         "imagen": "1944.webp",
         "activo": true
     },
@@ -4065,7 +4065,7 @@
         "nombre": "TRAVIATA TOQUE REX/KES",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 738.1,
+        "precio": 810.7,
         "imagen": "2904.webp",
         "activo": true
     },
@@ -4085,7 +4085,7 @@
         "nombre": "VAINILLA MAURI* 80 GS",
         "marca": "Mauri",
         "categoria": "Galletitas",
-        "precio": 453.75,
+        "precio": 486.42,
         "imagen": "2077.webp",
         "activo": true
     },
@@ -4355,7 +4355,7 @@
         "nombre": "CHOCOLATE FULL MANI 150G",
         "marca": "Georgalos",
         "categoria": "Chocolates",
-        "precio": 3037.1,
+        "precio": 3100.02,
         "imagen": "2173.webp",
         "activo": true
     },
@@ -4665,7 +4665,7 @@
         "nombre": "JABON CUPIDO X 3 *90 GS",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 1379.4,
+        "precio": 1548.8,
         "imagen": "913.webp",
         "activo": true
     },
@@ -4695,7 +4695,7 @@
         "nombre": "JABON GRANBY 800 ML",
         "marca": "Unilever",
         "categoria": "Limpieza",
-        "precio": 2067.89,
+        "precio": 2038.85,
         "imagen": "3182.webp",
         "activo": true
     },
@@ -5205,7 +5205,7 @@
         "nombre": "TOALLAS  LINA C/ ALAS* 8 UNI",
         "marca": "Lina",
         "categoria": "Perfumería",
-        "precio": 1012.77,
+        "precio": 1056.33,
         "imagen": "1962.webp",
         "activo": true
     },
@@ -5225,7 +5225,7 @@
         "nombre": "TOALLAS LADYSOF NORMAL 8U",
         "marca": "Ladysoft",
         "categoria": "Perfumería",
-        "precio": 959.53,
+        "precio": 1007.93,
         "imagen": "1966.webp",
         "activo": true
     },
@@ -5305,7 +5305,7 @@
         "nombre": "OBLEA BONOBON NEGRO 30G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 895.4,
+        "precio": 894.19,
         "imagen": "1306.webp",
         "activo": true
     },
@@ -5375,7 +5375,7 @@
         "nombre": "ALFAJOR JORGELÍN X85 GR",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 1185.8,
+        "precio": 1258.4,
         "imagen": "57.webp",
         "activo": true
     },
@@ -5505,7 +5505,7 @@
         "nombre": "ALFAJOR GUAYMALLEN RUBI 50G",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 588.24,
+        "precio": 560.23,
         "imagen": "8838.webp",
         "activo": true
     },
@@ -5645,7 +5645,7 @@
         "nombre": "TURRON DE MANI ARCOR X 25 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 229.9,
+        "precio": 226.27,
         "imagen": "2050.webp",
         "activo": true
     },
@@ -5745,7 +5745,7 @@
         "nombre": "PAÑAL HUGGIES XXG* 8 UNIDADE",
         "marca": "Huggies",
         "categoria": "Perfumería",
-        "precio": 2577.3,
+        "precio": 3092.76,
         "imagen": "1359.webp",
         "activo": true
     },
@@ -5765,7 +5765,7 @@
         "nombre": "PAPAS PRINGLES 105GR",
         "marca": "Pringles",
         "categoria": "Snacks",
-        "precio": 3771.57,
+        "precio": 3510.21,
         "imagen": "1422.webp",
         "activo": true
     },
@@ -5775,7 +5775,7 @@
         "nombre": "PAPAS PRINGLES 37 GR",
         "marca": "Pringles",
         "categoria": "Snacks",
-        "precio": 1830.73,
+        "precio": 1960.2,
         "imagen": "1423.webp",
         "activo": true
     },
@@ -5925,7 +5925,7 @@
         "nombre": "MISKY SURTIDO MASTICABLE 800",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7308.4,
+        "precio": 6815.93,
         "imagen": "270.webp",
         "activo": true
     },
@@ -5935,7 +5935,7 @@
         "nombre": "CHICLE FLICS 12UNIDADES",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9377.56,
+        "precio": 7175.3,
         "imagen": "313.webp",
         "activo": true
     },
@@ -6385,7 +6385,7 @@
         "nombre": "CHOC VAUQUITA BLACK COIN 25G",
         "marca": "Vauquita",
         "categoria": "Chocolates",
-        "precio": 513.04,
+        "precio": 536.03,
         "imagen": "3370.webp",
         "activo": true
     },
@@ -6485,7 +6485,7 @@
         "nombre": "OBLEA BONOBON BLANCO 30G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 895.4,
+        "precio": 894.19,
         "imagen": "1307.webp",
         "activo": true
     },
