@@ -6498,5 +6498,105 @@
         "precio": 1456.84,
         "imagen": "2066.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 652,
+        "codigo": 3567,
+        "nombre": "AVENA TRADIC QUAKER 280GR",
+        "marca": "Quaker",
+        "categoria": "Almacén",
+        "precio": 1887.6,
+        "imagen": "3567.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 653,
+        "codigo": 3080,
+        "nombre": "AVENA TRADIC QUAKER 550GR",
+        "marca": "Quaker",
+        "categoria": "Almacén",
+        "precio": 2672.89,
+        "imagen": "3080.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 654,
+        "codigo": 628,
+        "nombre": "FANTOCHE HOROS/ESPUM 300GR",
+        "marca": "Fantoche",
+        "categoria": "Galletitas",
+        "precio": 1076.9,
+        "imagen": "628.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 655,
+        "codigo": 629,
+        "nombre": "FANTOCHE MARMOLADAS 350GR",
+        "marca": "Fantoche",
+        "categoria": "Galletitas",
+        "precio": 907.5,
+        "imagen": "629.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 656,
+        "codigo": 729,
+        "nombre": "GALL COFLER BLOCK 124G",
+        "marca": "Cofler",
+        "categoria": "Galletitas",
+        "precio": 1548.8,
+        "imagen": "729.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 657,
+        "codigo": 726,
+        "nombre": "GALL COFLER BONOBON 85G",
+        "marca": "Cofler",
+        "categoria": "Galletitas",
+        "precio": 1001.88,
+        "imagen": "726.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 658,
+        "codigo": 731,
+        "nombre": "GALL COFLER ROCKLET 118G",
+        "marca": "Cofler",
+        "categoria": "Galletitas",
+        "precio": 1548.8,
+        "imagen": "731.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 659,
+        "codigo": 728,
+        "nombre": "GALL DONUTS NEGRO 78G",
+        "marca": "Bonafide",
+        "categoria": "Galletitas",
+        "precio": 1777.49,
+        "imagen": "728.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 660,
+        "codigo": 732,
+        "nombre": "GALL TODDY 126G",
+        "marca": "Georgalos",
+        "categoria": "Galletitas",
+        "precio": 2003.76,
+        "imagen": "732.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 661,
+        "codigo": 9910,
+        "nombre": "MINI TAPITAS 200G",
+        "marca": "Fachitas",
+        "categoria": "Galletitas",
+        "precio": 1298.33,
+        "imagen": "9910.webp",
+        "activo": true
     }
 ]
