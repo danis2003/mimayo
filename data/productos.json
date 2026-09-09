@@ -752,7 +752,7 @@
     {
         "fila_excel": 77,
         "codigo": 6086,
-        "nombre": "CLUB SOCIAL  6 UN X 23 GR",
+        "nombre": "GALLETITA  CLUB SOCIAL  6U  23G",
         "marca": "Club Social",
         "categoria": "Galletitas",
         "precio": 2282.06,
@@ -832,7 +832,7 @@
     {
         "fila_excel": 85,
         "codigo": 724,
-        "nombre": "GALLET OREO X 118 GR",
+        "nombre": "GALLETITA  OREO  118G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
         "precio": 1742.4,
@@ -842,7 +842,7 @@
     {
         "fila_excel": 86,
         "codigo": 730,
-        "nombre": "GALLET PEPITOS  X 118 GR",
+        "nombre": "GALLETITA  PEPITOS  118G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
         "precio": 1621.4,
@@ -992,7 +992,7 @@
     {
         "fila_excel": 101,
         "codigo": 1220,
-        "nombre": "MINI CORONITAS 140 GR",
+        "nombre": "GALLETITA  MINI CORONITAS 140G",
         "marca": "Fachitas",
         "categoria": "Galletitas",
         "precio": 984.94,
@@ -1002,7 +1002,7 @@
     {
         "fila_excel": 102,
         "codigo": 1226,
-        "nombre": "MINI OREO X 50 GR",
+        "nombre": "GALLETITA  MINI OREO 50G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
         "precio": 790.13,
@@ -1092,7 +1092,7 @@
     {
         "fila_excel": 111,
         "codigo": 38,
-        "nombre": "PEPA CHOCOTRIO 180 GR",
+        "nombre": "GALLETITA  PEPA CHOCOTRIO 180G",
         "marca": "Trio",
         "categoria": "Galletitas",
         "precio": 1076.9,
@@ -1102,7 +1102,7 @@
     {
         "fila_excel": 112,
         "codigo": 727,
-        "nombre": "PEPAS TRIO /TRICHOC 200 GR",
+        "nombre": "GALLETITA  PEPAS TRIO /TRICHOC 200 G",
         "marca": "Trio",
         "categoria": "Galletitas",
         "precio": 744.15,
@@ -1214,7 +1214,7 @@
         "codigo": 6075,
         "nombre": "TALITA URQUIZA TODAS",
         "marca": "Urquiza",
-        "categoria": "Galletitas",
+        "categoria": "Snacks",
         "precio": 1210.0,
         "imagen": "6075.webp",
         "activo": true
@@ -1232,7 +1232,7 @@
     {
         "fila_excel": 125,
         "codigo": 2021,
-        "nombre": "TOSTADAS ARROZ LEIVA 150 GR",
+        "nombre": "TOSTADAS ARROZ LEIVA 150 G",
         "marca": "Leiva",
         "categoria": "Galletitas",
         "precio": 1222.1,
@@ -2142,7 +2142,7 @@
     {
         "fila_excel": 216,
         "codigo": 302,
-        "nombre": "CEREALITAS 212 GR",
+        "nombre": "GALLETITA  CEREALITAS 212G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
         "precio": 1562.11,
@@ -2152,7 +2152,7 @@
     {
         "fila_excel": 217,
         "codigo": 373,
-        "nombre": "CHOCOLINAS 170 GR",
+        "nombre": "GALLETITA  CHOCOLINAS 170G",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 1413.28,
@@ -2162,7 +2162,7 @@
     {
         "fila_excel": 218,
         "codigo": 8715,
-        "nombre": "COQUITAS 177 GR",
+        "nombre": "GALLETITA  COQUITAS 177G",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 1413.28,
@@ -2172,7 +2172,7 @@
     {
         "fila_excel": 219,
         "codigo": 534,
-        "nombre": "DON SATUR BIZCOCHOS x 200GS",
+        "nombre": "DON SATUR BIZCOCHOS 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
         "precio": 1096.26,
@@ -2182,7 +2182,7 @@
     {
         "fila_excel": 220,
         "codigo": 303,
-        "nombre": "GALLETITA CEREAL MIX 207 GR",
+        "nombre": "GALLETITA CEREAL MIX 207G",
         "marca": "Arcor",
         "categoria": "Galletitas",
         "precio": 1940.84,
@@ -2192,7 +2192,7 @@
     {
         "fila_excel": 221,
         "codigo": 705,
-        "nombre": "GALLETITA AMOR MELLIZAS 112 GR",
+        "nombre": "GALLETITA AMOR MELLIZAS 112G",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 1149.5,
@@ -2202,7 +2202,7 @@
     {
         "fila_excel": 222,
         "codigo": 1155,
-        "nombre": "MEDIA TARDE SANDWICH TRI 321GR",
+        "nombre": "GALLETITA  MEDIA TARDE SANDWICH TRI 321G",
         "marca": "Lía",
         "categoria": "Galletitas",
         "precio": 1594.78,
@@ -2212,7 +2212,7 @@
     {
         "fila_excel": 223,
         "codigo": 1352,
-        "nombre": "OPERA x 92 GS",
+        "nombre": "OBLEA OPERA 92G",
         "marca": "Arcor",
         "categoria": "Galletitas",
         "precio": 1032.13,
@@ -2222,7 +2222,7 @@
     {
         "fila_excel": 224,
         "codigo": 1351,
-        "nombre": "OPERA x 55 GR",
+        "nombre": "OBLEA OPERA  55G",
         "marca": "Arcor",
         "categoria": "Galletitas",
         "precio": 736.89,
@@ -2232,7 +2232,7 @@
     {
         "fila_excel": 225,
         "codigo": 1764,
-        "nombre": "RUMBA x 112 GR",
+        "nombre": "GALLETITA  RUMBA 112G",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 1237.83,
@@ -2242,7 +2242,7 @@
     {
         "fila_excel": 226,
         "codigo": 1851,
-        "nombre": "SONRISAS FRAMBUESA x 108 GR",
+        "nombre": "GALLETITA  SONRISAS FRAMBUESA 108G",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 1224.52,
@@ -2262,7 +2262,7 @@
     {
         "fila_excel": 228,
         "codigo": 2032,
-        "nombre": "TRAVIATA 108 GR",
+        "nombre": "GALLETITA  TRAVIATA 108G",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 663.08,
@@ -2272,7 +2272,7 @@
     {
         "fila_excel": 229,
         "codigo": 2033,
-        "nombre": "TRAVIATA TRIPACK 324 GR",
+        "nombre": "GALLETITA  TRAVIATA TRIPACK 324G",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 1769.02,
@@ -3532,7 +3532,7 @@
     {
         "fila_excel": 355,
         "codigo": 3170,
-        "nombre": "GALLETITAS ANILLOS 170 GR",
+        "nombre": "GALLETITAS ANILLOS 170G",
         "marca": "Terrabusi",
         "categoria": "Galletitas",
         "precio": 1225.73,
@@ -3542,7 +3542,7 @@
     {
         "fila_excel": 356,
         "codigo": 3171,
-        "nombre": "GALLETITAS ANILLOS 300 GR",
+        "nombre": "GALLETITAS ANILLOS 300G",
         "marca": "Terrabusi",
         "categoria": "Galletitas",
         "precio": 2163.48,
@@ -3552,7 +3552,7 @@
     {
         "fila_excel": 357,
         "codigo": 888,
-        "nombre": "BISCUIT HJ* 130 GS",
+        "nombre": "BISCUIT HJ 130G",
         "marca": "HJ",
         "categoria": "Galletitas",
         "precio": 1488.3,
@@ -3562,7 +3562,7 @@
     {
         "fila_excel": 358,
         "codigo": 483,
-        "nombre": "CRIOLLITAS *100 GS",
+        "nombre": "GALLETITA  CRIOLLITAS 100G",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 589.27,
@@ -3572,7 +3572,7 @@
     {
         "fila_excel": 359,
         "codigo": 502,
-        "nombre": "DELICIAS NONNA PEPAS *180GS",
+        "nombre": "GALLETITA  DELICIAS NONNA PEPAS 180G",
         "marca": "Delicias de la Nonna",
         "categoria": "Galletitas",
         "precio": 713.9,
@@ -3582,9 +3582,9 @@
     {
         "fila_excel": 360,
         "codigo": 537,
-        "nombre": "DON SATUR TALITAS 140  GS",
+        "nombre": "DON SATUR TALITAS 140G",
         "marca": "Don Satur",
-        "categoria": "Galletitas",
+        "categoria": "Snacks",
         "precio": 1216.05,
         "imagen": "537.webp",
         "activo": true
@@ -3592,7 +3592,7 @@
     {
         "fila_excel": 361,
         "codigo": 626,
-        "nombre": "FAMILIARES SALVADO BAGLEY x 169GR",
+        "nombre": "GALLETITA  FAMILIARES SALVADO BAGLEY 169G",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 1331.0,
@@ -3612,7 +3612,7 @@
     {
         "fila_excel": 363,
         "codigo": 9871,
-        "nombre": "FRUTIGRAN AVENAS/PASAS",
+        "nombre": "GALLETITA  FRUTIGRAN AVENAS/PASAS",
         "marca": "Granix",
         "categoria": "Galletitas",
         "precio": 2249.39,
@@ -3622,7 +3622,7 @@
     {
         "fila_excel": 364,
         "codigo": 1341,
-        "nombre": "FRUTIGRAN C/CHIPS CHOCO  255",
+        "nombre": "GALLETITA  FRUTIGRAN C/CHIPS CHOCO  255G",
         "marca": "Granix",
         "categoria": "Galletitas",
         "precio": 2249.39,
@@ -3632,7 +3632,7 @@
     {
         "fila_excel": 365,
         "codigo": 690,
-        "nombre": "FRUTIGRAN TROPICAL *    250",
+        "nombre": "GALLETITA  FRUTIGRAN TROPICAL 250G",
         "marca": "Granix",
         "categoria": "Galletitas",
         "precio": 2249.39,
@@ -3642,7 +3642,7 @@
     {
         "fila_excel": 366,
         "codigo": 700,
-        "nombre": "GALLET CELOSAS *110 GS",
+        "nombre": "GALLETITA  CELOSAS 110G",
         "marca": "Celosas",
         "categoria": "Galletitas",
         "precio": 568.7,
@@ -3652,7 +3652,7 @@
     {
         "fila_excel": 367,
         "codigo": 701,
-        "nombre": "GALLET CELOSAS *230 GS",
+        "nombre": "GALLETITA  CELOSAS 230G",
         "marca": "Celosas",
         "categoria": "Galletitas",
         "precio": 1137.4,
@@ -3662,7 +3662,7 @@
     {
         "fila_excel": 368,
         "codigo": 702,
-        "nombre": "GALLET CELOSAS *350 GS",
+        "nombre": "GALLETITA  CELOSAS 350G",
         "marca": "Celosas",
         "categoria": "Galletitas",
         "precio": 1706.1,
@@ -3672,7 +3672,7 @@
     {
         "fila_excel": 369,
         "codigo": 709,
-        "nombre": "GALLET DIVERSION *400GS",
+        "nombre": "GALLETITA  DIVERSION 400G",
         "marca": "Arcor",
         "categoria": "Galletitas",
         "precio": 2397.01,
@@ -3682,7 +3682,7 @@
     {
         "fila_excel": 370,
         "codigo": 753,
-        "nombre": "GALLET GLUTEN RIERA X 200 GR",
+        "nombre": "GALLETITA  GLUTEN RIERA 200 G",
         "marca": "Riera",
         "categoria": "Galletitas",
         "precio": 1218.47,
@@ -3692,7 +3692,7 @@
     {
         "fila_excel": 371,
         "codigo": 715,
-        "nombre": "GALLET MANA RELLENA *152 GS",
+        "nombre": "GALLETITA  MANA RELLENA 152 G",
         "marca": "Arcor",
         "categoria": "Galletitas",
         "precio": 1105.34,
@@ -3702,7 +3702,7 @@
     {
         "fila_excel": 372,
         "codigo": 716,
-        "nombre": "GALLET MANA TODAS *145GS",
+        "nombre": "GALLETITA  MANA TODAS 145G",
         "marca": "Arcor",
         "categoria": "Galletitas",
         "precio": 1134.98,
@@ -3712,7 +3712,7 @@
     {
         "fila_excel": 373,
         "codigo": 755,
-        "nombre": "GALLET SURT FAUNA *400 GS",
+        "nombre": "GALLETITA  SURT FAUNA 400 G",
         "marca": "Mauri",
         "categoria": "Galletitas",
         "precio": 1643.18,
@@ -3722,7 +3722,7 @@
     {
         "fila_excel": 374,
         "codigo": 2951,
-        "nombre": "GALLET SURTIDO LIA 400 GR",
+        "nombre": "GALLETITA  SURTIDO LIA 400 G",
         "marca": "Lía",
         "categoria": "Galletitas",
         "precio": 1905.75,
@@ -3732,7 +3732,7 @@
     {
         "fila_excel": 375,
         "codigo": 745,
-        "nombre": "GALLET VARIEDAD *390 GS",
+        "nombre": "GALLETITA  VARIEDAD 390 G",
         "marca": "Terrabusi",
         "categoria": "Galletitas",
         "precio": 2406.69,
@@ -3742,7 +3742,7 @@
     {
         "fila_excel": 376,
         "codigo": 749,
-        "nombre": "GALLET VOCACION 141 GR",
+        "nombre": "GALLETITA  VOCACION 141 G",
         "marca": "Lía",
         "categoria": "Galletitas",
         "precio": 774.4,
@@ -3752,7 +3752,7 @@
     {
         "fila_excel": 377,
         "codigo": 750,
-        "nombre": "GALLET VOCACION TRIPACK",
+        "nombre": "GALLETITA  VOCACION TRIPACK",
         "marca": "Lía",
         "categoria": "Galletitas",
         "precio": 2013.74,
@@ -3762,7 +3762,7 @@
     {
         "fila_excel": 378,
         "codigo": 809,
-        "nombre": "GRANIX SANDWICH *200 GS",
+        "nombre": "GALLETITA GRANIX SANDWICH 200G",
         "marca": "Granix",
         "categoria": "Galletitas",
         "precio": 1113.2,
@@ -3772,7 +3772,7 @@
     {
         "fila_excel": 379,
         "codigo": 808,
-        "nombre": "GRANIX SIN SAL *200 GS",
+        "nombre": "GALLETITA GRANIX SIN SAL 200G",
         "marca": "Granix",
         "categoria": "Galletitas",
         "precio": 1287.44,
@@ -3782,7 +3782,7 @@
     {
         "fila_excel": 380,
         "codigo": 2039,
-        "nombre": "HOJALMAR/RONDA TRI/LAR 150 G",
+        "nombre": "GALLETITA HOJALMAR/RONDA TRI/LAR 150 G",
         "marca": "Hojalmar",
         "categoria": "Galletitas",
         "precio": 1398.76,
@@ -3792,7 +3792,7 @@
     {
         "fila_excel": 381,
         "codigo": 956,
-        "nombre": "KOKIS GALLET.TODAS*200GS",
+        "nombre": "GALLETITA KOKIS TODAS 200G",
         "marca": "Kokis",
         "categoria": "Galletitas",
         "precio": 1207.58,
@@ -3802,7 +3802,7 @@
     {
         "fila_excel": 382,
         "codigo": 713,
-        "nombre": "LINCOLN 160 G",
+        "nombre": "GALLETITA LINCOLN 160 G",
         "marca": "Terrabusi",
         "categoria": "Galletitas",
         "precio": 1379.4,
@@ -3822,7 +3822,7 @@
     {
         "fila_excel": 384,
         "codigo": 1153,
-        "nombre": "MEDIA TARDE CLASICA TRI 330",
+        "nombre": "GALLETITA MEDIA TARDE CLASICA TRI 330G",
         "marca": "Lía",
         "categoria": "Galletitas",
         "precio": 1514.92,
@@ -3832,7 +3832,7 @@
     {
         "fila_excel": 385,
         "codigo": 1177,
-        "nombre": "MERENGADAS X 88 GR",
+        "nombre": "GALLETITA MERENGADAS X 88G",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 1224.52,
@@ -3842,7 +3842,7 @@
     {
         "fila_excel": 386,
         "codigo": 8791,
-        "nombre": "MINI OREO 150 GR",
+        "nombre": "GALLETITA MINI OREO 150G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
         "precio": 1998.92,
@@ -3862,7 +3862,7 @@
     {
         "fila_excel": 388,
         "codigo": 8716,
-        "nombre": "OBLEA OBLITA 100 GR",
+        "nombre": "OBLEA OBLITA 100G",
         "marca": "Oblita",
         "categoria": "Galletitas",
         "precio": 726.0,
@@ -3872,7 +3872,7 @@
     {
         "fila_excel": 389,
         "codigo": 1338,
-        "nombre": "OKEBON CHICA* 165 GS",
+        "nombre": "GALLETITA OKEBON CHICA 165G",
         "marca": "Okebon",
         "categoria": "Galletitas",
         "precio": 750.2,
@@ -3882,7 +3882,7 @@
     {
         "fila_excel": 390,
         "codigo": 1340,
-        "nombre": "OKEBON CHO=LECHE 273 GS",
+        "nombre": "GALLETITA OKEBON LECHE 273 G",
         "marca": "Okebon",
         "categoria": "Galletitas",
         "precio": 1125.3,
@@ -3892,7 +3892,7 @@
     {
         "fila_excel": 391,
         "codigo": 1457,
-        "nombre": "PARNOR TODAS 140 GS",
+        "nombre": "GALLETITA PARNOR TODAS 140G",
         "marca": "ParNor",
         "categoria": "Galletitas",
         "precio": 895.4,
@@ -3902,7 +3902,7 @@
     {
         "fila_excel": 392,
         "codigo": 1465,
-        "nombre": "PASEO AGUA* 300 GS",
+        "nombre": "GALLETITA PASEO AGUA 300G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
         "precio": 1350.36,
@@ -3912,7 +3912,7 @@
     {
         "fila_excel": 393,
         "codigo": 1468,
-        "nombre": "PASEO SALVADO* 300 GS",
+        "nombre": "GALLETITA PASEO SALVADO 300G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
         "precio": 1677.06,
@@ -3922,7 +3922,7 @@
     {
         "fila_excel": 394,
         "codigo": 951,
-        "nombre": "PEPA ALEMANA 180 GR",
+        "nombre": "GALLETITA PEPA ALEMANA 180G",
         "marca": "Trio",
         "categoria": "Galletitas",
         "precio": 719.95,
@@ -3932,7 +3932,7 @@
     {
         "fila_excel": 395,
         "codigo": 3005,
-        "nombre": "PEPAS BENJAMIN 400 GS",
+        "nombre": "GALLETITA  PEPAS BENJAMIN 400G",
         "marca": "Benjamín",
         "categoria": "Galletitas",
         "precio": 1337.05,
@@ -3942,7 +3942,7 @@
     {
         "fila_excel": 396,
         "codigo": 8906,
-        "nombre": "PEPAS CHOCOTRIO 500GR",
+        "nombre": "GALLETITA  PEPAS CHOCOTRIO 500G",
         "marca": "Trio",
         "categoria": "Galletitas",
         "precio": 2712.82,
@@ -3952,7 +3952,7 @@
     {
         "fila_excel": 397,
         "codigo": 8706,
-        "nombre": "PEPAS TRICHOC 300GR",
+        "nombre": "GALLETITA  PEPAS TRICHOC 300G",
         "marca": "Trio",
         "categoria": "Galletitas",
         "precio": 1099.89,
@@ -3962,7 +3962,7 @@
     {
         "fila_excel": 398,
         "codigo": 740,
-        "nombre": "PEPAS TRICHOC 500 GR",
+        "nombre": "GALLETITA  PEPAS TRICHOC 500G",
         "marca": "Trio",
         "categoria": "Galletitas",
         "precio": 2032.8,
@@ -3972,7 +3972,7 @@
     {
         "fila_excel": 399,
         "codigo": 739,
-        "nombre": "PEPAS TRIO 500 GR",
+        "nombre": "GALLETITA  PEPAS TRIO 500G",
         "marca": "Trio",
         "categoria": "Galletitas",
         "precio": 1883.97,
@@ -3992,9 +3992,9 @@
     {
         "fila_excel": 401,
         "codigo": 3090,
-        "nombre": "SALADIX CROSS 135 GR",
+        "nombre": "SALADIX CROSS 135G",
         "marca": "Arcor",
-        "categoria": "Galletitas",
+        "categoria": "Snacks",
         "precio": 1770.23,
         "imagen": "3090.webp",
         "activo": true
@@ -4002,9 +4002,9 @@
     {
         "fila_excel": 402,
         "codigo": 1781,
-        "nombre": "SALADIX CROSS 67 GR",
+        "nombre": "SALADIX CROSS 67G",
         "marca": "Arcor",
-        "categoria": "Galletitas",
+        "categoria": "Snacks",
         "precio": 898.43,
         "imagen": "1781.webp",
         "activo": true
@@ -4012,9 +4012,9 @@
     {
         "fila_excel": 403,
         "codigo": 1778,
-        "nombre": "SALADIX ESTUCHE TODOS 100 GR",
+        "nombre": "SALADIX ESTUCHE TODOS 100G",
         "marca": "Arcor",
-        "categoria": "Galletitas",
+        "categoria": "Snacks",
         "precio": 1372.14,
         "imagen": "1778.webp",
         "activo": true
@@ -4022,9 +4022,9 @@
     {
         "fila_excel": 404,
         "codigo": 1780,
-        "nombre": "SALADIX TIRA X6 40 GR",
+        "nombre": "SALADIX TIRA X6 40G",
         "marca": "Arcor",
-        "categoria": "Galletitas",
+        "categoria": "Snacks",
         "precio": 4049.87,
         "imagen": "1780.webp",
         "activo": true
@@ -4032,7 +4032,7 @@
     {
         "fila_excel": 405,
         "codigo": 737,
-        "nombre": "SURTIDO BAGLEY 400 GR",
+        "nombre": "GALLETITA  SURTIDO BAGLEY 400G",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 2949.98,
@@ -4042,7 +4042,7 @@
     {
         "fila_excel": 406,
         "codigo": 8836,
-        "nombre": "TEREPIN 200 GR",
+        "nombre": "GALLETITA  TEREPIN 200G",
         "marca": "Terepín",
         "categoria": "Galletitas",
         "precio": 767.14,
@@ -4052,7 +4052,7 @@
     {
         "fila_excel": 407,
         "codigo": 1944,
-        "nombre": "TEREPIN 400 GR",
+        "nombre": "GALLETITA  TEREPIN 400G",
         "marca": "Terepín",
         "categoria": "Galletitas",
         "precio": 1520.97,
@@ -4062,7 +4062,7 @@
     {
         "fila_excel": 408,
         "codigo": 2904,
-        "nombre": "TRAVIATA TOQUE REX/KES",
+        "nombre": "GALLETITA  TRAVIATA TOQUE REX/KES",
         "marca": "Bagley",
         "categoria": "Galletitas",
         "precio": 810.7,
@@ -4072,7 +4072,7 @@
     {
         "fila_excel": 409,
         "codigo": 2079,
-        "nombre": "VAINILLA MAURI * 160 GS 14 U",
+        "nombre": "VAINILLA MAURI 160G 14 U",
         "marca": "Mauri",
         "categoria": "Galletitas",
         "precio": 1004.3,
@@ -4082,7 +4082,7 @@
     {
         "fila_excel": 410,
         "codigo": 2077,
-        "nombre": "VAINILLA MAURI* 80 GS",
+        "nombre": "VAINILLA MAURI 80G",
         "marca": "Mauri",
         "categoria": "Galletitas",
         "precio": 486.42,
@@ -4092,7 +4092,7 @@
     {
         "fila_excel": 411,
         "codigo": 154,
-        "nombre": "BIZCOCHOS JORGITO *200 GS",
+        "nombre": "BIZCOCHOS JORGITO 200 G",
         "marca": "Jorgito",
         "categoria": "Galletitas",
         "precio": 933.82,
@@ -4102,7 +4102,7 @@
     {
         "fila_excel": 412,
         "codigo": 155,
-        "nombre": "BIZCOCHOS JORGITO *400 GS",
+        "nombre": "BIZCOCHOS JORGITO 400G",
         "marca": "Jorgito",
         "categoria": "Galletitas",
         "precio": 1587.52,
@@ -4112,7 +4112,7 @@
     {
         "fila_excel": 413,
         "codigo": 1459,
-        "nombre": "PAR-NOR PITUSAS 160 GR",
+        "nombre": "GALLETITA  PAR-NOR PITUSAS 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
         "precio": 976.47,
@@ -5432,7 +5432,7 @@
     {
         "fila_excel": 545,
         "codigo": 2718,
-        "nombre": "MINI PEPITOS 50 GR",
+        "nombre": "GALLETITA  MINI PEPITOS 50 G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
         "precio": 849.36,
@@ -6522,7 +6522,7 @@
     {
         "fila_excel": 654,
         "codigo": 628,
-        "nombre": "FANTOCHE HOROS/ESPUM 300GR",
+        "nombre": "GALLETITA  FANTOCHE HOROS/ESPUM 300G",
         "marca": "Fantoche",
         "categoria": "Galletitas",
         "precio": 1076.9,
@@ -6532,7 +6532,7 @@
     {
         "fila_excel": 655,
         "codigo": 629,
-        "nombre": "FANTOCHE MARMOLADAS 350GR",
+        "nombre": "GALLETITA  FANTOCHE MARMOLADAS 350G",
         "marca": "Fantoche",
         "categoria": "Galletitas",
         "precio": 907.5,
@@ -6542,7 +6542,7 @@
     {
         "fila_excel": 656,
         "codigo": 729,
-        "nombre": "GALL COFLER BLOCK 124G",
+        "nombre": "GALLETITA  COFLER BLOCK 124G",
         "marca": "Cofler",
         "categoria": "Galletitas",
         "precio": 1548.8,
@@ -6552,7 +6552,7 @@
     {
         "fila_excel": 657,
         "codigo": 726,
-        "nombre": "GALL COFLER BONOBON 85G",
+        "nombre": "GALLETITA  COFLER BONOBON 85G",
         "marca": "Cofler",
         "categoria": "Galletitas",
         "precio": 1001.88,
@@ -6562,7 +6562,7 @@
     {
         "fila_excel": 658,
         "codigo": 731,
-        "nombre": "GALL COFLER ROCKLET 118G",
+        "nombre": "GALLETITA  COFLER ROCKLET 118G",
         "marca": "Cofler",
         "categoria": "Galletitas",
         "precio": 1548.8,
@@ -6572,7 +6572,7 @@
     {
         "fila_excel": 659,
         "codigo": 728,
-        "nombre": "GALL DONUTS NEGRO 78G",
+        "nombre": "GALLETITA  DONUTS NEGRO 78G",
         "marca": "Bonafide",
         "categoria": "Galletitas",
         "precio": 1777.49,
@@ -6582,7 +6582,7 @@
     {
         "fila_excel": 660,
         "codigo": 732,
-        "nombre": "GALL TODDY 126G",
+        "nombre": "GALLETITA  TODDY 126G",
         "marca": "Georgalos",
         "categoria": "Galletitas",
         "precio": 2003.76,
@@ -6592,7 +6592,7 @@
     {
         "fila_excel": 661,
         "codigo": 9910,
-        "nombre": "MINI TAPITAS 200G",
+        "nombre": "GALLETITA MINI TAPITAS 200G",
         "marca": "Fachitas",
         "categoria": "Galletitas",
         "precio": 1298.33,
