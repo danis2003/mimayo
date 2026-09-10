@@ -3407,7 +3407,7 @@
         "categoria": "Golosinas",
         "precio": 6426.31,
         "imagen": "797.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 343,
@@ -5217,7 +5217,7 @@
         "categoria": "Perfumería",
         "precio": 756.25,
         "imagen": "1963.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 524,
