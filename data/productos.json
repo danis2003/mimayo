@@ -345,7 +345,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1193.06,
+        "precio": 1220.89,
         "imagen": "3082.webp",
         "activo": true
     },
@@ -425,7 +425,7 @@
         "nombre": "ALFAJOR GOAT",
         "marca": "Arcor",
         "categoria": "Alfajores",
-        "precio": 1452.0,
+        "precio": 1340.68,
         "imagen": "8733.webp",
         "activo": true
     },
@@ -535,7 +535,7 @@
         "nombre": "ALFAJOR TRISHOT",
         "marca": "Shot",
         "categoria": "Alfajores",
-        "precio": 1193.06,
+        "precio": 1220.89,
         "imagen": "50.webp",
         "activo": true
     },
@@ -725,7 +725,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 38G",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 1452.0,
+        "precio": 1407.23,
         "imagen": "341.webp",
         "activo": true
     },
@@ -855,7 +855,7 @@
         "nombre": "HAMB CLASICA UG 4U 332GR",
         "marca": "Unión Ganadera",
         "categoria": "Congelados",
-        "precio": 7593.96,
+        "precio": 8090.06,
         "imagen": "3235.webp",
         "activo": true
     },
@@ -995,7 +995,7 @@
         "nombre": "GALLETITA  MINI CORONITAS 140G",
         "marca": "Fachitas",
         "categoria": "Galletitas",
-        "precio": 984.94,
+        "precio": 1030.92,
         "imagen": "1220.webp",
         "activo": true
     },
@@ -1175,7 +1175,7 @@
         "nombre": "CHOCOLATE SHOT 170G",
         "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 5447.42,
+        "precio": 5638.6,
         "imagen": "1825.webp",
         "activo": true
     },
@@ -1235,7 +1235,7 @@
         "nombre": "TOSTADAS ARROZ LEIVA 150 G",
         "marca": "Leiva",
         "categoria": "Galletitas",
-        "precio": 1222.1,
+        "precio": 1176.12,
         "imagen": "2021.webp",
         "activo": true
     },
@@ -1255,7 +1255,7 @@
         "nombre": "ARCOR MENTA CRISTAL/MIX 810G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12027.4,
+        "precio": 9880.86,
         "imagen": "1163.webp",
         "activo": true
     },
@@ -1305,7 +1305,7 @@
         "nombre": "BUTTER TOFFEES TODOS 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 11187.66,
+        "precio": 10043.0,
         "imagen": "890.webp",
         "activo": true
     },
@@ -1355,7 +1355,7 @@
         "nombre": "HALLS TODAS 12 U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6559.41,
+        "precio": 6642.9,
         "imagen": "828.webp",
         "activo": true
     },
@@ -1515,7 +1515,7 @@
         "nombre": "TOPLINE SEVEN TODOS 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 13068.0,
+        "precio": 14157.0,
         "imagen": "1996.webp",
         "activo": true
     },
@@ -1585,7 +1585,7 @@
         "nombre": "ARROZ LARGO MOLINOS ALA 500G",
         "marca": "Molinos Ala",
         "categoria": "Almacén",
-        "precio": 968.0,
+        "precio": 832.48,
         "imagen": "2590.webp",
         "activo": true
     },
@@ -1635,7 +1635,7 @@
         "nombre": "CAFE LA MORENITA EN SAQUIT *",
         "marca": "La Morenita",
         "categoria": "Almacén",
-        "precio": 4895.66,
+        "precio": 4472.16,
         "imagen": "235.webp",
         "activo": true
     },
@@ -1865,7 +1865,7 @@
         "nombre": "PURE DE TOMATE NOEL* 520 GS",
         "marca": "Noel",
         "categoria": "Almacén",
-        "precio": 745.36,
+        "precio": 778.03,
         "imagen": "1641.webp",
         "activo": true
     },
@@ -1965,7 +1965,7 @@
         "nombre": "TODDY CACAO X 180 GS",
         "marca": "Georgalos",
         "categoria": "Almacén",
-        "precio": 1331.0,
+        "precio": 1455.63,
         "imagen": "1984.webp",
         "activo": true
     },
@@ -2155,7 +2155,7 @@
         "nombre": "GALLETITA  CHOCOLINAS 170G",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1413.28,
+        "precio": 1537.91,
         "imagen": "373.webp",
         "activo": true
     },
@@ -2215,7 +2215,7 @@
         "nombre": "OBLEA OPERA 92G",
         "marca": "Arcor",
         "categoria": "Galletitas",
-        "precio": 1032.13,
+        "precio": 1033.34,
         "imagen": "1352.webp",
         "activo": true
     },
@@ -2315,7 +2315,7 @@
         "nombre": "DORITOS TODOS 77 GR",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2874.96,
+        "precio": 2825.35,
         "imagen": "3000.webp",
         "activo": true
     },
@@ -2435,7 +2435,7 @@
         "nombre": "ALFAJOR OREO TRIPLE 56 GR",
         "marca": "Mondelez",
         "categoria": "Alfajores",
-        "precio": 1193.06,
+        "precio": 1220.89,
         "imagen": "32.webp",
         "activo": true
     },
@@ -2755,7 +2755,7 @@
         "nombre": "OREGANO ALICANTE 25GR",
         "marca": "Alicante",
         "categoria": "Almacén",
-        "precio": 1110.78,
+        "precio": 1231.78,
         "imagen": "1357.webp",
         "activo": true
     },
@@ -3155,7 +3155,7 @@
         "nombre": "FUEGOLANDIA ENCENDEDOR TRANS",
         "marca": "Fuegolandia",
         "categoria": "Varios",
-        "precio": 211.75,
+        "precio": 254.1,
         "imagen": "8807.webp",
         "activo": true
     },
@@ -3245,7 +3245,7 @@
         "nombre": "PRESERVATIVOS TULIPAN x3 C/GEL C/U",
         "marca": "Tulipán",
         "categoria": "Varios",
-        "precio": 1875.5,
+        "precio": 1969.88,
         "imagen": "1610.webp",
         "activo": true
     },
@@ -3485,7 +3485,7 @@
         "nombre": "PUSH POP CHUPETIN TODOS   C/U",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
-        "precio": 389.62,
+        "precio": 468.27,
         "imagen": "1643.webp",
         "activo": true
     },
@@ -3525,7 +3525,7 @@
         "nombre": "WACKY MONKEY",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 2503.49,
+        "precio": 2730.97,
         "imagen": "9852.webp",
         "activo": true
     },
@@ -3905,7 +3905,7 @@
         "nombre": "GALLETITA PASEO AGUA 300G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1350.36,
+        "precio": 1391.5,
         "imagen": "1465.webp",
         "activo": true
     },
@@ -4095,7 +4095,7 @@
         "nombre": "BIZCOCHOS JORGITO 200 G",
         "marca": "Jorgito",
         "categoria": "Galletitas",
-        "precio": 933.82,
+        "precio": 968.0,
         "imagen": "154.webp",
         "activo": true
     },
@@ -4135,7 +4135,7 @@
         "nombre": "ACONDICIONADOR SEDAL 190ML",
         "marca": "Sedal",
         "categoria": "Perfumería",
-        "precio": 3022.58,
+        "precio": 217.8,
         "imagen": "477.webp",
         "activo": true
     },
@@ -4185,7 +4185,7 @@
         "nombre": "ALGODON ESTRELLA 140GR",
         "marca": "Estrella",
         "categoria": "Perfumería",
-        "precio": 2268.75,
+        "precio": 965.58,
         "imagen": "67.webp",
         "activo": true
     },
@@ -4255,7 +4255,7 @@
         "nombre": "CHOCOLATE BARRITA AGUILA 14GR",
         "marca": "Aguila",
         "categoria": "Chocolates",
-        "precio": 919.6,
+        "precio": 952.27,
         "imagen": "119.webp",
         "activo": true
     },
@@ -4265,7 +4265,7 @@
         "nombre": "BLEM LUSTRAMUEBLE*360",
         "marca": "Blem",
         "categoria": "Limpieza",
-        "precio": 4415.29,
+        "precio": 5657.96,
         "imagen": "791.webp",
         "activo": true
     },
@@ -4435,7 +4435,7 @@
         "nombre": "CHOCOLATE MISKY NEGRO 50G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 1314.06,
+        "precio": 1210.0,
         "imagen": "357.webp",
         "activo": true
     },
@@ -4515,7 +4515,7 @@
         "nombre": "COLGATE 70GR",
         "marca": "Colgate",
         "categoria": "Perfumería",
-        "precio": 1928.74,
+        "precio": 1327.37,
         "imagen": "430.webp",
         "activo": true
     },
@@ -4635,7 +4635,7 @@
         "nombre": "JABON ALA MATIC 400GR",
         "marca": "Unilever",
         "categoria": "Limpieza",
-        "precio": 1657.7,
+        "precio": 1573.0,
         "imagen": "911.webp",
         "activo": true
     },
@@ -4745,7 +4745,7 @@
         "nombre": "JABON SIGNO X3",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 1189.43,
+        "precio": 1690.37,
         "imagen": "3188.webp",
         "activo": true
     },
@@ -4895,7 +4895,7 @@
         "nombre": "MANTECOL 40G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 1246.3,
+        "precio": 1217.26,
         "imagen": "1103.webp",
         "activo": true
     },
@@ -5225,7 +5225,7 @@
         "nombre": "TOALLAS LADYSOF NORMAL 8U",
         "marca": "Ladysoft",
         "categoria": "Perfumería",
-        "precio": 1007.93,
+        "precio": 895.4,
         "imagen": "1966.webp",
         "activo": true
     },
@@ -5315,7 +5315,7 @@
         "nombre": "CHOC ROCKLETS 20G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 745.36,
+        "precio": 712.69,
         "imagen": "1731.webp",
         "activo": true
     },
@@ -5325,7 +5325,7 @@
         "nombre": "CHOC ROCKLETS 40G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 1506.45,
+        "precio": 1288.65,
         "imagen": "1732.webp",
         "activo": true
     },
@@ -5335,7 +5335,7 @@
         "nombre": "CHOC ROCKLETS MINI 10G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 388.77,
+        "precio": 417.45,
         "imagen": "1730.webp",
         "activo": true
     },
@@ -5405,7 +5405,7 @@
         "nombre": "ALFAJOR TITA 36 GR",
         "marca": "Terrabusi",
         "categoria": "Alfajores",
-        "precio": 568.7,
+        "precio": 580.8,
         "imagen": "2301.webp",
         "activo": true
     },
@@ -5605,7 +5605,7 @@
         "nombre": "BELDENT CONFITADO SANDIA",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 7223.7,
+        "precio": 6469.87,
         "imagen": "9887.webp",
         "activo": true
     },
@@ -6105,7 +6105,7 @@
         "nombre": "BUTTER TOFFEES BONOBON 822 G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 11187.66,
+        "precio": 10527.0,
         "imagen": "9846.webp",
         "activo": true
     },
@@ -6445,7 +6445,7 @@
         "nombre": "CHOCOLATE MISKY BLANCO 50G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 1314.06,
+        "precio": 1210.0,
         "imagen": "359.webp",
         "activo": true
     },
@@ -6778,5 +6778,25 @@
         "precio": 9715.09,
         "imagen": "sin-imagen.png",
         "activo": false
+    },
+    {
+        "fila_excel": 680,
+        "codigo": 85,
+        "nombre": "CHOCOLATE COFLER BLOCK MITI 170G",
+        "marca": "Cofler",
+        "categoria": "Chocolates",
+        "precio": 6292.0,
+        "imagen": "85.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 681,
+        "codigo": 141,
+        "nombre": "OBLEA OBLITA FRUTILLA 50G",
+        "marca": "Oblita",
+        "categoria": "Galletitas",
+        "precio": 332.75,
+        "imagen": "141.webp",
+        "activo": true
     }
 ]
