@@ -1012,7 +1012,7 @@
     {
         "fila_excel": 103,
         "codigo": 1240,
-        "nombre": "MOGUL DIENTES 500G",
+        "nombre": "GOMITAS MOGUL DIENTES 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6071.78,
@@ -1022,7 +1022,7 @@
     {
         "fila_excel": 104,
         "codigo": 8804,
-        "nombre": "MOGUL EXTREME FRUTILLA 500 GR",
+        "nombre": "GOMITAS MOGUL EXTREME FRUTILLA 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6071.78,
@@ -1032,7 +1032,7 @@
     {
         "fila_excel": 105,
         "codigo": 2894,
-        "nombre": "MOGUL EXTREME LADRILLOS 500GR",
+        "nombre": "GOMITAS MOGUL EXTREME LADRILLOS 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6116.55,
@@ -1042,7 +1042,7 @@
     {
         "fila_excel": 106,
         "codigo": 1245,
-        "nombre": "MOGUL MORAS 500 GR",
+        "nombre": "GOMITAS MOGUL MORAS 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6071.78,
@@ -1252,7 +1252,7 @@
     {
         "fila_excel": 127,
         "codigo": 1163,
-        "nombre": "ARCOR MENTA CRISTAL/MIX 810 GR",
+        "nombre": "ARCOR MENTA CRISTAL/MIX 810G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 12027.4,
@@ -1272,7 +1272,7 @@
     {
         "fila_excel": 129,
         "codigo": 107,
-        "nombre": "BABY DOLL CHUP X 4 UNI",
+        "nombre": "BABY DOLL CHUP 4U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 592.9,
@@ -1282,7 +1282,7 @@
     {
         "fila_excel": 130,
         "codigo": 882,
-        "nombre": "BELDENT CHICLE 20 UN TODOS",
+        "nombre": "BELDENT CHICLE 20U TODOS",
         "marca": "Mondelez",
         "categoria": "Golosinas",
         "precio": 11113.85,
@@ -1302,7 +1302,7 @@
     {
         "fila_excel": 132,
         "codigo": 890,
-        "nombre": "BUTTER TOFFEES TODOS 822 GR",
+        "nombre": "BUTTER TOFFEES TODOS 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 11187.66,
@@ -1312,7 +1312,7 @@
     {
         "fila_excel": 133,
         "codigo": 390,
-        "nombre": "CHUPETIN PICO DULCE *48 UNID",
+        "nombre": "CHUPETIN PICO DULCE 48U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 9580.78,
@@ -1322,7 +1322,7 @@
     {
         "fila_excel": 134,
         "codigo": 666,
-        "nombre": "FLYN PAFF *70 UNIDADES",
+        "nombre": "FLYN PAFF 70U",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 6521.9,
@@ -1332,7 +1332,7 @@
     {
         "fila_excel": 135,
         "codigo": 667,
-        "nombre": "FLYN PAFF CONFITADOS 50 GR",
+        "nombre": "FLYN PAFF CONFITADOS 50G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 930.49,
@@ -1342,7 +1342,7 @@
     {
         "fila_excel": 136,
         "codigo": 798,
-        "nombre": "GOMA MISKY 1 KL",
+        "nombre": "GOMITAS MISKY FANTASIA 1KG",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9329.1,
@@ -1372,7 +1372,7 @@
     {
         "fila_excel": 139,
         "codigo": 1166,
-        "nombre": "MENTHOPLUS ACIDO X 12 UNI",
+        "nombre": "MENTHOPLUS ACIDO X 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 7018.0,
@@ -1382,7 +1382,7 @@
     {
         "fila_excel": 140,
         "codigo": 1169,
-        "nombre": "MENTHOPLUS TODAS X 12 UNI",
+        "nombre": "MENTHOPLUS TODAS X 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 5626.5,
@@ -1392,7 +1392,7 @@
     {
         "fila_excel": 141,
         "codigo": 687,
-        "nombre": "MOGUL 12X30 GR TODAS",
+        "nombre": "GOMITAS MOGUL OSITOS 12X30G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6098.4,
@@ -1402,7 +1402,7 @@
     {
         "fila_excel": 142,
         "codigo": 8725,
-        "nombre": "MOGUL EXTREME OSITO X 500 GR",
+        "nombre": "GOMITAS MOGUL EXTREME OSITOS X 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6071.78,
@@ -1412,7 +1412,7 @@
     {
         "fila_excel": 143,
         "codigo": 3068,
-        "nombre": "MOGUL EXTREME SANDIA 500 GR",
+        "nombre": "GOMITAS MOGUL EXTREME SANDIA 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6071.78,
@@ -1422,7 +1422,7 @@
     {
         "fila_excel": 144,
         "codigo": 8713,
-        "nombre": "MOGUL EXTREME TUBITOS 500 GR",
+        "nombre": "GOMITAS MOGUL EXTREME TUBITOS FRUTILLA 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6116.55,
@@ -1432,7 +1432,7 @@
     {
         "fila_excel": 145,
         "codigo": 2253,
-        "nombre": "MOGUL EXTREME X 10 X 50 GR",
+        "nombre": "GOMITAS MOGUL EXTREME SANDIA 10X50G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 7744.0,
@@ -1442,7 +1442,7 @@
     {
         "fila_excel": 146,
         "codigo": 686,
-        "nombre": "MOGUL GELATIN CEREBRITOS 12U",
+        "nombre": "GOMITAS MOGUL CEREBRITOS 12X30G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6037.9,
@@ -1452,7 +1452,7 @@
     {
         "fila_excel": 147,
         "codigo": 2900,
-        "nombre": "MOGUL MORAS Y DIENTES 10 X 50GR",
+        "nombre": "GOMITAS MOGUL MORAS 10X50G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 8107.0,
@@ -1462,7 +1462,7 @@
     {
         "fila_excel": 148,
         "codigo": 1388,
-        "nombre": "PALITO DE LA SELVA 660 GR",
+        "nombre": "PALITO DE LA SELVA 660G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 9075.0,
@@ -1472,7 +1472,7 @@
     {
         "fila_excel": 149,
         "codigo": 1745,
-        "nombre": "ROLLO MOGUL 12U",
+        "nombre": "GOMITAS ROLLO MOGUL FRUTAL 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 5384.5,
@@ -1482,7 +1482,7 @@
     {
         "fila_excel": 150,
         "codigo": 26,
-        "nombre": "ROLLO MOGUL BERRIES",
+        "nombre": "GOMITAS ROLLO MOGUL BERRIES 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6413.0,
@@ -1492,7 +1492,7 @@
     {
         "fila_excel": 151,
         "codigo": 1871,
-        "nombre": "SUGUS CONFITADOS X 50 GR",
+        "nombre": "SUGUS CONFITADOS 50G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 1149.5,
@@ -1502,7 +1502,7 @@
     {
         "fila_excel": 152,
         "codigo": 1873,
-        "nombre": "SUGUS MASTICABLE X 700 GS 210",
+        "nombre": "SUGUS MASTICABLE 700G 210",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6957.5,
@@ -1512,7 +1512,7 @@
     {
         "fila_excel": 153,
         "codigo": 1996,
-        "nombre": "TOPLINE SEVEN TODOS 16 UN",
+        "nombre": "TOPLINE SEVEN TODOS 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 13068.0,
@@ -1522,7 +1522,7 @@
     {
         "fila_excel": 154,
         "codigo": 1267,
-        "nombre": "PASTILLAS FREEGELLS X 12 UN",
+        "nombre": "PASTILLAS FREEGELLS 12U",
         "marca": "Freegells",
         "categoria": "Golosinas",
         "precio": 3107.28,
@@ -1532,7 +1532,7 @@
     {
         "fila_excel": 155,
         "codigo": 1234,
-        "nombre": "MISKY ROLL ROLLO 12 UNID",
+        "nombre": "GOMITAS MISKY ROLL ROLLO 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 3844.17,
@@ -1542,7 +1542,7 @@
     {
         "fila_excel": 156,
         "codigo": 2184,
-        "nombre": "ACEITE CAÑUELAS X 1.5 L",
+        "nombre": "ACEITE CAÑUELAS 1.5L",
         "marca": "Molino Cañuelas",
         "categoria": "Almacén",
         "precio": 6271.43,
@@ -1552,7 +1552,7 @@
     {
         "fila_excel": 157,
         "codigo": 3290,
-        "nombre": "ACEITE GIRASOL NATURA X 900 ML",
+        "nombre": "ACEITE GIRASOL NATURA 900ML",
         "marca": "AGD",
         "categoria": "Almacén",
         "precio": 3891.36,
@@ -1562,7 +1562,7 @@
     {
         "fila_excel": 158,
         "codigo": 7,
-        "nombre": "ACEITE LEGITIMO X 900 ML",
+        "nombre": "ACEITE LEGITIMO  900ML",
         "marca": "Legítimo",
         "categoria": "Almacén",
         "precio": 3335.97,
@@ -1572,7 +1572,7 @@
     {
         "fila_excel": 159,
         "codigo": 1410,
-        "nombre": "ARROZ GALLO ORO X 500 MR",
+        "nombre": "ARROZ GALLO ORO 500G",
         "marca": "Molinos",
         "categoria": "Almacén",
         "precio": 1177.33,
@@ -1582,7 +1582,7 @@
     {
         "fila_excel": 160,
         "codigo": 2590,
-        "nombre": "ARROZ LARGO MOLINOS ALA X 500GR",
+        "nombre": "ARROZ LARGO MOLINOS ALA 500G",
         "marca": "Molinos Ala",
         "categoria": "Almacén",
         "precio": 968.0,
@@ -1592,7 +1592,7 @@
     {
         "fila_excel": 161,
         "codigo": 3017,
-        "nombre": "ARVEJAS MOLTO 340 GR",
+        "nombre": "ARVEJAS MOLTO 340G",
         "marca": "Molto",
         "categoria": "Almacén",
         "precio": 799.81,
@@ -1602,7 +1602,7 @@
     {
         "fila_excel": 162,
         "codigo": 101,
-        "nombre": "AZUCAR LEDESMA 1 KILO",
+        "nombre": "AZUCAR LEDESMA 1KG",
         "marca": "Ledesma",
         "categoria": "Almacén",
         "precio": 1677.06,
@@ -3442,7 +3442,7 @@
     {
         "fila_excel": 346,
         "codigo": 8843,
-        "nombre": "MOGUL ANILLOS X 1KG",
+        "nombre": "GOMITAS MOGUL ANILLOS X 1KG",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9631.6,
@@ -3462,7 +3462,7 @@
     {
         "fila_excel": 348,
         "codigo": 8718,
-        "nombre": "POTE OJITOS/VARIOS 30U",
+        "nombre": "POTE OJITOS 30U",
         "marca": "",
         "categoria": "Golosinas",
         "precio": 10466.5,
@@ -4962,7 +4962,7 @@
     {
         "fila_excel": 498,
         "codigo": 688,
-        "nombre": "MOGUL VIBORITA  12 U",
+        "nombre": "GOMITAS MOGUL VIBORITA  12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 7865.0,
@@ -5102,7 +5102,7 @@
     {
         "fila_excel": 512,
         "codigo": 8724,
-        "nombre": "REGALIZ BULL DOG 360 GR",
+        "nombre": "GOMITAS REGALIZ BULL DOG FRUTILLA 360G",
         "marca": "",
         "categoria": "Golosinas",
         "precio": 5578.1,
@@ -5242,7 +5242,7 @@
     {
         "fila_excel": 526,
         "codigo": 2519,
-        "nombre": "YUMMY ANIMALES/MORAS 12 UN",
+        "nombre": "GOMITAS YUMMY MORITAS 12X30G",
         "marca": "Billiken",
         "categoria": "Golosinas",
         "precio": 5657.96,
@@ -5612,7 +5612,7 @@
     {
         "fila_excel": 563,
         "codigo": 8831,
-        "nombre": "BULLDOG REGALIZ ACIDO 75GR",
+        "nombre": "GOMITAS REGALIZ BULL DOG SANDIA 75G",
         "marca": "",
         "categoria": "Golosinas",
         "precio": 793.76,
@@ -5702,7 +5702,7 @@
     {
         "fila_excel": 572,
         "codigo": 733,
-        "nombre": "RHODESIA 22G",
+        "nombre": "OBLEA RHODESIA 22G",
         "marca": "Terrabusi",
         "categoria": "Golosinas",
         "precio": 763.51,
@@ -5712,7 +5712,7 @@
     {
         "fila_excel": 573,
         "codigo": 738,
-        "nombre": "TITA 19G",
+        "nombre": "OBLEA TITA 19G",
         "marca": "Terrabusi",
         "categoria": "Golosinas",
         "precio": 690.91,
@@ -5722,7 +5722,7 @@
     {
         "fila_excel": 574,
         "codigo": 784,
-        "nombre": "PIPAS GIGANTES *50 G X12 U",
+        "nombre": "PIPAS GIGANTES 50G X12U",
         "marca": "Pipas",
         "categoria": "Golosinas",
         "precio": 8345.37,
@@ -5742,7 +5742,7 @@
     {
         "fila_excel": 576,
         "codigo": 1359,
-        "nombre": "PAÑAL HUGGIES XXG* 8 UNIDADE",
+        "nombre": "PAÑAL HUGGIES XXG 8U",
         "marca": "Huggies",
         "categoria": "Perfumería",
         "precio": 3092.76,
@@ -5752,7 +5752,7 @@
     {
         "fila_excel": 577,
         "codigo": 1385,
-        "nombre": "PALITO SALADO BURBUJA* 150 G",
+        "nombre": "PALITO SALADO BURBUJA 150G",
         "marca": "Burbujas",
         "categoria": "Snacks",
         "precio": 1113.2,
@@ -5762,7 +5762,7 @@
     {
         "fila_excel": 578,
         "codigo": 1422,
-        "nombre": "PAPAS PRINGLES 105GR",
+        "nombre": "PAPAS PRINGLES 105G",
         "marca": "Pringles",
         "categoria": "Snacks",
         "precio": 3510.21,
@@ -5772,7 +5772,7 @@
     {
         "fila_excel": 579,
         "codigo": 1423,
-        "nombre": "PAPAS PRINGLES 37 GR",
+        "nombre": "PAPAS PRINGLES 37G",
         "marca": "Pringles",
         "categoria": "Snacks",
         "precio": 1960.2,
@@ -5782,7 +5782,7 @@
     {
         "fila_excel": 580,
         "codigo": 3051,
-        "nombre": "PIPA GIGANTE TIRA 10 UNI",
+        "nombre": "PIPA GIGANTE TIRA 10 U",
         "marca": "Pipas",
         "categoria": "Golosinas",
         "precio": 5933.84,
@@ -5792,7 +5792,7 @@
     {
         "fila_excel": 581,
         "codigo": 3143,
-        "nombre": "LATITA CANDY 10GR",
+        "nombre": "LATITA CANDY 10G",
         "marca": "",
         "categoria": "Golosinas",
         "precio": 7909.77,
@@ -5812,7 +5812,7 @@
     {
         "fila_excel": 583,
         "codigo": 6081,
-        "nombre": "PIPA CLASICA 18GR TIRA  X 10",
+        "nombre": "PIPA CLASICA 18G TIRA  X 10",
         "marca": "Pipas",
         "categoria": "Golosinas",
         "precio": 2490.18,
@@ -5842,7 +5842,7 @@
     {
         "fila_excel": 586,
         "codigo": 3280,
-        "nombre": "CHOCLO NOEL 300GR",
+        "nombre": "CHOCLO NOEL 300G",
         "marca": "Noel",
         "categoria": "Almacén",
         "precio": 1247.51,
@@ -5852,7 +5852,7 @@
     {
         "fila_excel": 587,
         "codigo": 6096,
-        "nombre": "NUTELLA 350 GR",
+        "nombre": "NUTELLA 350G",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
         "precio": 7874.68,
@@ -5862,7 +5862,7 @@
     {
         "fila_excel": 588,
         "codigo": 9872,
-        "nombre": "OBLEA MANTECOL 27GR",
+        "nombre": "OBLEA MANTECOL 27G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 665.5,
@@ -5992,7 +5992,7 @@
     {
         "fila_excel": 601,
         "codigo": 498,
-        "nombre": "CUBANITOS OBLITA 48U",
+        "nombre": "CUBANITOS OBLITA FRUTILLA 48U",
         "marca": "Oblita",
         "categoria": "Golosinas",
         "precio": 4537.5,
@@ -6052,7 +6052,7 @@
     {
         "fila_excel": 607,
         "codigo": 2238,
-        "nombre": "CHUPETIN EVOLUTION EXTREME DUO 432 GR",
+        "nombre": "CHUPETIN EVOLUTION EXTREME DUO 432G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 4658.5,
@@ -6072,7 +6072,7 @@
     {
         "fila_excel": 609,
         "codigo": 8844,
-        "nombre": "MOGUL EUCALIPTUS X 1KG",
+        "nombre": "GOMITAS MOGUL EUCALIPTUS 1KG",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9631.6,
@@ -6082,7 +6082,7 @@
     {
         "fila_excel": 610,
         "codigo": 8845,
-        "nombre": "MOGUL JELLI BUTTONS X 1KG",
+        "nombre": "GOMITAS MOGUL JELLY BUTTONS 1KG",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9631.6,
@@ -6092,7 +6092,7 @@
     {
         "fila_excel": 611,
         "codigo": 8846,
-        "nombre": "MOGUL CONITOS X 1 K",
+        "nombre": "GOMITAS MOGUL CONITOS 1KG",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9631.6,
@@ -6598,5 +6598,185 @@
         "precio": 1298.33,
         "imagen": "9910.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 662,
+        "codigo": 122,
+        "nombre": "CUBANITO OBLITA MARROC 48U",
+        "marca": "Oblita",
+        "categoria": "Golosinas",
+        "precio": 4537.5,
+        "imagen": "122.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 663,
+        "codigo": 378,
+        "nombre": "CUBANITOS OBLITA CHOCOLATE 48U",
+        "marca": "Oblita",
+        "categoria": "Golosinas",
+        "precio": 4537.5,
+        "imagen": "378.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 664,
+        "codigo": 800,
+        "nombre": "GOMITAS MISKY EUCALIPTUS 1KG",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 8939.48,
+        "imagen": "800.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 665,
+        "codigo": 799,
+        "nombre": "GOMITAS MISKY JELLY ROLL 1KG",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 9329.1,
+        "imagen": "799.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 666,
+        "codigo": 1329,
+        "nombre": "GOMITAS MOGUL ARAÑITAS 12X30G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 6037.9,
+        "imagen": "1329.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 667,
+        "codigo": 2901,
+        "nombre": "GOMITAS MOGUL DIENTES 10X50G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 8107.0,
+        "imagen": "2901.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 668,
+        "codigo": 2254,
+        "nombre": "GOMITAS MOGUL EXTREME OSO 10X50G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 7744.0,
+        "imagen": "2254.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 669,
+        "codigo": 871,
+        "nombre": "GOMITAS MOGUL EXTREME TUBITOS TUTTI 500G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 6116.55,
+        "imagen": "871.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 670,
+        "codigo": 1736,
+        "nombre": "GOMITAS MOGUL LADRILLOS ARCOIRIS 100G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 1522.18,
+        "imagen": "1736.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 671,
+        "codigo": 691,
+        "nombre": "GOMITAS MOGUL PIECITOS 12X30",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 6098.4,
+        "imagen": "691.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 672,
+        "codigo": 692,
+        "nombre": "GOMITAS MOGUL TIBURONCITOS 12X30",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 6098.4,
+        "imagen": "692.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 673,
+        "codigo": 8879,
+        "nombre": "GOMITAS REGALIZ BULL DOG FRUTILLA 75G",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 768.35,
+        "imagen": "8879.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 674,
+        "codigo": 9915,
+        "nombre": "GOMITAS REGALIZ BULL DOG SANDIA 360G",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 5578.1,
+        "imagen": "9915.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 675,
+        "codigo": 2866,
+        "nombre": "GOMITAS REGALIZ BULL DOG TUTTI FRUTTI 360G",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 5578.1,
+        "imagen": "2866.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 676,
+        "codigo": 1746,
+        "nombre": "GOMITAS ROLLO MOGUL EXTREME 12U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5384.5,
+        "imagen": "1746.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 677,
+        "codigo": 2534,
+        "nombre": "GOMITAS YUMMY ANIMALITOS 12X30",
+        "marca": "Billiken",
+        "categoria": "Golosinas",
+        "precio": 5657.96,
+        "imagen": "2534.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 678,
+        "codigo": 76,
+        "nombre": "POTE BUBLI 30U",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 9715.09,
+        "imagen": "sin-imagen.png",
+        "activo": false
+    },
+    {
+        "fila_excel": 679,
+        "codigo": 75,
+        "nombre": "POTE OJOS LOCOS 30U",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 9715.09,
+        "imagen": "sin-imagen.png",
+        "activo": false
     }
 ]
