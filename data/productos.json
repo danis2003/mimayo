@@ -625,7 +625,7 @@
         "nombre": "BOMBON FERRERO ROCHER 12U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 13519.33,
+        "precio": 10599.6,
         "imagen": "199.webp",
         "activo": true
     },
@@ -655,7 +655,7 @@
         "nombre": "BOMBON FERRERO ESTUCHE 24U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 22748.0,
+        "precio": 19662.5,
         "imagen": "3055.webp",
         "activo": true
     },
@@ -3515,7 +3515,7 @@
         "nombre": "TNT CHICLE SURTIDO 40 U",
         "marca": "TNT",
         "categoria": "Golosinas",
-        "precio": 2371.6,
+        "precio": 3446.08,
         "imagen": "2520.webp",
         "activo": true
     },
@@ -6065,7 +6065,7 @@
         "nombre": "LIPO VIENA 454 G",
         "marca": "Lipo",
         "categoria": "Golosinas",
-        "precio": 3025.0,
+        "precio": 3061.3,
         "imagen": "3049.webp",
         "activo": true
     },
@@ -6797,6 +6797,26 @@
         "categoria": "Galletitas",
         "precio": 332.75,
         "imagen": "141.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 682,
+        "codigo": 989,
+        "nombre": "HUEVO KINDER JOY NENA 20G",
+        "marca": "Kinder",
+        "categoria": "Chocolates",
+        "precio": 2071.52,
+        "imagen": "989.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 683,
+        "codigo": 988,
+        "nombre": "HUEVO KINDER JOY NENE 20G",
+        "marca": "Kinder",
+        "categoria": "Chocolates",
+        "precio": 2071.52,
+        "imagen": "988.webp",
         "activo": true
     }
 ]
