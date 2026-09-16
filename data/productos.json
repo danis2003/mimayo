@@ -1305,7 +1305,7 @@
         "nombre": "BUTTER TOFFEES TODOS 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 10043.0,
+        "precio": 9438.0,
         "imagen": "890.webp",
         "activo": true
     },
@@ -1505,7 +1505,7 @@
         "nombre": "SUGUS MASTICABLE 700G 210",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6957.5,
+        "precio": 7018.0,
         "imagen": "1873.webp",
         "activo": true
     },
@@ -1815,7 +1815,7 @@
         "nombre": "KETCHUP HELLMANS 60 GR",
         "marca": "Unilever",
         "categoria": "Almacén",
-        "precio": 794.97,
+        "precio": 895.4,
         "imagen": "2937.webp",
         "activo": true
     },
@@ -2187,7 +2187,7 @@
         "categoria": "Galletitas",
         "precio": 907.5,
         "imagen": "629.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 221,
@@ -2425,7 +2425,7 @@
         "nombre": "ALFAJOR JORGITO x 6 UNID",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 2848.34,
+        "precio": 2891.9,
         "imagen": "56.webp",
         "activo": true
     },
@@ -3235,7 +3235,7 @@
         "nombre": "PRESERVATIVOS PRIME x3 TODOS C/U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3354.12,
+        "precio": 3236.75,
         "imagen": "1609.webp",
         "activo": true
     },
@@ -3545,7 +3545,7 @@
         "nombre": "GALLETITA  OREO  118G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1742.4,
+        "precio": 1595.99,
         "imagen": "724.webp",
         "activo": true
     },
@@ -3615,7 +3615,7 @@
         "nombre": "GALLETITA  PEPITOS  118G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1621.4,
+        "precio": 1685.53,
         "imagen": "730.webp",
         "activo": true
     },
@@ -3847,7 +3847,7 @@
         "categoria": "Galletitas",
         "precio": 750.2,
         "imagen": "1338.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 387,
@@ -3857,7 +3857,7 @@
         "categoria": "Galletitas",
         "precio": 1125.3,
         "imagen": "1340.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 388,
@@ -4107,7 +4107,7 @@
         "categoria": "Galletitas",
         "precio": 1337.05,
         "imagen": "3005.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 413,
@@ -4135,7 +4135,7 @@
         "nombre": "ACONDICIONADOR SEDAL 190ML",
         "marca": "Sedal",
         "categoria": "Perfumería",
-        "precio": 217.8,
+        "precio": 3025.0,
         "imagen": "477.webp",
         "activo": true
     },
@@ -4185,7 +4185,7 @@
         "nombre": "ALGODON ESTRELLA 140GR",
         "marca": "Estrella",
         "categoria": "Perfumería",
-        "precio": 965.58,
+        "precio": 2267.54,
         "imagen": "67.webp",
         "activo": true
     },
@@ -4195,7 +4195,7 @@
         "nombre": "ALGODON ESTRELLA 75GR",
         "marca": "Estrella",
         "categoria": "Perfumería",
-        "precio": 965.58,
+        "precio": 907.5,
         "imagen": "66.webp",
         "activo": true
     },
@@ -4765,7 +4765,7 @@
         "nombre": "JUGO CLIGHT* 20 SOBRES",
         "marca": "Mondelez",
         "categoria": "Almacén",
-        "precio": 7676.24,
+        "precio": 6661.05,
         "imagen": "938.webp",
         "activo": true
     },
@@ -6045,7 +6045,7 @@
         "nombre": "SUGUS MAX TODOS X 70 UNI",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5517.6,
+        "precio": 5927.79,
         "imagen": "1875.webp",
         "activo": true
     },
@@ -6145,7 +6145,7 @@
         "nombre": "ARCOR MENTA CHOCOLATE 715 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8857.2,
+        "precio": 7502.0,
         "imagen": "1161.webp",
         "activo": true
     },
@@ -7287,6 +7287,36 @@
         "categoria": "Galletitas",
         "precio": 1218.47,
         "imagen": "756.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 731,
+        "codigo": 2089,
+        "nombre": "GOMITAS MOGUL JELLY BEANS 80G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 1222.1,
+        "imagen": "2089.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 732,
+        "codigo": 2087,
+        "nombre": "GOMITAS MOGUL MORAS 100G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 1222.1,
+        "imagen": "2087.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 733,
+        "codigo": 2088,
+        "nombre": "GOMITAS MOGUL OSO EXTREME 80G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 1222.1,
+        "imagen": "2088.webp",
         "activo": true
     }
 ]
