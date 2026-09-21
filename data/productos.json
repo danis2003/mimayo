@@ -225,7 +225,7 @@
         "nombre": "CREMA LS BATIR 200ML",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2609.97,
+        "precio": 2783.0,
         "imagen": "3203.webp",
         "activo": true
     },
@@ -235,7 +235,7 @@
         "nombre": "CREMA LS CULINARIA 200ML",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2487.76,
+        "precio": 2652.32,
         "imagen": "3202.webp",
         "activo": true
     },
@@ -255,7 +255,7 @@
         "nombre": "LECHE ARMONIA SACHET 1L",
         "marca": "Armonia",
         "categoria": "Lácteos",
-        "precio": 1785.96,
+        "precio": 1856.14,
         "imagen": "3244.webp",
         "activo": true
     },
@@ -275,7 +275,7 @@
         "nombre": "LECHE LA SERENISIMA VERDE 1L",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2390.96,
+        "precio": 2486.55,
         "imagen": "1023.webp",
         "activo": true
     },
@@ -285,7 +285,7 @@
         "nombre": "LECHE SERENISIMA SACHET 1L",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 1860.98,
+        "precio": 1968.67,
         "imagen": "3201.webp",
         "activo": true
     },
@@ -325,7 +325,7 @@
         "nombre": "ALFAJOR FANTOCHE TRIPLE",
         "marca": "Fantoche",
         "categoria": "Alfajores",
-        "precio": 901.45,
+        "precio": 918.39,
         "imagen": "3012.webp",
         "activo": true
     },
@@ -335,7 +335,7 @@
         "nombre": "ALFAJOR MILKA  SIMPLE",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 930.49,
+        "precio": 942.59,
         "imagen": "3011.webp",
         "activo": true
     },
@@ -465,7 +465,7 @@
         "nombre": "ALFAJOR JORGITO",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 930.49,
+        "precio": 943.8,
         "imagen": "3010.webp",
         "activo": true
     },
@@ -475,7 +475,7 @@
         "nombre": "ALFAJOR JORGITO SIN GLUTEN",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 909.92,
+        "precio": 942.59,
         "imagen": "2464.webp",
         "activo": true
     },
@@ -595,7 +595,7 @@
         "nombre": "BILLIKEN MAST FRUTA 600GR",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 4235.0,
+        "precio": 4356.0,
         "imagen": "887.webp",
         "activo": true
     },
@@ -1005,7 +1005,7 @@
         "nombre": "BIZCOCHO 9 DE ORO TODOS 200G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1234.2,
+        "precio": 1150.71,
         "imagen": "156.webp",
         "activo": true
     },
@@ -1115,7 +1115,7 @@
         "nombre": "REX/KESITAS BOLSITA 75 GR",
         "marca": "Bagley",
         "categoria": "Snacks",
-        "precio": 1149.5,
+        "precio": 1103.52,
         "imagen": "1719.webp",
         "activo": true
     },
@@ -1125,7 +1125,7 @@
         "nombre": "SALCHICHA UG 12U 380 GR",
         "marca": "Unión Ganadera",
         "categoria": "Frescos",
-        "precio": 3751.0,
+        "precio": 3836.91,
         "imagen": "3242.webp",
         "activo": true
     },
@@ -1185,7 +1185,7 @@
         "nombre": "SMILE MC-CAIN 400GR",
         "marca": "McCain",
         "categoria": "Congelados",
-        "precio": 4779.5,
+        "precio": 4611.31,
         "imagen": "3239.webp",
         "activo": true
     },
@@ -1245,7 +1245,7 @@
         "nombre": "ALFAJOR RASTA 70 GR",
         "marca": "Rasta",
         "categoria": "Alfajores",
-        "precio": 995.83,
+        "precio": 986.15,
         "imagen": "2708.webp",
         "activo": true
     },
@@ -1375,7 +1375,7 @@
         "nombre": "PASTILLA MENTHOPLUS 2 CAFE LATTE 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7018.0,
+        "precio": 7620.58,
         "imagen": "1166.webp",
         "activo": true
     },
@@ -1435,7 +1435,7 @@
         "nombre": "GOMITAS MOGUL EXTREME SANDIA 10X50G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7744.0,
+        "precio": 8419.18,
         "imagen": "2253.webp",
         "activo": true
     },
@@ -1735,7 +1735,7 @@
         "nombre": "DULCE DE LECHE COLON LS 400G",
         "marca": "La Serenísima",
         "categoria": "Almacén",
-        "precio": 3477.54,
+        "precio": 3388.0,
         "imagen": "6071.webp",
         "activo": true
     },
@@ -1745,7 +1745,7 @@
         "nombre": "DULCE DE LECHE LS COL 250 GR",
         "marca": "La Serenísima",
         "categoria": "Almacén",
-        "precio": 2594.24,
+        "precio": 2334.09,
         "imagen": "3308.webp",
         "activo": true
     },
@@ -1755,7 +1755,7 @@
         "nombre": "DULCE DE LECHE REPOS LS 400G",
         "marca": "La Serenísima",
         "categoria": "Almacén",
-        "precio": 3630.0,
+        "precio": 3872.0,
         "imagen": "3307.webp",
         "activo": true
     },
@@ -2115,7 +2115,7 @@
         "nombre": "SPEED ENERGIZANTE x 250 ML",
         "marca": "Speed",
         "categoria": "Bebidas",
-        "precio": 1452.0,
+        "precio": 1419.33,
         "imagen": "1863.webp",
         "activo": true
     },
@@ -2125,7 +2125,7 @@
         "nombre": "SPEED ENERGY x 473 ML",
         "marca": "Speed",
         "categoria": "Bebidas",
-        "precio": 2299.0,
+        "precio": 2326.83,
         "imagen": "2662.webp",
         "activo": true
     },
@@ -2975,7 +2975,7 @@
         "nombre": "CURITAS  CAJA* 8 UNID",
         "marca": "Curitas",
         "categoria": "Varios",
-        "precio": 1242.67,
+        "precio": 1331.0,
         "imagen": "500.webp",
         "activo": true
     },
@@ -3245,7 +3245,7 @@
         "nombre": "FILTROS SLIM LIBELLA",
         "marca": "Libella",
         "categoria": "Varios",
-        "precio": 1759.34,
+        "precio": 1815.0,
         "imagen": "3200.webp",
         "activo": true
     },
@@ -3385,7 +3385,7 @@
         "nombre": "PASTILLA DRF MENTA 12U",
         "marca": "D.R.F.",
         "categoria": "Golosinas",
-        "precio": 3884.1,
+        "precio": 3677.19,
         "imagen": "542.webp",
         "activo": true
     },
@@ -3487,7 +3487,7 @@
         "categoria": "Golosinas",
         "precio": 5140.08,
         "imagen": "1724.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 351,
@@ -3495,7 +3495,7 @@
         "nombre": "PASTILLA TIC TAC NARANJA 16G",
         "marca": "Tic Tac",
         "categoria": "Golosinas",
-        "precio": 805.86,
+        "precio": 949.85,
         "imagen": "1951.webp",
         "activo": true
     },
@@ -3575,7 +3575,7 @@
         "nombre": "TALITAS DON SATUR 140G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1216.05,
+        "precio": 1276.55,
         "imagen": "537.webp",
         "activo": true
     },
@@ -3625,7 +3625,7 @@
         "nombre": "GALLETITA  TODDY 126G",
         "marca": "Georgalos",
         "categoria": "Galletitas",
-        "precio": 2003.76,
+        "precio": 2142.91,
         "imagen": "732.webp",
         "activo": true
     },
@@ -3725,7 +3725,7 @@
         "nombre": "GALLETITA GRANIX SANDWICH 200G",
         "marca": "Granix",
         "categoria": "Galletitas",
-        "precio": 1113.2,
+        "precio": 1154.34,
         "imagen": "809.webp",
         "activo": true
     },
@@ -3765,7 +3765,7 @@
         "nombre": "MAGDALENA DON SATUR VAINILLA 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2107.82,
+        "precio": 2393.38,
         "imagen": "1065.webp",
         "activo": true
     },
@@ -3875,7 +3875,7 @@
         "nombre": "GALLETITA PITUSAS CHOCOLATE 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 976.47,
+        "precio": 1038.18,
         "imagen": "1459.webp",
         "activo": true
     },
@@ -4385,7 +4385,7 @@
         "nombre": "CHOCOLATE MISKY NEGRO 25G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 744.15,
+        "precio": 665.5,
         "imagen": "356.webp",
         "activo": true
     },
@@ -4475,7 +4475,7 @@
         "nombre": "COLGATE 70GR",
         "marca": "Colgate",
         "categoria": "Perfumería",
-        "precio": 1327.37,
+        "precio": 1927.53,
         "imagen": "430.webp",
         "activo": true
     },
@@ -5535,7 +5535,7 @@
         "nombre": "SPORT POP C/U",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
-        "precio": 1804.11,
+        "precio": 1818.63,
         "imagen": "9884.webp",
         "activo": true
     },
@@ -5635,7 +5635,7 @@
         "nombre": "BURBUJAS CEREALES 80GR",
         "marca": "Burbujas",
         "categoria": "Golosinas",
-        "precio": 765.93,
+        "precio": 798.6,
         "imagen": "226.webp",
         "activo": true
     },
@@ -5705,7 +5705,7 @@
         "nombre": "PALITO SALADO BURBUJA 150G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 1113.2,
+        "precio": 1149.5,
         "imagen": "1385.webp",
         "activo": true
     },
@@ -5855,7 +5855,7 @@
         "nombre": "CARAMELO PICO DULCE MAST 165",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 3757.05,
+        "precio": 4129.73,
         "imagen": "265.webp",
         "activo": true
     },
@@ -6385,7 +6385,7 @@
         "nombre": "CHOCOLATE MISKY BLANCO 25G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 744.15,
+        "precio": 665.5,
         "imagen": "358.webp",
         "activo": true
     },
@@ -6575,7 +6575,7 @@
         "nombre": "GOMITAS MISKY EUCALIPTUS 1KG",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8939.48,
+        "precio": 9329.1,
         "imagen": "800.webp",
         "activo": true
     },
@@ -6615,7 +6615,7 @@
         "nombre": "GOMITAS MOGUL EXTREME OSO 10X50G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7744.0,
+        "precio": 8419.18,
         "imagen": "2254.webp",
         "activo": true
     },
@@ -6705,7 +6705,7 @@
         "nombre": "GOMITAS YUMMY ANIMALITOS 12X30",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 5657.96,
+        "precio": 5203.0,
         "imagen": "2534.webp",
         "activo": true
     },
@@ -6775,7 +6775,7 @@
         "nombre": "BIZCOCHO 9 DE ORO AGRIDULCES 200G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1234.2,
+        "precio": 1150.71,
         "imagen": "157.webp",
         "activo": true
     },
@@ -6785,7 +6785,7 @@
         "nombre": "BIZCOCHO 9 DE ORO CLÁSICOS 200G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1234.2,
+        "precio": 1150.71,
         "imagen": "158.webp",
         "activo": true
     },
@@ -6805,7 +6805,7 @@
         "nombre": "BIZCOCHO DON SATUR NEGRITO 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1096.26,
+        "precio": 1149.5,
         "imagen": "536.webp",
         "activo": true
     },
@@ -6815,7 +6815,7 @@
         "nombre": "BIZCOCHO DON SATUR VEGETAL 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1096.26,
+        "precio": 1149.5,
         "imagen": "538.webp",
         "activo": true
     },
@@ -6995,7 +6995,7 @@
         "nombre": "GALLETITA PITUSAS FRUTILLA 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1016.4,
+        "precio": 1038.18,
         "imagen": "55.webp",
         "activo": true
     },
@@ -7005,7 +7005,7 @@
         "nombre": "GALLETITA PITUSAS JALEA 140G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 976.47,
+        "precio": 1038.18,
         "imagen": "22.webp",
         "activo": true
     },
@@ -7025,7 +7025,7 @@
         "nombre": "GALLETITA PITUSAS VAINILLA 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 976.47,
+        "precio": 1038.18,
         "imagen": "39.webp",
         "activo": true
     },
@@ -7045,7 +7045,7 @@
         "nombre": "MAGDALENA DON SATUR CHIPS CHOCOLATE 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2107.82,
+        "precio": 2393.38,
         "imagen": "249.webp",
         "activo": true
     },
@@ -7055,7 +7055,7 @@
         "nombre": "MAGDALENA DON SATUR MARMOLADAS 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2107.82,
+        "precio": 2393.38,
         "imagen": "248.webp",
         "activo": true
     },
@@ -7065,7 +7065,7 @@
         "nombre": "MAGDALENA DON SATUR VAINILLA DDL 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2107.82,
+        "precio": 2393.38,
         "imagen": "246.webp",
         "activo": true
     },
@@ -7275,7 +7275,7 @@
         "nombre": "PASTILLA MENTHOPLUS 2 CHERRY 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7621.79,
+        "precio": 7620.58,
         "imagen": "178.webp",
         "activo": true
     },
@@ -7285,7 +7285,7 @@
         "nombre": "PASTILLA MENTHOPLUS 2 MANZANA 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7018.0,
+        "precio": 7620.58,
         "imagen": "1167.webp",
         "activo": true
     },
@@ -7415,7 +7415,7 @@
         "nombre": "PASTILLA FREEGELLS FRUTILLA CREAM 12U",
         "marca": "Freegells",
         "categoria": "Golosinas",
-        "precio": 3107.28,
+        "precio": 3388.0,
         "imagen": "1268.webp",
         "activo": true
     },
@@ -7545,7 +7545,7 @@
         "nombre": "PASTILLA TIC TAC FRUTILA 16G",
         "marca": "Tic Tac",
         "categoria": "Golosinas",
-        "precio": 805.86,
+        "precio": 949.85,
         "imagen": "1953.webp",
         "activo": true
     },
@@ -7555,7 +7555,7 @@
         "nombre": "PASTILLA TIC TAC MENTA 16G",
         "marca": "Tic Tac",
         "categoria": "Golosinas",
-        "precio": 805.86,
+        "precio": 949.85,
         "imagen": "1952.webp",
         "activo": true
     },
@@ -7565,7 +7565,7 @@
         "nombre": "PASTILLA TIC TAC MIX FRUT 16G",
         "marca": "Tic Tac",
         "categoria": "Golosinas",
-        "precio": 805.86,
+        "precio": 949.85,
         "imagen": "1954.webp",
         "activo": true
     }
