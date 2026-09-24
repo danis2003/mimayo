@@ -302,7 +302,7 @@
     {
         "fila_excel": 32,
         "codigo": 8734,
-        "nombre": "ALFAJOR FANTOCHE PESCADO RAUL",
+        "nombre": "ALFAJOR FANTOCHE PESCADO RAUL NEGRO 50G",
         "marca": "Fantoche",
         "categoria": "Alfajores",
         "precio": 661.87,
@@ -312,7 +312,7 @@
     {
         "fila_excel": 33,
         "codigo": 8736,
-        "nombre": "ALFAJOR FANTOCHE SUPER TRIPLE",
+        "nombre": "ALFAJOR FANTOCHE SUPER TRIPLE 100G",
         "marca": "Fantoche",
         "categoria": "Alfajores",
         "precio": 949.85,
@@ -322,7 +322,7 @@
     {
         "fila_excel": 34,
         "codigo": 3012,
-        "nombre": "ALFAJOR FANTOCHE TRIPLE",
+        "nombre": "ALFAJOR FANTOCHE NEGRO TRIPLE 85G",
         "marca": "Fantoche",
         "categoria": "Alfajores",
         "precio": 918.39,
@@ -332,7 +332,7 @@
     {
         "fila_excel": 35,
         "codigo": 3011,
-        "nombre": "ALFAJOR MILKA  SIMPLE",
+        "nombre": "ALFAJOR JORGITO BLANCO 55G",
         "marca": "Milka",
         "categoria": "Alfajores",
         "precio": 942.59,
@@ -342,7 +342,7 @@
     {
         "fila_excel": 36,
         "codigo": 3082,
-        "nombre": "ALFAJOR MILKA TRIPLE",
+        "nombre": "ALFAJOR MILKA TRIPLE OREO 61G",
         "marca": "Milka",
         "categoria": "Alfajores",
         "precio": 1220.89,
@@ -352,7 +352,7 @@
     {
         "fila_excel": 37,
         "codigo": 8703,
-        "nombre": "ALFAJOR RASTA TRICO MAIC 100 GS",
+        "nombre": "ALFAJOR RASTA TRICO MAICENA 100G",
         "marca": "Rasta",
         "categoria": "Alfajores",
         "precio": 1569.37,
@@ -362,7 +362,7 @@
     {
         "fila_excel": 38,
         "codigo": 2890,
-        "nombre": "ALFAJOR TERRABUSI TRIPLE D/LECHE",
+        "nombre": "ALFAJOR TERRABUSI TRIPLE DULCE DE LECHE 70G",
         "marca": "Terrabusi",
         "categoria": "Alfajores",
         "precio": 1225.73,
@@ -382,7 +382,7 @@
     {
         "fila_excel": 40,
         "codigo": 30,
-        "nombre": "ALFAJOR BONOBON SIMPLE",
+        "nombre": "ALFAJOR BONOBON NEGRO SIMPLE 40G",
         "marca": "Arcor",
         "categoria": "Alfajores",
         "precio": 682.26,
@@ -392,7 +392,7 @@
     {
         "fila_excel": 41,
         "codigo": 31,
-        "nombre": "ALFAJOR BONOBON TRIPLE",
+        "nombre": "ALFAJOR BONOBON NEGRO TRIPLE 60G",
         "marca": "Arcor",
         "categoria": "Alfajores",
         "precio": 1167.65,
@@ -402,7 +402,7 @@
     {
         "fila_excel": 42,
         "codigo": 41,
-        "nombre": "ALFAJOR COFLER BLOCK TRIPLE",
+        "nombre": "ALFAJOR COFLER BLOCK TRIPLE 60G",
         "marca": "Cofler",
         "categoria": "Alfajores",
         "precio": 1167.65,
@@ -412,7 +412,7 @@
     {
         "fila_excel": 43,
         "codigo": 8811,
-        "nombre": "ALFAJOR GIGA BY SPREEN",
+        "nombre": "ALFAJOR GIGA BY SPREEN 72G",
         "marca": "GIGA",
         "categoria": "Alfajores",
         "precio": 1252.35,
@@ -422,7 +422,7 @@
     {
         "fila_excel": 44,
         "codigo": 8733,
-        "nombre": "ALFAJOR GOAT",
+        "nombre": "ALFAJOR GOAT BONOBON 75G",
         "marca": "Arcor",
         "categoria": "Alfajores",
         "precio": 1340.68,
@@ -442,7 +442,7 @@
     {
         "fila_excel": 46,
         "codigo": 63,
-        "nombre": "ALFAJOR GUAYMALLÉN ORO *48G",
+        "nombre": "ALFAJOR GUAYMALLEN ORO 48G",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
         "precio": 560.23,
@@ -452,7 +452,7 @@
     {
         "fila_excel": 47,
         "codigo": 3096,
-        "nombre": "ALFAJOR GULA",
+        "nombre": "ALFAJOR GULA NEGRO 72G",
         "marca": "Gula",
         "categoria": "Alfajores",
         "precio": 986.15,
@@ -462,7 +462,7 @@
     {
         "fila_excel": 48,
         "codigo": 3010,
-        "nombre": "ALFAJOR JORGITO",
+        "nombre": "ALFAJOR JORGITO NEGRO 55G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
         "precio": 943.8,
@@ -472,7 +472,7 @@
     {
         "fila_excel": 49,
         "codigo": 2464,
-        "nombre": "ALFAJOR JORGITO SIN GLUTEN",
+        "nombre": "ALFAJOR JORGITO SIN GLUTEN 50G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
         "precio": 942.59,
@@ -482,7 +482,7 @@
     {
         "fila_excel": 50,
         "codigo": 3193,
-        "nombre": "ALFAJOR MANTECOL 40GR",
+        "nombre": "ALFAJOR MANTECOL SIMPLE 40G",
         "marca": "Georgalos",
         "categoria": "Alfajores",
         "precio": 847.0,
@@ -502,7 +502,7 @@
     {
         "fila_excel": 52,
         "codigo": 3160,
-        "nombre": "ALFAJOR MATILDA 80GR",
+        "nombre": "ALFAJOR MATILDA 80G",
         "marca": "Maixanas",
         "categoria": "Alfajores",
         "precio": 1684.32,
@@ -512,7 +512,7 @@
     {
         "fila_excel": 53,
         "codigo": 2302,
-        "nombre": "ALFAJOR MILKA SUPER DDL 70GR",
+        "nombre": "ALFAJOR MILKA SUPER DULCE DE LECHE NEGRO 70G",
         "marca": "Milka",
         "categoria": "Alfajores",
         "precio": 1203.95,
@@ -522,7 +522,7 @@
     {
         "fila_excel": 54,
         "codigo": 64,
-        "nombre": "ALFAJOR MINITORTA AGUILA",
+        "nombre": "ALFAJOR MINITORTA AGUILA CLASICA 69G",
         "marca": "Aguila",
         "categoria": "Alfajores",
         "precio": 1167.65,
@@ -532,7 +532,7 @@
     {
         "fila_excel": 55,
         "codigo": 50,
-        "nombre": "ALFAJOR TRISHOT",
+        "nombre": "ALFAJOR TRISHOT NEGRO 60G",
         "marca": "Shot",
         "categoria": "Alfajores",
         "precio": 1220.89,
@@ -1242,7 +1242,7 @@
     {
         "fila_excel": 126,
         "codigo": 2708,
-        "nombre": "ALFAJOR RASTA 70 GR",
+        "nombre": "ALFAJOR RASTA NEGRO SIMPLE 70G",
         "marca": "Rasta",
         "categoria": "Alfajores",
         "precio": 986.15,
@@ -2392,7 +2392,7 @@
     {
         "fila_excel": 241,
         "codigo": 3062,
-        "nombre": "ALFAJOR CHOCOTORTA TRIPLE",
+        "nombre": "ALFAJOR CHOCOTORTA TRIPLE 72G",
         "marca": "Bagley",
         "categoria": "Alfajores",
         "precio": 1167.65,
@@ -2402,7 +2402,7 @@
     {
         "fila_excel": 242,
         "codigo": 3095,
-        "nombre": "ALFAJOR DUBAI 70GR",
+        "nombre": "ALFAJOR DUBAI PISTACHO STYLE NEGRO 70G",
         "marca": "Maixanas",
         "categoria": "Alfajores",
         "precio": 1460.47,
@@ -2412,7 +2412,7 @@
     {
         "fila_excel": 243,
         "codigo": 56,
-        "nombre": "ALFAJOR JORGITO x 6 UNID",
+        "nombre": "ALFAJOR JORGITO NEGRO 6U 155G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
         "precio": 2891.9,
@@ -2422,7 +2422,7 @@
     {
         "fila_excel": 244,
         "codigo": 32,
-        "nombre": "ALFAJOR OREO TRIPLE 56 GR",
+        "nombre": "ALFAJOR OREO TRIPLE 56G",
         "marca": "Mondelez",
         "categoria": "Alfajores",
         "precio": 1220.89,
@@ -2432,7 +2432,7 @@
     {
         "fila_excel": 245,
         "codigo": 49,
-        "nombre": "ALFAJOR PEPITOS x 57 GR",
+        "nombre": "ALFAJOR PEPITOS TRIPLE 57G",
         "marca": "Mondelez",
         "categoria": "Alfajores",
         "precio": 1225.73,
@@ -2452,7 +2452,7 @@
     {
         "fila_excel": 247,
         "codigo": 368,
-        "nombre": "CHOCOARROZ x 22GS",
+        "nombre": "ALFAJOR CHOCOARROZ  DULCE DE LECHE 26G",
         "marca": "Molinos",
         "categoria": "Alfajores",
         "precio": 1052.7,
@@ -2482,7 +2482,7 @@
     {
         "fila_excel": 250,
         "codigo": 9858,
-        "nombre": "ALFAJOR CAPITÁN DEL ESPACIO X 40G",
+        "nombre": "ALFAJOR CAPITAN DEL ESPACIO SIMPLE NEGRO 40G",
         "marca": "Capitán del Espacio",
         "categoria": "Alfajores",
         "precio": 1435.06,
@@ -2527,7 +2527,7 @@
         "categoria": "Alfajores",
         "precio": 1524.6,
         "imagen": "9861.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 255,
@@ -2872,7 +2872,7 @@
     {
         "fila_excel": 289,
         "codigo": 8823,
-        "nombre": "ALFAJOR BARRIGON 100 GR",
+        "nombre": "ALFAJOR BARRIGON MANI TRIPLAZO 100G",
         "marca": "Barrigón",
         "categoria": "Alfajores",
         "precio": 1551.22,
@@ -2892,7 +2892,7 @@
     {
         "fila_excel": 291,
         "codigo": 8824,
-        "nombre": "ALFAJOR BARRIGON 70 GR",
+        "nombre": "ALFAJOR BARRIGON CREMA TRIPLAZO 100G",
         "marca": "Barrigón",
         "categoria": "Alfajores",
         "precio": 1074.48,
@@ -4542,7 +4542,7 @@
     {
         "fila_excel": 456,
         "codigo": 8828,
-        "nombre": "DONCELLA NOCTURNA",
+        "nombre": "ALFAJOR BARRIGON MEGA NEGRO 100G",
         "marca": "Doncella",
         "categoria": "Perfumería",
         "precio": 1239.04,
@@ -4892,9 +4892,9 @@
     {
         "fila_excel": 491,
         "codigo": 1152,
-        "nombre": "MEDALLON DDL 21GS",
-        "marca": "FelFort",
-        "categoria": "Golosinas",
+        "nombre": "ALFAJOR GUAYMALLEN FRUTA TRIPLE 70G",
+        "marca": "Guaymallén",
+        "categoria": "Alfajores",
         "precio": 451.03,
         "imagen": "1152.webp",
         "activo": true
@@ -5312,7 +5312,7 @@
     {
         "fila_excel": 533,
         "codigo": 53,
-        "nombre": "ALF TERRABUSI TRIPLE TORTA",
+        "nombre": "ALFAJOR TERRABUSI TORTA TIPLE 70G",
         "marca": "Terrabusi",
         "categoria": "Alfajores",
         "precio": 1225.73,
@@ -5322,7 +5322,7 @@
     {
         "fila_excel": 534,
         "codigo": 57,
-        "nombre": "ALFAJOR JORGELÍN X85 GR",
+        "nombre": "ALFAJOR JORGELIN NEGRO 85G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
         "precio": 1258.4,
@@ -5332,7 +5332,7 @@
     {
         "fila_excel": 535,
         "codigo": 62,
-        "nombre": "ALFAJOR GUAYMALLEN TRIPLE",
+        "nombre": "ALFAJOR GUAYMALLEN NEGRO TRIPLE 70G",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
         "precio": 451.03,
@@ -5342,7 +5342,7 @@
     {
         "fila_excel": 536,
         "codigo": 1664,
-        "nombre": "RAPSODIA MINI TORTA 80 GR",
+        "nombre": "MINI TORTA RAPSODIA 80G",
         "marca": "Nevares",
         "categoria": "Golosinas",
         "precio": 600.16,
@@ -5352,7 +5352,7 @@
     {
         "fila_excel": 537,
         "codigo": 2301,
-        "nombre": "ALFAJOR TITA 36 GR",
+        "nombre": "ALFAJOR TITA 36G",
         "marca": "Terrabusi",
         "categoria": "Alfajores",
         "precio": 580.8,
@@ -5402,7 +5402,7 @@
     {
         "fila_excel": 542,
         "codigo": 3172,
-        "nombre": "ALFAJOR VAUQUITA SUBLIME",
+        "nombre": "ALFAJOR VAUQUITA SUBLIME 70G",
         "marca": "Vauquita",
         "categoria": "Alfajores",
         "precio": 895.4,
@@ -5462,7 +5462,7 @@
     {
         "fila_excel": 548,
         "codigo": 8842,
-        "nombre": "ALFAJOR DON QUIQUE MERENGUE",
+        "nombre": "ALFAJOR DON QUIQUE MERENGUE 65G",
         "marca": "Don Quique",
         "categoria": "Alfajores",
         "precio": 1059.96,
@@ -5472,7 +5472,7 @@
     {
         "fila_excel": 549,
         "codigo": 9862,
-        "nombre": "PICNIC NEVARES",
+        "nombre": "MINI TORTA PICNIC 38G",
         "marca": "Nevares",
         "categoria": "Golosinas",
         "precio": 350.9,
@@ -5482,7 +5482,7 @@
     {
         "fila_excel": 550,
         "codigo": 9864,
-        "nombre": "ALFAJOR DON QUIQUE NEGRO",
+        "nombre": "ALFAJOR DON QUIQUE NEGRO 65G",
         "marca": "Don Quique",
         "categoria": "Alfajores",
         "precio": 750.2,
@@ -5492,7 +5492,7 @@
     {
         "fila_excel": 551,
         "codigo": 9865,
-        "nombre": "ALFAJOR DON QUIQUE MAICENA",
+        "nombre": "ALFAJOR DON QUIQUE MAICENA 65G",
         "marca": "Don Quique",
         "categoria": "Alfajores",
         "precio": 678.81,
@@ -5512,7 +5512,7 @@
     {
         "fila_excel": 553,
         "codigo": 9869,
-        "nombre": "ALFAJOR CACHAFAZ 60G",
+        "nombre": "ALFAJOR CACHAFAZ  NEGRO 60G",
         "marca": "Cachafaz",
         "categoria": "Alfajores",
         "precio": 1686.74,
@@ -5772,7 +5772,7 @@
     {
         "fila_excel": 579,
         "codigo": 9893,
-        "nombre": "ALFAJOR MANTECOL TRIPLE 60 G",
+        "nombre": "ALFAJOR MANTECOL TRIPLE 60G",
         "marca": "Georgalos",
         "categoria": "Alfajores",
         "precio": 1471.36,
@@ -5782,7 +5782,7 @@
     {
         "fila_excel": 580,
         "codigo": 9894,
-        "nombre": "DUBAI BLUE LABEL",
+        "nombre": "ALFAJOR DUBAI BLUE LABEL 65G",
         "marca": "Maixanas",
         "categoria": "Alfajores",
         "precio": 1458.05,
@@ -5832,7 +5832,7 @@
     {
         "fila_excel": 585,
         "codigo": 9898,
-        "nombre": "CAPITAN DEL ESPACIO TRIPLE",
+        "nombre": "ALFAJOR CAPITAN DEL ESPACIO TRIPLE NEGRO 80G",
         "marca": "Capitán del Espacio",
         "categoria": "Alfajores",
         "precio": 2349.82,
@@ -7567,6 +7567,326 @@
         "categoria": "Golosinas",
         "precio": 949.85,
         "imagen": "1954.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 759,
+        "codigo": 234,
+        "nombre": "ALFAJOR MINITORTA AGUILA BROWNIE 72G",
+        "marca": "Aguila",
+        "categoria": "Alfajores",
+        "precio": 1167.65,
+        "imagen": "234.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 760,
+        "codigo": 236,
+        "nombre": "ALFAJOR MINITORTA AGUILA COCO 71G",
+        "marca": "Aguila",
+        "categoria": "Alfajores",
+        "precio": 1167.65,
+        "imagen": "236.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 761,
+        "codigo": 239,
+        "nombre": "ALFAJOR MINITORTA AGUILA DARK 69G",
+        "marca": "Aguila",
+        "categoria": "Alfajores",
+        "precio": 1167.65,
+        "imagen": "239.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 762,
+        "codigo": 810,
+        "nombre": "ALFAJOR BAGLEY BYN BLANCO 74G",
+        "marca": "Bagley",
+        "categoria": "Alfajores",
+        "precio": 1167.65,
+        "imagen": "810.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 763,
+        "codigo": 47,
+        "nombre": "ALFAJOR BAGLEY BYN NEGRO 74G",
+        "marca": "Bagley",
+        "categoria": "Alfajores",
+        "precio": 1167.65,
+        "imagen": "47.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 764,
+        "codigo": 438,
+        "nombre": "ALFAJOR BONOBON BLANCO SIMPLE 40G",
+        "marca": "Arcor",
+        "categoria": "Alfajores",
+        "precio": 682.26,
+        "imagen": "438.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 765,
+        "codigo": 710,
+        "nombre": "ALFAJOR BONOBON BLANCO TRIPLE 60G",
+        "marca": "Arcor",
+        "categoria": "Alfajores",
+        "precio": 1167.65,
+        "imagen": "710.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 766,
+        "codigo": 7658,
+        "nombre": "ALFAJOR CACHAFAZ BLANCO 60G",
+        "marca": "Cachafaz",
+        "categoria": "Alfajores",
+        "precio": 1686.74,
+        "imagen": "7658.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 767,
+        "codigo": 9860,
+        "nombre": "ALFAJOR CAPITAN DEL ESPACIO SIMPLE BLANCO 40G",
+        "marca": "Capitán del Espacio",
+        "categoria": "Alfajores",
+        "precio": 1435.06,
+        "imagen": "9860.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 768,
+        "codigo": 489,
+        "nombre": "ALFAJOR CHOCOARROZ FRUTILLA 22G",
+        "marca": "Molinos",
+        "categoria": "Alfajores",
+        "precio": 1052.7,
+        "imagen": "489.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 769,
+        "codigo": 3020,
+        "nombre": "ALFAJOR DUBAI PISTACHO STYLE BLANCO 70G",
+        "marca": "Maixanas",
+        "categoria": "Alfajores",
+        "precio": 1460.47,
+        "imagen": "3020.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 770,
+        "codigo": 3389,
+        "nombre": "ALFAJOR EMILIO MAICENA",
+        "marca": "Emilio",
+        "categoria": "Alfajores",
+        "precio": 1020.03,
+        "imagen": "3389.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 771,
+        "codigo": 231,
+        "nombre": "ALFAJOR FANTOCHE BLANCO TRIPLE 85G",
+        "marca": "Fantoche",
+        "categoria": "Alfajores",
+        "precio": 918.39,
+        "imagen": "231.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 772,
+        "codigo": 8822,
+        "nombre": "ALFAJOR FANTOCHE ELIXIR 70G",
+        "marca": "Fantoche",
+        "categoria": "Alfajores",
+        "precio": 1096.26,
+        "imagen": "8822.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 773,
+        "codigo": 8832,
+        "nombre": "ALFAJOR FANTOCHE ORIGEN 6U 360G",
+        "marca": "Fantoche",
+        "categoria": "Alfajores",
+        "precio": 5916.9,
+        "imagen": "8832.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 774,
+        "codigo": 8735,
+        "nombre": "ALFAJOR FANTOCHE RED VELVET 100G",
+        "marca": "Fantoche",
+        "categoria": "Alfajores",
+        "precio": 1067.22,
+        "imagen": "8735.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 775,
+        "codigo": 51,
+        "nombre": "ALFAJOR FANTOCHE TRIPLE DAY 85G",
+        "marca": "Fantoche",
+        "categoria": "Alfajores",
+        "precio": 968.0,
+        "imagen": "51.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 776,
+        "codigo": 1424,
+        "nombre": "ALFAJOR GUAYMALLEN BLANCO TRIPLE 70G",
+        "marca": "Guaymallén",
+        "categoria": "Alfajores",
+        "precio": 451.03,
+        "imagen": "1424.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 777,
+        "codigo": 1172,
+        "nombre": "ALFAJOR GULA BLANCO 72G",
+        "marca": "Gula",
+        "categoria": "Alfajores",
+        "precio": 986.15,
+        "imagen": "1172.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 778,
+        "codigo": 1173,
+        "nombre": "ALFAJOR GULA KING 72G",
+        "marca": "Gula",
+        "categoria": "Alfajores",
+        "precio": 986.15,
+        "imagen": "1173.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 779,
+        "codigo": 2001,
+        "nombre": "ALFAJOR JORGELIN BLANCO 85G",
+        "marca": "Jorgito",
+        "categoria": "Alfajores",
+        "precio": 1258.4,
+        "imagen": "2001.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 780,
+        "codigo": 60,
+        "nombre": "ALFAJOR JORGITO BLANCO 6U 155G",
+        "marca": "Jorgito",
+        "categoria": "Alfajores",
+        "precio": 2891.9,
+        "imagen": "60.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 781,
+        "codigo": 2716,
+        "nombre": "ALFAJOR JORGITO FRUTA 50G",
+        "marca": "Jorgito",
+        "categoria": "Alfajores",
+        "precio": 942.59,
+        "imagen": "2716.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 782,
+        "codigo": 69,
+        "nombre": "ALFAJOR JORGITO MOUSSE 6U 128G",
+        "marca": "Jorgito",
+        "categoria": "Alfajores",
+        "precio": 2891.9,
+        "imagen": "69.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 783,
+        "codigo": 1684,
+        "nombre": "ALFAJOR MILKA SUPER DULCE DE LECHE BLANCO 70G",
+        "marca": "Milka",
+        "categoria": "Alfajores",
+        "precio": 1203.95,
+        "imagen": "1684.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 784,
+        "codigo": 1683,
+        "nombre": "ALFAJOR MILKA TRIPLE MOUSSE BLANCO 55G",
+        "marca": "Milka",
+        "categoria": "Alfajores",
+        "precio": 1220.89,
+        "imagen": "1683.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 785,
+        "codigo": 1682,
+        "nombre": "ALFAJOR MILKA TRIPLE MOUSSE 55G",
+        "marca": "Milka",
+        "categoria": "Alfajores",
+        "precio": 1220.89,
+        "imagen": "1682.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 786,
+        "codigo": 8738,
+        "nombre": "ALFAJOR FANTOCHE PESCADO RAUL BLANCO 50G",
+        "marca": "Fantoche",
+        "categoria": "Alfajores",
+        "precio": 661.87,
+        "imagen": "8738.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 787,
+        "codigo": 362,
+        "nombre": "ALFAJOR RASTA BLANCO SIMPLE 70G",
+        "marca": "Rasta",
+        "categoria": "Alfajores",
+        "precio": 986.15,
+        "imagen": "362.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 788,
+        "codigo": 862,
+        "nombre": "ALFAJOR RASTA TRICO NEGRO 100G",
+        "marca": "Rasta",
+        "categoria": "Alfajores",
+        "precio": 1569.37,
+        "imagen": "862.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 789,
+        "codigo": 2080,
+        "nombre": "ALFAJOR RECOVA BLANCO 60G",
+        "marca": "La Recova",
+        "categoria": "Alfajores",
+        "precio": 556.6,
+        "imagen": "2080.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 790,
+        "codigo": 37,
+        "nombre": "ALFAJOR TRISHOT BLANCO 60G",
+        "marca": "Shot",
+        "categoria": "Alfajores",
+        "precio": 1220.89,
+        "imagen": "37.webp",
         "activo": true
     }
 ]
