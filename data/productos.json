@@ -372,7 +372,7 @@
     {
         "fila_excel": 39,
         "codigo": 3019,
-        "nombre": "ALFAJOR VIMAR ESCOLAR/GLAS CAJA",
+        "nombre": "ALFAJOR VIMAR ESCOLAR SURTIDO CAJA 60U",
         "marca": "Vimar",
         "categoria": "Alfajores",
         "precio": 11952.38,
@@ -432,7 +432,7 @@
     {
         "fila_excel": 45,
         "codigo": 61,
-        "nombre": "ALFAJOR GUAYMALLÉN L/CH/FR CAJA",
+        "nombre": "ALFAJOR GUAYMALLEN SIMPLE CHOCOLATE CAJA 40U",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
         "precio": 10864.59,
@@ -505,7 +505,7 @@
         "nombre": "ALFAJOR MATILDA 80G",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1684.32,
+        "precio": 1758.13,
         "imagen": "3160.webp",
         "activo": true
     },
@@ -662,7 +662,7 @@
     {
         "fila_excel": 68,
         "codigo": 3176,
-        "nombre": "CAJA RASTA BCO-NGO X18U",
+        "nombre": "ALFAJOR RASTA NEGRO CAJA 18U",
         "marca": "Rasta",
         "categoria": "Alfajores",
         "precio": 16748.82,
@@ -1605,7 +1605,7 @@
         "nombre": "AZUCAR LEDESMA 1KG",
         "marca": "Ledesma",
         "categoria": "Almacén",
-        "precio": 1677.06,
+        "precio": 1760.55,
         "imagen": "101.webp",
         "activo": true
     },
@@ -1675,7 +1675,7 @@
         "nombre": "CAFE MOLIDO LA MORENITA 250",
         "marca": "La Morenita",
         "categoria": "Almacén",
-        "precio": 5083.21,
+        "precio": 5533.33,
         "imagen": "238.webp",
         "activo": true
     },
@@ -1845,7 +1845,7 @@
         "nombre": "MAYONESA NATURA* 125 CC",
         "marca": "AGD",
         "categoria": "Almacén",
-        "precio": 660.66,
+        "precio": 672.76,
         "imagen": "1148.webp",
         "activo": true
     },
@@ -2485,7 +2485,7 @@
         "nombre": "ALFAJOR CAPITAN DEL ESPACIO SIMPLE NEGRO 40G",
         "marca": "Capitán del Espacio",
         "categoria": "Alfajores",
-        "precio": 1435.06,
+        "precio": 1497.98,
         "imagen": "9858.webp",
         "activo": true
     },
@@ -2494,7 +2494,7 @@
         "codigo": 3300,
         "nombre": "OBLI BON MIX 15U",
         "marca": "Oblita",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 4598.0,
         "imagen": "3300.webp",
         "activo": true
@@ -2504,7 +2504,7 @@
         "codigo": 3309,
         "nombre": "OBLI BON CLASICO 30U",
         "marca": "Oblita",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 7146.26,
         "imagen": "3309.webp",
         "activo": true
@@ -2514,7 +2514,7 @@
         "codigo": 9859,
         "nombre": "OBLIBON BOCADITO MARROC X 36",
         "marca": "Oblita",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 7526.2,
         "imagen": "9859.webp",
         "activo": true
@@ -2535,7 +2535,7 @@
         "nombre": "AJI ALICANTE 25GR",
         "marca": "Alicante",
         "categoria": "Almacén",
-        "precio": 753.83,
+        "precio": 780.45,
         "imagen": "25.webp",
         "activo": true
     },
@@ -2775,7 +2775,7 @@
         "nombre": "PIMENTON ALICANTE 25GR",
         "marca": "Alicante",
         "categoria": "Almacén",
-        "precio": 735.68,
+        "precio": 822.8,
         "imagen": "1531.webp",
         "activo": true
     },
@@ -2785,7 +2785,7 @@
         "nombre": "PIMIENTA BLANCA ALICANTE 25G",
         "marca": "Alicante",
         "categoria": "Almacén",
-        "precio": 1543.96,
+        "precio": 1634.71,
         "imagen": "1532.webp",
         "activo": true
     },
@@ -2795,7 +2795,7 @@
         "nombre": "PIMIENTA NEGRA ALICANTE 25GR",
         "marca": "Alicante",
         "categoria": "Almacén",
-        "precio": 1125.3,
+        "precio": 1156.76,
         "imagen": "2426.webp",
         "activo": true
     },
@@ -2825,7 +2825,7 @@
         "nombre": "PROVENZAL ALICANTE 25GR",
         "marca": "Alicante",
         "categoria": "Almacén",
-        "precio": 1066.01,
+        "precio": 1119.25,
         "imagen": "1631.webp",
         "activo": true
     },
@@ -2895,7 +2895,7 @@
         "nombre": "ALFAJOR BARRIGON CREMA TRIPLAZO 100G",
         "marca": "Barrigón",
         "categoria": "Alfajores",
-        "precio": 1074.48,
+        "precio": 1551.22,
         "imagen": "8824.webp",
         "activo": true
     },
@@ -3235,7 +3235,7 @@
         "nombre": "PRESERVATIVOS TULIPAN x3 C/GEL C/U",
         "marca": "Tulipán",
         "categoria": "Varios",
-        "precio": 1969.88,
+        "precio": 2044.9,
         "imagen": "1610.webp",
         "activo": true
     },
@@ -3304,7 +3304,7 @@
         "codigo": 9843,
         "nombre": "CAJA MERENKOA 12 UNIDADES",
         "marca": "Urquiza",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 9002.4,
         "imagen": "9843.webp",
         "activo": true
@@ -3374,7 +3374,7 @@
         "codigo": 9856,
         "nombre": "CONITO JORGITO 34G",
         "marca": "Jorgito",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 1058.75,
         "imagen": "9856.webp",
         "activo": true
@@ -3414,7 +3414,7 @@
         "codigo": 1182,
         "nombre": "BOMBON MERENBOM 25G",
         "marca": "Urquiza",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 636.46,
         "imagen": "1182.webp",
         "activo": true
@@ -3424,8 +3424,8 @@
         "codigo": 1179,
         "nombre": "BOMBON MERENKOA 15G",
         "marca": "Urquiza",
-        "categoria": "Golosinas",
-        "precio": 615.89,
+        "categoria": "Chocolates",
+        "precio": 643.72,
         "imagen": "1179.webp",
         "activo": true
     },
@@ -4155,7 +4155,7 @@
         "nombre": "ALGODON ESTRELLA 75GR",
         "marca": "Estrella",
         "categoria": "Perfumería",
-        "precio": 907.5,
+        "precio": 1073.27,
         "imagen": "66.webp",
         "activo": true
     },
@@ -4182,9 +4182,9 @@
     {
         "fila_excel": 420,
         "codigo": 2521,
-        "nombre": "CHOC FELFORT BANANINA 15G",
+        "nombre": "CHOCOLATE FELFORT BANANINA 15G",
         "marca": "FelFort",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 399.3,
         "imagen": "2521.webp",
         "activo": true
@@ -4192,9 +4192,9 @@
     {
         "fila_excel": 421,
         "codigo": 114,
-        "nombre": "CHOC BANANITA DOLCA 14G",
+        "nombre": "CHOCOLATE BANANITA DOLCA 14G",
         "marca": "Nestlé",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 660.66,
         "imagen": "114.webp",
         "activo": true
@@ -4202,9 +4202,9 @@
     {
         "fila_excel": 422,
         "codigo": 115,
-        "nombre": "CHOC BANANITA DOLCA 30G",
+        "nombre": "CHOCOLATE BANANITA DOLCA 30G",
         "marca": "Nestlé",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 1142.24,
         "imagen": "115.webp",
         "activo": true
@@ -4234,7 +4234,7 @@
         "codigo": 9837,
         "nombre": "BOCADITO CERICET FELFORT",
         "marca": "FelFort",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 1689.16,
         "imagen": "9837.webp",
         "activo": true
@@ -4244,7 +4244,7 @@
         "codigo": 177,
         "nombre": "CHOCOLATE MARROC CRIC 14G",
         "marca": "FelFort",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 550.55,
         "imagen": "177.webp",
         "activo": true
@@ -4254,7 +4254,7 @@
         "codigo": 2980,
         "nombre": "BOMBON FELFORT D'OR 12G",
         "marca": "FelFort",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 363.0,
         "imagen": "2980.webp",
         "activo": true
@@ -4264,7 +4264,7 @@
         "codigo": 366,
         "nombre": "BONAFIDE CHOCMAN 35G",
         "marca": "Bonafide",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 665.5,
         "imagen": "366.webp",
         "activo": true
@@ -4284,7 +4284,7 @@
         "codigo": 212,
         "nombre": "CHOC BOTELLITA DE WHISKY 24G",
         "marca": "FelFort",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 1127.12,
         "imagen": "212.webp",
         "activo": true
@@ -4294,7 +4294,7 @@
         "codigo": 230,
         "nombre": "CHOCOLATE CABSHA 10G",
         "marca": "Arcor",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 464.64,
         "imagen": "230.webp",
         "activo": true
@@ -4475,7 +4475,7 @@
         "nombre": "COLGATE 70GR",
         "marca": "Colgate",
         "categoria": "Perfumería",
-        "precio": 1927.53,
+        "precio": 1738.77,
         "imagen": "430.webp",
         "activo": true
     },
@@ -4484,7 +4484,7 @@
         "codigo": 9866,
         "nombre": "CONITO DON QUIQUE 34G",
         "marca": "Don Quique",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 670.34,
         "imagen": "9866.webp",
         "activo": true
@@ -4494,7 +4494,7 @@
         "codigo": 501,
         "nombre": "BOCADITO DANCING 50U",
         "marca": "Arcor",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 8463.95,
         "imagen": "501.webp",
         "activo": true
@@ -4545,7 +4545,7 @@
         "nombre": "ALFAJOR BARRIGON MEGA NEGRO 100G",
         "marca": "Doncella",
         "categoria": "Perfumería",
-        "precio": 1239.04,
+        "precio": 1551.22,
         "imagen": "8828.webp",
         "activo": true
     },
@@ -4645,7 +4645,7 @@
         "nombre": "JABON EN PAN SIGNO",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 568.7,
+        "precio": 583.22,
         "imagen": "3183.webp",
         "activo": true
     },
@@ -4874,7 +4874,7 @@
         "codigo": 176,
         "nombre": "CHOCOLATE MARROC 14G",
         "marca": "FelFort",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 550.55,
         "imagen": "176.webp",
         "activo": true
@@ -4902,9 +4902,9 @@
     {
         "fila_excel": 492,
         "codigo": 1151,
-        "nombre": "CHOC MENTITAS FELFORT 16G",
+        "nombre": "CHOCOLATE MENTITAS FELFORT 16G",
         "marca": "FelFort",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 453.75,
         "imagen": "1151.webp",
         "activo": true
@@ -4944,7 +4944,7 @@
         "codigo": 9868,
         "nombre": "NUGATON 27G",
         "marca": "Bonafide",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 716.32,
         "imagen": "9868.webp",
         "activo": true
@@ -5132,9 +5132,9 @@
     {
         "fila_excel": 515,
         "codigo": 3174,
-        "nombre": "CHOC VAUQUITA CLASICA 25G",
+        "nombre": "CHOCOLATE VAUQUITA CLASICA 25G",
         "marca": "Vauquita",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 441.65,
         "imagen": "3174.webp",
         "activo": true
@@ -5244,7 +5244,7 @@
         "codigo": 203,
         "nombre": "BOMBON BONOBON BLANCO 15G",
         "marca": "Arcor",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 423.5,
         "imagen": "203.webp",
         "activo": true
@@ -5254,7 +5254,7 @@
         "codigo": 1306,
         "nombre": "OBLEA BONOBON NEGRO 30G",
         "marca": "Arcor",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 894.19,
         "imagen": "1306.webp",
         "activo": true
@@ -5262,9 +5262,9 @@
     {
         "fila_excel": 528,
         "codigo": 1731,
-        "nombre": "CHOC ROCKLETS 20G",
+        "nombre": "CHOCOLATE ROCKLETS 20G",
         "marca": "Arcor",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 712.69,
         "imagen": "1731.webp",
         "activo": true
@@ -5272,9 +5272,9 @@
     {
         "fila_excel": 529,
         "codigo": 1732,
-        "nombre": "CHOC ROCKLETS 40G",
+        "nombre": "CHOCOLATE ROCKLETS 40G",
         "marca": "Arcor",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 1288.65,
         "imagen": "1732.webp",
         "activo": true
@@ -5282,9 +5282,9 @@
     {
         "fila_excel": 530,
         "codigo": 1730,
-        "nombre": "CHOC ROCKLETS MINI 10G",
+        "nombre": "CHOCOLATE ROCKLETS MINI 10G",
         "marca": "Arcor",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 417.45,
         "imagen": "1730.webp",
         "activo": true
@@ -5344,7 +5344,7 @@
         "codigo": 1664,
         "nombre": "MINI TORTA RAPSODIA 80G",
         "marca": "Nevares",
-        "categoria": "Golosinas",
+        "categoria": "Alfajores",
         "precio": 600.16,
         "imagen": "1664.webp",
         "activo": true
@@ -5474,7 +5474,7 @@
         "codigo": 9862,
         "nombre": "MINI TORTA PICNIC 38G",
         "marca": "Nevares",
-        "categoria": "Golosinas",
+        "categoria": "Alfajores",
         "precio": 350.9,
         "imagen": "9862.webp",
         "activo": true
@@ -5574,7 +5574,7 @@
         "codigo": 1312,
         "nombre": "OBLEA SMACK 33G",
         "marca": "Smack",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 278.3,
         "imagen": "1312.webp",
         "activo": true
@@ -5584,7 +5584,7 @@
         "codigo": 2615,
         "nombre": "CUBANITO SMACK 27G",
         "marca": "Smack",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 278.3,
         "imagen": "2615.webp",
         "activo": true
@@ -5654,7 +5654,7 @@
         "codigo": 733,
         "nombre": "OBLEA RHODESIA 22G",
         "marca": "Terrabusi",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 763.51,
         "imagen": "733.webp",
         "activo": true
@@ -5664,7 +5664,7 @@
         "codigo": 738,
         "nombre": "OBLEA TITA 19G",
         "marca": "Terrabusi",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 690.91,
         "imagen": "738.webp",
         "activo": true
@@ -5684,7 +5684,7 @@
         "codigo": 1210,
         "nombre": "BOMBON MILKA OREO 19G",
         "marca": "Milka",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 544.5,
         "imagen": "1210.webp",
         "activo": true
@@ -5705,7 +5705,7 @@
         "nombre": "PALITO SALADO BURBUJA 150G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 1149.5,
+        "precio": 1200.32,
         "imagen": "1385.webp",
         "activo": true
     },
@@ -5814,7 +5814,7 @@
         "codigo": 9872,
         "nombre": "OBLEA MANTECOL 27G",
         "marca": "Georgalos",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 665.5,
         "imagen": "9872.webp",
         "activo": true
@@ -5945,7 +5945,7 @@
         "nombre": "CUBANITOS OBLITA FRUTILLA 48U",
         "marca": "Oblita",
         "categoria": "Golosinas",
-        "precio": 4537.5,
+        "precio": 5268.34,
         "imagen": "498.webp",
         "activo": true
     },
@@ -6134,7 +6134,7 @@
         "codigo": 6093,
         "nombre": "BOMBON BONOBON AGUILA 15G",
         "marca": "Arcor",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 443.4,
         "imagen": "6093.webp",
         "activo": true
@@ -6144,7 +6144,7 @@
         "codigo": 204,
         "nombre": "BOMBON BONOBON NEGRO 15G",
         "marca": "Arcor",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 423.5,
         "imagen": "204.webp",
         "activo": true
@@ -6165,7 +6165,7 @@
         "nombre": "CHOCOLATE BIZNIKKE NEVADO 28G",
         "marca": "Biznikke",
         "categoria": "Chocolates",
-        "precio": 883.3,
+        "precio": 976.47,
         "imagen": "163.webp",
         "activo": true
     },
@@ -6434,7 +6434,7 @@
         "codigo": 1307,
         "nombre": "OBLEA BONOBON BLANCO 30G",
         "marca": "Arcor",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 894.19,
         "imagen": "1307.webp",
         "activo": true
@@ -6444,7 +6444,7 @@
         "codigo": 2066,
         "nombre": "OBLEA BONOBON MEGA 48G",
         "marca": "Arcor",
-        "categoria": "Golosinas",
+        "categoria": "Chocolates",
         "precio": 1456.84,
         "imagen": "2066.webp",
         "activo": true
@@ -6555,7 +6555,7 @@
         "nombre": "CUBANITO OBLITA MARROC 48U",
         "marca": "Oblita",
         "categoria": "Golosinas",
-        "precio": 4537.5,
+        "precio": 5268.34,
         "imagen": "122.webp",
         "activo": true
     },
@@ -6565,7 +6565,7 @@
         "nombre": "CUBANITOS OBLITA CHOCOLATE 48U",
         "marca": "Oblita",
         "categoria": "Golosinas",
-        "precio": 4537.5,
+        "precio": 5268.34,
         "imagen": "378.webp",
         "activo": true
     },
@@ -7033,7 +7033,7 @@
         "fila_excel": 705,
         "codigo": 5,
         "nombre": "GALLETITA FULBITO 120G",
-        "marca": "",
+        "marca": "Nevares",
         "categoria": "Galletitas",
         "precio": 263.78,
         "imagen": "5.webp",
@@ -7725,7 +7725,7 @@
         "nombre": "ALFAJOR FANTOCHE RED VELVET 100G",
         "marca": "Fantoche",
         "categoria": "Alfajores",
-        "precio": 1067.22,
+        "precio": 1144.66,
         "imagen": "8735.webp",
         "activo": true
     },
@@ -7755,7 +7755,7 @@
         "nombre": "ALFAJOR GULA BLANCO 72G",
         "marca": "Gula",
         "categoria": "Alfajores",
-        "precio": 986.15,
+        "precio": 1028.5,
         "imagen": "1172.webp",
         "activo": true
     },
@@ -7765,7 +7765,7 @@
         "nombre": "ALFAJOR GULA KING 72G",
         "marca": "Gula",
         "categoria": "Alfajores",
-        "precio": 986.15,
+        "precio": 1028.5,
         "imagen": "1173.webp",
         "activo": true
     },
@@ -7875,7 +7875,7 @@
         "nombre": "ALFAJOR RECOVA BLANCO 60G",
         "marca": "La Recova",
         "categoria": "Alfajores",
-        "precio": 556.6,
+        "precio": 302.5,
         "imagen": "2080.webp",
         "activo": true
     },
@@ -7887,6 +7887,76 @@
         "categoria": "Alfajores",
         "precio": 1220.89,
         "imagen": "37.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 791,
+        "codigo": 146,
+        "nombre": "ALFAJOR GUAYMALLEN SIMPLE BLANCO CAJA 40U",
+        "marca": "Guaymallén",
+        "categoria": "Alfajores",
+        "precio": 10864.59,
+        "imagen": "146.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 792,
+        "codigo": 147,
+        "nombre": "ALFAJOR GUAYMALLEN SIMPLE FRUTA CAJA 40U",
+        "marca": "Guaymallén",
+        "categoria": "Alfajores",
+        "precio": 10864.59,
+        "imagen": "147.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 793,
+        "codigo": 271,
+        "nombre": "ALFAJOR FULBITO MANI CAJA 40U",
+        "marca": "Nevares",
+        "categoria": "Alfajores",
+        "precio": 8125.15,
+        "imagen": "271.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 794,
+        "codigo": 289,
+        "nombre": "ALFAJOR VIMAR ESCOLAR DDL CAJA 60U",
+        "marca": "Vimar",
+        "categoria": "Alfajores",
+        "precio": 11952.38,
+        "imagen": "289.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 795,
+        "codigo": 3002,
+        "nombre": "ALFAJOR FULBITO BLACK CAJA 40U",
+        "marca": "Nevares",
+        "categoria": "Alfajores",
+        "precio": 8125.15,
+        "imagen": "3002.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 796,
+        "codigo": 3194,
+        "nombre": "ALFAJOR CAJA RASTA BLANCO 18U",
+        "marca": "Rasta",
+        "categoria": "Alfajores",
+        "precio": 16748.82,
+        "imagen": "3194.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 797,
+        "codigo": 904,
+        "nombre": "ALF MILKA SIMPLE MOUSSE NEGRO 42G",
+        "marca": "Milka",
+        "categoria": "Alfajores",
+        "precio": 790.13,
+        "imagen": "904.webp",
         "activo": true
     }
 ]
