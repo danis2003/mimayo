@@ -2862,7 +2862,7 @@
     {
         "fila_excel": 288,
         "codigo": 144,
-        "nombre": "BIC MAXI ENCENDEDOR",
+        "nombre": "ENCENDEDOR BIX MAXI",
         "marca": "Bic",
         "categoria": "Varios",
         "precio": 1185.8,
@@ -2872,7 +2872,7 @@
     {
         "fila_excel": 289,
         "codigo": 257,
-        "nombre": "CANDELA ENCEND ELECTRONICO",
+        "nombre": "ENCENDEDOR CANDELA GLOW",
         "marca": "Candela",
         "categoria": "Varios",
         "precio": 496.1,
@@ -2882,7 +2882,7 @@
     {
         "fila_excel": 290,
         "codigo": 259,
-        "nombre": "CANDELA ENCENDEDOR TRANSPARE",
+        "nombre": "ENCENDEDOR CANDELA TRANSPARENTE",
         "marca": "Candela",
         "categoria": "Varios",
         "precio": 254.1,
@@ -2892,7 +2892,7 @@
     {
         "fila_excel": 291,
         "codigo": 285,
-        "nombre": "CASINO NAIPES 40 U",
+        "nombre": "NAIPES CASINO 40U",
         "marca": "Casino",
         "categoria": "Varios",
         "precio": 2084.83,
@@ -2902,7 +2902,7 @@
     {
         "fila_excel": 292,
         "codigo": 286,
-        "nombre": "CASINO NAIPES 50 U",
+        "nombre": "NAIPES CASINO 50U",
         "marca": "Casino",
         "categoria": "Varios",
         "precio": 2613.6,
@@ -2912,7 +2912,7 @@
     {
         "fila_excel": 293,
         "codigo": 2715,
-        "nombre": "CELULOSA STAMPS 50 HOJAS",
+        "nombre": "CELULOSA STAMPS 50 HOJAS 25U",
         "marca": "Stamps",
         "categoria": "Varios",
         "precio": 1062.38,
@@ -2922,7 +2922,7 @@
     {
         "fila_excel": 294,
         "codigo": 8850,
-        "nombre": "CURITA ADHESUR",
+        "nombre": "APOSITO ADHESUR 8U",
         "marca": "Adhesur",
         "categoria": "Varios",
         "precio": 592.9,
@@ -2932,7 +2932,7 @@
     {
         "fila_excel": 295,
         "codigo": 500,
-        "nombre": "CURITAS  CAJA* 8 UNID",
+        "nombre": "APOSITO CURITAS 8U",
         "marca": "Curitas",
         "categoria": "Varios",
         "precio": 1331.0,
@@ -3082,7 +3082,7 @@
     {
         "fila_excel": 310,
         "codigo": 2567,
-        "nombre": "FILTROS OCB EXTRA SLIM 150",
+        "nombre": "FILTROS OCB EXTRA SLIM 150U",
         "marca": "OCB",
         "categoria": "Varios",
         "precio": 1995.29,
@@ -3092,7 +3092,7 @@
     {
         "fila_excel": 311,
         "codigo": 2571,
-        "nombre": "FILTROS OCB SLIM 150 UN 6MM",
+        "nombre": "FILTROS OCB SLIM 150U",
         "marca": "OCB",
         "categoria": "Varios",
         "precio": 1767.81,
@@ -3102,7 +3102,7 @@
     {
         "fila_excel": 312,
         "codigo": 8807,
-        "nombre": "FUEGOLANDIA ENCENDEDOR TRANS",
+        "nombre": "ENCENDEDOR FUEGOLANDIA TRANSPARENTE",
         "marca": "Fuegolandia",
         "categoria": "Varios",
         "precio": 254.1,
@@ -3122,7 +3122,7 @@
     {
         "fila_excel": 314,
         "codigo": 288,
-        "nombre": "NAIPES CANDELA X 50",
+        "nombre": "NAIPES CANDELA 50U",
         "marca": "Candela",
         "categoria": "Varios",
         "precio": 1028.5,
@@ -3162,7 +3162,7 @@
     {
         "fila_excel": 318,
         "codigo": 2651,
-        "nombre": "PAPELILLO PIER  ROLL* 50 UN",
+        "nombre": "PAPELILLO PIER ROLL",
         "marca": "Pier",
         "categoria": "Varios",
         "precio": 556.6,
@@ -3182,7 +3182,7 @@
     {
         "fila_excel": 320,
         "codigo": 1609,
-        "nombre": "PRESERVATIVOS PRIME x3 TODOS C/U",
+        "nombre": "PRESERVATIVO PRIME TACHAS 3U",
         "marca": "Prime",
         "categoria": "Varios",
         "precio": 3236.75,
@@ -3192,7 +3192,7 @@
     {
         "fila_excel": 321,
         "codigo": 1610,
-        "nombre": "PRESERVATIVOS TULIPAN x3 C/GEL C/U",
+        "nombre": "PRESERVATIVO TULIPAN CON GEL 3U",
         "marca": "Tulipán",
         "categoria": "Varios",
         "precio": 2044.9,
@@ -3202,7 +3202,7 @@
     {
         "fila_excel": 322,
         "codigo": 3200,
-        "nombre": "FILTROS SLIM LIBELLA",
+        "nombre": "FILTRO SLIM LIBELLA 200U",
         "marca": "Libella",
         "categoria": "Varios",
         "precio": 1815.0,
@@ -3212,7 +3212,7 @@
     {
         "fila_excel": 323,
         "codigo": 8803,
-        "nombre": "SYRITA X 10 UNIDADES",
+        "nombre": "APOSITO SYRITA 10U",
         "marca": "Syrita",
         "categoria": "Varios",
         "precio": 398.09,
@@ -3222,7 +3222,7 @@
     {
         "fila_excel": 324,
         "codigo": 2587,
-        "nombre": "TABACO CERRITO*45 GS",
+        "nombre": "TABACO CERRITO 45G",
         "marca": "Cerrito",
         "categoria": "Varios",
         "precio": 6254.49,
@@ -3232,7 +3232,7 @@
     {
         "fila_excel": 325,
         "codigo": 2649,
-        "nombre": "TABACO CUATRO LEGUAS 30 GS",
+        "nombre": "TABACO CUATRO LEGUAS 30G",
         "marca": "Cuatro Leguas",
         "categoria": "Varios",
         "precio": 5687.0,
@@ -4502,7 +4502,7 @@
     {
         "fila_excel": 452,
         "codigo": 595,
-        "nombre": "ESPIRALES RAID(CAJA *12 SOBR",
+        "nombre": "ESPIRALES RAID CAJA 12U",
         "marca": "SC Johnson",
         "categoria": "Varios",
         "precio": 11071.5,
@@ -4832,7 +4832,7 @@
     {
         "fila_excel": 485,
         "codigo": 903,
-        "nombre": "MATA MOSCAS SELTON*360 CC",
+        "nombre": "MATA MOSCAS SELTON 360 CC",
         "marca": "Ayudín",
         "categoria": "Varios",
         "precio": 4446.75,
@@ -7897,6 +7897,466 @@
         "categoria": "Alfajores",
         "precio": 790.13,
         "imagen": "904.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 792,
+        "codigo": 3003,
+        "nombre": "ALCOHOL  PUROCOL 250ML",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1293.49,
+        "imagen": "3003.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 793,
+        "codigo": 27,
+        "nombre": "ALCOHOL DISMAR 500ML",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1829.52,
+        "imagen": "27.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 794,
+        "codigo": 28,
+        "nombre": "ALCOHOL PUROCOL 500ML",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1603.25,
+        "imagen": "28.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 795,
+        "codigo": 503,
+        "nombre": "APOSITO CRIS-BLAN 8U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 471.9,
+        "imagen": "503.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 796,
+        "codigo": 2207,
+        "nombre": "AZUFRE DISMAR 5U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1418.12,
+        "imagen": "2207.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 797,
+        "codigo": 2589,
+        "nombre": "BENGALA CIENFUEGOS 4U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1185.8,
+        "imagen": "2589.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 798,
+        "codigo": 2588,
+        "nombre": "BENGALA FUEGOLANDIA 4U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1185.8,
+        "imagen": "2588.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 799,
+        "codigo": 9939,
+        "nombre": "BOMBILLA COLOR ITA-BATE 1U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 564.66,
+        "imagen": "9939.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 800,
+        "codigo": 567,
+        "nombre": "CINTA AISLADORA CANDELA",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 799.81,
+        "imagen": "567.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 801,
+        "codigo": 410,
+        "nombre": "CINTA EMBALAJE CANDELA 40M",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1026.08,
+        "imagen": "410.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 802,
+        "codigo": 471,
+        "nombre": "COTONETES QSOFT POTE 100U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1657.7,
+        "imagen": "471.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 803,
+        "codigo": 145,
+        "nombre": "ENCENDEDOR BIC MINI",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 919.6,
+        "imagen": "145.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 804,
+        "codigo": 592,
+        "nombre": "ESCARBADIENTES LINCE 12U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 4114.0,
+        "imagen": "592.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 805,
+        "codigo": 1,
+        "nombre": "ESPUMA NIEVE 12U 360ML",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 21410.95,
+        "imagen": "1.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 806,
+        "codigo": 682,
+        "nombre": "FOSFOROS TRES PATITOS 222U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 740.52,
+        "imagen": "682.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 807,
+        "codigo": 769,
+        "nombre": "GASA SYRA 10U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 2807.2,
+        "imagen": "769.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 808,
+        "codigo": 782,
+        "nombre": "HOJAS AFEITAR GILLETTE ROJA 5U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 919.6,
+        "imagen": "782.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 809,
+        "codigo": 2442,
+        "nombre": "GLOBOS CANDELA CUMPLE 50U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 2480.5,
+        "imagen": "2442.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 810,
+        "codigo": 2443,
+        "nombre": "GLOBOS CANDELA LISOS 50U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 2480.5,
+        "imagen": "2443.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 811,
+        "codigo": 2807,
+        "nombre": "LAMPARA LED CANDELA 10W",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 955.9,
+        "imagen": "2807.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 812,
+        "codigo": 982,
+        "nombre": "LAMPARA LED CANDELA 12W",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1064.8,
+        "imagen": "982.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 813,
+        "codigo": 983,
+        "nombre": "LAMPARA LED CANDELA 15W",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1225.73,
+        "imagen": "983.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 814,
+        "codigo": 2806,
+        "nombre": "LAMPARA LED CANDELA 7W",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 786.5,
+        "imagen": "2806.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 815,
+        "codigo": 9892,
+        "nombre": "PAPELILLO STAMP ULTRA BLACK",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 499.73,
+        "imagen": "9892.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 816,
+        "codigo": 3787,
+        "nombre": "PRESERVATIVO PRIME ESPERMICIDA 3U",
+        "marca": "Prime",
+        "categoria": "Varios",
+        "precio": 3236.75,
+        "imagen": "3787.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 817,
+        "codigo": 3784,
+        "nombre": "PRESERVATIVO PRIME EXTRA LUBRICADO 3U",
+        "marca": "Prime",
+        "categoria": "Varios",
+        "precio": 3236.75,
+        "imagen": "3784.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 818,
+        "codigo": 3786,
+        "nombre": "PRESERVATIVO PRIME MEGA 3U",
+        "marca": "Prime",
+        "categoria": "Varios",
+        "precio": 3236.75,
+        "imagen": "3786.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 819,
+        "codigo": 3782,
+        "nombre": "PRESERVATIVO PRIME SUPER FINO 3U",
+        "marca": "Prime",
+        "categoria": "Varios",
+        "precio": 3236.75,
+        "imagen": "3782.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 820,
+        "codigo": 3783,
+        "nombre": "PRESERVATIVO PRIME TEXTURADO 3U",
+        "marca": "Prime",
+        "categoria": "Varios",
+        "precio": 3236.75,
+        "imagen": "3783.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 821,
+        "codigo": 3785,
+        "nombre": "PRESERVATIVO PRIME ULTRA FINO 3U",
+        "marca": "Prime",
+        "categoria": "Varios",
+        "precio": 3236.75,
+        "imagen": "3785.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 822,
+        "codigo": 3781,
+        "nombre": "PRESERVATIVO PRIME WARMING 3U",
+        "marca": "Prime",
+        "categoria": "Varios",
+        "precio": 3236.75,
+        "imagen": "3781.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 823,
+        "codigo": 9925,
+        "nombre": "TRIM ALICATE CHICO",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 348.48,
+        "imagen": "9925.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 824,
+        "codigo": 9926,
+        "nombre": "TRIM ALICATE GRANDE",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 859.1,
+        "imagen": "9926.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 825,
+        "codigo": 2101,
+        "nombre": "VELAS CLEMEN 4U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 726.0,
+        "imagen": "2101.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 826,
+        "codigo": 9927,
+        "nombre": "VELAS JACARANDA 4U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1028.5,
+        "imagen": "9927.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 827,
+        "codigo": 2331,
+        "nombre": "VENDAS ADHESUR 7CM X 3MT",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 726.0,
+        "imagen": "2331.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 828,
+        "codigo": 2910,
+        "nombre": "PEGAMENTO ECCOLE 3G",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 2145.33,
+        "imagen": "2910.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 829,
+        "codigo": 2183,
+        "nombre": "PEGAMENTO ECCOLE 9G",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 4743.2,
+        "imagen": "2183.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 830,
+        "codigo": 636,
+        "nombre": "PEGAMENTO FASTIX 25G",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 4120.05,
+        "imagen": "636.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 831,
+        "codigo": 964,
+        "nombre": "PEGAMENTO LA GOTITA 2ML",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1815.0,
+        "imagen": "964.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 832,
+        "codigo": 965,
+        "nombre": "PEGAMENTO LA GOTITA GEL 3ML",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 2026.75,
+        "imagen": "965.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 833,
+        "codigo": 1595,
+        "nombre": "PEGAMENTO POXILINA 70G",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 5033.6,
+        "imagen": "1595.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 834,
+        "codigo": 9911,
+        "nombre": "PEGAMENTO POXIPOL GRIS 21G",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 5324.0,
+        "imagen": "9911.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 835,
+        "codigo": 1598,
+        "nombre": "PEGAMENTO POXIPOL TRANSPARENTE 16G",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 5324.0,
+        "imagen": "1598.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 836,
+        "codigo": 1599,
+        "nombre": "PEGAMENTO POXIRAN 23G",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 3448.5,
+        "imagen": "1599.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 837,
+        "codigo": 2068,
+        "nombre": "PEGAMENTO UNIPOX 25ML",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1845.25,
+        "imagen": "2068.webp",
         "activo": true
     }
 ]
