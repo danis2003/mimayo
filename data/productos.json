@@ -8358,5 +8358,135 @@
         "precio": 1845.25,
         "imagen": "2068.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 838,
+        "codigo": 3092,
+        "nombre": "BICI KIT",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1573.0,
+        "imagen": "3092.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 839,
+        "codigo": 491,
+        "nombre": "CHUPETE PARA BEBES 1U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1089.0,
+        "imagen": "491.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 840,
+        "codigo": 2766,
+        "nombre": "CINTA CANDELA CONFITERA",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 641.3,
+        "imagen": "2766.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 841,
+        "codigo": 490,
+        "nombre": "CINTA N°10 CABLE FIX 12U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 2441.78,
+        "imagen": "490.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 842,
+        "codigo": 54,
+        "nombre": "ENCENDEDOR CANDELA HOGAR",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 2294.16,
+        "imagen": "54.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 843,
+        "codigo": 3789,
+        "nombre": "ESCARBADIENTES IBERIA 9U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 3000.8,
+        "imagen": "3789.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 844,
+        "codigo": 2465,
+        "nombre": "FRASCO DE ANALISIS",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 484.0,
+        "imagen": "2465.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 845,
+        "codigo": 3086,
+        "nombre": "PAPEL MANTECA",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1799.27,
+        "imagen": "3086.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 846,
+        "codigo": 1614,
+        "nombre": "PRESTOBARBA GROOMEN 5 FILOS",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1789.59,
+        "imagen": "1614.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 847,
+        "codigo": 1850,
+        "nombre": "SOLUCION FISIOLOGICA 100ML",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 726.0,
+        "imagen": "1850.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 848,
+        "codigo": 1928,
+        "nombre": "TELA ADHESIVA SYRA Nª3",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1185.8,
+        "imagen": "1928.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 849,
+        "codigo": 1898,
+        "nombre": "TERMOMETRO DIGITAL",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 2178.0,
+        "imagen": "1898.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 850,
+        "codigo": 9923,
+        "nombre": "VELAS DE CUMPLEAÑOS 10U",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 1149.5,
+        "imagen": "9923.webp",
+        "activo": true
     }
 ]
