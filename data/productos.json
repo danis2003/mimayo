@@ -1242,7 +1242,7 @@
     {
         "fila_excel": 126,
         "codigo": 1163,
-        "nombre": "ARCOR MENTA CRISTAL/MIX 810G",
+        "nombre": "CARAMELOS ARCOR MENTA CRISTAL 810G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9880.86,
@@ -1272,7 +1272,7 @@
     {
         "fila_excel": 129,
         "codigo": 882,
-        "nombre": "BELDENT CHICLE 20U TODOS",
+        "nombre": "CHICLE BELDENT SANDIA 20U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
         "precio": 11113.85,
@@ -1282,7 +1282,7 @@
     {
         "fila_excel": 130,
         "codigo": 889,
-        "nombre": "BUBBALOO 60U",
+        "nombre": "CHICLE BUBBALOO UVA 60U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
         "precio": 5203.0,
@@ -1292,7 +1292,7 @@
     {
         "fila_excel": 131,
         "codigo": 890,
-        "nombre": "BUTTER TOFFEES TODOS 822G",
+        "nombre": "BUTTER TOFFEES CAFE 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9438.0,
@@ -1312,7 +1312,7 @@
     {
         "fila_excel": 133,
         "codigo": 666,
-        "nombre": "FLYN PAFF 70U",
+        "nombre": "CARAMELOS FLYN PAFF TUTTI-FRUTTI 70U",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 6521.9,
@@ -1502,7 +1502,7 @@
     {
         "fila_excel": 152,
         "codigo": 1996,
-        "nombre": "TOPLINE SEVEN TODOS 16U",
+        "nombre": "CHICLE TOPLINE STRONG 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 14157.0,
@@ -3272,7 +3272,7 @@
     {
         "fila_excel": 329,
         "codigo": 263,
-        "nombre": "CARAMELO ALKA CHE/STR 800G",
+        "nombre": "CARAMELO ALKA CHERRY 800G",
         "marca": "Alka",
         "categoria": "Golosinas",
         "precio": 11017.05,
@@ -3312,7 +3312,7 @@
     {
         "fila_excel": 333,
         "codigo": 2380,
-        "nombre": "CHICLE BLUPER 400 GR",
+        "nombre": "CHICLE BLUPER SANDIA 400G",
         "marca": "Bluper",
         "categoria": "Golosinas",
         "precio": 5384.5,
@@ -4252,7 +4252,7 @@
     {
         "fila_excel": 427,
         "codigo": 299,
-        "nombre": "CEREALFORT 23 GR",
+        "nombre": "CEREALFORT MANZANA 22G",
         "marca": "FelFort",
         "categoria": "Golosinas",
         "precio": 439.23,
@@ -5792,7 +5792,7 @@
     {
         "fila_excel": 581,
         "codigo": 265,
-        "nombre": "CARAMELO PICO DULCE MAST 165",
+        "nombre": "CARAMELOS PICO DULCE MAST 165",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 4129.73,
@@ -5802,7 +5802,7 @@
     {
         "fila_excel": 582,
         "codigo": 266,
-        "nombre": "CARAMELO PICO DULCE DURO",
+        "nombre": "CARAMELOS PICO DULCE DURO",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 5644.65,
@@ -5842,7 +5842,7 @@
     {
         "fila_excel": 586,
         "codigo": 387,
-        "nombre": "CHUPETIN POP EVOLUTION 24U",
+        "nombre": "CHUPETIN POPS EVO BLUEBERRY 432G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 4658.5,
@@ -5862,7 +5862,7 @@
     {
         "fila_excel": 588,
         "codigo": 398,
-        "nombre": "CHUPETIN MASTICABLE FIERITA X 50 UNI",
+        "nombre": "CHUPETIN FIERITA TUTTI-FRUTTI 50U",
         "marca": "",
         "categoria": "Golosinas",
         "precio": 6524.02,
@@ -5912,7 +5912,7 @@
     {
         "fila_excel": 593,
         "codigo": 1725,
-        "nombre": "RING POP CHUPETIN",
+        "nombre": "CHUPETIN RING POP 10G",
         "marca": "Ring Pop",
         "categoria": "Golosinas",
         "precio": 214.17,
@@ -5932,7 +5932,7 @@
     {
         "fila_excel": 595,
         "codigo": 1875,
-        "nombre": "SUGUS MAX TODOS X 70 UNI",
+        "nombre": "CARAMELOS SUGUS MAX TUTTI-FRUTTI 70U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 5927.79,
@@ -6012,7 +6012,7 @@
     {
         "fila_excel": 603,
         "codigo": 9873,
-        "nombre": "BLUPER BOLA INDIVIDUAL 250GR",
+        "nombre": "CHICLE BLUPER 250G",
         "marca": "Bluper",
         "categoria": "Golosinas",
         "precio": 4290.66,
@@ -8487,6 +8487,286 @@
         "categoria": "Varios",
         "precio": 1149.5,
         "imagen": "9923.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 851,
+        "codigo": 277,
+        "nombre": "CARAMELO ALKA STRONG 800G",
+        "marca": "Alka",
+        "categoria": "Golosinas",
+        "precio": 11017.05,
+        "imagen": "277.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 852,
+        "codigo": 388,
+        "nombre": "CHUPETIN POPS EVO CEREZA 432G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 4658.5,
+        "imagen": "388.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 853,
+        "codigo": 389,
+        "nombre": "CHUPETIN POPS EVO SURTIDO 432G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 4658.5,
+        "imagen": "389.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 854,
+        "codigo": 668,
+        "nombre": "CARAMELOS FLYN PAFF UVA 70G",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 6521.9,
+        "imagen": "668.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 855,
+        "codigo": 669,
+        "nombre": "CARAMELOS FLYN PAFF FRUTILLA 70G",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 6521.9,
+        "imagen": "669.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 856,
+        "codigo": 883,
+        "nombre": "CHICLE BELDENT TUTTI 20U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 11113.85,
+        "imagen": "883.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 857,
+        "codigo": 884,
+        "nombre": "CHICLE BELDENT MENTOL 20U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 11113.85,
+        "imagen": "884.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 858,
+        "codigo": 885,
+        "nombre": "CHICLE BELDENT FRUTILLA 20U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 11113.85,
+        "imagen": "885.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 859,
+        "codigo": 886,
+        "nombre": "CHICLE BELDENT MENTA 20U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 11113.85,
+        "imagen": "886.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 860,
+        "codigo": 891,
+        "nombre": "CHICLE BELDENT NEGRO 20U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 11113.85,
+        "imagen": "891.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 861,
+        "codigo": 1378,
+        "nombre": "CHICLE BUBBALOO MENTA 60U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 5203.0,
+        "imagen": "1378.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 862,
+        "codigo": 1379,
+        "nombre": "CHICLE BUBBALOO TUTTI 60U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 5203.0,
+        "imagen": "1379.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 863,
+        "codigo": 1380,
+        "nombre": "CHICLE BUBBALOO FRUTILLA 60U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 5203.0,
+        "imagen": "1380.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 864,
+        "codigo": 1876,
+        "nombre": "CARAMELOS SUGUS MAX ANANA 70U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5927.79,
+        "imagen": "1876.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 865,
+        "codigo": 1877,
+        "nombre": "CARAMELOS SUGUS MAX SANDIA 70U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5927.79,
+        "imagen": "1877.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 866,
+        "codigo": 1932,
+        "nombre": "CEREALFORT CLASICA 23G",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 439.23,
+        "imagen": "1932.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 867,
+        "codigo": 1933,
+        "nombre": "CEREALFORT LADY 19G",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 439.23,
+        "imagen": "1933.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 868,
+        "codigo": 1934,
+        "nombre": "CEREALFORT CHOCOLATE 19G",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 439.23,
+        "imagen": "1934.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 869,
+        "codigo": 1935,
+        "nombre": "CEREALFORT GRANRICO 19G",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 439.23,
+        "imagen": "1935.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 870,
+        "codigo": 1936,
+        "nombre": "CEREALFORT FRUTOS ROJOS 19G",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 439.23,
+        "imagen": "1936.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 871,
+        "codigo": 1992,
+        "nombre": "CHICLE TOPLINE MENTHOL 16U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 14157.0,
+        "imagen": "1992.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 872,
+        "codigo": 1997,
+        "nombre": "CHICLE TOPLINE VIOLET 16U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 14157.0,
+        "imagen": "1997.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 873,
+        "codigo": 1998,
+        "nombre": "CHICLE TOPLINE MANDARINA 16U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 14157.0,
+        "imagen": "1998.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 874,
+        "codigo": 1999,
+        "nombre": "CHICLE TOPLINE SANDIA 16U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 14157.0,
+        "imagen": "1999.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 875,
+        "codigo": 2000,
+        "nombre": "CHICLE TOPLINE FRUTILLA 16U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 14157.0,
+        "imagen": "2000.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 876,
+        "codigo": 2765,
+        "nombre": "CHICLE BELDENT TROPICAL 12U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 11113.85,
+        "imagen": "2765.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 877,
+        "codigo": 3768,
+        "nombre": "CARAMELOS BUTTER TOFFEES CHOCOLATE 822G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 9438.0,
+        "imagen": "3768.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 878,
+        "codigo": 3769,
+        "nombre": "CARAMELOS BUTTER TOFFEES LECHE 822G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 9438.0,
+        "imagen": "3769.webp",
         "activo": true
     }
 ]
