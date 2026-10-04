@@ -5492,10 +5492,10 @@
     {
         "fila_excel": 551,
         "codigo": 9887,
-        "nombre": "BELDENT CONFITADO SANDIA",
+        "nombre": "CHICLE BELDENT CONFITADO SANDIA 9U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6469.87,
+        "precio": 7090.6,
         "imagen": "9887.webp",
         "activo": true
     },
@@ -8702,7 +8702,7 @@
     {
         "fila_excel": 872,
         "codigo": 1997,
-        "nombre": "CHICLE TOPLINE VIOLET 16U",
+        "nombre": "CHICLE TOPLINE VIOLET CHERRY 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 12901.02,
@@ -8767,6 +8767,56 @@
         "categoria": "Golosinas",
         "precio": 9438.0,
         "imagen": "3769.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 879,
+        "codigo": 135,
+        "nombre": "CHICLE BAZOOKA MENTA 80U",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 6524.32,
+        "imagen": "135.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 880,
+        "codigo": 128,
+        "nombre": "CHICLE BAZOOKA TUTTI 80U",
+        "marca": "Georgalos",
+        "categoria": "Golosinas",
+        "precio": 6524.32,
+        "imagen": "128.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 881,
+        "codigo": 9929,
+        "nombre": "CHICLE BELDENT CONFITADO FRUTILLA 9U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 7090.6,
+        "imagen": "9929.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 882,
+        "codigo": 9987,
+        "nombre": "CHICLE BELDENT INFINIT BLUEBERRY 12U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 19257.15,
+        "imagen": "9987.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 883,
+        "codigo": 9897,
+        "nombre": "CHICLE BELDENT INFINIT MENTA 12U",
+        "marca": "Mondelez",
+        "categoria": "Golosinas",
+        "precio": 19874.25,
+        "imagen": "9897.webp",
         "activo": true
     }
 ]
