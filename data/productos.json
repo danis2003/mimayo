@@ -552,7 +552,7 @@
     {
         "fila_excel": 57,
         "codigo": 112,
-        "nombre": "BAGGIO X 125ML",
+        "nombre": "JUGO BAGGIO NARANJA 125ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
         "precio": 308.55,
@@ -562,7 +562,7 @@
     {
         "fila_excel": 58,
         "codigo": 110,
-        "nombre": "BAGGIO X 1LITRO",
+        "nombre": "JUGO BAGGIO NARANJA 1L",
         "marca": "Baggio",
         "categoria": "Bebidas",
         "precio": 1589.94,
@@ -572,7 +572,7 @@
     {
         "fila_excel": 59,
         "codigo": 111,
-        "nombre": "BAGGIO X 200ML",
+        "nombre": "JUGO BAGGIO MULTIFRUTA 200ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
         "precio": 471.9,
@@ -1102,7 +1102,7 @@
     {
         "fila_excel": 112,
         "codigo": 1719,
-        "nombre": "REX/KESITAS BOLSITA 75 GR",
+        "nombre": "REX BOLSITA 75G",
         "marca": "Bagley",
         "categoria": "Snacks",
         "precio": 1103.52,
@@ -2292,7 +2292,7 @@
     {
         "fila_excel": 231,
         "codigo": 3000,
-        "nombre": "DORITOS TODOS 77 GR",
+        "nombre": "DORITOS SABOR QUESO 77G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
         "precio": 2825.35,
@@ -2322,7 +2322,7 @@
     {
         "fila_excel": 234,
         "codigo": 3059,
-        "nombre": "PAPAS KRACHITOS SABORES 55GR",
+        "nombre": "PAPAS KRACHITOS JAMON 55G",
         "marca": "Krachitos",
         "categoria": "Snacks",
         "precio": 1303.17,
@@ -2332,7 +2332,7 @@
     {
         "fila_excel": 235,
         "codigo": 3058,
-        "nombre": "PAPAS KRACHITOS TRAD/AMER 50",
+        "nombre": "PAPAS KRACHITOS TRADICIONAL 55G",
         "marca": "Krachitos",
         "categoria": "Snacks",
         "precio": 1303.17,
@@ -2347,7 +2347,7 @@
         "categoria": "Snacks",
         "precio": 1633.5,
         "imagen": "1498.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 237,
@@ -2362,7 +2362,7 @@
     {
         "fila_excel": 238,
         "codigo": 2063,
-        "nombre": "TWISTOS 95 GR",
+        "nombre": "TWISTOS QUESO 95G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
         "precio": 2979.02,
@@ -2522,7 +2522,7 @@
     {
         "fila_excel": 254,
         "codigo": 8710,
-        "nombre": "PASTA BONOBON/AGUILA/BLOCK UNTABLE 290 G",
+        "nombre": "PASTA UNTABLE BONOBON 290G",
         "marca": "Arcor",
         "categoria": "Almacén",
         "precio": 5538.17,
@@ -3902,7 +3902,7 @@
     {
         "fila_excel": 392,
         "codigo": 1718,
-        "nombre": "REX/KESITAS ESTUCHE 125 GR",
+        "nombre": "KESITAS ESTUCHE 125G",
         "marca": "Bagley",
         "categoria": "Snacks",
         "precio": 1694.0,
@@ -3932,7 +3932,7 @@
     {
         "fila_excel": 395,
         "codigo": 1778,
-        "nombre": "SALADIX ESTUCHE TODOS 100G",
+        "nombre": "SALADIX ESTUCHE DUO 100G",
         "marca": "Arcor",
         "categoria": "Snacks",
         "precio": 1372.14,
@@ -3942,7 +3942,7 @@
     {
         "fila_excel": 396,
         "codigo": 1780,
-        "nombre": "SALADIX TIRA X6 40G",
+        "nombre": "SALADIX DUO TIRA 6U 40G",
         "marca": "Arcor",
         "categoria": "Snacks",
         "precio": 4005.1,
@@ -4672,7 +4672,7 @@
     {
         "fila_excel": 469,
         "codigo": 938,
-        "nombre": "JUGO CLIGHT* 20 SOBRES",
+        "nombre": "JUGO CLIGHT POMELO ROSA 20U",
         "marca": "Mondelez",
         "categoria": "Almacén",
         "precio": 6661.05,
@@ -4762,7 +4762,7 @@
     {
         "fila_excel": 478,
         "codigo": 1042,
-        "nombre": "LIMPIADOR POETT 900ML",
+        "nombre": "POETT FLORES PRIMAVERA 900ML",
         "marca": "Ayudín",
         "categoria": "Limpieza",
         "precio": 1754.5,
@@ -5572,7 +5572,7 @@
     {
         "fila_excel": 559,
         "codigo": 226,
-        "nombre": "BURBUJAS CEREALES 80GR",
+        "nombre": "TUTUCA BURBUJAS 80G",
         "marca": "Burbujas",
         "categoria": "Golosinas",
         "precio": 798.6,
@@ -5652,7 +5652,7 @@
     {
         "fila_excel": 567,
         "codigo": 1422,
-        "nombre": "PAPAS PRINGLES 105G",
+        "nombre": "PAPAS PRINGLES ORIGINAL 105G",
         "marca": "Pringles",
         "categoria": "Snacks",
         "precio": 3510.21,
@@ -5662,7 +5662,7 @@
     {
         "fila_excel": 568,
         "codigo": 1423,
-        "nombre": "PAPAS PRINGLES 37G",
+        "nombre": "PAPAS PRINGLES ORIGINAL 37G",
         "marca": "Pringles",
         "categoria": "Snacks",
         "precio": 1958.99,
@@ -8818,5 +8818,455 @@
         "precio": 19874.25,
         "imagen": "9897.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 884,
+        "codigo": 4304,
+        "nombre": "ARROZ INFLADO BURBUJAS 80G",
+        "marca": "Burbujas",
+        "categoria": "Golosinas",
+        "precio": 798.6,
+        "imagen": "4304.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 885,
+        "codigo": 4305,
+        "nombre": "BOLITAS COLORES BURBUJAS 80G",
+        "marca": "Burbujas",
+        "categoria": "Golosinas",
+        "precio": 798.6,
+        "imagen": "4305.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 886,
+        "codigo": 4301,
+        "nombre": "CHIZITO BURBUJAS QUESO 80G",
+        "marca": "Burbujas",
+        "categoria": "Golosinas",
+        "precio": 798.6,
+        "imagen": "4301.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 887,
+        "codigo": 3560,
+        "nombre": "DORITOS SABOR PIZZA 74G",
+        "marca": "PepsiCo",
+        "categoria": "Golosinas",
+        "precio": 2874.96,
+        "imagen": "3560.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 888,
+        "codigo": 4300,
+        "nombre": "JAMCITOS BURBUJAS 80G",
+        "marca": "Burbujas",
+        "categoria": "Golosinas",
+        "precio": 798.6,
+        "imagen": "4300.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 889,
+        "codigo": 117,
+        "nombre": "JUGO BAGGIO MANZANA 125 ML",
+        "marca": "Baggio",
+        "categoria": "Bebidas",
+        "precio": 308.55,
+        "imagen": "117.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 890,
+        "codigo": 113,
+        "nombre": "JUGO BAGGIO MANZANA 1L",
+        "marca": "Baggio",
+        "categoria": "Bebidas",
+        "precio": 1589.94,
+        "imagen": "113.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 891,
+        "codigo": 120,
+        "nombre": "JUGO BAGGIO MANZANA 200ML",
+        "marca": "Baggio",
+        "categoria": "Bebidas",
+        "precio": 471.9,
+        "imagen": "120.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 892,
+        "codigo": 118,
+        "nombre": "JUGO BAGGIO MULTIFRUTA 125ML",
+        "marca": "Baggio",
+        "categoria": "Bebidas",
+        "precio": 308.55,
+        "imagen": "118.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 893,
+        "codigo": 116,
+        "nombre": "JUGO BAGGIO MULTIFRUTA 1L",
+        "marca": "Baggio",
+        "categoria": "Bebidas",
+        "precio": 1589.94,
+        "imagen": "116.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 894,
+        "codigo": 121,
+        "nombre": "JUGO BAGGIO NARANJA 200ML",
+        "marca": "Baggio",
+        "categoria": "Bebidas",
+        "precio": 471.9,
+        "imagen": "121.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 895,
+        "codigo": 940,
+        "nombre": "JUGO CLIGHT ANANA 20U",
+        "marca": "Mondelez",
+        "categoria": "Almacén",
+        "precio": 7676.24,
+        "imagen": "940.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 896,
+        "codigo": 943,
+        "nombre": "JUGO CLIGHT MANZANA 20U",
+        "marca": "Mondelez",
+        "categoria": "Almacén",
+        "precio": 6661.05,
+        "imagen": "943.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 897,
+        "codigo": 1721,
+        "nombre": "KESITAS BOLSITA 75G",
+        "marca": "Bagley",
+        "categoria": "Snacks",
+        "precio": 1103.52,
+        "imagen": "1721.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 898,
+        "codigo": 3061,
+        "nombre": "PAPAS KRACHITOS AMERICO 55G",
+        "marca": "Krachitos",
+        "categoria": "Snacks",
+        "precio": 1303.17,
+        "imagen": "3061.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 899,
+        "codigo": 3562,
+        "nombre": "PAPAS KRACHITOS CEBOLLA 55G",
+        "marca": "Krachitos",
+        "categoria": "Snacks",
+        "precio": 1303.17,
+        "imagen": "3562.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 900,
+        "codigo": 3563,
+        "nombre": "PAPAS KRACHITOS CHEDDAR 55G",
+        "marca": "Krachitos",
+        "categoria": "Snacks",
+        "precio": 1303.17,
+        "imagen": "3563.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 901,
+        "codigo": 9989,
+        "nombre": "PAPAS KRACHITOS KETCHUP 55GR",
+        "marca": "Krachitos",
+        "categoria": "Snacks",
+        "precio": 1303.17,
+        "imagen": "9989.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 902,
+        "codigo": 9919,
+        "nombre": "PAPAS PRINGLES CEBOLLA 109G",
+        "marca": "Pringles",
+        "categoria": "Snacks",
+        "precio": 3510.21,
+        "imagen": "9919.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 903,
+        "codigo": 584,
+        "nombre": "PAPAS PRINGLES CEBOLLA 37G",
+        "marca": "Pringles",
+        "categoria": "Snacks",
+        "precio": 1958.99,
+        "imagen": "584.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 904,
+        "codigo": 9920,
+        "nombre": "PAPAS PRINGLES CHEDDAR Y BACON 105G",
+        "marca": "Pringles",
+        "categoria": "Snacks",
+        "precio": 3510.21,
+        "imagen": "9920.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 905,
+        "codigo": 9918,
+        "nombre": "PAPAS PRINGLES QUESO 109G",
+        "marca": "Pringles",
+        "categoria": "Snacks",
+        "precio": 3510.21,
+        "imagen": "9918.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 906,
+        "codigo": 8700,
+        "nombre": "PASTA UNTABLE AGUILA 290G",
+        "marca": "Arcor",
+        "categoria": "Almacén",
+        "precio": 5538.17,
+        "imagen": "8700.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 907,
+        "codigo": 8740,
+        "nombre": "PASTA UNTABLE BLOCK 290G",
+        "marca": "Arcor",
+        "categoria": "Almacén",
+        "precio": 5538.17,
+        "imagen": "8740.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 908,
+        "codigo": 1044,
+        "nombre": "POETT ALEGRA TU DIA 900ML",
+        "marca": "Ayudín",
+        "categoria": "Limpieza",
+        "precio": 1754.5,
+        "imagen": "1044.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 909,
+        "codigo": 1043,
+        "nombre": "POETT SUAVIDAD ALGODON 900ML",
+        "marca": "Ayudín",
+        "categoria": "Limpieza",
+        "precio": 1754.5,
+        "imagen": "1043.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 910,
+        "codigo": 1720,
+        "nombre": "REX ESTUCHE 125G",
+        "marca": "Bagley",
+        "categoria": "Snacks",
+        "precio": 1724.25,
+        "imagen": "1720.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 911,
+        "codigo": 1777,
+        "nombre": "SALADIX ESTUCHE JAMON 100G",
+        "marca": "Arcor",
+        "categoria": "Snacks",
+        "precio": 1372.14,
+        "imagen": "1777.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 912,
+        "codigo": 1779,
+        "nombre": "SALADIX ESTUCHE PIZZA 100G",
+        "marca": "Arcor",
+        "categoria": "Snacks",
+        "precio": 1372.14,
+        "imagen": "1779.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 913,
+        "codigo": 1783,
+        "nombre": "SALADIX JAMON TIRA 6U 40G",
+        "marca": "Arcor",
+        "categoria": "Snacks",
+        "precio": 4005.1,
+        "imagen": "1783.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 914,
+        "codigo": 1784,
+        "nombre": "SALADIX PIZZA TIRA 6U 40G",
+        "marca": "Arcor",
+        "categoria": "Snacks",
+        "precio": 4005.1,
+        "imagen": "1784.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 915,
+        "codigo": 4303,
+        "nombre": "TRIGO INFLADO BURBUJAS 80G",
+        "marca": "Burbujas",
+        "categoria": "Golosinas",
+        "precio": 798.6,
+        "imagen": "4303.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 916,
+        "codigo": 2062,
+        "nombre": "TWISTOS JAMON 40G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1815.0,
+        "imagen": "2062.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 917,
+        "codigo": 2065,
+        "nombre": "TWISTOS JAMON 95G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 2979.02,
+        "imagen": "2065.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 918,
+        "codigo": 2064,
+        "nombre": "TWISTOS QUESO 40G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1815.0,
+        "imagen": "2064.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 919,
+        "codigo": 4302,
+        "nombre": "WORMYS BURBUJAS 80G",
+        "marca": "Burbujas",
+        "categoria": "Golosinas",
+        "precio": 798.6,
+        "imagen": "4302.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 920,
+        "codigo": 98,
+        "nombre": "GOMITAS MOGUL 360 PELABLE MANGO 20X26G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 18579.55,
+        "imagen": "98.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 921,
+        "codigo": 97,
+        "nombre": "GOMITAS MOGUL 360 PELABLE UVA 20X26G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 18579.55,
+        "imagen": "97.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 922,
+        "codigo": 3565,
+        "nombre": "PAPAS LAYS ASADO 77G",
+        "marca": "Lays",
+        "categoria": "Snacks",
+        "precio": 2874.96,
+        "imagen": "3565.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 923,
+        "codigo": 9903,
+        "nombre": "PAPAS LAYS CLASICAS 20G",
+        "marca": "Lays",
+        "categoria": "Snacks",
+        "precio": 960.74,
+        "imagen": "9903.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 924,
+        "codigo": 3561,
+        "nombre": "PAPAS LAYS CLASICAS 85G",
+        "marca": "Lays",
+        "categoria": "Snacks",
+        "precio": 2837.45,
+        "imagen": "3561.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 925,
+        "codigo": 3564,
+        "nombre": "PAPAS LAYS JAMON 77G",
+        "marca": "Lays",
+        "categoria": "Snacks",
+        "precio": 2837.45,
+        "imagen": "3564.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 926,
+        "codigo": 3566,
+        "nombre": "PAPAS LAYS KETCHUP 77G",
+        "marca": "Lays",
+        "categoria": "Snacks",
+        "precio": 2874.96,
+        "imagen": "3566.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 927,
+        "codigo": 939,
+        "nombre": "JUGO CLIGHT NARANJA 20U",
+        "marca": "Mondelez",
+        "categoria": "Almacén",
+        "precio": 7676.24,
+        "imagen": "sin-imagen.png",
+        "activo": false
+    },
+    {
+        "fila_excel": 928,
+        "codigo": 9937,
+        "nombre": "JUGO CLIGHT NARANJA DULCE 20",
+        "marca": "Mondelez",
+        "categoria": "Almacén",
+        "precio": 6661.05,
+        "imagen": "sin-imagen.png",
+        "activo": false
     }
 ]
