@@ -9268,5 +9268,15 @@
         "precio": 6661.05,
         "imagen": "9937.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 929,
+        "codigo": 8876,
+        "nombre": "GOMITAS REGALIZ BULL DOG TUTTI FRUTTI 75G",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 793.76,
+        "imagen": "8876.webp",
+        "activo": true
     }
 ]
