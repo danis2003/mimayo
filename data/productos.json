@@ -9256,17 +9256,17 @@
         "marca": "Mondelez",
         "categoria": "Almacén",
         "precio": 7676.24,
-        "imagen": "sin-imagen.png",
-        "activo": false
+        "imagen": "939.webp",
+        "activo": true
     },
     {
         "fila_excel": 928,
         "codigo": 9937,
-        "nombre": "JUGO CLIGHT NARANJA DULCE 20",
+        "nombre": "JUGO CLIGHT NARANJA DULCE 20U",
         "marca": "Mondelez",
         "categoria": "Almacén",
         "precio": 6661.05,
-        "imagen": "sin-imagen.png",
-        "activo": false
+        "imagen": "9937.webp",
+        "activo": true
     }
 ]
