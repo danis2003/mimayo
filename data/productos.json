@@ -532,7 +532,7 @@
     {
         "fila_excel": 55,
         "codigo": 1791,
-        "nombre": "ARCOR RELLENO MIEL 675 GR",
+        "nombre": "CARAMELO ARCOR RELLENO MIEL 675G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 7429.4,
@@ -582,7 +582,7 @@
     {
         "fila_excel": 60,
         "codigo": 887,
-        "nombre": "BILLIKEN MAST FRUTA 600GR",
+        "nombre": "CARAMELO BILLIKEN FRUTAL 600G",
         "marca": "Billiken",
         "categoria": "Golosinas",
         "precio": 4356.0,
@@ -592,7 +592,7 @@
     {
         "fila_excel": 61,
         "codigo": 3075,
-        "nombre": "BILLIKEN MAST YOGURT 600GR",
+        "nombre": "CARAMELO BILLIKEN YOGURT 600G",
         "marca": "Billiken",
         "categoria": "Golosinas",
         "precio": 4751.67,
@@ -1242,7 +1242,7 @@
     {
         "fila_excel": 126,
         "codigo": 1163,
-        "nombre": "CARAMELOS ARCOR MENTA CRISTAL 810G",
+        "nombre": "CARAMELO ARCOR MENTA CRISTAL 810G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9880.86,
@@ -1252,7 +1252,7 @@
     {
         "fila_excel": 127,
         "codigo": 1051,
-        "nombre": "LOTZA FIZZ 48 U",
+        "nombre": "CARAMELO LOTZA FIZZ 48U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 11853.77,
@@ -1292,7 +1292,7 @@
     {
         "fila_excel": 131,
         "codigo": 890,
-        "nombre": "BUTTER TOFFEES CAFE 822G",
+        "nombre": "CARAMELO BUTTER TOFFEES CAFE 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9438.0,
@@ -1312,7 +1312,7 @@
     {
         "fila_excel": 133,
         "codigo": 666,
-        "nombre": "CARAMELOS FLYN PAFF TUTTI-FRUTTI 70U",
+        "nombre": "CARAMELO FLYN PAFF TUTTI FRUTTI 70U",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 6836.5,
@@ -1452,7 +1452,7 @@
     {
         "fila_excel": 147,
         "codigo": 1388,
-        "nombre": "PALITO DE LA SELVA 660G",
+        "nombre": "CARAMELO PALITO DE LA SELVA 660G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 9329.1,
@@ -1492,7 +1492,7 @@
     {
         "fila_excel": 151,
         "codigo": 1873,
-        "nombre": "SUGUS MASTICABLE 700G 210",
+        "nombre": "CARAMELO SUGUS MASTICABLE 700G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 7211.6,
@@ -3272,7 +3272,7 @@
     {
         "fila_excel": 329,
         "codigo": 267,
-        "nombre": "CARAMELO TNT ACIDO *60 UNIDA",
+        "nombre": "CARAMELO TNT ACIDO 60U",
         "marca": "TNT",
         "categoria": "Golosinas",
         "precio": 4629.46,
@@ -4102,7 +4102,7 @@
     {
         "fila_excel": 412,
         "codigo": 1792,
-        "nombre": "ARCOR MIEL MENTA 335 GR",
+        "nombre": "CARAMELO ARCOR MIEL MENTA 335G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 3751.0,
@@ -4112,7 +4112,7 @@
     {
         "fila_excel": 413,
         "codigo": 1735,
-        "nombre": "ARCOR RODAJAS ACIDAS 930 GR",
+        "nombre": "CARAMELO ARCOR RODAJAS ACIDAS 930G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 12179.65,
@@ -5242,7 +5242,7 @@
     {
         "fila_excel": 526,
         "codigo": 9882,
-        "nombre": "CARAMELOS BUTTER TOFFEES PISTACHO 648 GR",
+        "nombre": "CARAMELO BUTTER TOFFEES PISTACHO 648G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6746.96,
@@ -5772,7 +5772,7 @@
     {
         "fila_excel": 579,
         "codigo": 264,
-        "nombre": "LIPO GAJITOS 454 GR",
+        "nombre": "CARAMELO LIPO GAJITOS 454G",
         "marca": "Lipo",
         "categoria": "Golosinas",
         "precio": 3061.3,
@@ -5782,7 +5782,7 @@
     {
         "fila_excel": 580,
         "codigo": 265,
-        "nombre": "CARAMELOS PICO DULCE MAST 165",
+        "nombre": "CARAMELO PICO DULCE MASTICABLE 165G",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 4129.73,
@@ -5792,7 +5792,7 @@
     {
         "fila_excel": 581,
         "codigo": 266,
-        "nombre": "CARAMELOS PICO DULCE DURO",
+        "nombre": "CARAMELO PICO DULCE DURO 450G",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 5644.65,
@@ -5802,7 +5802,7 @@
     {
         "fila_excel": 582,
         "codigo": 270,
-        "nombre": "MISKY SURTIDO MASTICABLE 800",
+        "nombre": "CARAMELO MISKY SURTIDO 800G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 6815.93,
@@ -5822,7 +5822,7 @@
     {
         "fila_excel": 584,
         "codigo": 385,
-        "nombre": "LIPO SUPER ACIDO 454 GR 63 U",
+        "nombre": "CARAMELO LIPO SUPER ACIDO 454G",
         "marca": "Lipo",
         "categoria": "Golosinas",
         "precio": 3061.3,
@@ -5842,7 +5842,7 @@
     {
         "fila_excel": 586,
         "codigo": 396,
-        "nombre": "CHUPETIN CEBOLLITA 40 U",
+        "nombre": "CARAMELO ALKA CHERRY 800G",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 1355.2,
@@ -5852,7 +5852,7 @@
     {
         "fila_excel": 587,
         "codigo": 398,
-        "nombre": "CHUPETIN FIERITA TUTTI-FRUTTI 50U",
+        "nombre": "CARAMELO ALKA STRONG 800G",
         "marca": "",
         "categoria": "Golosinas",
         "precio": 6524.02,
@@ -5922,7 +5922,7 @@
     {
         "fila_excel": 594,
         "codigo": 1875,
-        "nombre": "CARAMELOS SUGUS MAX TUTTI-FRUTTI 70U",
+        "nombre": "CARAMELO SUGUS MAX TUTTI FRUTTI 70U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 5927.79,
@@ -5942,7 +5942,7 @@
     {
         "fila_excel": 596,
         "codigo": 3049,
-        "nombre": "LIPO VIENA 454 G",
+        "nombre": "CARAMELO LIPO VIENA 454G",
         "marca": "Lipo",
         "categoria": "Golosinas",
         "precio": 3061.3,
@@ -5982,7 +5982,7 @@
     {
         "fila_excel": 600,
         "codigo": 9846,
-        "nombre": "BUTTER TOFFEES BONOBON 822 G",
+        "nombre": "CARAMELO BUTTER TOFFEES BONOBON 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 10527.0,
@@ -5992,7 +5992,7 @@
     {
         "fila_excel": 601,
         "codigo": 9855,
-        "nombre": "SUGUS MASTICABLE ESPECIAL 70",
+        "nombre": "CARAMELO SUGUS MASTICABLE ESPECIAL 700G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 7250.32,
@@ -6022,7 +6022,7 @@
     {
         "fila_excel": 604,
         "codigo": 1161,
-        "nombre": "ARCOR MENTA CHOCOLATE 715 GR",
+        "nombre": "CARAMELO ARCOR MENTA CHOCOLATE 715G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 7502.0,
@@ -6032,7 +6032,7 @@
     {
         "fila_excel": 605,
         "codigo": 1790,
-        "nombre": "ARCOR RELLENO FRUTAL 810 GR",
+        "nombre": "CARAMELO ARCOR RELLENO FRUTAL 810G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 8475.51,
@@ -8512,7 +8512,7 @@
     {
         "fila_excel": 853,
         "codigo": 668,
-        "nombre": "CARAMELOS FLYN PAFF UVA 70G",
+        "nombre": "CARAMELO FLYN PAFF UVA 70G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 6836.5,
@@ -8522,7 +8522,7 @@
     {
         "fila_excel": 854,
         "codigo": 669,
-        "nombre": "CARAMELOS FLYN PAFF FRUTILLA 70G",
+        "nombre": "CARAMELO FLYN PAFF FRUTILLA 70G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
         "precio": 6836.5,
@@ -8612,7 +8612,7 @@
     {
         "fila_excel": 863,
         "codigo": 1876,
-        "nombre": "CARAMELOS SUGUS MAX ANANA 70U",
+        "nombre": "CARAMELO SUGUS MAX ANANA 70U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 5927.79,
@@ -8622,7 +8622,7 @@
     {
         "fila_excel": 864,
         "codigo": 1877,
-        "nombre": "CARAMELOS SUGUS MAX SANDIA 70U",
+        "nombre": "CARAMELO SUGUS MAX SANDIA 70U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 5927.79,
@@ -8742,7 +8742,7 @@
     {
         "fila_excel": 876,
         "codigo": 3768,
-        "nombre": "CARAMELOS BUTTER TOFFEES CHOCOLATE 822G",
+        "nombre": "CARAMELO BUTTER TOFFEES CHOCOLATE 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9438.0,
@@ -8752,7 +8752,7 @@
     {
         "fila_excel": 877,
         "codigo": 3769,
-        "nombre": "CARAMELOS BUTTER TOFFEES LECHE 822G",
+        "nombre": "CARAMELO BUTTER TOFFEES LECHE 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9438.0,
@@ -9587,6 +9587,106 @@
         "categoria": "Alfajores",
         "precio": 1839.0,
         "imagen": "152.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 961,
+        "codigo": 9076,
+        "nombre": "CARAMELO BUTTER TOFFES CHOKKO MINT 822G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 9438.0,
+        "imagen": "9076.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 962,
+        "codigo": 1685,
+        "nombre": "CARAMELO ARCOR BASTON VIENA 470G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 3588.86,
+        "imagen": "1685.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 963,
+        "codigo": 1162,
+        "nombre": "CARAMELO ARCOR FRESH CRISTAL 405G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 4961.0,
+        "imagen": "1162.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 964,
+        "codigo": 1734,
+        "nombre": "CARAMELO ARCOR RODAJAS CRAZY 465G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5477.67,
+        "imagen": "1734.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 965,
+        "codigo": 3476,
+        "nombre": "CARAMELO MISKY RELLENO FRUTAL 810G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 6861.91,
+        "imagen": "3476.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 966,
+        "codigo": 9896,
+        "nombre": "CARAMELO MISKY RELLENO MIEL 675G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 6860.7,
+        "imagen": "9896.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 967,
+        "codigo": 9935,
+        "nombre": "CARAMELO SUGUS MAX FRUTILLA 70U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5927.79,
+        "imagen": "9935.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 968,
+        "codigo": 1160,
+        "nombre": "CARAMELO TNT ACIDO PINTA LABIOS 270G",
+        "marca": "TNT",
+        "categoria": "Golosinas",
+        "precio": 4629.46,
+        "imagen": "1160.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 969,
+        "codigo": 1134,
+        "nombre": "CARAMELO ARCOR MASTICABLE 800G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 7260.0,
+        "imagen": "1134.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 970,
+        "codigo": 1233,
+        "nombre": "CARAMELO MISKY CHERRY 405G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 4682.7,
+        "imagen": "1233.webp",
         "activo": true
     }
 ]
