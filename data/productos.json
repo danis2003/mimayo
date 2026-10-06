@@ -9578,5 +9578,15 @@
         "precio": 3605.8,
         "imagen": "2060.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 960,
+        "codigo": 152,
+        "nombre": "ALFAJOR ALFANÜIT 80G",
+        "marca": "Maixanas",
+        "categoria": "Alfajores",
+        "precio": 1839.0,
+        "imagen": "152.webp",
+        "activo": true
     }
 ]
