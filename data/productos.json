@@ -2262,7 +2262,7 @@
     {
         "fila_excel": 228,
         "codigo": 8708,
-        "nombre": "BASTONITOS KRACHITOS X60GR",
+        "nombre": "BASTONITOS KRACHITOS QUESO 60G",
         "marca": "Krachitos",
         "categoria": "Snacks",
         "precio": 1134.98,
@@ -2272,7 +2272,7 @@
     {
         "fila_excel": 229,
         "codigo": 2914,
-        "nombre": "DORITOS  DINAMITA  45 GS",
+        "nombre": "DORITOS DINAMITA 45G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
         "precio": 1588.73,
@@ -2282,7 +2282,7 @@
     {
         "fila_excel": 230,
         "codigo": 2913,
-        "nombre": "DORITOS DINAMITA 82 GR",
+        "nombre": "DORITOS DINAMITA 82G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
         "precio": 2433.31,
@@ -2292,7 +2292,7 @@
     {
         "fila_excel": 231,
         "codigo": 3000,
-        "nombre": "DORITOS SABOR QUESO 77G",
+        "nombre": "DORITOS QUESO 77G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
         "precio": 2825.35,
@@ -2302,7 +2302,7 @@
     {
         "fila_excel": 232,
         "codigo": 8729,
-        "nombre": "KRACHITOS CHIZITOS X 60GR",
+        "nombre": "CHIZITOS KRACHITOS 60G",
         "marca": "Krachitos",
         "categoria": "Snacks",
         "precio": 1134.98,
@@ -2317,7 +2317,7 @@
         "categoria": "Snacks",
         "precio": 4418.92,
         "imagen": "3093.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 234,
@@ -2332,7 +2332,7 @@
     {
         "fila_excel": 235,
         "codigo": 3058,
-        "nombre": "PAPAS KRACHITOS TRADICIONAL 55G",
+        "nombre": "PAPAS KRACHITOS CORTE TRADICIONAL 55G",
         "marca": "Krachitos",
         "categoria": "Snacks",
         "precio": 1303.17,
@@ -2341,18 +2341,8 @@
     },
     {
         "fila_excel": 236,
-        "codigo": 1498,
-        "nombre": "PEPSICO 40 GR TODOS",
-        "marca": "Lays",
-        "categoria": "Snacks",
-        "precio": 1633.5,
-        "imagen": "1498.webp",
-        "activo": false
-    },
-    {
-        "fila_excel": 237,
         "codigo": 1501,
-        "nombre": "PEPSICO 77/85 GR TODOS",
+        "nombre": "PAPAS LAYS CLASICAS 40G",
         "marca": "Lays",
         "categoria": "Snacks",
         "precio": 1633.5,
@@ -2360,7 +2350,7 @@
         "activo": true
     },
     {
-        "fila_excel": 238,
+        "fila_excel": 237,
         "codigo": 2063,
         "nombre": "TWISTOS QUESO 95G",
         "marca": "PepsiCo",
@@ -2370,7 +2360,7 @@
         "activo": true
     },
     {
-        "fila_excel": 239,
+        "fila_excel": 238,
         "codigo": 3062,
         "nombre": "ALFAJOR CHOCOTORTA TRIPLE 72G",
         "marca": "Bagley",
@@ -2380,7 +2370,7 @@
         "activo": true
     },
     {
-        "fila_excel": 240,
+        "fila_excel": 239,
         "codigo": 3095,
         "nombre": "ALFAJOR DUBAI PISTACHO STYLE NEGRO 70G",
         "marca": "Maixanas",
@@ -2390,7 +2380,7 @@
         "activo": true
     },
     {
-        "fila_excel": 241,
+        "fila_excel": 240,
         "codigo": 56,
         "nombre": "ALFAJOR JORGITO NEGRO 6U 155G",
         "marca": "Jorgito",
@@ -2400,7 +2390,7 @@
         "activo": true
     },
     {
-        "fila_excel": 242,
+        "fila_excel": 241,
         "codigo": 32,
         "nombre": "ALFAJOR OREO TRIPLE 56G",
         "marca": "Mondelez",
@@ -2410,7 +2400,7 @@
         "activo": true
     },
     {
-        "fila_excel": 243,
+        "fila_excel": 242,
         "codigo": 49,
         "nombre": "ALFAJOR PEPITOS TRIPLE 57G",
         "marca": "Mondelez",
@@ -2420,7 +2410,7 @@
         "activo": true
     },
     {
-        "fila_excel": 244,
+        "fila_excel": 243,
         "codigo": 368,
         "nombre": "ALFAJOR CHOCOARROZ  DULCE DE LECHE 26G",
         "marca": "Molinos",
@@ -2430,7 +2420,7 @@
         "activo": true
     },
     {
-        "fila_excel": 245,
+        "fila_excel": 244,
         "codigo": 657,
         "nombre": "FIDEO MAROLIO TODOS",
         "marca": "Marolio",
@@ -2440,7 +2430,7 @@
         "activo": true
     },
     {
-        "fila_excel": 246,
+        "fila_excel": 245,
         "codigo": 649,
         "nombre": "FIDEOS FAVORITA x 500 GR",
         "marca": "Molinos",
@@ -2450,7 +2440,7 @@
         "activo": true
     },
     {
-        "fila_excel": 247,
+        "fila_excel": 246,
         "codigo": 9858,
         "nombre": "ALFAJOR CAPITAN DEL ESPACIO SIMPLE NEGRO 40G",
         "marca": "Capitán del Espacio",
@@ -2460,7 +2450,7 @@
         "activo": true
     },
     {
-        "fila_excel": 248,
+        "fila_excel": 247,
         "codigo": 3300,
         "nombre": "OBLI BON MIX 15U",
         "marca": "Oblita",
@@ -2470,7 +2460,7 @@
         "activo": true
     },
     {
-        "fila_excel": 249,
+        "fila_excel": 248,
         "codigo": 3309,
         "nombre": "OBLI BON CLASICO 30U",
         "marca": "Oblita",
@@ -2480,7 +2470,7 @@
         "activo": true
     },
     {
-        "fila_excel": 250,
+        "fila_excel": 249,
         "codigo": 9859,
         "nombre": "OBLIBON BOCADITO MARROC X 36",
         "marca": "Oblita",
@@ -2490,7 +2480,7 @@
         "activo": true
     },
     {
-        "fila_excel": 251,
+        "fila_excel": 250,
         "codigo": 9861,
         "nombre": "ALFAJOR OLIVER",
         "marca": "Maixanas",
@@ -2500,7 +2490,7 @@
         "activo": false
     },
     {
-        "fila_excel": 252,
+        "fila_excel": 251,
         "codigo": 25,
         "nombre": "AJI ALICANTE 25GR",
         "marca": "Alicante",
@@ -2510,7 +2500,7 @@
         "activo": true
     },
     {
-        "fila_excel": 253,
+        "fila_excel": 252,
         "codigo": 3401,
         "nombre": "AJO ALICANTE 50GR",
         "marca": "Alicante",
@@ -2520,7 +2510,7 @@
         "activo": true
     },
     {
-        "fila_excel": 254,
+        "fila_excel": 253,
         "codigo": 8710,
         "nombre": "PASTA UNTABLE BONOBON 290G",
         "marca": "Arcor",
@@ -2530,7 +2520,7 @@
         "activo": true
     },
     {
-        "fila_excel": 255,
+        "fila_excel": 254,
         "codigo": 3403,
         "nombre": "CAPELETTINI GIACOMO 500GR",
         "marca": "Giacomo",
@@ -2540,7 +2530,7 @@
         "activo": true
     },
     {
-        "fila_excel": 256,
+        "fila_excel": 255,
         "codigo": 3269,
         "nombre": "CHEDDAR SALSA DANICA X 209 G",
         "marca": "Dánica",
@@ -2550,7 +2540,7 @@
         "activo": true
     },
     {
-        "fila_excel": 257,
+        "fila_excel": 256,
         "codigo": 9849,
         "nombre": "CHIMICHURRI ALICANTE 25GR",
         "marca": "Alicante",
@@ -2560,7 +2550,7 @@
         "activo": true
     },
     {
-        "fila_excel": 258,
+        "fila_excel": 257,
         "codigo": 427,
         "nombre": "COCO RALLADO ALICANTE 50GR",
         "marca": "Alicante",
@@ -2570,7 +2560,7 @@
         "activo": true
     },
     {
-        "fila_excel": 259,
+        "fila_excel": 258,
         "codigo": 435,
         "nombre": "COMINO ALICANTE 25GR",
         "marca": "Alicante",
@@ -2580,7 +2570,7 @@
         "activo": true
     },
     {
-        "fila_excel": 260,
+        "fila_excel": 259,
         "codigo": 437,
         "nombre": "CONDIMENTO ARROZ ALICANTE 25GR",
         "marca": "Alicante",
@@ -2590,7 +2580,7 @@
         "activo": true
     },
     {
-        "fila_excel": 261,
+        "fila_excel": 260,
         "codigo": 2694,
         "nombre": "CONDIMENTO MILANESA 25GR",
         "marca": "Alicante",
@@ -2600,7 +2590,7 @@
         "activo": true
     },
     {
-        "fila_excel": 262,
+        "fila_excel": 261,
         "codigo": 440,
         "nombre": "CONDIMENTO PIZZA ALICANTE 25GR",
         "marca": "Alicante",
@@ -2610,7 +2600,7 @@
         "activo": true
     },
     {
-        "fila_excel": 263,
+        "fila_excel": 262,
         "codigo": 3402,
         "nombre": "CONDIMENTO TUCO ALICANTE 25GR",
         "marca": "Alicante",
@@ -2620,7 +2610,7 @@
         "activo": true
     },
     {
-        "fila_excel": 264,
+        "fila_excel": 263,
         "codigo": 8900,
         "nombre": "DULCE DE LECHE TREGAR X 400",
         "marca": "Tregar",
@@ -2630,7 +2620,7 @@
         "activo": true
     },
     {
-        "fila_excel": 265,
+        "fila_excel": 264,
         "codigo": 3385,
         "nombre": "EXQUISITA BIZCOCHUELO 540GR",
         "marca": "Molinos",
@@ -2640,7 +2630,7 @@
         "activo": true
     },
     {
-        "fila_excel": 266,
+        "fila_excel": 265,
         "codigo": 9847,
         "nombre": "FIDEOS KNORR X 500 GR",
         "marca": "Knorr",
@@ -2650,7 +2640,7 @@
         "activo": true
     },
     {
-        "fila_excel": 267,
+        "fila_excel": 266,
         "codigo": 8711,
         "nombre": "FLAN NOEL 200G",
         "marca": "Noel",
@@ -2660,7 +2650,7 @@
         "activo": true
     },
     {
-        "fila_excel": 268,
+        "fila_excel": 267,
         "codigo": 3266,
         "nombre": "KETCHUP DANICA X220G",
         "marca": "Dánica",
@@ -2670,7 +2660,7 @@
         "activo": true
     },
     {
-        "fila_excel": 269,
+        "fila_excel": 268,
         "codigo": 3144,
         "nombre": "LEVEX X 10 GR",
         "marca": "Levex",
@@ -2680,7 +2670,7 @@
         "activo": true
     },
     {
-        "fila_excel": 270,
+        "fila_excel": 269,
         "codigo": 3265,
         "nombre": "MAYONESA DANICA X100ML",
         "marca": "Dánica",
@@ -2690,7 +2680,7 @@
         "activo": true
     },
     {
-        "fila_excel": 271,
+        "fila_excel": 270,
         "codigo": 1180,
         "nombre": "MERMELADA NOEL* 454 GS",
         "marca": "Noel",
@@ -2700,7 +2690,7 @@
         "activo": true
     },
     {
-        "fila_excel": 272,
+        "fila_excel": 271,
         "codigo": 3267,
         "nombre": "MOSTAZA DANICA X 220 G",
         "marca": "Dánica",
@@ -2710,7 +2700,7 @@
         "activo": true
     },
     {
-        "fila_excel": 273,
+        "fila_excel": 272,
         "codigo": 1357,
         "nombre": "OREGANO ALICANTE 25GR",
         "marca": "Alicante",
@@ -2720,7 +2710,7 @@
         "activo": true
     },
     {
-        "fila_excel": 274,
+        "fila_excel": 273,
         "codigo": 8809,
         "nombre": "PAN RALLADO PREFERIDO 500 G",
         "marca": "Molinos",
@@ -2730,7 +2720,7 @@
         "activo": true
     },
     {
-        "fila_excel": 275,
+        "fila_excel": 274,
         "codigo": 1508,
         "nombre": "PEREJIL ALICANTE 25GR",
         "marca": "Alicante",
@@ -2740,7 +2730,7 @@
         "activo": true
     },
     {
-        "fila_excel": 276,
+        "fila_excel": 275,
         "codigo": 1531,
         "nombre": "PIMENTON ALICANTE 25GR",
         "marca": "Alicante",
@@ -2750,7 +2740,7 @@
         "activo": true
     },
     {
-        "fila_excel": 277,
+        "fila_excel": 276,
         "codigo": 1532,
         "nombre": "PIMIENTA BLANCA ALICANTE 25G",
         "marca": "Alicante",
@@ -2760,7 +2750,7 @@
         "activo": true
     },
     {
-        "fila_excel": 278,
+        "fila_excel": 277,
         "codigo": 2426,
         "nombre": "PIMIENTA NEGRA ALICANTE 25GR",
         "marca": "Alicante",
@@ -2770,7 +2760,7 @@
         "activo": true
     },
     {
-        "fila_excel": 279,
+        "fila_excel": 278,
         "codigo": 2840,
         "nombre": "POLENTA NOEL 490 GR",
         "marca": "Noel",
@@ -2780,7 +2770,7 @@
         "activo": true
     },
     {
-        "fila_excel": 280,
+        "fila_excel": 279,
         "codigo": 8726,
         "nombre": "POLENTA PRESTO PRONTA 490G",
         "marca": "Arcor",
@@ -2790,7 +2780,7 @@
         "activo": true
     },
     {
-        "fila_excel": 281,
+        "fila_excel": 280,
         "codigo": 1631,
         "nombre": "PROVENZAL ALICANTE 25GR",
         "marca": "Alicante",
@@ -2800,7 +2790,7 @@
         "activo": true
     },
     {
-        "fila_excel": 282,
+        "fila_excel": 281,
         "codigo": 3157,
         "nombre": "PURE MAGGI 125GR",
         "marca": "Nestlé",
@@ -2810,7 +2800,7 @@
         "activo": true
     },
     {
-        "fila_excel": 283,
+        "fila_excel": 282,
         "codigo": 8820,
         "nombre": "REBOZADOR MAMA COCINA X 500",
         "marca": "Molino Cañuelas",
@@ -2820,7 +2810,7 @@
         "activo": true
     },
     {
-        "fila_excel": 284,
+        "fila_excel": 283,
         "codigo": 8709,
         "nombre": "SALSA PIZZA NOEL 340 GR",
         "marca": "Noel",
@@ -2830,7 +2820,7 @@
         "activo": true
     },
     {
-        "fila_excel": 285,
+        "fila_excel": 284,
         "codigo": 1181,
         "nombre": "MERMELADA NOEL LIGHT X 390 GR",
         "marca": "Noel",
@@ -2840,7 +2830,7 @@
         "activo": true
     },
     {
-        "fila_excel": 286,
+        "fila_excel": 285,
         "codigo": 8823,
         "nombre": "ALFAJOR BARRIGON MANI TRIPLAZO 100G",
         "marca": "Barrigón",
@@ -2850,7 +2840,7 @@
         "activo": true
     },
     {
-        "fila_excel": 287,
+        "fila_excel": 286,
         "codigo": 8824,
         "nombre": "ALFAJOR BARRIGON CREMA TRIPLAZO 100G",
         "marca": "Barrigón",
@@ -2860,7 +2850,7 @@
         "activo": true
     },
     {
-        "fila_excel": 288,
+        "fila_excel": 287,
         "codigo": 144,
         "nombre": "ENCENDEDOR BIX MAXI",
         "marca": "Bic",
@@ -2870,7 +2860,7 @@
         "activo": true
     },
     {
-        "fila_excel": 289,
+        "fila_excel": 288,
         "codigo": 257,
         "nombre": "ENCENDEDOR CANDELA GLOW",
         "marca": "Candela",
@@ -2880,7 +2870,7 @@
         "activo": true
     },
     {
-        "fila_excel": 290,
+        "fila_excel": 289,
         "codigo": 259,
         "nombre": "ENCENDEDOR CANDELA TRANSPARENTE",
         "marca": "Candela",
@@ -2890,7 +2880,7 @@
         "activo": true
     },
     {
-        "fila_excel": 291,
+        "fila_excel": 290,
         "codigo": 285,
         "nombre": "NAIPES CASINO 40U",
         "marca": "Casino",
@@ -2900,7 +2890,7 @@
         "activo": true
     },
     {
-        "fila_excel": 292,
+        "fila_excel": 291,
         "codigo": 286,
         "nombre": "NAIPES CASINO 50U",
         "marca": "Casino",
@@ -2910,7 +2900,7 @@
         "activo": true
     },
     {
-        "fila_excel": 293,
+        "fila_excel": 292,
         "codigo": 2715,
         "nombre": "CELULOSA STAMPS 50 HOJAS 25U",
         "marca": "Stamps",
@@ -2920,7 +2910,7 @@
         "activo": true
     },
     {
-        "fila_excel": 294,
+        "fila_excel": 293,
         "codigo": 8850,
         "nombre": "APOSITO ADHESUR 8U",
         "marca": "Adhesur",
@@ -2930,7 +2920,7 @@
         "activo": true
     },
     {
-        "fila_excel": 295,
+        "fila_excel": 294,
         "codigo": 500,
         "nombre": "APOSITO CURITAS 8U",
         "marca": "Curitas",
@@ -2940,7 +2930,7 @@
         "activo": true
     },
     {
-        "fila_excel": 296,
+        "fila_excel": 295,
         "codigo": 551,
         "nombre": "DURACELL 2A C/U",
         "marca": "Duracell",
@@ -2950,7 +2940,7 @@
         "activo": true
     },
     {
-        "fila_excel": 297,
+        "fila_excel": 296,
         "codigo": 552,
         "nombre": "DURACELL 3A  C/U",
         "marca": "Duracell",
@@ -2960,7 +2950,7 @@
         "activo": true
     },
     {
-        "fila_excel": 298,
+        "fila_excel": 297,
         "codigo": 554,
         "nombre": "DURACELL GRANDE \"D\"  C/U",
         "marca": "Duracell",
@@ -2970,7 +2960,7 @@
         "activo": true
     },
     {
-        "fila_excel": 299,
+        "fila_excel": 298,
         "codigo": 8798,
         "nombre": "ENCENDEDOR SILVERTEC",
         "marca": "Silvertec",
@@ -2980,7 +2970,7 @@
         "activo": true
     },
     {
-        "fila_excel": 300,
+        "fila_excel": 299,
         "codigo": 2350,
         "nombre": "ENERGIZER 2032",
         "marca": "Energizer",
@@ -2990,7 +2980,7 @@
         "activo": true
     },
     {
-        "fila_excel": 301,
+        "fila_excel": 300,
         "codigo": 568,
         "nombre": "ENERGIZER 2A",
         "marca": "Energizer",
@@ -3000,7 +2990,7 @@
         "activo": true
     },
     {
-        "fila_excel": 302,
+        "fila_excel": 301,
         "codigo": 569,
         "nombre": "ENERGIZER 3A",
         "marca": "Energizer",
@@ -3010,7 +3000,7 @@
         "activo": true
     },
     {
-        "fila_excel": 303,
+        "fila_excel": 302,
         "codigo": 573,
         "nombre": "ENERGIZER A23",
         "marca": "Energizer",
@@ -3020,7 +3010,7 @@
         "activo": true
     },
     {
-        "fila_excel": 304,
+        "fila_excel": 303,
         "codigo": 572,
         "nombre": "ENERGIZER MEDIANA \"C\" C/U",
         "marca": "Energizer",
@@ -3030,7 +3020,7 @@
         "activo": true
     },
     {
-        "fila_excel": 305,
+        "fila_excel": 304,
         "codigo": 615,
         "nombre": "EVEREADY AA NEGRA",
         "marca": "Eveready",
@@ -3040,7 +3030,7 @@
         "activo": true
     },
     {
-        "fila_excel": 306,
+        "fila_excel": 305,
         "codigo": 614,
         "nombre": "EVEREADY AAA NEGRA",
         "marca": "Eveready",
@@ -3050,7 +3040,7 @@
         "activo": true
     },
     {
-        "fila_excel": 307,
+        "fila_excel": 306,
         "codigo": 616,
         "nombre": "EVEREADY BATERIA * 9 V",
         "marca": "Eveready",
@@ -3060,7 +3050,7 @@
         "activo": true
     },
     {
-        "fila_excel": 308,
+        "fila_excel": 307,
         "codigo": 618,
         "nombre": "EVEREADY GRANDE \"D\" C/U",
         "marca": "Eveready",
@@ -3070,7 +3060,7 @@
         "activo": true
     },
     {
-        "fila_excel": 309,
+        "fila_excel": 308,
         "codigo": 617,
         "nombre": "EVEREADY MEDIANA \"C\" C/U",
         "marca": "Eveready",
@@ -3080,7 +3070,7 @@
         "activo": true
     },
     {
-        "fila_excel": 310,
+        "fila_excel": 309,
         "codigo": 2567,
         "nombre": "FILTROS OCB EXTRA SLIM 150U",
         "marca": "OCB",
@@ -3090,7 +3080,7 @@
         "activo": true
     },
     {
-        "fila_excel": 311,
+        "fila_excel": 310,
         "codigo": 2571,
         "nombre": "FILTROS OCB SLIM 150U",
         "marca": "OCB",
@@ -3100,7 +3090,7 @@
         "activo": true
     },
     {
-        "fila_excel": 312,
+        "fila_excel": 311,
         "codigo": 8807,
         "nombre": "ENCENDEDOR FUEGOLANDIA TRANSPARENTE",
         "marca": "Fuegolandia",
@@ -3110,7 +3100,7 @@
         "activo": true
     },
     {
-        "fila_excel": 313,
+        "fila_excel": 312,
         "codigo": 830,
         "nombre": "PASTILLA HALLS FREE CHERRY 12U",
         "marca": "Mondelez",
@@ -3120,7 +3110,7 @@
         "activo": true
     },
     {
-        "fila_excel": 314,
+        "fila_excel": 313,
         "codigo": 288,
         "nombre": "NAIPES CANDELA 50U",
         "marca": "Candela",
@@ -3130,7 +3120,7 @@
         "activo": true
     },
     {
-        "fila_excel": 315,
+        "fila_excel": 314,
         "codigo": 1454,
         "nombre": "PAPELILLO OCB BLANCO",
         "marca": "OCB",
@@ -3140,7 +3130,7 @@
         "activo": true
     },
     {
-        "fila_excel": 316,
+        "fila_excel": 315,
         "codigo": 1455,
         "nombre": "PAPELILLO OCB NEGRO",
         "marca": "OCB",
@@ -3150,7 +3140,7 @@
         "activo": true
     },
     {
-        "fila_excel": 317,
+        "fila_excel": 316,
         "codigo": 1371,
         "nombre": "PAÑUELOS ELITE 6 UNIDADES",
         "marca": "Elite",
@@ -3160,7 +3150,7 @@
         "activo": true
     },
     {
-        "fila_excel": 318,
+        "fila_excel": 317,
         "codigo": 2651,
         "nombre": "PAPELILLO PIER ROLL",
         "marca": "Pier",
@@ -3170,7 +3160,7 @@
         "activo": true
     },
     {
-        "fila_excel": 319,
+        "fila_excel": 318,
         "codigo": 2304,
         "nombre": "PASTILLA CLIGHT NARANJA 12U",
         "marca": "Mondelez",
@@ -3180,7 +3170,7 @@
         "activo": true
     },
     {
-        "fila_excel": 320,
+        "fila_excel": 319,
         "codigo": 1609,
         "nombre": "PRESERVATIVO PRIME TACHAS 3U",
         "marca": "Prime",
@@ -3190,7 +3180,7 @@
         "activo": true
     },
     {
-        "fila_excel": 321,
+        "fila_excel": 320,
         "codigo": 1610,
         "nombre": "PRESERVATIVO TULIPAN CON GEL 3U",
         "marca": "Tulipán",
@@ -3200,7 +3190,7 @@
         "activo": true
     },
     {
-        "fila_excel": 322,
+        "fila_excel": 321,
         "codigo": 3200,
         "nombre": "FILTRO SLIM LIBELLA 200U",
         "marca": "Libella",
@@ -3210,7 +3200,7 @@
         "activo": true
     },
     {
-        "fila_excel": 323,
+        "fila_excel": 322,
         "codigo": 8803,
         "nombre": "APOSITO SYRITA 10U",
         "marca": "Syrita",
@@ -3220,7 +3210,7 @@
         "activo": true
     },
     {
-        "fila_excel": 324,
+        "fila_excel": 323,
         "codigo": 2587,
         "nombre": "TABACO CERRITO 45G",
         "marca": "Cerrito",
@@ -3230,7 +3220,7 @@
         "activo": true
     },
     {
-        "fila_excel": 325,
+        "fila_excel": 324,
         "codigo": 2649,
         "nombre": "TABACO CUATRO LEGUAS 30G",
         "marca": "Cuatro Leguas",
@@ -3240,7 +3230,7 @@
         "activo": true
     },
     {
-        "fila_excel": 326,
+        "fila_excel": 325,
         "codigo": 2702,
         "nombre": "TABACO LAS HOJAS*50GS",
         "marca": "Cuatro Leguas",
@@ -3250,7 +3240,7 @@
         "activo": true
     },
     {
-        "fila_excel": 327,
+        "fila_excel": 326,
         "codigo": 3076,
         "nombre": "BLUPER PASTILLAS 12 UNI",
         "marca": "Bluper",
@@ -3260,7 +3250,7 @@
         "activo": true
     },
     {
-        "fila_excel": 328,
+        "fila_excel": 327,
         "codigo": 9843,
         "nombre": "CAJA MERENKOA 12 UNIDADES",
         "marca": "Urquiza",
@@ -3270,7 +3260,7 @@
         "activo": false
     },
     {
-        "fila_excel": 329,
+        "fila_excel": 328,
         "codigo": 263,
         "nombre": "CARAMELO ALKA CHERRY 800G",
         "marca": "Alka",
@@ -3280,7 +3270,7 @@
         "activo": true
     },
     {
-        "fila_excel": 330,
+        "fila_excel": 329,
         "codigo": 267,
         "nombre": "CARAMELO TNT ACIDO *60 UNIDA",
         "marca": "TNT",
@@ -3290,7 +3280,7 @@
         "activo": true
     },
     {
-        "fila_excel": 331,
+        "fila_excel": 330,
         "codigo": 287,
         "nombre": "CATCH POP  * CHUPETIN",
         "marca": "Fun Candy",
@@ -3300,7 +3290,7 @@
         "activo": true
     },
     {
-        "fila_excel": 332,
+        "fila_excel": 331,
         "codigo": 9854,
         "nombre": "CATY HOUSE",
         "marca": "",
@@ -3310,7 +3300,7 @@
         "activo": true
     },
     {
-        "fila_excel": 333,
+        "fila_excel": 332,
         "codigo": 2380,
         "nombre": "CHICLE BLUPER SANDIA 400G",
         "marca": "Bluper",
@@ -3320,7 +3310,7 @@
         "activo": true
     },
     {
-        "fila_excel": 334,
+        "fila_excel": 333,
         "codigo": 3191,
         "nombre": "CHICLE METRO 4U",
         "marca": "",
@@ -3330,7 +3320,7 @@
         "activo": true
     },
     {
-        "fila_excel": 335,
+        "fila_excel": 334,
         "codigo": 9856,
         "nombre": "CONITO JORGITO 34G",
         "marca": "Jorgito",
@@ -3340,7 +3330,7 @@
         "activo": true
     },
     {
-        "fila_excel": 336,
+        "fila_excel": 335,
         "codigo": 542,
         "nombre": "PASTILLA DRF MENTA 12U",
         "marca": "D.R.F.",
@@ -3350,7 +3340,7 @@
         "activo": true
     },
     {
-        "fila_excel": 337,
+        "fila_excel": 336,
         "codigo": 797,
         "nombre": "GOLOMIX GOMA 800GR",
         "marca": "Golomix",
@@ -3360,7 +3350,7 @@
         "activo": false
     },
     {
-        "fila_excel": 338,
+        "fila_excel": 337,
         "codigo": 1171,
         "nombre": "PASTILLA MENTITAS LACASA FRUTAL 26G",
         "marca": "D.R.F.",
@@ -3370,7 +3360,7 @@
         "activo": true
     },
     {
-        "fila_excel": 339,
+        "fila_excel": 338,
         "codigo": 1182,
         "nombre": "BOMBON MERENBOM 25G",
         "marca": "Urquiza",
@@ -3380,7 +3370,7 @@
         "activo": true
     },
     {
-        "fila_excel": 340,
+        "fila_excel": 339,
         "codigo": 1179,
         "nombre": "BOMBON MERENKOA 15G",
         "marca": "Urquiza",
@@ -3390,7 +3380,7 @@
         "activo": true
     },
     {
-        "fila_excel": 341,
+        "fila_excel": 340,
         "codigo": 8843,
         "nombre": "GOMITAS MOGUL ANILLOS X 1KG",
         "marca": "Arcor",
@@ -3400,7 +3390,7 @@
         "activo": true
     },
     {
-        "fila_excel": 342,
+        "fila_excel": 341,
         "codigo": 1472,
         "nombre": "PASTILLA BIYU SORPRESA",
         "marca": "",
@@ -3410,7 +3400,7 @@
         "activo": true
     },
     {
-        "fila_excel": 343,
+        "fila_excel": 342,
         "codigo": 8718,
         "nombre": "POTE OJITOS 30U",
         "marca": "",
@@ -3420,7 +3410,7 @@
         "activo": true
     },
     {
-        "fila_excel": 344,
+        "fila_excel": 343,
         "codigo": 9853,
         "nombre": "PUPPY HOUSE",
         "marca": "",
@@ -3430,7 +3420,7 @@
         "activo": true
     },
     {
-        "fila_excel": 345,
+        "fila_excel": 344,
         "codigo": 1643,
         "nombre": "PUSH POP CHUPETIN TODOS   C/U",
         "marca": "Fun Candy",
@@ -3440,7 +3430,7 @@
         "activo": true
     },
     {
-        "fila_excel": 346,
+        "fila_excel": 345,
         "codigo": 1951,
         "nombre": "PASTILLA TIC TAC NARANJA 16G",
         "marca": "Tic Tac",
@@ -3450,7 +3440,7 @@
         "activo": true
     },
     {
-        "fila_excel": 347,
+        "fila_excel": 346,
         "codigo": 2520,
         "nombre": "TNT CHICLE SURTIDO 40 U",
         "marca": "TNT",
@@ -3460,7 +3450,7 @@
         "activo": true
     },
     {
-        "fila_excel": 348,
+        "fila_excel": 347,
         "codigo": 9852,
         "nombre": "WACKY MONKEY",
         "marca": "",
@@ -3470,7 +3460,7 @@
         "activo": true
     },
     {
-        "fila_excel": 349,
+        "fila_excel": 348,
         "codigo": 716,
         "nombre": "GALLETITA MANA VAINILLA 145G",
         "marca": "Arcor",
@@ -3480,7 +3470,7 @@
         "activo": true
     },
     {
-        "fila_excel": 350,
+        "fila_excel": 349,
         "codigo": 724,
         "nombre": "GALLETITA  OREO  118G",
         "marca": "Mondelez",
@@ -3490,7 +3480,7 @@
         "activo": true
     },
     {
-        "fila_excel": 351,
+        "fila_excel": 350,
         "codigo": 726,
         "nombre": "GALLETITA  COFLER BONOBON 85G",
         "marca": "Cofler",
@@ -3500,7 +3490,7 @@
         "activo": true
     },
     {
-        "fila_excel": 352,
+        "fila_excel": 351,
         "codigo": 727,
         "nombre": "GALLETITA PEPAS TRIO 200G",
         "marca": "Trio",
@@ -3510,7 +3500,7 @@
         "activo": true
     },
     {
-        "fila_excel": 353,
+        "fila_excel": 352,
         "codigo": 728,
         "nombre": "GALLETITA  DONUTS NEGRO 78G",
         "marca": "Bonafide",
@@ -3520,7 +3510,7 @@
         "activo": true
     },
     {
-        "fila_excel": 354,
+        "fila_excel": 353,
         "codigo": 537,
         "nombre": "TALITAS DON SATUR 140G",
         "marca": "Don Satur",
@@ -3530,7 +3520,7 @@
         "activo": true
     },
     {
-        "fila_excel": 355,
+        "fila_excel": 354,
         "codigo": 729,
         "nombre": "GALLETITA  COFLER BLOCK 124G",
         "marca": "Cofler",
@@ -3540,7 +3530,7 @@
         "activo": true
     },
     {
-        "fila_excel": 356,
+        "fila_excel": 355,
         "codigo": 9877,
         "nombre": "FILTROS DE PAPEL LV 40U",
         "marca": "La Virginia",
@@ -3550,7 +3540,7 @@
         "activo": true
     },
     {
-        "fila_excel": 357,
+        "fila_excel": 356,
         "codigo": 730,
         "nombre": "GALLETITA  PEPITOS  118G",
         "marca": "Mondelez",
@@ -3560,7 +3550,7 @@
         "activo": true
     },
     {
-        "fila_excel": 358,
+        "fila_excel": 357,
         "codigo": 731,
         "nombre": "GALLETITA  COFLER ROCKLET 118G",
         "marca": "Cofler",
@@ -3570,7 +3560,7 @@
         "activo": true
     },
     {
-        "fila_excel": 359,
+        "fila_excel": 358,
         "codigo": 732,
         "nombre": "GALLETITA  TODDY 126G",
         "marca": "Georgalos",
@@ -3580,7 +3570,7 @@
         "activo": true
     },
     {
-        "fila_excel": 360,
+        "fila_excel": 359,
         "codigo": 737,
         "nombre": "GALLETITA SURTIDO BAGLEY 390G",
         "marca": "Bagley",
@@ -3590,7 +3580,7 @@
         "activo": true
     },
     {
-        "fila_excel": 361,
+        "fila_excel": 360,
         "codigo": 739,
         "nombre": "GALLETITA  PEPAS TRIO 500G",
         "marca": "Trio",
@@ -3600,7 +3590,7 @@
         "activo": true
     },
     {
-        "fila_excel": 362,
+        "fila_excel": 361,
         "codigo": 740,
         "nombre": "GALLETITA  PEPAS TRICHOC 500G",
         "marca": "Trio",
@@ -3610,7 +3600,7 @@
         "activo": true
     },
     {
-        "fila_excel": 363,
+        "fila_excel": 362,
         "codigo": 745,
         "nombre": "GALLETITA TERRABUSI VARIEDAD 390G",
         "marca": "Terrabusi",
@@ -3620,7 +3610,7 @@
         "activo": true
     },
     {
-        "fila_excel": 364,
+        "fila_excel": 363,
         "codigo": 749,
         "nombre": "GALLETITA  VOCACION 141G",
         "marca": "Lía",
@@ -3630,7 +3620,7 @@
         "activo": true
     },
     {
-        "fila_excel": 365,
+        "fila_excel": 364,
         "codigo": 750,
         "nombre": "GALLETITA VOCACION TRIPACK 384G",
         "marca": "Lía",
@@ -3640,7 +3630,7 @@
         "activo": true
     },
     {
-        "fila_excel": 366,
+        "fila_excel": 365,
         "codigo": 753,
         "nombre": "TOSTADAS RIERA CLASICAS 200G",
         "marca": "Riera",
@@ -3650,7 +3640,7 @@
         "activo": true
     },
     {
-        "fila_excel": 367,
+        "fila_excel": 366,
         "codigo": 755,
         "nombre": "GALLETITA SURTIDO FAUNA 400G",
         "marca": "Mauri",
@@ -3660,7 +3650,7 @@
         "activo": true
     },
     {
-        "fila_excel": 368,
+        "fila_excel": 367,
         "codigo": 808,
         "nombre": "GALLETITA GRANIX SIN SAL 200G",
         "marca": "Granix",
@@ -3670,7 +3660,7 @@
         "activo": true
     },
     {
-        "fila_excel": 369,
+        "fila_excel": 368,
         "codigo": 809,
         "nombre": "GALLETITA GRANIX SANDWICH 200G",
         "marca": "Granix",
@@ -3680,7 +3670,7 @@
         "activo": true
     },
     {
-        "fila_excel": 370,
+        "fila_excel": 369,
         "codigo": 888,
         "nombre": "BISCUIT HJ 130G",
         "marca": "HJ",
@@ -3690,7 +3680,7 @@
         "activo": true
     },
     {
-        "fila_excel": 371,
+        "fila_excel": 370,
         "codigo": 951,
         "nombre": "GALLETITA PEPAS ALEMANA 180G",
         "marca": "Trio",
@@ -3700,7 +3690,7 @@
         "activo": true
     },
     {
-        "fila_excel": 372,
+        "fila_excel": 371,
         "codigo": 956,
         "nombre": "GALLETITA KOKIS CAÑONCITOS 200G",
         "marca": "Kokis",
@@ -3710,7 +3700,7 @@
         "activo": true
     },
     {
-        "fila_excel": 373,
+        "fila_excel": 372,
         "codigo": 1065,
         "nombre": "MAGDALENA DON SATUR VAINILLA 200G",
         "marca": "Don Satur",
@@ -3720,7 +3710,7 @@
         "activo": true
     },
     {
-        "fila_excel": 374,
+        "fila_excel": 373,
         "codigo": 1153,
         "nombre": "GALLETITA MEDIA TARDE CLASICA X3 330G",
         "marca": "Lía",
@@ -3730,7 +3720,7 @@
         "activo": true
     },
     {
-        "fila_excel": 375,
+        "fila_excel": 374,
         "codigo": 1155,
         "nombre": "GALLETITA  MEDIA TARDE SANDWICH X3 330G",
         "marca": "Lía",
@@ -3740,7 +3730,7 @@
         "activo": true
     },
     {
-        "fila_excel": 376,
+        "fila_excel": 375,
         "codigo": 1177,
         "nombre": "GALLETITA MERENGADAS 93G",
         "marca": "Bagley",
@@ -3750,7 +3740,7 @@
         "activo": true
     },
     {
-        "fila_excel": 377,
+        "fila_excel": 376,
         "codigo": 1220,
         "nombre": "GALLETITA  MINI CORONITAS FRAMBUESA 140G",
         "marca": "Fachitas",
@@ -3760,7 +3750,7 @@
         "activo": true
     },
     {
-        "fila_excel": 378,
+        "fila_excel": 377,
         "codigo": 1226,
         "nombre": "GALLETITA  MINI OREO 50G",
         "marca": "Mondelez",
@@ -3770,7 +3760,7 @@
         "activo": true
     },
     {
-        "fila_excel": 379,
+        "fila_excel": 378,
         "codigo": 1316,
         "nombre": "OBLEA OBLITA 50G",
         "marca": "Oblita",
@@ -3780,7 +3770,7 @@
         "activo": true
     },
     {
-        "fila_excel": 380,
+        "fila_excel": 379,
         "codigo": 1341,
         "nombre": "GALLETITA FRUTIGRAN CHIPS DE CHOCOLATE 250G",
         "marca": "Granix",
@@ -3790,7 +3780,7 @@
         "activo": true
     },
     {
-        "fila_excel": 381,
+        "fila_excel": 380,
         "codigo": 1351,
         "nombre": "GALLETITA OPERA 55G",
         "marca": "Arcor",
@@ -3800,7 +3790,7 @@
         "activo": true
     },
     {
-        "fila_excel": 382,
+        "fila_excel": 381,
         "codigo": 1352,
         "nombre": "GALLETITA OPERA 92G",
         "marca": "Arcor",
@@ -3810,7 +3800,7 @@
         "activo": true
     },
     {
-        "fila_excel": 383,
+        "fila_excel": 382,
         "codigo": 1457,
         "nombre": "GALLETITA PARNOR SUAVECITAS 140G",
         "marca": "ParNor",
@@ -3820,7 +3810,7 @@
         "activo": true
     },
     {
-        "fila_excel": 384,
+        "fila_excel": 383,
         "codigo": 1459,
         "nombre": "GALLETITA PITUSAS CHOCOLATE 160G",
         "marca": "ParNor",
@@ -3830,7 +3820,7 @@
         "activo": true
     },
     {
-        "fila_excel": 385,
+        "fila_excel": 384,
         "codigo": 1465,
         "nombre": "GALLETITA PASEO CRACKER AGUA 300G",
         "marca": "Molino Cañuelas",
@@ -3840,7 +3830,7 @@
         "activo": true
     },
     {
-        "fila_excel": 386,
+        "fila_excel": 385,
         "codigo": 1468,
         "nombre": "GALLETITA PASEO SALVADO 300G",
         "marca": "Molino Cañuelas",
@@ -3850,7 +3840,7 @@
         "activo": true
     },
     {
-        "fila_excel": 387,
+        "fila_excel": 386,
         "codigo": 1764,
         "nombre": "GALLETITA  RUMBA 112G",
         "marca": "Bagley",
@@ -3860,7 +3850,7 @@
         "activo": true
     },
     {
-        "fila_excel": 388,
+        "fila_excel": 387,
         "codigo": 1851,
         "nombre": "GALLETITA SONRISAS 108G",
         "marca": "Bagley",
@@ -3870,7 +3860,7 @@
         "activo": true
     },
     {
-        "fila_excel": 389,
+        "fila_excel": 388,
         "codigo": 1944,
         "nombre": "GALLETITA PEPAS TEREPIN 400G",
         "marca": "Terepín",
@@ -3880,7 +3870,7 @@
         "activo": true
     },
     {
-        "fila_excel": 390,
+        "fila_excel": 389,
         "codigo": 2021,
         "nombre": "TOSTADAS LEIVA DULCES 150G",
         "marca": "Leiva",
@@ -3890,7 +3880,7 @@
         "activo": true
     },
     {
-        "fila_excel": 391,
+        "fila_excel": 390,
         "codigo": 2032,
         "nombre": "GALLETITA  TRAVIATA 108G",
         "marca": "Bagley",
@@ -3900,7 +3890,7 @@
         "activo": true
     },
     {
-        "fila_excel": 392,
+        "fila_excel": 391,
         "codigo": 1718,
         "nombre": "KESITAS ESTUCHE 125G",
         "marca": "Bagley",
@@ -3910,7 +3900,7 @@
         "activo": true
     },
     {
-        "fila_excel": 393,
+        "fila_excel": 392,
         "codigo": 3090,
         "nombre": "SALADIX CROSS 135G",
         "marca": "Arcor",
@@ -3920,7 +3910,7 @@
         "activo": true
     },
     {
-        "fila_excel": 394,
+        "fila_excel": 393,
         "codigo": 1781,
         "nombre": "SALADIX CROSS 67G",
         "marca": "Arcor",
@@ -3930,7 +3920,7 @@
         "activo": true
     },
     {
-        "fila_excel": 395,
+        "fila_excel": 394,
         "codigo": 1778,
         "nombre": "SALADIX ESTUCHE DUO 100G",
         "marca": "Arcor",
@@ -3940,7 +3930,7 @@
         "activo": true
     },
     {
-        "fila_excel": 396,
+        "fila_excel": 395,
         "codigo": 1780,
         "nombre": "SALADIX DUO TIRA 6U 40G",
         "marca": "Arcor",
@@ -3950,7 +3940,7 @@
         "activo": true
     },
     {
-        "fila_excel": 397,
+        "fila_excel": 396,
         "codigo": 2033,
         "nombre": "GALLETITA  TRAVIATA TRIPACK 324G",
         "marca": "Bagley",
@@ -3960,7 +3950,7 @@
         "activo": true
     },
     {
-        "fila_excel": 398,
+        "fila_excel": 397,
         "codigo": 2039,
         "nombre": "GALLETITA HOJALMAR TRIANGULO 150G",
         "marca": "Hojalmar",
@@ -3970,7 +3960,7 @@
         "activo": true
     },
     {
-        "fila_excel": 399,
+        "fila_excel": 398,
         "codigo": 2077,
         "nombre": "VAINILLA MAURI 80G",
         "marca": "Mauri",
@@ -3980,7 +3970,7 @@
         "activo": true
     },
     {
-        "fila_excel": 400,
+        "fila_excel": 399,
         "codigo": 2079,
         "nombre": "VAINILLA MAURI 160G",
         "marca": "Mauri",
@@ -3990,7 +3980,7 @@
         "activo": true
     },
     {
-        "fila_excel": 401,
+        "fila_excel": 400,
         "codigo": 2718,
         "nombre": "GALLETITA  MINI PEPITOS 50G",
         "marca": "Mondelez",
@@ -4000,7 +3990,7 @@
         "activo": true
     },
     {
-        "fila_excel": 402,
+        "fila_excel": 401,
         "codigo": 2904,
         "nombre": "GALLETITA TRAVIATA REX 96G",
         "marca": "Bagley",
@@ -4010,7 +4000,7 @@
         "activo": true
     },
     {
-        "fila_excel": 403,
+        "fila_excel": 402,
         "codigo": 2951,
         "nombre": "GALLETITA  SURTIDO LIA 400G",
         "marca": "Lía",
@@ -4020,7 +4010,7 @@
         "activo": true
     },
     {
-        "fila_excel": 404,
+        "fila_excel": 403,
         "codigo": 3170,
         "nombre": "GALLETITA TERRABUSI ANILLOS 170G",
         "marca": "Terrabusi",
@@ -4030,7 +4020,7 @@
         "activo": true
     },
     {
-        "fila_excel": 405,
+        "fila_excel": 404,
         "codigo": 8714,
         "nombre": "ACE JABON LIQUIDO 800ML",
         "marca": "ACE",
@@ -4040,7 +4030,7 @@
         "activo": true
     },
     {
-        "fila_excel": 406,
+        "fila_excel": 405,
         "codigo": 477,
         "nombre": "ACONDICIONADOR SEDAL 190ML",
         "marca": "Sedal",
@@ -4050,7 +4040,7 @@
         "activo": true
     },
     {
-        "fila_excel": 407,
+        "fila_excel": 406,
         "codigo": 3380,
         "nombre": "ALA CREMOSO 750ML",
         "marca": "Ala",
@@ -4060,7 +4050,7 @@
         "activo": true
     },
     {
-        "fila_excel": 408,
+        "fila_excel": 407,
         "codigo": 2688,
         "nombre": "ALGODON CARESS 75GR",
         "marca": "Caress",
@@ -4070,7 +4060,7 @@
         "activo": true
     },
     {
-        "fila_excel": 409,
+        "fila_excel": 408,
         "codigo": 65,
         "nombre": "ALGODON DONCELLA *70GS",
         "marca": "Doncella",
@@ -4080,7 +4070,7 @@
         "activo": true
     },
     {
-        "fila_excel": 410,
+        "fila_excel": 409,
         "codigo": 3155,
         "nombre": "ALGODON DONCELLA 140GR",
         "marca": "Doncella",
@@ -4090,7 +4080,7 @@
         "activo": true
     },
     {
-        "fila_excel": 411,
+        "fila_excel": 410,
         "codigo": 67,
         "nombre": "ALGODON ESTRELLA 140GR",
         "marca": "Estrella",
@@ -4100,7 +4090,7 @@
         "activo": true
     },
     {
-        "fila_excel": 412,
+        "fila_excel": 411,
         "codigo": 66,
         "nombre": "ALGODON ESTRELLA 75GR",
         "marca": "Estrella",
@@ -4110,7 +4100,7 @@
         "activo": true
     },
     {
-        "fila_excel": 413,
+        "fila_excel": 412,
         "codigo": 1792,
         "nombre": "ARCOR MIEL MENTA 335 GR",
         "marca": "Arcor",
@@ -4120,7 +4110,7 @@
         "activo": true
     },
     {
-        "fila_excel": 414,
+        "fila_excel": 413,
         "codigo": 1735,
         "nombre": "ARCOR RODAJAS ACIDAS 930 GR",
         "marca": "Arcor",
@@ -4130,7 +4120,7 @@
         "activo": true
     },
     {
-        "fila_excel": 415,
+        "fila_excel": 414,
         "codigo": 2521,
         "nombre": "CHOCOLATE FELFORT BANANINA 15G",
         "marca": "FelFort",
@@ -4140,7 +4130,7 @@
         "activo": true
     },
     {
-        "fila_excel": 416,
+        "fila_excel": 415,
         "codigo": 114,
         "nombre": "CHOCOLATE BANANITA DOLCA 14G",
         "marca": "Nestlé",
@@ -4150,7 +4140,7 @@
         "activo": true
     },
     {
-        "fila_excel": 417,
+        "fila_excel": 416,
         "codigo": 115,
         "nombre": "CHOCOLATE BANANITA DOLCA 30G",
         "marca": "Nestlé",
@@ -4160,7 +4150,7 @@
         "activo": true
     },
     {
-        "fila_excel": 418,
+        "fila_excel": 417,
         "codigo": 119,
         "nombre": "CHOCOLATE BARRITA AGUILA 14GR",
         "marca": "Aguila",
@@ -4170,7 +4160,7 @@
         "activo": true
     },
     {
-        "fila_excel": 419,
+        "fila_excel": 418,
         "codigo": 791,
         "nombre": "BLEM LUSTRAMUEBLE*360",
         "marca": "Blem",
@@ -4180,7 +4170,7 @@
         "activo": true
     },
     {
-        "fila_excel": 420,
+        "fila_excel": 419,
         "codigo": 9837,
         "nombre": "BOCADITO CERICET FELFORT",
         "marca": "FelFort",
@@ -4190,7 +4180,7 @@
         "activo": true
     },
     {
-        "fila_excel": 421,
+        "fila_excel": 420,
         "codigo": 177,
         "nombre": "CHOCOLATE MARROC CRIC 14G",
         "marca": "FelFort",
@@ -4200,7 +4190,7 @@
         "activo": true
     },
     {
-        "fila_excel": 422,
+        "fila_excel": 421,
         "codigo": 2980,
         "nombre": "BOMBON FELFORT D'OR 12G",
         "marca": "FelFort",
@@ -4210,7 +4200,7 @@
         "activo": true
     },
     {
-        "fila_excel": 423,
+        "fila_excel": 422,
         "codigo": 366,
         "nombre": "BONAFIDE CHOCMAN 35G",
         "marca": "Bonafide",
@@ -4220,7 +4210,7 @@
         "activo": true
     },
     {
-        "fila_excel": 424,
+        "fila_excel": 423,
         "codigo": 1149,
         "nombre": "CHOCOLATE MECANO BLANCO 19G",
         "marca": "Bonafide",
@@ -4230,7 +4220,7 @@
         "activo": true
     },
     {
-        "fila_excel": 425,
+        "fila_excel": 424,
         "codigo": 212,
         "nombre": "CHOC BOTELLITA DE WHISKY 24G",
         "marca": "FelFort",
@@ -4240,7 +4230,7 @@
         "activo": true
     },
     {
-        "fila_excel": 426,
+        "fila_excel": 425,
         "codigo": 230,
         "nombre": "CHOCOLATE CABSHA 10G",
         "marca": "Arcor",
@@ -4250,7 +4240,7 @@
         "activo": true
     },
     {
-        "fila_excel": 427,
+        "fila_excel": 426,
         "codigo": 299,
         "nombre": "CEREALFORT MANZANA 22G",
         "marca": "FelFort",
@@ -4260,7 +4250,7 @@
         "activo": true
     },
     {
-        "fila_excel": 428,
+        "fila_excel": 427,
         "codigo": 2173,
         "nombre": "CHOCOLATE FULL MANI 150G",
         "marca": "Georgalos",
@@ -4270,7 +4260,7 @@
         "activo": true
     },
     {
-        "fila_excel": 429,
+        "fila_excel": 428,
         "codigo": 1887,
         "nombre": "CHOCOLATE AGUILA 70% CACAO 150G",
         "marca": "Aguila",
@@ -4280,7 +4270,7 @@
         "activo": true
     },
     {
-        "fila_excel": 430,
+        "fila_excel": 429,
         "codigo": 6091,
         "nombre": "CHOCOLATE AGUILA 70% CACAO 70G",
         "marca": "Aguila",
@@ -4290,7 +4280,7 @@
         "activo": true
     },
     {
-        "fila_excel": 431,
+        "fila_excel": 430,
         "codigo": 338,
         "nombre": "CHOCOLATE COFLER AIR BLANCO 27G",
         "marca": "Cofler",
@@ -4300,7 +4290,7 @@
         "activo": true
     },
     {
-        "fila_excel": 432,
+        "fila_excel": 431,
         "codigo": 349,
         "nombre": "CHOCOLATE DAQUI 70G",
         "marca": "Georgalos",
@@ -4310,7 +4300,7 @@
         "activo": true
     },
     {
-        "fila_excel": 433,
+        "fila_excel": 432,
         "codigo": 354,
         "nombre": "CHOCOLATE HAMLET COOKIES 43G",
         "marca": "Arcor",
@@ -4320,7 +4310,7 @@
         "activo": true
     },
     {
-        "fila_excel": 434,
+        "fila_excel": 433,
         "codigo": 1862,
         "nombre": "CHOCOLATE JACK FELFORT 14G",
         "marca": "FelFort",
@@ -4330,7 +4320,7 @@
         "activo": true
     },
     {
-        "fila_excel": 435,
+        "fila_excel": 434,
         "codigo": 356,
         "nombre": "CHOCOLATE MISKY NEGRO 25G",
         "marca": "Arcor",
@@ -4340,7 +4330,7 @@
         "activo": true
     },
     {
-        "fila_excel": 436,
+        "fila_excel": 435,
         "codigo": 357,
         "nombre": "CHOCOLATE MISKY NEGRO 50G",
         "marca": "Arcor",
@@ -4350,7 +4340,7 @@
         "activo": true
     },
     {
-        "fila_excel": 437,
+        "fila_excel": 436,
         "codigo": 369,
         "nombre": "CHOCOLATIN MISKY 8G",
         "marca": "Arcor",
@@ -4360,7 +4350,7 @@
         "activo": true
     },
     {
-        "fila_excel": 438,
+        "fila_excel": 437,
         "codigo": 375,
         "nombre": "CHUP ARCOR MR POP FRUTAL 50U",
         "marca": "Arcor",
@@ -4370,7 +4360,7 @@
         "activo": true
     },
     {
-        "fila_excel": 439,
+        "fila_excel": 438,
         "codigo": 392,
         "nombre": "CHUPELATIN FELFORT 15G",
         "marca": "FelFort",
@@ -4380,7 +4370,7 @@
         "activo": true
     },
     {
-        "fila_excel": 440,
+        "fila_excel": 439,
         "codigo": 1028,
         "nombre": "CHUPETIN PELOTITAS 50 U",
         "marca": "Lheritier",
@@ -4390,7 +4380,7 @@
         "activo": true
     },
     {
-        "fila_excel": 441,
+        "fila_excel": 440,
         "codigo": 391,
         "nombre": "CHUPETIN PITO PITO 24 U",
         "marca": "Lheritier",
@@ -4400,7 +4390,7 @@
         "activo": true
     },
     {
-        "fila_excel": 442,
+        "fila_excel": 441,
         "codigo": 3302,
         "nombre": "CIF CREMA 375GR",
         "marca": "Unilever",
@@ -4410,7 +4400,7 @@
         "activo": true
     },
     {
-        "fila_excel": 443,
+        "fila_excel": 442,
         "codigo": 9874,
         "nombre": "CHOCOLATE COFLER EXTRA 46G",
         "marca": "Arcor",
@@ -4420,7 +4410,7 @@
         "activo": true
     },
     {
-        "fila_excel": 444,
+        "fila_excel": 443,
         "codigo": 430,
         "nombre": "COLGATE 70GR",
         "marca": "Colgate",
@@ -4430,7 +4420,7 @@
         "activo": true
     },
     {
-        "fila_excel": 445,
+        "fila_excel": 444,
         "codigo": 9866,
         "nombre": "CONITO DON QUIQUE 34G",
         "marca": "Don Quique",
@@ -4440,7 +4430,7 @@
         "activo": true
     },
     {
-        "fila_excel": 446,
+        "fila_excel": 445,
         "codigo": 501,
         "nombre": "BOCADITO DANCING 50U",
         "marca": "Arcor",
@@ -4450,7 +4440,7 @@
         "activo": true
     },
     {
-        "fila_excel": 447,
+        "fila_excel": 446,
         "codigo": 2624,
         "nombre": "DETER CIF ACTIVE 300 ML",
         "marca": "Unilever",
@@ -4460,7 +4450,7 @@
         "activo": true
     },
     {
-        "fila_excel": 448,
+        "fila_excel": 447,
         "codigo": 2625,
         "nombre": "DETER CIF ACTIVE 500 ML",
         "marca": "Unilever",
@@ -4470,7 +4460,7 @@
         "activo": true
     },
     {
-        "fila_excel": 449,
+        "fila_excel": 448,
         "codigo": 9863,
         "nombre": "DETERG.ALA CONCENT 500ML",
         "marca": "Unilever",
@@ -4480,7 +4470,7 @@
         "activo": true
     },
     {
-        "fila_excel": 450,
+        "fila_excel": 449,
         "codigo": 3064,
         "nombre": "DETERGENTE MAGISTRAL X 300",
         "marca": "Magistral",
@@ -4490,7 +4480,7 @@
         "activo": true
     },
     {
-        "fila_excel": 451,
+        "fila_excel": 450,
         "codigo": 8828,
         "nombre": "ALFAJOR BARRIGON MEGA NEGRO 100G",
         "marca": "Doncella",
@@ -4500,7 +4490,7 @@
         "activo": true
     },
     {
-        "fila_excel": 452,
+        "fila_excel": 451,
         "codigo": 595,
         "nombre": "ESPIRALES RAID CAJA 12U",
         "marca": "SC Johnson",
@@ -4510,7 +4500,7 @@
         "activo": true
     },
     {
-        "fila_excel": 453,
+        "fila_excel": 452,
         "codigo": 3066,
         "nombre": "ESPONJA VIRULANA LISA",
         "marca": "Mapa Virulana",
@@ -4520,7 +4510,7 @@
         "activo": true
     },
     {
-        "fila_excel": 454,
+        "fila_excel": 453,
         "codigo": 637,
         "nombre": "CHOCOLATE FEELING 20G",
         "marca": "FelFort",
@@ -4530,7 +4520,7 @@
         "activo": true
     },
     {
-        "fila_excel": 455,
+        "fila_excel": 454,
         "codigo": 774,
         "nombre": "GEL DOREE 180GR",
         "marca": "",
@@ -4540,7 +4530,7 @@
         "activo": true
     },
     {
-        "fila_excel": 456,
+        "fila_excel": 455,
         "codigo": 911,
         "nombre": "JABON ALA MATIC 400GR",
         "marca": "Unilever",
@@ -4550,7 +4540,7 @@
         "activo": true
     },
     {
-        "fila_excel": 457,
+        "fila_excel": 456,
         "codigo": 2400,
         "nombre": "JABON ALA MATIC 800ML",
         "marca": "Unilever",
@@ -4560,7 +4550,7 @@
         "activo": true
     },
     {
-        "fila_excel": 458,
+        "fila_excel": 457,
         "codigo": 9836,
         "nombre": "JABON ARIEL X 800 SACH",
         "marca": "Ariel",
@@ -4570,7 +4560,7 @@
         "activo": true
     },
     {
-        "fila_excel": 459,
+        "fila_excel": 458,
         "codigo": 913,
         "nombre": "JABON CUPIDO X 3 *90 GS",
         "marca": "",
@@ -4580,7 +4570,7 @@
         "activo": true
     },
     {
-        "fila_excel": 460,
+        "fila_excel": 459,
         "codigo": 914,
         "nombre": "JABON DOVE 90 GR",
         "marca": "Unilever",
@@ -4590,7 +4580,7 @@
         "activo": true
     },
     {
-        "fila_excel": 461,
+        "fila_excel": 460,
         "codigo": 3183,
         "nombre": "JABON EN PAN SIGNO",
         "marca": "",
@@ -4600,7 +4590,7 @@
         "activo": true
     },
     {
-        "fila_excel": 462,
+        "fila_excel": 461,
         "codigo": 3182,
         "nombre": "JABON GRANBY 800 ML",
         "marca": "Unilever",
@@ -4610,7 +4600,7 @@
         "activo": true
     },
     {
-        "fila_excel": 463,
+        "fila_excel": 462,
         "codigo": 3187,
         "nombre": "JABON LIQ ALGABO 300 ML",
         "marca": "Algabo S.A.",
@@ -4620,7 +4610,7 @@
         "activo": true
     },
     {
-        "fila_excel": 464,
+        "fila_excel": 463,
         "codigo": 2771,
         "nombre": "JABON LIQUI QUERUBIN* 800 ML",
         "marca": "Grupo Queruclor",
@@ -4630,7 +4620,7 @@
         "activo": true
     },
     {
-        "fila_excel": 465,
+        "fila_excel": 464,
         "codigo": 925,
         "nombre": "JABON LUX 125 GR",
         "marca": "Unilever",
@@ -4640,7 +4630,7 @@
         "activo": true
     },
     {
-        "fila_excel": 466,
+        "fila_excel": 465,
         "codigo": 932,
         "nombre": "JABON REXONA",
         "marca": "Unilever",
@@ -4650,7 +4640,7 @@
         "activo": true
     },
     {
-        "fila_excel": 467,
+        "fila_excel": 466,
         "codigo": 3188,
         "nombre": "JABON SIGNO X3",
         "marca": "",
@@ -4660,7 +4650,7 @@
         "activo": true
     },
     {
-        "fila_excel": 468,
+        "fila_excel": 467,
         "codigo": 198,
         "nombre": "BOMBON JACKELIN 14G",
         "marca": "FelFort",
@@ -4670,7 +4660,7 @@
         "activo": true
     },
     {
-        "fila_excel": 469,
+        "fila_excel": 468,
         "codigo": 938,
         "nombre": "JUGO CLIGHT POMELO ROSA 20U",
         "marca": "Mondelez",
@@ -4680,7 +4670,7 @@
         "activo": true
     },
     {
-        "fila_excel": 470,
+        "fila_excel": 469,
         "codigo": 947,
         "nombre": "CHOCOLATE KINDER BUENO NEGRO 43G",
         "marca": "Kinder",
@@ -4690,7 +4680,7 @@
         "activo": true
     },
     {
-        "fila_excel": 471,
+        "fila_excel": 470,
         "codigo": 958,
         "nombre": "KOLYNOS 70 GR",
         "marca": "Colgate",
@@ -4700,7 +4690,7 @@
         "activo": true
     },
     {
-        "fila_excel": 472,
+        "fila_excel": 471,
         "codigo": 2487,
         "nombre": "CHOCOLATE FELFORT KOOKY BON 10G",
         "marca": "FelFort",
@@ -4710,7 +4700,7 @@
         "activo": true
     },
     {
-        "fila_excel": 473,
+        "fila_excel": 472,
         "codigo": 2340,
         "nombre": "LAVANDINA  HEROE  1 LITRO",
         "marca": "",
@@ -4720,7 +4710,7 @@
         "activo": true
     },
     {
-        "fila_excel": 474,
+        "fila_excel": 473,
         "codigo": 1010,
         "nombre": "LAVANDINA AYUDIN CLASICA 1 L",
         "marca": "Ayudín",
@@ -4730,7 +4720,7 @@
         "activo": true
     },
     {
-        "fila_excel": 475,
+        "fila_excel": 474,
         "codigo": 9875,
         "nombre": "LICOR AL CHOCOLATE  500G",
         "marca": "FelFort",
@@ -4740,7 +4730,7 @@
         "activo": true
     },
     {
-        "fila_excel": 476,
+        "fila_excel": 475,
         "codigo": 8723,
         "nombre": "CHOCOLATE LICORFORT WHISKY 13G",
         "marca": "FelFort",
@@ -4750,7 +4740,7 @@
         "activo": true
     },
     {
-        "fila_excel": 477,
+        "fila_excel": 476,
         "codigo": 1033,
         "nombre": "CHOCOLATE LICORITAS 20G",
         "marca": "FelFort",
@@ -4760,7 +4750,7 @@
         "activo": true
     },
     {
-        "fila_excel": 478,
+        "fila_excel": 477,
         "codigo": 1042,
         "nombre": "POETT FLORES PRIMAVERA 900ML",
         "marca": "Ayudín",
@@ -4770,7 +4760,7 @@
         "activo": true
     },
     {
-        "fila_excel": 479,
+        "fila_excel": 478,
         "codigo": 3381,
         "nombre": "MAGISTRAL DETERGENT 225ML",
         "marca": "Magistral",
@@ -4780,7 +4770,7 @@
         "activo": true
     },
     {
-        "fila_excel": 480,
+        "fila_excel": 479,
         "codigo": 1095,
         "nombre": "MANTECOL 111G",
         "marca": "Georgalos",
@@ -4790,7 +4780,7 @@
         "activo": true
     },
     {
-        "fila_excel": 481,
+        "fila_excel": 480,
         "codigo": 1093,
         "nombre": "MANTECOL 26G",
         "marca": "Georgalos",
@@ -4800,7 +4790,7 @@
         "activo": true
     },
     {
-        "fila_excel": 482,
+        "fila_excel": 481,
         "codigo": 1103,
         "nombre": "MANTECOL 40G",
         "marca": "Georgalos",
@@ -4810,7 +4800,7 @@
         "activo": true
     },
     {
-        "fila_excel": 483,
+        "fila_excel": 482,
         "codigo": 1090,
         "nombre": "MANTECOL 64G",
         "marca": "Georgalos",
@@ -4820,7 +4810,7 @@
         "activo": true
     },
     {
-        "fila_excel": 484,
+        "fila_excel": 483,
         "codigo": 176,
         "nombre": "CHOCOLATE MARROC 14G",
         "marca": "FelFort",
@@ -4830,7 +4820,7 @@
         "activo": true
     },
     {
-        "fila_excel": 485,
+        "fila_excel": 484,
         "codigo": 903,
         "nombre": "MATA MOSCAS SELTON 360 CC",
         "marca": "Ayudín",
@@ -4840,7 +4830,7 @@
         "activo": true
     },
     {
-        "fila_excel": 486,
+        "fila_excel": 485,
         "codigo": 1152,
         "nombre": "ALFAJOR GUAYMALLEN FRUTA TRIPLE 70G",
         "marca": "Guaymallén",
@@ -4850,7 +4840,7 @@
         "activo": true
     },
     {
-        "fila_excel": 487,
+        "fila_excel": 486,
         "codigo": 1151,
         "nombre": "CHOCOLATE MENTITAS FELFORT 16G",
         "marca": "FelFort",
@@ -4860,7 +4850,7 @@
         "activo": true
     },
     {
-        "fila_excel": 488,
+        "fila_excel": 487,
         "codigo": 1197,
         "nombre": "MILKA CHOCO PAUSE LECHE 45G",
         "marca": "Milka",
@@ -4870,7 +4860,7 @@
         "activo": true
     },
     {
-        "fila_excel": 489,
+        "fila_excel": 488,
         "codigo": 688,
         "nombre": "GOMITAS MOGUL VIBORITA  12U",
         "marca": "Arcor",
@@ -4880,7 +4870,7 @@
         "activo": true
     },
     {
-        "fila_excel": 490,
+        "fila_excel": 489,
         "codigo": 1247,
         "nombre": "CHOCOLATE FELFORT MONEDA PIRATA",
         "marca": "FelFort",
@@ -4890,7 +4880,7 @@
         "activo": true
     },
     {
-        "fila_excel": 491,
+        "fila_excel": 490,
         "codigo": 9868,
         "nombre": "NUGATON 27G",
         "marca": "Bonafide",
@@ -4900,7 +4890,7 @@
         "activo": true
     },
     {
-        "fila_excel": 492,
+        "fila_excel": 491,
         "codigo": 1440,
         "nombre": "PAPEL HIG FELPITA*4 X 30 MTS",
         "marca": "Felpita",
@@ -4910,7 +4900,7 @@
         "activo": true
     },
     {
-        "fila_excel": 493,
+        "fila_excel": 492,
         "codigo": 1444,
         "nombre": "PAPEL HIGIENICO VUAL*50 MTS",
         "marca": "Vual",
@@ -4920,7 +4910,7 @@
         "activo": true
     },
     {
-        "fila_excel": 494,
+        "fila_excel": 493,
         "codigo": 1439,
         "nombre": "PAPEL HIGIENOL MAX 80M",
         "marca": "Higienol",
@@ -4930,7 +4920,7 @@
         "activo": false
     },
     {
-        "fila_excel": 495,
+        "fila_excel": 494,
         "codigo": 1462,
         "nombre": "PARAGUITAS FELFORT 13 GR",
         "marca": "FelFort",
@@ -4940,7 +4930,7 @@
         "activo": true
     },
     {
-        "fila_excel": 496,
+        "fila_excel": 495,
         "codigo": 3184,
         "nombre": "PASTA ORAL-B  70 GR",
         "marca": "Oral-b",
@@ -4950,7 +4940,7 @@
         "activo": true
     },
     {
-        "fila_excel": 497,
+        "fila_excel": 496,
         "codigo": 1617,
         "nombre": "PROCENEX 900",
         "marca": "Procenex",
@@ -4960,7 +4950,7 @@
         "activo": true
     },
     {
-        "fila_excel": 498,
+        "fila_excel": 497,
         "codigo": 3065,
         "nombre": "PROTECTOR DONCELLA ROSA X 40",
         "marca": "Doncella",
@@ -4970,7 +4960,7 @@
         "activo": true
     },
     {
-        "fila_excel": 499,
+        "fila_excel": 498,
         "codigo": 1623,
         "nombre": "PROTECTORES CALIPSO* 20 UNI",
         "marca": "",
@@ -4980,7 +4970,7 @@
         "activo": true
     },
     {
-        "fila_excel": 500,
+        "fila_excel": 499,
         "codigo": 2456,
         "nombre": "PROTECTORES DONCELLA VERDE*2",
         "marca": "Doncella",
@@ -4990,7 +4980,7 @@
         "activo": true
     },
     {
-        "fila_excel": 501,
+        "fila_excel": 500,
         "codigo": 1630,
         "nombre": "PROTECTORES DONCELLA VIOLETA",
         "marca": "Doncella",
@@ -5000,7 +4990,7 @@
         "activo": false
     },
     {
-        "fila_excel": 502,
+        "fila_excel": 501,
         "codigo": 1017,
         "nombre": "QUERUBIN SUAVIZANTE*900",
         "marca": "Grupo Queruclor",
@@ -5010,7 +5000,7 @@
         "activo": true
     },
     {
-        "fila_excel": 503,
+        "fila_excel": 502,
         "codigo": 8724,
         "nombre": "GOMITAS REGALIZ BULL DOG FRUTILLA 360G",
         "marca": "",
@@ -5020,7 +5010,7 @@
         "activo": true
     },
     {
-        "fila_excel": 504,
+        "fila_excel": 503,
         "codigo": 3305,
         "nombre": "ROLLO CARTABELLA 3X120 PAÑOS",
         "marca": "",
@@ -5030,7 +5020,7 @@
         "activo": true
     },
     {
-        "fila_excel": 505,
+        "fila_excel": 504,
         "codigo": 1737,
         "nombre": "ROLLO COCINA ELEGANTE 3 UNID",
         "marca": "Elegante",
@@ -5040,7 +5030,7 @@
         "activo": true
     },
     {
-        "fila_excel": 506,
+        "fila_excel": 505,
         "codigo": 1740,
         "nombre": "ROLLO COCINA SPUM* 3 UNID",
         "marca": "",
@@ -5050,7 +5040,7 @@
         "activo": true
     },
     {
-        "fila_excel": 507,
+        "fila_excel": 506,
         "codigo": 1741,
         "nombre": "ROLLO COCINA SUSSEX* 3 UNID",
         "marca": "Sussex",
@@ -5060,7 +5050,7 @@
         "activo": true
     },
     {
-        "fila_excel": 508,
+        "fila_excel": 507,
         "codigo": 3153,
         "nombre": "SHAMPOO PLUSBELLE 1000ML",
         "marca": "Plusbelle",
@@ -5070,7 +5060,7 @@
         "activo": true
     },
     {
-        "fila_excel": 509,
+        "fila_excel": 508,
         "codigo": 1819,
         "nombre": "SHAMPOO SEDAL TODOS 190ML",
         "marca": "Unilever",
@@ -5080,7 +5070,7 @@
         "activo": true
     },
     {
-        "fila_excel": 510,
+        "fila_excel": 509,
         "codigo": 3174,
         "nombre": "CHOCOLATE VAUQUITA CLASICA 25G",
         "marca": "Vauquita",
@@ -5090,7 +5080,7 @@
         "activo": true
     },
     {
-        "fila_excel": 511,
+        "fila_excel": 510,
         "codigo": 1900,
         "nombre": "TALCO EFFICIENT 100GR",
         "marca": "Unilever",
@@ -5100,7 +5090,7 @@
         "activo": true
     },
     {
-        "fila_excel": 512,
+        "fila_excel": 511,
         "codigo": 1957,
         "nombre": "CHOCOLATE TIVIS 25G",
         "marca": "FelFort",
@@ -5110,7 +5100,7 @@
         "activo": true
     },
     {
-        "fila_excel": 513,
+        "fila_excel": 512,
         "codigo": 1962,
         "nombre": "TOALLAS  LINA C/ ALAS* 8 UNI",
         "marca": "Lina",
@@ -5120,7 +5110,7 @@
         "activo": true
     },
     {
-        "fila_excel": 514,
+        "fila_excel": 513,
         "codigo": 1966,
         "nombre": "TOALLAS LADYSOF NORMAL 8U",
         "marca": "Ladysoft",
@@ -5130,7 +5120,7 @@
         "activo": true
     },
     {
-        "fila_excel": 515,
+        "fila_excel": 514,
         "codigo": 8835,
         "nombre": "CHOCOLATE FELFORT WINING 20G",
         "marca": "FelFort",
@@ -5140,7 +5130,7 @@
         "activo": true
     },
     {
-        "fila_excel": 516,
+        "fila_excel": 515,
         "codigo": 2519,
         "nombre": "GOMITAS YUMMY MORITAS 12X30G",
         "marca": "Billiken",
@@ -5150,7 +5140,7 @@
         "activo": true
     },
     {
-        "fila_excel": 517,
+        "fila_excel": 516,
         "codigo": 372,
         "nombre": "CHOCOLATIN GEORGALOS 40U",
         "marca": "Georgalos",
@@ -5160,7 +5150,7 @@
         "activo": true
     },
     {
-        "fila_excel": 518,
+        "fila_excel": 517,
         "codigo": 9833,
         "nombre": "JABON EN PAN ALA 200G",
         "marca": "Unilever",
@@ -5170,7 +5160,7 @@
         "activo": true
     },
     {
-        "fila_excel": 519,
+        "fila_excel": 518,
         "codigo": 8891,
         "nombre": "MILKA RASPBERRY CREME 100G",
         "marca": "Milka",
@@ -5180,7 +5170,7 @@
         "activo": true
     },
     {
-        "fila_excel": 520,
+        "fila_excel": 519,
         "codigo": 2988,
         "nombre": "PAPEL  HIGIEN.VUAL 4X80 MT",
         "marca": "Vual",
@@ -5190,7 +5180,7 @@
         "activo": true
     },
     {
-        "fila_excel": 521,
+        "fila_excel": 520,
         "codigo": 203,
         "nombre": "BOMBON BONOBON BLANCO 15G",
         "marca": "Arcor",
@@ -5200,7 +5190,7 @@
         "activo": true
     },
     {
-        "fila_excel": 522,
+        "fila_excel": 521,
         "codigo": 1306,
         "nombre": "OBLEA BONOBON NEGRO 30G",
         "marca": "Arcor",
@@ -5210,7 +5200,7 @@
         "activo": true
     },
     {
-        "fila_excel": 523,
+        "fila_excel": 522,
         "codigo": 1731,
         "nombre": "CHOCOLATE ROCKLETS 20G",
         "marca": "Arcor",
@@ -5220,7 +5210,7 @@
         "activo": true
     },
     {
-        "fila_excel": 524,
+        "fila_excel": 523,
         "codigo": 1732,
         "nombre": "CHOCOLATE ROCKLETS 40G",
         "marca": "Arcor",
@@ -5230,7 +5220,7 @@
         "activo": true
     },
     {
-        "fila_excel": 525,
+        "fila_excel": 524,
         "codigo": 1730,
         "nombre": "CHOCOLATE ROCKLETS MINI 10G",
         "marca": "Arcor",
@@ -5240,7 +5230,7 @@
         "activo": true
     },
     {
-        "fila_excel": 526,
+        "fila_excel": 525,
         "codigo": 3250,
         "nombre": "MAIZENA 220GR",
         "marca": "Unilever",
@@ -5250,7 +5240,7 @@
         "activo": true
     },
     {
-        "fila_excel": 527,
+        "fila_excel": 526,
         "codigo": 9882,
         "nombre": "CARAMELOS BUTTER TOFFEES PISTACHO 648 GR",
         "marca": "Arcor",
@@ -5260,7 +5250,7 @@
         "activo": true
     },
     {
-        "fila_excel": 528,
+        "fila_excel": 527,
         "codigo": 53,
         "nombre": "ALFAJOR TERRABUSI TORTA TIPLE 70G",
         "marca": "Terrabusi",
@@ -5270,7 +5260,7 @@
         "activo": true
     },
     {
-        "fila_excel": 529,
+        "fila_excel": 528,
         "codigo": 57,
         "nombre": "ALFAJOR JORGELIN NEGRO 85G",
         "marca": "Jorgito",
@@ -5280,7 +5270,7 @@
         "activo": true
     },
     {
-        "fila_excel": 530,
+        "fila_excel": 529,
         "codigo": 62,
         "nombre": "ALFAJOR GUAYMALLEN NEGRO TRIPLE 70G",
         "marca": "Guaymallén",
@@ -5290,7 +5280,7 @@
         "activo": true
     },
     {
-        "fila_excel": 531,
+        "fila_excel": 530,
         "codigo": 1664,
         "nombre": "MINI TORTA RAPSODIA 80G",
         "marca": "Nevares",
@@ -5300,7 +5290,7 @@
         "activo": true
     },
     {
-        "fila_excel": 532,
+        "fila_excel": 531,
         "codigo": 2301,
         "nombre": "ALFAJOR TITA 36G",
         "marca": "Terrabusi",
@@ -5310,7 +5300,7 @@
         "activo": true
     },
     {
-        "fila_excel": 533,
+        "fila_excel": 532,
         "codigo": 2356,
         "nombre": "ALFAJOR RECOVA",
         "marca": "La Recova",
@@ -5320,7 +5310,7 @@
         "activo": true
     },
     {
-        "fila_excel": 534,
+        "fila_excel": 533,
         "codigo": 2553,
         "nombre": "PATE PICADILLO MAROLIO 90GS",
         "marca": "Marolio",
@@ -5330,7 +5320,7 @@
         "activo": true
     },
     {
-        "fila_excel": 535,
+        "fila_excel": 534,
         "codigo": 3171,
         "nombre": "GALLETITA TERRABUSI ANILLOS 300G",
         "marca": "Terrabusi",
@@ -5340,7 +5330,7 @@
         "activo": true
     },
     {
-        "fila_excel": 536,
+        "fila_excel": 535,
         "codigo": 3145,
         "nombre": "CUMANA LOMOS ATUN 170GR",
         "marca": "Bavosi",
@@ -5350,7 +5340,7 @@
         "activo": true
     },
     {
-        "fila_excel": 537,
+        "fila_excel": 536,
         "codigo": 3172,
         "nombre": "ALFAJOR VAUQUITA SUBLIME 70G",
         "marca": "Vauquita",
@@ -5360,7 +5350,7 @@
         "activo": true
     },
     {
-        "fila_excel": 538,
+        "fila_excel": 537,
         "codigo": 3251,
         "nombre": "FIDEO LUCCHETTI TIRAB 500GR",
         "marca": "Molinos",
@@ -5370,7 +5360,7 @@
         "activo": true
     },
     {
-        "fila_excel": 539,
+        "fila_excel": 538,
         "codigo": 3252,
         "nombre": "FIDEO LUCCHETTI MOSTA 500GR",
         "marca": "Molinos",
@@ -5380,7 +5370,7 @@
         "activo": true
     },
     {
-        "fila_excel": 540,
+        "fila_excel": 539,
         "codigo": 3253,
         "nombre": "FIDEO LUCCHETTI SPAGHE 500GR",
         "marca": "Molinos",
@@ -5390,7 +5380,7 @@
         "activo": true
     },
     {
-        "fila_excel": 541,
+        "fila_excel": 540,
         "codigo": 3254,
         "nombre": "ACEITE MANCERA 900ML",
         "marca": "La Mancera",
@@ -5400,7 +5390,7 @@
         "activo": true
     },
     {
-        "fila_excel": 542,
+        "fila_excel": 541,
         "codigo": 8838,
         "nombre": "ALFAJOR GUAYMALLEN RUBI 50G",
         "marca": "Guaymallén",
@@ -5410,7 +5400,7 @@
         "activo": true
     },
     {
-        "fila_excel": 543,
+        "fila_excel": 542,
         "codigo": 8842,
         "nombre": "ALFAJOR DON QUIQUE MERENGUE 65G",
         "marca": "Don Quique",
@@ -5420,7 +5410,7 @@
         "activo": true
     },
     {
-        "fila_excel": 544,
+        "fila_excel": 543,
         "codigo": 9862,
         "nombre": "MINI TORTA PICNIC 38G",
         "marca": "Nevares",
@@ -5430,7 +5420,7 @@
         "activo": true
     },
     {
-        "fila_excel": 545,
+        "fila_excel": 544,
         "codigo": 9864,
         "nombre": "ALFAJOR DON QUIQUE NEGRO 65G",
         "marca": "Don Quique",
@@ -5440,7 +5430,7 @@
         "activo": true
     },
     {
-        "fila_excel": 546,
+        "fila_excel": 545,
         "codigo": 9865,
         "nombre": "ALFAJOR DON QUIQUE MAICENA 65G",
         "marca": "Don Quique",
@@ -5450,7 +5440,7 @@
         "activo": true
     },
     {
-        "fila_excel": 547,
+        "fila_excel": 546,
         "codigo": 9869,
         "nombre": "ALFAJOR CACHAFAZ  NEGRO 60G",
         "marca": "Cachafaz",
@@ -5460,7 +5450,7 @@
         "activo": true
     },
     {
-        "fila_excel": 548,
+        "fila_excel": 547,
         "codigo": 9883,
         "nombre": "MANTECOL BAÑADO 20G",
         "marca": "Georgalos",
@@ -5470,7 +5460,7 @@
         "activo": true
     },
     {
-        "fila_excel": 549,
+        "fila_excel": 548,
         "codigo": 9884,
         "nombre": "SPORT POP C/U",
         "marca": "Fun Candy",
@@ -5480,7 +5470,7 @@
         "activo": true
     },
     {
-        "fila_excel": 550,
+        "fila_excel": 549,
         "codigo": 9885,
         "nombre": "UNI POP  C/U",
         "marca": "Fun Candy",
@@ -5490,7 +5480,7 @@
         "activo": true
     },
     {
-        "fila_excel": 551,
+        "fila_excel": 550,
         "codigo": 9887,
         "nombre": "CHICLE BELDENT CONFITADO SANDIA 9U",
         "marca": "Mondelez",
@@ -5500,7 +5490,7 @@
         "activo": true
     },
     {
-        "fila_excel": 552,
+        "fila_excel": 551,
         "codigo": 8831,
         "nombre": "GOMITAS REGALIZ BULL DOG SANDIA 75G",
         "marca": "",
@@ -5510,7 +5500,7 @@
         "activo": true
     },
     {
-        "fila_excel": 553,
+        "fila_excel": 552,
         "codigo": 1312,
         "nombre": "OBLEA SMACK 33G",
         "marca": "Smack",
@@ -5520,7 +5510,7 @@
         "activo": true
     },
     {
-        "fila_excel": 554,
+        "fila_excel": 553,
         "codigo": 2615,
         "nombre": "CUBANITO SMACK 27G",
         "marca": "Smack",
@@ -5530,7 +5520,7 @@
         "activo": true
     },
     {
-        "fila_excel": 555,
+        "fila_excel": 554,
         "codigo": 2050,
         "nombre": "TURRON DE MANI ARCOR X 25 GR",
         "marca": "Arcor",
@@ -5540,7 +5530,7 @@
         "activo": true
     },
     {
-        "fila_excel": 556,
+        "fila_excel": 555,
         "codigo": 2052,
         "nombre": "TURRON MANI  NEVARES X 25 GR",
         "marca": "Nevares",
@@ -5550,7 +5540,7 @@
         "activo": true
     },
     {
-        "fila_excel": 557,
+        "fila_excel": 556,
         "codigo": 2051,
         "nombre": "TURRON MANI MISKY X 25 GR",
         "marca": "Arcor",
@@ -5560,7 +5550,7 @@
         "activo": true
     },
     {
-        "fila_excel": 558,
+        "fila_excel": 557,
         "codigo": 15,
         "nombre": "MIELCITAS X5 TIRAS",
         "marca": "",
@@ -5570,17 +5560,17 @@
         "activo": true
     },
     {
-        "fila_excel": 559,
+        "fila_excel": 558,
         "codigo": 226,
         "nombre": "TUTUCA BURBUJAS 80G",
         "marca": "Burbujas",
-        "categoria": "Golosinas",
+        "categoria": "Snacks",
         "precio": 798.6,
         "imagen": "226.webp",
         "activo": true
     },
     {
-        "fila_excel": 560,
+        "fila_excel": 559,
         "codigo": 475,
         "nombre": "CRAZY POP X5 U",
         "marca": "Fun Candy",
@@ -5590,7 +5580,7 @@
         "activo": true
     },
     {
-        "fila_excel": 561,
+        "fila_excel": 560,
         "codigo": 733,
         "nombre": "OBLEA RHODESIA 22G",
         "marca": "Terrabusi",
@@ -5600,7 +5590,7 @@
         "activo": true
     },
     {
-        "fila_excel": 562,
+        "fila_excel": 561,
         "codigo": 738,
         "nombre": "OBLEA TITA 19G",
         "marca": "Terrabusi",
@@ -5610,9 +5600,9 @@
         "activo": true
     },
     {
-        "fila_excel": 563,
+        "fila_excel": 562,
         "codigo": 784,
-        "nombre": "PIPAS GIGANTES 50G X12U",
+        "nombre": "PIPAS GIGANTES 12U 50G",
         "marca": "Pipas",
         "categoria": "Golosinas",
         "precio": 8013.83,
@@ -5620,7 +5610,7 @@
         "activo": true
     },
     {
-        "fila_excel": 564,
+        "fila_excel": 563,
         "codigo": 1210,
         "nombre": "BOMBON MILKA OREO 19G",
         "marca": "Milka",
@@ -5630,7 +5620,7 @@
         "activo": true
     },
     {
-        "fila_excel": 565,
+        "fila_excel": 564,
         "codigo": 1359,
         "nombre": "PAÑAL HUGGIES XXG 8U",
         "marca": "Huggies",
@@ -5640,9 +5630,9 @@
         "activo": true
     },
     {
-        "fila_excel": 566,
+        "fila_excel": 565,
         "codigo": 1385,
-        "nombre": "PALITO SALADO BURBUJA 150G",
+        "nombre": "PALITOS SALADO BURBUJA 150G",
         "marca": "Burbujas",
         "categoria": "Snacks",
         "precio": 1200.32,
@@ -5650,7 +5640,7 @@
         "activo": true
     },
     {
-        "fila_excel": 567,
+        "fila_excel": 566,
         "codigo": 1422,
         "nombre": "PAPAS PRINGLES ORIGINAL 105G",
         "marca": "Pringles",
@@ -5660,7 +5650,7 @@
         "activo": true
     },
     {
-        "fila_excel": 568,
+        "fila_excel": 567,
         "codigo": 1423,
         "nombre": "PAPAS PRINGLES ORIGINAL 37G",
         "marca": "Pringles",
@@ -5670,17 +5660,17 @@
         "activo": true
     },
     {
-        "fila_excel": 569,
+        "fila_excel": 568,
         "codigo": 3051,
-        "nombre": "PIPA GIGANTE TIRA 10 U",
+        "nombre": "PIPA GIGANTE TIRA 10U",
         "marca": "Pipas",
-        "categoria": "Golosinas",
+        "categoria": "Snacks",
         "precio": 6292.0,
         "imagen": "3051.webp",
         "activo": true
     },
     {
-        "fila_excel": 570,
+        "fila_excel": 569,
         "codigo": 3143,
         "nombre": "LATITA CANDY 10G",
         "marca": "",
@@ -5690,7 +5680,7 @@
         "activo": true
     },
     {
-        "fila_excel": 571,
+        "fila_excel": 570,
         "codigo": 3270,
         "nombre": "CHOCOLATE TOBLERONE 100G",
         "marca": "Mondelez",
@@ -5700,17 +5690,17 @@
         "activo": true
     },
     {
-        "fila_excel": 572,
+        "fila_excel": 571,
         "codigo": 6081,
-        "nombre": "PIPA CLASICA 18G TIRA  X 10",
+        "nombre": "PIPA CLASICA TIRA 10U 18G",
         "marca": "Pipas",
-        "categoria": "Golosinas",
+        "categoria": "Snacks",
         "precio": 2490.18,
         "imagen": "6081.webp",
         "activo": true
     },
     {
-        "fila_excel": 573,
+        "fila_excel": 572,
         "codigo": 9893,
         "nombre": "ALFAJOR MANTECOL TRIPLE 60G",
         "marca": "Georgalos",
@@ -5720,7 +5710,7 @@
         "activo": true
     },
     {
-        "fila_excel": 574,
+        "fila_excel": 573,
         "codigo": 9894,
         "nombre": "ALFAJOR DUBAI BLUE LABEL 65G",
         "marca": "Maixanas",
@@ -5730,7 +5720,7 @@
         "activo": true
     },
     {
-        "fila_excel": 575,
+        "fila_excel": 574,
         "codigo": 3280,
         "nombre": "CHOCLO NOEL 300G",
         "marca": "Noel",
@@ -5740,7 +5730,7 @@
         "activo": true
     },
     {
-        "fila_excel": 576,
+        "fila_excel": 575,
         "codigo": 6096,
         "nombre": "NUTELLA 350G",
         "marca": "Ferrero Rocher",
@@ -5750,7 +5740,7 @@
         "activo": true
     },
     {
-        "fila_excel": 577,
+        "fila_excel": 576,
         "codigo": 9872,
         "nombre": "OBLEA MANTECOL 27G",
         "marca": "Georgalos",
@@ -5760,7 +5750,7 @@
         "activo": true
     },
     {
-        "fila_excel": 578,
+        "fila_excel": 577,
         "codigo": 2061,
         "nombre": "TE MANZANILLA LA MORENITA 20",
         "marca": "La Morenita",
@@ -5770,7 +5760,7 @@
         "activo": true
     },
     {
-        "fila_excel": 579,
+        "fila_excel": 578,
         "codigo": 9898,
         "nombre": "ALFAJOR CAPITAN DEL ESPACIO TRIPLE NEGRO 80G",
         "marca": "Capitán del Espacio",
@@ -5780,7 +5770,7 @@
         "activo": true
     },
     {
-        "fila_excel": 580,
+        "fila_excel": 579,
         "codigo": 264,
         "nombre": "LIPO GAJITOS 454 GR",
         "marca": "Lipo",
@@ -5790,7 +5780,7 @@
         "activo": true
     },
     {
-        "fila_excel": 581,
+        "fila_excel": 580,
         "codigo": 265,
         "nombre": "CARAMELOS PICO DULCE MAST 165",
         "marca": "Lheritier",
@@ -5800,7 +5790,7 @@
         "activo": true
     },
     {
-        "fila_excel": 582,
+        "fila_excel": 581,
         "codigo": 266,
         "nombre": "CARAMELOS PICO DULCE DURO",
         "marca": "Lheritier",
@@ -5810,7 +5800,7 @@
         "activo": true
     },
     {
-        "fila_excel": 583,
+        "fila_excel": 582,
         "codigo": 270,
         "nombre": "MISKY SURTIDO MASTICABLE 800",
         "marca": "Arcor",
@@ -5820,7 +5810,7 @@
         "activo": true
     },
     {
-        "fila_excel": 584,
+        "fila_excel": 583,
         "codigo": 313,
         "nombre": "CHICLE FLICS 12UNIDADES",
         "marca": "Arcor",
@@ -5830,7 +5820,7 @@
         "activo": true
     },
     {
-        "fila_excel": 585,
+        "fila_excel": 584,
         "codigo": 385,
         "nombre": "LIPO SUPER ACIDO 454 GR 63 U",
         "marca": "Lipo",
@@ -5840,7 +5830,7 @@
         "activo": true
     },
     {
-        "fila_excel": 586,
+        "fila_excel": 585,
         "codigo": 387,
         "nombre": "CHUPETIN POPS EVO BLUEBERRY 432G",
         "marca": "Arcor",
@@ -5850,7 +5840,7 @@
         "activo": true
     },
     {
-        "fila_excel": 587,
+        "fila_excel": 586,
         "codigo": 396,
         "nombre": "CHUPETIN CEBOLLITA 40 U",
         "marca": "Lheritier",
@@ -5860,7 +5850,7 @@
         "activo": true
     },
     {
-        "fila_excel": 588,
+        "fila_excel": 587,
         "codigo": 398,
         "nombre": "CHUPETIN FIERITA TUTTI-FRUTTI 50U",
         "marca": "",
@@ -5870,7 +5860,7 @@
         "activo": true
     },
     {
-        "fila_excel": 589,
+        "fila_excel": 588,
         "codigo": 404,
         "nombre": "CHUPETONCITO 8 U",
         "marca": "Lheritier",
@@ -5880,7 +5870,7 @@
         "activo": true
     },
     {
-        "fila_excel": 590,
+        "fila_excel": 589,
         "codigo": 498,
         "nombre": "CUBANITOS OBLITA FRUTILLA 48U",
         "marca": "Oblita",
@@ -5890,7 +5880,7 @@
         "activo": true
     },
     {
-        "fila_excel": 591,
+        "fila_excel": 590,
         "codigo": 974,
         "nombre": "LA YAPA 36 U",
         "marca": "Vauquita",
@@ -5900,7 +5890,7 @@
         "activo": true
     },
     {
-        "fila_excel": 592,
+        "fila_excel": 591,
         "codigo": 1127,
         "nombre": "MARSHMELLOS GONGYS X 28 GR",
         "marca": "",
@@ -5910,7 +5900,7 @@
         "activo": true
     },
     {
-        "fila_excel": 593,
+        "fila_excel": 592,
         "codigo": 1725,
         "nombre": "CHUPETIN RING POP 10G",
         "marca": "Ring Pop",
@@ -5920,7 +5910,7 @@
         "activo": true
     },
     {
-        "fila_excel": 594,
+        "fila_excel": 593,
         "codigo": 1748,
         "nombre": "PASTILLA REFRESCO MENTOL 12U",
         "marca": "FelFort",
@@ -5930,7 +5920,7 @@
         "activo": true
     },
     {
-        "fila_excel": 595,
+        "fila_excel": 594,
         "codigo": 1875,
         "nombre": "CARAMELOS SUGUS MAX TUTTI-FRUTTI 70U",
         "marca": "Arcor",
@@ -5940,7 +5930,7 @@
         "activo": true
     },
     {
-        "fila_excel": 596,
+        "fila_excel": 595,
         "codigo": 2238,
         "nombre": "CHUPETIN EVOLUTION EXTREME DUO 432G",
         "marca": "Arcor",
@@ -5950,7 +5940,7 @@
         "activo": true
     },
     {
-        "fila_excel": 597,
+        "fila_excel": 596,
         "codigo": 3049,
         "nombre": "LIPO VIENA 454 G",
         "marca": "Lipo",
@@ -5960,7 +5950,7 @@
         "activo": true
     },
     {
-        "fila_excel": 598,
+        "fila_excel": 597,
         "codigo": 8844,
         "nombre": "GOMITAS MOGUL EUCALIPTUS 1KG",
         "marca": "Arcor",
@@ -5970,7 +5960,7 @@
         "activo": true
     },
     {
-        "fila_excel": 599,
+        "fila_excel": 598,
         "codigo": 8845,
         "nombre": "GOMITAS MOGUL JELLY BUTTONS 1KG",
         "marca": "Arcor",
@@ -5980,7 +5970,7 @@
         "activo": true
     },
     {
-        "fila_excel": 600,
+        "fila_excel": 599,
         "codigo": 8846,
         "nombre": "GOMITAS MOGUL CONITOS 1KG",
         "marca": "Arcor",
@@ -5990,7 +5980,7 @@
         "activo": true
     },
     {
-        "fila_excel": 601,
+        "fila_excel": 600,
         "codigo": 9846,
         "nombre": "BUTTER TOFFEES BONOBON 822 G",
         "marca": "Arcor",
@@ -6000,7 +5990,7 @@
         "activo": true
     },
     {
-        "fila_excel": 602,
+        "fila_excel": 601,
         "codigo": 9855,
         "nombre": "SUGUS MASTICABLE ESPECIAL 70",
         "marca": "Arcor",
@@ -6010,7 +6000,7 @@
         "activo": true
     },
     {
-        "fila_excel": 603,
+        "fila_excel": 602,
         "codigo": 9873,
         "nombre": "CHICLE BLUPER 250G",
         "marca": "Bluper",
@@ -6020,7 +6010,7 @@
         "activo": true
     },
     {
-        "fila_excel": 604,
+        "fila_excel": 603,
         "codigo": 1129,
         "nombre": "MARSHMELLOS GONGYS X 200 GR",
         "marca": "",
@@ -6030,7 +6020,7 @@
         "activo": true
     },
     {
-        "fila_excel": 605,
+        "fila_excel": 604,
         "codigo": 1161,
         "nombre": "ARCOR MENTA CHOCOLATE 715 GR",
         "marca": "Arcor",
@@ -6040,7 +6030,7 @@
         "activo": true
     },
     {
-        "fila_excel": 606,
+        "fila_excel": 605,
         "codigo": 1790,
         "nombre": "ARCOR RELLENO FRUTAL 810 GR",
         "marca": "Arcor",
@@ -6050,17 +6040,17 @@
         "activo": true
     },
     {
-        "fila_excel": 607,
+        "fila_excel": 606,
         "codigo": 3293,
-        "nombre": "POCHOCLO BURBUJAS 60GR",
+        "nombre": "POCHOCLO BURBUJAS FRUTILLA 60G",
         "marca": "Burbujas",
-        "categoria": "Golosinas",
+        "categoria": "Snacks",
         "precio": 544.5,
         "imagen": "3293.webp",
         "activo": true
     },
     {
-        "fila_excel": 608,
+        "fila_excel": 607,
         "codigo": 2522,
         "nombre": "BARRA INTEGRA 41 GR",
         "marca": "",
@@ -6070,7 +6060,7 @@
         "activo": true
     },
     {
-        "fila_excel": 609,
+        "fila_excel": 608,
         "codigo": 6093,
         "nombre": "BOMBON BONOBON AGUILA 15G",
         "marca": "Arcor",
@@ -6080,7 +6070,7 @@
         "activo": true
     },
     {
-        "fila_excel": 610,
+        "fila_excel": 609,
         "codigo": 204,
         "nombre": "BOMBON BONOBON NEGRO 15G",
         "marca": "Arcor",
@@ -6090,7 +6080,7 @@
         "activo": true
     },
     {
-        "fila_excel": 611,
+        "fila_excel": 610,
         "codigo": 1888,
         "nombre": "CHOCOLATE AGUILA 60% CACAO 150G",
         "marca": "Aguila",
@@ -6100,7 +6090,7 @@
         "activo": true
     },
     {
-        "fila_excel": 612,
+        "fila_excel": 611,
         "codigo": 163,
         "nombre": "CHOCOLATE BIZNIKKE NEVADO 28G",
         "marca": "Biznikke",
@@ -6110,7 +6100,7 @@
         "activo": true
     },
     {
-        "fila_excel": 613,
+        "fila_excel": 612,
         "codigo": 337,
         "nombre": "CHOCOLATE CADBURY 3 SUEÑOS 82G",
         "marca": "Mondelez",
@@ -6120,7 +6110,7 @@
         "activo": false
     },
     {
-        "fila_excel": 614,
+        "fila_excel": 613,
         "codigo": 336,
         "nombre": "CHOCOLATE CADBURY ALMENDRAS 82G",
         "marca": "Mondelez",
@@ -6130,7 +6120,7 @@
         "activo": true
     },
     {
-        "fila_excel": 615,
+        "fila_excel": 614,
         "codigo": 348,
         "nombre": "CHOCOLATE COFLER AIR ALMENDRA 55G",
         "marca": "Cofler",
@@ -6140,7 +6130,7 @@
         "activo": true
     },
     {
-        "fila_excel": 616,
+        "fila_excel": 615,
         "codigo": 346,
         "nombre": "CHOCOLATE COFLER AIR BLANCO 55G",
         "marca": "Cofler",
@@ -6150,7 +6140,7 @@
         "activo": true
     },
     {
-        "fila_excel": 617,
+        "fila_excel": 616,
         "codigo": 343,
         "nombre": "CHOCOLATE COFLER AIR BOB 27G",
         "marca": "Cofler",
@@ -6160,7 +6150,7 @@
         "activo": true
     },
     {
-        "fila_excel": 618,
+        "fila_excel": 617,
         "codigo": 345,
         "nombre": "CHOCOLATE COFLER AIR BOB 67G",
         "marca": "Cofler",
@@ -6170,7 +6160,7 @@
         "activo": true
     },
     {
-        "fila_excel": 619,
+        "fila_excel": 618,
         "codigo": 344,
         "nombre": "CHOCOLATE COFLER AIR LECHE 27G",
         "marca": "Cofler",
@@ -6180,7 +6170,7 @@
         "activo": true
     },
     {
-        "fila_excel": 620,
+        "fila_excel": 619,
         "codigo": 347,
         "nombre": "CHOCOLATE COFLER AIR LECHE 55G",
         "marca": "Cofler",
@@ -6190,7 +6180,7 @@
         "activo": true
     },
     {
-        "fila_excel": 621,
+        "fila_excel": 620,
         "codigo": 350,
         "nombre": "CHOCOLATE COFLER AIR MIXTO 27G",
         "marca": "Cofler",
@@ -6200,7 +6190,7 @@
         "activo": true
     },
     {
-        "fila_excel": 622,
+        "fila_excel": 621,
         "codigo": 2787,
         "nombre": "CHOCOLATE FELFORT NOBEL 35G",
         "marca": "FelFort",
@@ -6210,7 +6200,7 @@
         "activo": true
     },
     {
-        "fila_excel": 623,
+        "fila_excel": 622,
         "codigo": 353,
         "nombre": "CHOCOLATE HAMLET CHOCOLATEOLATOSO 43G",
         "marca": "Arcor",
@@ -6220,7 +6210,7 @@
         "activo": true
     },
     {
-        "fila_excel": 624,
+        "fila_excel": 623,
         "codigo": 355,
         "nombre": "CHOCOLATE HAMLET FRUTILLA 43G",
         "marca": "Arcor",
@@ -6230,7 +6220,7 @@
         "activo": true
     },
     {
-        "fila_excel": 625,
+        "fila_excel": 624,
         "codigo": 953,
         "nombre": "CHOCOLATE KINDER BUENO DARK 43G",
         "marca": "Kinder",
@@ -6240,7 +6230,7 @@
         "activo": true
     },
     {
-        "fila_excel": 626,
+        "fila_excel": 625,
         "codigo": 948,
         "nombre": "CHOCOLATE KINDER BUENO WHITE 39G",
         "marca": "Kinder",
@@ -6250,7 +6240,7 @@
         "activo": true
     },
     {
-        "fila_excel": 627,
+        "fila_excel": 626,
         "codigo": 3015,
         "nombre": "CHOCOLATE MILKA AIR ALMENDRAS 50G",
         "marca": "Milka",
@@ -6260,7 +6250,7 @@
         "activo": true
     },
     {
-        "fila_excel": 628,
+        "fila_excel": 627,
         "codigo": 3016,
         "nombre": "CHOCOLATE MILKA AIR COMBINADO 50G",
         "marca": "Milka",
@@ -6270,7 +6260,7 @@
         "activo": true
     },
     {
-        "fila_excel": 629,
+        "fila_excel": 628,
         "codigo": 3370,
         "nombre": "CHOCOLATE VAUQUITA BLACK COIN 25G",
         "marca": "Vauquita",
@@ -6280,7 +6270,7 @@
         "activo": true
     },
     {
-        "fila_excel": 630,
+        "fila_excel": 629,
         "codigo": 3169,
         "nombre": "CHOCOLATE VAUQUITA SUAVE 25G",
         "marca": "Vauquita",
@@ -6290,7 +6280,7 @@
         "activo": true
     },
     {
-        "fila_excel": 631,
+        "fila_excel": 630,
         "codigo": 2250,
         "nombre": "CHOCOLATE FULL MANI 90G",
         "marca": "Georgalos",
@@ -6300,7 +6290,7 @@
         "activo": true
     },
     {
-        "fila_excel": 632,
+        "fila_excel": 631,
         "codigo": 957,
         "nombre": "CHOCOLATE KITKAT BLANCO 41G",
         "marca": "Nestlé",
@@ -6310,7 +6300,7 @@
         "activo": true
     },
     {
-        "fila_excel": 633,
+        "fila_excel": 632,
         "codigo": 1150,
         "nombre": "CHOCOLATE MECANO NEGRO 19G",
         "marca": "Bonafide",
@@ -6320,7 +6310,7 @@
         "activo": true
     },
     {
-        "fila_excel": 634,
+        "fila_excel": 633,
         "codigo": 358,
         "nombre": "CHOCOLATE MISKY BLANCO 25G",
         "marca": "Arcor",
@@ -6330,7 +6320,7 @@
         "activo": true
     },
     {
-        "fila_excel": 635,
+        "fila_excel": 634,
         "codigo": 359,
         "nombre": "CHOCOLATE MISKY BLANCO 50G",
         "marca": "Arcor",
@@ -6340,7 +6330,7 @@
         "activo": true
     },
     {
-        "fila_excel": 636,
+        "fila_excel": 635,
         "codigo": 361,
         "nombre": "CHOCOLATE TOFI BLANCO 27G",
         "marca": "Arcor",
@@ -6350,7 +6340,7 @@
         "activo": true
     },
     {
-        "fila_excel": 637,
+        "fila_excel": 636,
         "codigo": 987,
         "nombre": "HUEVO KINDER SORPRESA NENA",
         "marca": "Kinder",
@@ -6360,7 +6350,7 @@
         "activo": true
     },
     {
-        "fila_excel": 638,
+        "fila_excel": 637,
         "codigo": 1198,
         "nombre": "CHOCOLATE MILKA CHOCO PAUSE OREO 45G",
         "marca": "Milka",
@@ -6370,7 +6360,7 @@
         "activo": true
     },
     {
-        "fila_excel": 639,
+        "fila_excel": 638,
         "codigo": 1307,
         "nombre": "OBLEA BONOBON BLANCO 30G",
         "marca": "Arcor",
@@ -6380,7 +6370,7 @@
         "activo": true
     },
     {
-        "fila_excel": 640,
+        "fila_excel": 639,
         "codigo": 2066,
         "nombre": "OBLEA BONOBON MEGA 48G",
         "marca": "Arcor",
@@ -6390,7 +6380,7 @@
         "activo": true
     },
     {
-        "fila_excel": 641,
+        "fila_excel": 640,
         "codigo": 3567,
         "nombre": "AVENA TRADIC QUAKER 280GR",
         "marca": "Quaker",
@@ -6400,7 +6390,7 @@
         "activo": true
     },
     {
-        "fila_excel": 642,
+        "fila_excel": 641,
         "codigo": 3080,
         "nombre": "AVENA TRADIC QUAKER 550GR",
         "marca": "Quaker",
@@ -6410,17 +6400,17 @@
         "activo": true
     },
     {
-        "fila_excel": 643,
+        "fila_excel": 642,
         "codigo": 6086,
         "nombre": "GALLETITA  CLUB SOCIAL  6U  23G",
         "marca": "Club Social",
-        "categoria": "Galletitas",
+        "categoria": "Snacks",
         "precio": 2282.06,
         "imagen": "6086.webp",
         "activo": true
     },
     {
-        "fila_excel": 644,
+        "fila_excel": 643,
         "codigo": 8706,
         "nombre": "GALLETITA  PEPAS TRICHOC 300G",
         "marca": "Trio",
@@ -6430,7 +6420,7 @@
         "activo": true
     },
     {
-        "fila_excel": 645,
+        "fila_excel": 644,
         "codigo": 8715,
         "nombre": "GALLETITA  COQUITAS 177G",
         "marca": "Bagley",
@@ -6440,7 +6430,7 @@
         "activo": true
     },
     {
-        "fila_excel": 646,
+        "fila_excel": 645,
         "codigo": 8716,
         "nombre": "OBLEA OBLITA 100G",
         "marca": "Oblita",
@@ -6450,7 +6440,7 @@
         "activo": true
     },
     {
-        "fila_excel": 647,
+        "fila_excel": 646,
         "codigo": 8791,
         "nombre": "GALLETITA MINI OREO 150G",
         "marca": "Mondelez",
@@ -6460,7 +6450,7 @@
         "activo": true
     },
     {
-        "fila_excel": 648,
+        "fila_excel": 647,
         "codigo": 8836,
         "nombre": "GALLETITA PEPAS TEREPIN 200G",
         "marca": "Terepín",
@@ -6470,7 +6460,7 @@
         "activo": true
     },
     {
-        "fila_excel": 649,
+        "fila_excel": 648,
         "codigo": 8906,
         "nombre": "GALLETITA  PEPAS CHOCOTRIO 500G",
         "marca": "Trio",
@@ -6480,7 +6470,7 @@
         "activo": true
     },
     {
-        "fila_excel": 650,
+        "fila_excel": 649,
         "codigo": 9871,
         "nombre": "GALLETITA FRUTIGRAN FRUTOS ROJOS 250G",
         "marca": "Granix",
@@ -6490,7 +6480,7 @@
         "activo": true
     },
     {
-        "fila_excel": 651,
+        "fila_excel": 650,
         "codigo": 122,
         "nombre": "CUBANITO OBLITA MARROC 48U",
         "marca": "Oblita",
@@ -6500,7 +6490,7 @@
         "activo": true
     },
     {
-        "fila_excel": 652,
+        "fila_excel": 651,
         "codigo": 378,
         "nombre": "CUBANITOS OBLITA CHOCOLATE 48U",
         "marca": "Oblita",
@@ -6510,7 +6500,7 @@
         "activo": true
     },
     {
-        "fila_excel": 653,
+        "fila_excel": 652,
         "codigo": 800,
         "nombre": "GOMITAS MISKY EUCALIPTUS 1KG",
         "marca": "Arcor",
@@ -6520,7 +6510,7 @@
         "activo": true
     },
     {
-        "fila_excel": 654,
+        "fila_excel": 653,
         "codigo": 799,
         "nombre": "GOMITAS MISKY JELLY ROLL 1KG",
         "marca": "Arcor",
@@ -6530,7 +6520,7 @@
         "activo": true
     },
     {
-        "fila_excel": 655,
+        "fila_excel": 654,
         "codigo": 1329,
         "nombre": "GOMITAS MOGUL ARAÑITAS 12X30G",
         "marca": "Arcor",
@@ -6540,7 +6530,7 @@
         "activo": true
     },
     {
-        "fila_excel": 656,
+        "fila_excel": 655,
         "codigo": 2901,
         "nombre": "GOMITAS MOGUL DIENTES 10X50G",
         "marca": "Arcor",
@@ -6550,7 +6540,7 @@
         "activo": true
     },
     {
-        "fila_excel": 657,
+        "fila_excel": 656,
         "codigo": 2254,
         "nombre": "GOMITAS MOGUL EXTREME OSO 10X50G",
         "marca": "Arcor",
@@ -6560,7 +6550,7 @@
         "activo": true
     },
     {
-        "fila_excel": 658,
+        "fila_excel": 657,
         "codigo": 871,
         "nombre": "GOMITAS MOGUL EXTREME TUBITOS TUTTI 500G",
         "marca": "Arcor",
@@ -6570,7 +6560,7 @@
         "activo": true
     },
     {
-        "fila_excel": 659,
+        "fila_excel": 658,
         "codigo": 1736,
         "nombre": "GOMITAS MOGUL LADRILLOS ARCOIRIS 100G",
         "marca": "Arcor",
@@ -6580,7 +6570,7 @@
         "activo": true
     },
     {
-        "fila_excel": 660,
+        "fila_excel": 659,
         "codigo": 691,
         "nombre": "GOMITAS MOGUL PIECITOS 12X30",
         "marca": "Arcor",
@@ -6590,7 +6580,7 @@
         "activo": true
     },
     {
-        "fila_excel": 661,
+        "fila_excel": 660,
         "codigo": 692,
         "nombre": "GOMITAS MOGUL TIBURONCITOS 12X30",
         "marca": "Arcor",
@@ -6600,7 +6590,7 @@
         "activo": true
     },
     {
-        "fila_excel": 662,
+        "fila_excel": 661,
         "codigo": 8879,
         "nombre": "GOMITAS REGALIZ BULL DOG FRUTILLA 75G",
         "marca": "",
@@ -6610,7 +6600,7 @@
         "activo": true
     },
     {
-        "fila_excel": 663,
+        "fila_excel": 662,
         "codigo": 9915,
         "nombre": "GOMITAS REGALIZ BULL DOG SANDIA 360G",
         "marca": "",
@@ -6620,7 +6610,7 @@
         "activo": true
     },
     {
-        "fila_excel": 664,
+        "fila_excel": 663,
         "codigo": 2866,
         "nombre": "GOMITAS REGALIZ BULL DOG TUTTI FRUTTI 360G",
         "marca": "",
@@ -6630,7 +6620,7 @@
         "activo": true
     },
     {
-        "fila_excel": 665,
+        "fila_excel": 664,
         "codigo": 1746,
         "nombre": "GOMITAS ROLLO MOGUL EXTREME 12U",
         "marca": "Arcor",
@@ -6640,7 +6630,7 @@
         "activo": true
     },
     {
-        "fila_excel": 666,
+        "fila_excel": 665,
         "codigo": 2534,
         "nombre": "GOMITAS YUMMY ANIMALITOS 12X30",
         "marca": "Billiken",
@@ -6650,7 +6640,7 @@
         "activo": true
     },
     {
-        "fila_excel": 667,
+        "fila_excel": 666,
         "codigo": 76,
         "nombre": "POTE BUBLI 30U",
         "marca": "",
@@ -6660,7 +6650,7 @@
         "activo": false
     },
     {
-        "fila_excel": 668,
+        "fila_excel": 667,
         "codigo": 75,
         "nombre": "POTE OJOS LOCOS 30U",
         "marca": "",
@@ -6670,7 +6660,7 @@
         "activo": false
     },
     {
-        "fila_excel": 669,
+        "fila_excel": 668,
         "codigo": 85,
         "nombre": "CHOCOLATE COFLER BLOCK MITI 170G",
         "marca": "Cofler",
@@ -6680,7 +6670,7 @@
         "activo": true
     },
     {
-        "fila_excel": 670,
+        "fila_excel": 669,
         "codigo": 9910,
         "nombre": "GALLETITA MINI TAPITAS 200G",
         "marca": "Fachitas",
@@ -6690,7 +6680,7 @@
         "activo": true
     },
     {
-        "fila_excel": 671,
+        "fila_excel": 670,
         "codigo": 989,
         "nombre": "HUEVO KINDER JOY NENA 20G",
         "marca": "Kinder",
@@ -6700,7 +6690,7 @@
         "activo": true
     },
     {
-        "fila_excel": 672,
+        "fila_excel": 671,
         "codigo": 988,
         "nombre": "HUEVO KINDER JOY NENE 20G",
         "marca": "Kinder",
@@ -6710,7 +6700,7 @@
         "activo": true
     },
     {
-        "fila_excel": 673,
+        "fila_excel": 672,
         "codigo": 157,
         "nombre": "BIZCOCHO 9 DE ORO AGRIDULCES 200G",
         "marca": "Molino Cañuelas",
@@ -6720,7 +6710,7 @@
         "activo": true
     },
     {
-        "fila_excel": 674,
+        "fila_excel": 673,
         "codigo": 158,
         "nombre": "BIZCOCHO 9 DE ORO CLÁSICOS 200G",
         "marca": "Molino Cañuelas",
@@ -6730,7 +6720,7 @@
         "activo": true
     },
     {
-        "fila_excel": 675,
+        "fila_excel": 674,
         "codigo": 535,
         "nombre": "BIZCOCHO DON SATUR AGRIDULCE 200G",
         "marca": "Don Satur",
@@ -6740,7 +6730,7 @@
         "activo": true
     },
     {
-        "fila_excel": 676,
+        "fila_excel": 675,
         "codigo": 536,
         "nombre": "BIZCOCHO DON SATUR NEGRITO 200G",
         "marca": "Don Satur",
@@ -6750,7 +6740,7 @@
         "activo": true
     },
     {
-        "fila_excel": 677,
+        "fila_excel": 676,
         "codigo": 538,
         "nombre": "BIZCOCHO DON SATUR VEGETAL 200G",
         "marca": "Don Satur",
@@ -6760,7 +6750,7 @@
         "activo": true
     },
     {
-        "fila_excel": 678,
+        "fila_excel": 677,
         "codigo": 84,
         "nombre": "GALLETITA CEREAL MIX AVENA Y PASAS 207G",
         "marca": "Arcor",
@@ -6770,7 +6760,7 @@
         "activo": true
     },
     {
-        "fila_excel": 679,
+        "fila_excel": 678,
         "codigo": 205,
         "nombre": "GALLETITA CEREAL MIX SEMILLAS Y CHIPS 207G",
         "marca": "Arcor",
@@ -6780,7 +6770,7 @@
         "activo": true
     },
     {
-        "fila_excel": 680,
+        "fila_excel": 679,
         "codigo": 1344,
         "nombre": "GALLETITA FRUTIGRAN AVENA, CHIA Y LINO 250G",
         "marca": "Granix",
@@ -6790,7 +6780,7 @@
         "activo": true
     },
     {
-        "fila_excel": 681,
+        "fila_excel": 680,
         "codigo": 689,
         "nombre": "GALLETITA FRUTIGRAN AVENA Y PASAS 250G",
         "marca": "Granix",
@@ -6800,7 +6790,7 @@
         "activo": true
     },
     {
-        "fila_excel": 682,
+        "fila_excel": 681,
         "codigo": 1343,
         "nombre": "GALLETITA FRUTIGRAN SALVADO 250G",
         "marca": "Granix",
@@ -6810,7 +6800,7 @@
         "activo": true
     },
     {
-        "fila_excel": 683,
+        "fila_excel": 682,
         "codigo": 1345,
         "nombre": "GALLETITA FRUTIGRAN SESAMO, AMARANTO Y GIRASOL 250G",
         "marca": "Granix",
@@ -6820,7 +6810,7 @@
         "activo": true
     },
     {
-        "fila_excel": 684,
+        "fila_excel": 683,
         "codigo": 619,
         "nombre": "GALLETITA HOJALMAR LARGUITA 150G",
         "marca": "Hojalmar",
@@ -6830,7 +6820,7 @@
         "activo": true
     },
     {
-        "fila_excel": 685,
+        "fila_excel": 684,
         "codigo": 78,
         "nombre": "GALLETITA PARNOR MINI CHIPPIS BLACK 120G",
         "marca": "ParNor",
@@ -6840,7 +6830,7 @@
         "activo": true
     },
     {
-        "fila_excel": 686,
+        "fila_excel": 685,
         "codigo": 1466,
         "nombre": "GALLETITA PASEO 5 SEMILLAS 300G",
         "marca": "Molino Cañuelas",
@@ -6850,7 +6840,7 @@
         "activo": true
     },
     {
-        "fila_excel": 687,
+        "fila_excel": 686,
         "codigo": 77,
         "nombre": "GALLETITA TRAVIATA KESITAS 96G",
         "marca": "Bagley",
@@ -6860,7 +6850,7 @@
         "activo": true
     },
     {
-        "fila_excel": 688,
+        "fila_excel": 687,
         "codigo": 83,
         "nombre": "GALLETITA CHOCOLINAS NEGRO 181G",
         "marca": "Bagley",
@@ -6870,7 +6860,7 @@
         "activo": true
     },
     {
-        "fila_excel": 689,
+        "fila_excel": 688,
         "codigo": 9931,
         "nombre": "GALLETITA KOKIS MEMBRILLITO 200G",
         "marca": "Kokis",
@@ -6880,7 +6870,7 @@
         "activo": true
     },
     {
-        "fila_excel": 690,
+        "fila_excel": 689,
         "codigo": 82,
         "nombre": "GALLETITA MELLIZAS 110G",
         "marca": "Bagley",
@@ -6890,7 +6880,7 @@
         "activo": true
     },
     {
-        "fila_excel": 691,
+        "fila_excel": 690,
         "codigo": 70,
         "nombre": "GALLETITA OREO BTS 118G",
         "marca": "Mondelez",
@@ -6900,7 +6890,7 @@
         "activo": true
     },
     {
-        "fila_excel": 692,
+        "fila_excel": 691,
         "codigo": 104,
         "nombre": "GALLETITA PARNOR MANTECADAS 170G",
         "marca": "ParNor",
@@ -6910,7 +6900,7 @@
         "activo": true
     },
     {
-        "fila_excel": 693,
+        "fila_excel": 692,
         "codigo": 103,
         "nombre": "GALLETITA PARNOR MARMOLADAS 170G",
         "marca": "ParNor",
@@ -6920,7 +6910,7 @@
         "activo": true
     },
     {
-        "fila_excel": 694,
+        "fila_excel": 693,
         "codigo": 102,
         "nombre": "GALLETITA PARNOR MOROCHITAS 140G",
         "marca": "ParNor",
@@ -6930,7 +6920,7 @@
         "activo": true
     },
     {
-        "fila_excel": 695,
+        "fila_excel": 694,
         "codigo": 55,
         "nombre": "GALLETITA PITUSAS FRUTILLA 160G",
         "marca": "ParNor",
@@ -6940,7 +6930,7 @@
         "activo": true
     },
     {
-        "fila_excel": 696,
+        "fila_excel": 695,
         "codigo": 22,
         "nombre": "GALLETITA PITUSAS JALEA 140G",
         "marca": "ParNor",
@@ -6950,7 +6940,7 @@
         "activo": true
     },
     {
-        "fila_excel": 697,
+        "fila_excel": 696,
         "codigo": 16,
         "nombre": "GALLETITA PITUSAS LIMON 160G",
         "marca": "ParNor",
@@ -6960,7 +6950,7 @@
         "activo": true
     },
     {
-        "fila_excel": 698,
+        "fila_excel": 697,
         "codigo": 39,
         "nombre": "GALLETITA PITUSAS VAINILLA 160G",
         "marca": "ParNor",
@@ -6970,7 +6960,7 @@
         "activo": true
     },
     {
-        "fila_excel": 699,
+        "fila_excel": 698,
         "codigo": 5,
         "nombre": "GALLETITA FULBITO 120G",
         "marca": "Nevares",
@@ -6980,7 +6970,7 @@
         "activo": true
     },
     {
-        "fila_excel": 700,
+        "fila_excel": 699,
         "codigo": 249,
         "nombre": "MAGDALENA DON SATUR CHIPS CHOCOLATE 200G",
         "marca": "Don Satur",
@@ -6990,7 +6980,7 @@
         "activo": true
     },
     {
-        "fila_excel": 701,
+        "fila_excel": 700,
         "codigo": 248,
         "nombre": "MAGDALENA DON SATUR MARMOLADAS 200G",
         "marca": "Don Satur",
@@ -7000,7 +6990,7 @@
         "activo": true
     },
     {
-        "fila_excel": 702,
+        "fila_excel": 701,
         "codigo": 246,
         "nombre": "MAGDALENA DON SATUR VAINILLA DDL 200G",
         "marca": "Don Satur",
@@ -7010,7 +7000,7 @@
         "activo": true
     },
     {
-        "fila_excel": 703,
+        "fila_excel": 702,
         "codigo": 1221,
         "nombre": "GALLETITA MINI CORONITAS VAINILLA 140G",
         "marca": "Fachitas",
@@ -7020,7 +7010,7 @@
         "activo": true
     },
     {
-        "fila_excel": 704,
+        "fila_excel": 703,
         "codigo": 1222,
         "nombre": "MINI HABANITOS CHOCOLATE TERRABUSI 60G",
         "marca": "Terrabusi",
@@ -7030,7 +7020,7 @@
         "activo": true
     },
     {
-        "fila_excel": 705,
+        "fila_excel": 704,
         "codigo": 1228,
         "nombre": "MINI RHODESIA TERRABUSI 60G",
         "marca": "Terrabusi",
@@ -7040,7 +7030,7 @@
         "activo": true
     },
     {
-        "fila_excel": 706,
+        "fila_excel": 705,
         "codigo": 74,
         "nombre": "OBLEA OBLITA FRUTILLA 100G",
         "marca": "Oblita",
@@ -7050,7 +7040,7 @@
         "activo": true
     },
     {
-        "fila_excel": 707,
+        "fila_excel": 706,
         "codigo": 504,
         "nombre": "GALLETITA PEPAS DELICIAS NONNA 350G",
         "marca": "Delicias de la Nonna",
@@ -7060,7 +7050,7 @@
         "activo": true
     },
     {
-        "fila_excel": 708,
+        "fila_excel": 707,
         "codigo": 744,
         "nombre": "GALLETITA PEPAS TRICHOC 180G",
         "marca": "Trio",
@@ -7070,7 +7060,7 @@
         "activo": true
     },
     {
-        "fila_excel": 709,
+        "fila_excel": 708,
         "codigo": 952,
         "nombre": "GALLETITA PEPAS TRIO  ALEMANAS 500G",
         "marca": "Trio",
@@ -7080,7 +7070,7 @@
         "activo": true
     },
     {
-        "fila_excel": 710,
+        "fila_excel": 709,
         "codigo": 6079,
         "nombre": "TALITA URQUIZA CEBOLLA 100G",
         "marca": "Urquiza",
@@ -7090,7 +7080,7 @@
         "activo": true
     },
     {
-        "fila_excel": 711,
+        "fila_excel": 710,
         "codigo": 6077,
         "nombre": "TALITA URQUIZA CHEDDAR 100G",
         "marca": "Urquiza",
@@ -7100,7 +7090,7 @@
         "activo": true
     },
     {
-        "fila_excel": 712,
+        "fila_excel": 711,
         "codigo": 6078,
         "nombre": "TALITA URQUIZA JAMON 100G",
         "marca": "Urquiza",
@@ -7110,7 +7100,7 @@
         "activo": true
     },
     {
-        "fila_excel": 713,
+        "fila_excel": 712,
         "codigo": 6082,
         "nombre": "TALITA URQUIZA OLIVA 100G",
         "marca": "Urquiza",
@@ -7120,7 +7110,7 @@
         "activo": true
     },
     {
-        "fila_excel": 714,
+        "fila_excel": 713,
         "codigo": 6076,
         "nombre": "TALITA URQUIZA PIZZA 110G",
         "marca": "Urquiza",
@@ -7130,7 +7120,7 @@
         "activo": true
     },
     {
-        "fila_excel": 715,
+        "fila_excel": 714,
         "codigo": 6080,
         "nombre": "TALITA URQUIZA QUESO 100G",
         "marca": "Urquiza",
@@ -7140,7 +7130,7 @@
         "activo": true
     },
     {
-        "fila_excel": 716,
+        "fila_excel": 715,
         "codigo": 2022,
         "nombre": "TOSTADAS LEIVA CLASICAS 150G",
         "marca": "Leiva",
@@ -7150,7 +7140,7 @@
         "activo": true
     },
     {
-        "fila_excel": 717,
+        "fila_excel": 716,
         "codigo": 2023,
         "nombre": "TOSTADAS LEIVA SIN SAL 150G",
         "marca": "Leiva",
@@ -7160,7 +7150,7 @@
         "activo": true
     },
     {
-        "fila_excel": 718,
+        "fila_excel": 717,
         "codigo": 754,
         "nombre": "TOSTADAS RIERA DULCES 200G",
         "marca": "Riera",
@@ -7170,7 +7160,7 @@
         "activo": true
     },
     {
-        "fila_excel": 719,
+        "fila_excel": 718,
         "codigo": 756,
         "nombre": "TOSTADAS RIERA LIGHT 200G",
         "marca": "Riera",
@@ -7180,7 +7170,7 @@
         "activo": true
     },
     {
-        "fila_excel": 720,
+        "fila_excel": 719,
         "codigo": 2089,
         "nombre": "GOMITAS MOGUL JELLY BEANS 80G",
         "marca": "Arcor",
@@ -7190,7 +7180,7 @@
         "activo": true
     },
     {
-        "fila_excel": 721,
+        "fila_excel": 720,
         "codigo": 2087,
         "nombre": "GOMITAS MOGUL MORAS 100G",
         "marca": "Arcor",
@@ -7200,7 +7190,7 @@
         "activo": true
     },
     {
-        "fila_excel": 722,
+        "fila_excel": 721,
         "codigo": 2088,
         "nombre": "GOMITAS MOGUL OSO EXTREME 80G",
         "marca": "Arcor",
@@ -7210,7 +7200,7 @@
         "activo": true
     },
     {
-        "fila_excel": 723,
+        "fila_excel": 722,
         "codigo": 178,
         "nombre": "PASTILLA MENTHOPLUS 2 CHERRY 12U",
         "marca": "Arcor",
@@ -7220,7 +7210,7 @@
         "activo": true
     },
     {
-        "fila_excel": 724,
+        "fila_excel": 723,
         "codigo": 1167,
         "nombre": "PASTILLA MENTHOPLUS 2 MANZANA 12U",
         "marca": "Arcor",
@@ -7230,7 +7220,7 @@
         "activo": true
     },
     {
-        "fila_excel": 725,
+        "fila_excel": 724,
         "codigo": 1170,
         "nombre": "PASTILLA MENTHOPLUS CEREZA 12U",
         "marca": "Arcor",
@@ -7240,7 +7230,7 @@
         "activo": true
     },
     {
-        "fila_excel": 726,
+        "fila_excel": 725,
         "codigo": 1774,
         "nombre": "PASTILLA MENTHOPLUS STRONG 12U",
         "marca": "Arcor",
@@ -7250,7 +7240,7 @@
         "activo": true
     },
     {
-        "fila_excel": 727,
+        "fila_excel": 726,
         "codigo": 21,
         "nombre": "PASTILLA MENTHOPLUS ZERO CEREZA 12U",
         "marca": "Arcor",
@@ -7260,7 +7250,7 @@
         "activo": true
     },
     {
-        "fila_excel": 728,
+        "fila_excel": 727,
         "codigo": 1168,
         "nombre": "PASTILLA MENTHOPLUS ZERO DURAZNO 12U",
         "marca": "Arcor",
@@ -7270,7 +7260,7 @@
         "activo": true
     },
     {
-        "fila_excel": 729,
+        "fila_excel": 728,
         "codigo": 132,
         "nombre": "PASTILLA MENTHOPLUS ZERO MENTOL 12U",
         "marca": "Arcor",
@@ -7280,7 +7270,7 @@
         "activo": true
     },
     {
-        "fila_excel": 730,
+        "fila_excel": 729,
         "codigo": 1174,
         "nombre": "PASTILLA MENTHOPLUS ZERO STRONG 12U",
         "marca": "Arcor",
@@ -7290,7 +7280,7 @@
         "activo": true
     },
     {
-        "fila_excel": 731,
+        "fila_excel": 730,
         "codigo": 1175,
         "nombre": "PASTILLA MENTITAS LACASA DULCE DE LECHE 26G",
         "marca": "D.R.F.",
@@ -7300,7 +7290,7 @@
         "activo": true
     },
     {
-        "fila_excel": 732,
+        "fila_excel": 731,
         "codigo": 1176,
         "nombre": "PASTILLA MENTITAS LACASA MENTA 26G",
         "marca": "D.R.F.",
@@ -7310,7 +7300,7 @@
         "activo": true
     },
     {
-        "fila_excel": 733,
+        "fila_excel": 732,
         "codigo": 2309,
         "nombre": "PASTILLA PASTILLA CLIGHT FRAMBU 12U",
         "marca": "Mondelez",
@@ -7320,7 +7310,7 @@
         "activo": true
     },
     {
-        "fila_excel": 734,
+        "fila_excel": 733,
         "codigo": 109,
         "nombre": "PASTILLA DRF FRUTOS ROJO 12U",
         "marca": "D.R.F.",
@@ -7330,7 +7320,7 @@
         "activo": true
     },
     {
-        "fila_excel": 735,
+        "fila_excel": 734,
         "codigo": 108,
         "nombre": "PASTILLA DRF LIMON 12U",
         "marca": "D.R.F.",
@@ -7340,7 +7330,7 @@
         "activo": true
     },
     {
-        "fila_excel": 736,
+        "fila_excel": 735,
         "codigo": 3205,
         "nombre": "PASTILLA FREEGELLS CEREZA MENTOL 12U",
         "marca": "Freegells",
@@ -7350,7 +7340,7 @@
         "activo": true
     },
     {
-        "fila_excel": 737,
+        "fila_excel": 736,
         "codigo": 1268,
         "nombre": "PASTILLA FREEGELLS FRUTILLA CREAM 12U",
         "marca": "Freegells",
@@ -7360,7 +7350,7 @@
         "activo": true
     },
     {
-        "fila_excel": 738,
+        "fila_excel": 737,
         "codigo": 1270,
         "nombre": "PASTILLA FREEGELLS MELON CON CRISTALES 12U",
         "marca": "Freegells",
@@ -7370,7 +7360,7 @@
         "activo": true
     },
     {
-        "fila_excel": 739,
+        "fila_excel": 738,
         "codigo": 1889,
         "nombre": "PASTILLA FREEGELLS MENTA MENTOL 12U",
         "marca": "Freegells",
@@ -7380,7 +7370,7 @@
         "activo": true
     },
     {
-        "fila_excel": 740,
+        "fila_excel": 739,
         "codigo": 1271,
         "nombre": "PASTILLA FREEGELLS UVA 12U",
         "marca": "Freegells",
@@ -7390,7 +7380,7 @@
         "activo": true
     },
     {
-        "fila_excel": 741,
+        "fila_excel": 740,
         "codigo": 816,
         "nombre": "PASTILLA HALLS CHERRY 12U",
         "marca": "Mondelez",
@@ -7400,7 +7390,7 @@
         "activo": true
     },
     {
-        "fila_excel": 742,
+        "fila_excel": 741,
         "codigo": 829,
         "nombre": "PASTILLA HALLS FREE MENTA 12U",
         "marca": "Mondelez",
@@ -7410,7 +7400,7 @@
         "activo": true
     },
     {
-        "fila_excel": 743,
+        "fila_excel": 742,
         "codigo": 811,
         "nombre": "PASTILLA HALLS MENTA 12U",
         "marca": "Mondelez",
@@ -7420,7 +7410,7 @@
         "activo": true
     },
     {
-        "fila_excel": 744,
+        "fila_excel": 743,
         "codigo": 812,
         "nombre": "PASTILLA HALLS MENTOL 12U",
         "marca": "Mondelez",
@@ -7430,7 +7420,7 @@
         "activo": true
     },
     {
-        "fila_excel": 745,
+        "fila_excel": 744,
         "codigo": 813,
         "nombre": "PASTILLA HALLS MIEL LIMON 12U",
         "marca": "Mondelez",
@@ -7440,7 +7430,7 @@
         "activo": true
     },
     {
-        "fila_excel": 746,
+        "fila_excel": 745,
         "codigo": 814,
         "nombre": "PASTILLA HALLS MIEL MENTA 12U",
         "marca": "Mondelez",
@@ -7450,7 +7440,7 @@
         "activo": true
     },
     {
-        "fila_excel": 747,
+        "fila_excel": 746,
         "codigo": 815,
         "nombre": "PASTILLA HALLS SANDIA 12U",
         "marca": "Mondelez",
@@ -7460,7 +7450,7 @@
         "activo": true
     },
     {
-        "fila_excel": 748,
+        "fila_excel": 747,
         "codigo": 1751,
         "nombre": "PASTILLA REFRESCO ROJA 12U",
         "marca": "FelFort",
@@ -7470,7 +7460,7 @@
         "activo": true
     },
     {
-        "fila_excel": 749,
+        "fila_excel": 748,
         "codigo": 1749,
         "nombre": "PASTILLA REFRESCO TUTTI FRUTTI 12U",
         "marca": "FelFort",
@@ -7480,7 +7470,7 @@
         "activo": true
     },
     {
-        "fila_excel": 750,
+        "fila_excel": 749,
         "codigo": 1953,
         "nombre": "PASTILLA TIC TAC FRUTILA 16G",
         "marca": "Tic Tac",
@@ -7490,7 +7480,7 @@
         "activo": true
     },
     {
-        "fila_excel": 751,
+        "fila_excel": 750,
         "codigo": 1952,
         "nombre": "PASTILLA TIC TAC MENTA 16G",
         "marca": "Tic Tac",
@@ -7500,7 +7490,7 @@
         "activo": true
     },
     {
-        "fila_excel": 752,
+        "fila_excel": 751,
         "codigo": 1954,
         "nombre": "PASTILLA TIC TAC MIX FRUT 16G",
         "marca": "Tic Tac",
@@ -7510,7 +7500,7 @@
         "activo": true
     },
     {
-        "fila_excel": 753,
+        "fila_excel": 752,
         "codigo": 234,
         "nombre": "ALFAJOR MINITORTA AGUILA BROWNIE 72G",
         "marca": "Aguila",
@@ -7520,7 +7510,7 @@
         "activo": true
     },
     {
-        "fila_excel": 754,
+        "fila_excel": 753,
         "codigo": 236,
         "nombre": "ALFAJOR MINITORTA AGUILA COCO 71G",
         "marca": "Aguila",
@@ -7530,7 +7520,7 @@
         "activo": true
     },
     {
-        "fila_excel": 755,
+        "fila_excel": 754,
         "codigo": 239,
         "nombre": "ALFAJOR MINITORTA AGUILA DARK 69G",
         "marca": "Aguila",
@@ -7540,7 +7530,7 @@
         "activo": true
     },
     {
-        "fila_excel": 756,
+        "fila_excel": 755,
         "codigo": 810,
         "nombre": "ALFAJOR BAGLEY BYN BLANCO 74G",
         "marca": "Bagley",
@@ -7550,7 +7540,7 @@
         "activo": true
     },
     {
-        "fila_excel": 757,
+        "fila_excel": 756,
         "codigo": 47,
         "nombre": "ALFAJOR BAGLEY BYN NEGRO 74G",
         "marca": "Bagley",
@@ -7560,7 +7550,7 @@
         "activo": true
     },
     {
-        "fila_excel": 758,
+        "fila_excel": 757,
         "codigo": 438,
         "nombre": "ALFAJOR BONOBON BLANCO SIMPLE 40G",
         "marca": "Arcor",
@@ -7570,7 +7560,7 @@
         "activo": true
     },
     {
-        "fila_excel": 759,
+        "fila_excel": 758,
         "codigo": 710,
         "nombre": "ALFAJOR BONOBON BLANCO TRIPLE 60G",
         "marca": "Arcor",
@@ -7580,7 +7570,7 @@
         "activo": true
     },
     {
-        "fila_excel": 760,
+        "fila_excel": 759,
         "codigo": 7658,
         "nombre": "ALFAJOR CACHAFAZ BLANCO 60G",
         "marca": "Cachafaz",
@@ -7590,7 +7580,7 @@
         "activo": true
     },
     {
-        "fila_excel": 761,
+        "fila_excel": 760,
         "codigo": 9860,
         "nombre": "ALFAJOR CAPITAN DEL ESPACIO SIMPLE BLANCO 40G",
         "marca": "Capitán del Espacio",
@@ -7600,7 +7590,7 @@
         "activo": true
     },
     {
-        "fila_excel": 762,
+        "fila_excel": 761,
         "codigo": 489,
         "nombre": "ALFAJOR CHOCOARROZ FRUTILLA 22G",
         "marca": "Molinos",
@@ -7610,7 +7600,7 @@
         "activo": true
     },
     {
-        "fila_excel": 763,
+        "fila_excel": 762,
         "codigo": 3020,
         "nombre": "ALFAJOR DUBAI PISTACHO STYLE BLANCO 70G",
         "marca": "Maixanas",
@@ -7620,7 +7610,7 @@
         "activo": true
     },
     {
-        "fila_excel": 764,
+        "fila_excel": 763,
         "codigo": 3389,
         "nombre": "ALFAJOR EMILIO MAICENA",
         "marca": "Emilio",
@@ -7630,7 +7620,7 @@
         "activo": true
     },
     {
-        "fila_excel": 765,
+        "fila_excel": 764,
         "codigo": 231,
         "nombre": "ALFAJOR FANTOCHE BLANCO TRIPLE 85G",
         "marca": "Fantoche",
@@ -7640,7 +7630,7 @@
         "activo": true
     },
     {
-        "fila_excel": 766,
+        "fila_excel": 765,
         "codigo": 8822,
         "nombre": "ALFAJOR FANTOCHE ELIXIR 70G",
         "marca": "Fantoche",
@@ -7650,7 +7640,7 @@
         "activo": true
     },
     {
-        "fila_excel": 767,
+        "fila_excel": 766,
         "codigo": 8832,
         "nombre": "ALFAJOR FANTOCHE ORIGEN 6U 360G",
         "marca": "Fantoche",
@@ -7660,7 +7650,7 @@
         "activo": true
     },
     {
-        "fila_excel": 768,
+        "fila_excel": 767,
         "codigo": 8735,
         "nombre": "ALFAJOR FANTOCHE RED VELVET 100G",
         "marca": "Fantoche",
@@ -7670,7 +7660,7 @@
         "activo": true
     },
     {
-        "fila_excel": 769,
+        "fila_excel": 768,
         "codigo": 51,
         "nombre": "ALFAJOR FANTOCHE TRIPLE DAY 85G",
         "marca": "Fantoche",
@@ -7680,7 +7670,7 @@
         "activo": true
     },
     {
-        "fila_excel": 770,
+        "fila_excel": 769,
         "codigo": 1424,
         "nombre": "ALFAJOR GUAYMALLEN BLANCO TRIPLE 70G",
         "marca": "Guaymallén",
@@ -7690,7 +7680,7 @@
         "activo": true
     },
     {
-        "fila_excel": 771,
+        "fila_excel": 770,
         "codigo": 1172,
         "nombre": "ALFAJOR GULA BLANCO 72G",
         "marca": "Gula",
@@ -7700,7 +7690,7 @@
         "activo": true
     },
     {
-        "fila_excel": 772,
+        "fila_excel": 771,
         "codigo": 1173,
         "nombre": "ALFAJOR GULA KING 72G",
         "marca": "Gula",
@@ -7710,7 +7700,7 @@
         "activo": true
     },
     {
-        "fila_excel": 773,
+        "fila_excel": 772,
         "codigo": 2001,
         "nombre": "ALFAJOR JORGELIN BLANCO 85G",
         "marca": "Jorgito",
@@ -7720,7 +7710,7 @@
         "activo": true
     },
     {
-        "fila_excel": 774,
+        "fila_excel": 773,
         "codigo": 60,
         "nombre": "ALFAJOR JORGITO BLANCO 6U 155G",
         "marca": "Jorgito",
@@ -7730,7 +7720,7 @@
         "activo": true
     },
     {
-        "fila_excel": 775,
+        "fila_excel": 774,
         "codigo": 2716,
         "nombre": "ALFAJOR JORGITO FRUTA 50G",
         "marca": "Jorgito",
@@ -7740,7 +7730,7 @@
         "activo": true
     },
     {
-        "fila_excel": 776,
+        "fila_excel": 775,
         "codigo": 69,
         "nombre": "ALFAJOR JORGITO MOUSSE 6U 128G",
         "marca": "Jorgito",
@@ -7750,7 +7740,7 @@
         "activo": true
     },
     {
-        "fila_excel": 777,
+        "fila_excel": 776,
         "codigo": 1684,
         "nombre": "ALFAJOR MILKA SUPER DULCE DE LECHE BLANCO 70G",
         "marca": "Milka",
@@ -7760,7 +7750,7 @@
         "activo": true
     },
     {
-        "fila_excel": 778,
+        "fila_excel": 777,
         "codigo": 1683,
         "nombre": "ALFAJOR MILKA TRIPLE MOUSSE BLANCO 55G",
         "marca": "Milka",
@@ -7770,7 +7760,7 @@
         "activo": true
     },
     {
-        "fila_excel": 779,
+        "fila_excel": 778,
         "codigo": 1682,
         "nombre": "ALFAJOR MILKA TRIPLE MOUSSE 55G",
         "marca": "Milka",
@@ -7780,7 +7770,7 @@
         "activo": true
     },
     {
-        "fila_excel": 780,
+        "fila_excel": 779,
         "codigo": 8738,
         "nombre": "ALFAJOR FANTOCHE PESCADO RAUL BLANCO 50G",
         "marca": "Fantoche",
@@ -7790,7 +7780,7 @@
         "activo": true
     },
     {
-        "fila_excel": 781,
+        "fila_excel": 780,
         "codigo": 362,
         "nombre": "ALFAJOR RASTA BLANCO SIMPLE 70G",
         "marca": "Rasta",
@@ -7800,7 +7790,7 @@
         "activo": true
     },
     {
-        "fila_excel": 782,
+        "fila_excel": 781,
         "codigo": 862,
         "nombre": "ALFAJOR RASTA TRICO NEGRO 100G",
         "marca": "Rasta",
@@ -7810,7 +7800,7 @@
         "activo": true
     },
     {
-        "fila_excel": 783,
+        "fila_excel": 782,
         "codigo": 2080,
         "nombre": "ALFAJOR RECOVA BLANCO 60G",
         "marca": "La Recova",
@@ -7820,7 +7810,7 @@
         "activo": true
     },
     {
-        "fila_excel": 784,
+        "fila_excel": 783,
         "codigo": 37,
         "nombre": "ALFAJOR TRISHOT BLANCO 60G",
         "marca": "Shot",
@@ -7830,7 +7820,7 @@
         "activo": true
     },
     {
-        "fila_excel": 785,
+        "fila_excel": 784,
         "codigo": 146,
         "nombre": "ALFAJOR GUAYMALLEN SIMPLE BLANCO CAJA 40U",
         "marca": "Guaymallén",
@@ -7840,7 +7830,7 @@
         "activo": true
     },
     {
-        "fila_excel": 786,
+        "fila_excel": 785,
         "codigo": 147,
         "nombre": "ALFAJOR GUAYMALLEN SIMPLE FRUTA CAJA 40U",
         "marca": "Guaymallén",
@@ -7850,7 +7840,7 @@
         "activo": true
     },
     {
-        "fila_excel": 787,
+        "fila_excel": 786,
         "codigo": 271,
         "nombre": "ALFAJOR FULBITO MANI CAJA 40U",
         "marca": "Nevares",
@@ -7860,7 +7850,7 @@
         "activo": true
     },
     {
-        "fila_excel": 788,
+        "fila_excel": 787,
         "codigo": 289,
         "nombre": "ALFAJOR VIMAR ESCOLAR DDL CAJA 60U",
         "marca": "Vimar",
@@ -7870,7 +7860,7 @@
         "activo": true
     },
     {
-        "fila_excel": 789,
+        "fila_excel": 788,
         "codigo": 3002,
         "nombre": "ALFAJOR FULBITO BLACK CAJA 40U",
         "marca": "Nevares",
@@ -7880,7 +7870,7 @@
         "activo": true
     },
     {
-        "fila_excel": 790,
+        "fila_excel": 789,
         "codigo": 3194,
         "nombre": "ALFAJOR CAJA RASTA BLANCO 18U",
         "marca": "Rasta",
@@ -7890,7 +7880,7 @@
         "activo": true
     },
     {
-        "fila_excel": 791,
+        "fila_excel": 790,
         "codigo": 904,
         "nombre": "ALF MILKA SIMPLE MOUSSE NEGRO 42G",
         "marca": "Milka",
@@ -7900,7 +7890,7 @@
         "activo": true
     },
     {
-        "fila_excel": 792,
+        "fila_excel": 791,
         "codigo": 3003,
         "nombre": "ALCOHOL  PUROCOL 250ML",
         "marca": "",
@@ -7910,7 +7900,7 @@
         "activo": true
     },
     {
-        "fila_excel": 793,
+        "fila_excel": 792,
         "codigo": 27,
         "nombre": "ALCOHOL DISMAR 500ML",
         "marca": "",
@@ -7920,7 +7910,7 @@
         "activo": true
     },
     {
-        "fila_excel": 794,
+        "fila_excel": 793,
         "codigo": 28,
         "nombre": "ALCOHOL PUROCOL 500ML",
         "marca": "",
@@ -7930,7 +7920,7 @@
         "activo": true
     },
     {
-        "fila_excel": 795,
+        "fila_excel": 794,
         "codigo": 503,
         "nombre": "APOSITO CRIS-BLAN 8U",
         "marca": "",
@@ -7940,7 +7930,7 @@
         "activo": true
     },
     {
-        "fila_excel": 796,
+        "fila_excel": 795,
         "codigo": 2207,
         "nombre": "AZUFRE DISMAR 5U",
         "marca": "",
@@ -7950,7 +7940,7 @@
         "activo": true
     },
     {
-        "fila_excel": 797,
+        "fila_excel": 796,
         "codigo": 2589,
         "nombre": "BENGALA CIENFUEGOS 4U",
         "marca": "",
@@ -7960,7 +7950,7 @@
         "activo": true
     },
     {
-        "fila_excel": 798,
+        "fila_excel": 797,
         "codigo": 2588,
         "nombre": "BENGALA FUEGOLANDIA 4U",
         "marca": "",
@@ -7970,7 +7960,7 @@
         "activo": true
     },
     {
-        "fila_excel": 799,
+        "fila_excel": 798,
         "codigo": 9939,
         "nombre": "BOMBILLA COLOR ITA-BATE 1U",
         "marca": "",
@@ -7980,7 +7970,7 @@
         "activo": true
     },
     {
-        "fila_excel": 800,
+        "fila_excel": 799,
         "codigo": 567,
         "nombre": "CINTA AISLADORA CANDELA",
         "marca": "",
@@ -7990,7 +7980,7 @@
         "activo": true
     },
     {
-        "fila_excel": 801,
+        "fila_excel": 800,
         "codigo": 410,
         "nombre": "CINTA EMBALAJE CANDELA 40M",
         "marca": "",
@@ -8000,7 +7990,7 @@
         "activo": true
     },
     {
-        "fila_excel": 802,
+        "fila_excel": 801,
         "codigo": 471,
         "nombre": "COTONETES QSOFT POTE 100U",
         "marca": "",
@@ -8010,7 +8000,7 @@
         "activo": true
     },
     {
-        "fila_excel": 803,
+        "fila_excel": 802,
         "codigo": 145,
         "nombre": "ENCENDEDOR BIC MINI",
         "marca": "",
@@ -8020,7 +8010,7 @@
         "activo": true
     },
     {
-        "fila_excel": 804,
+        "fila_excel": 803,
         "codigo": 592,
         "nombre": "ESCARBADIENTES LINCE 12U",
         "marca": "",
@@ -8030,7 +8020,7 @@
         "activo": true
     },
     {
-        "fila_excel": 805,
+        "fila_excel": 804,
         "codigo": 1,
         "nombre": "ESPUMA NIEVE 12U 360ML",
         "marca": "",
@@ -8040,7 +8030,7 @@
         "activo": true
     },
     {
-        "fila_excel": 806,
+        "fila_excel": 805,
         "codigo": 682,
         "nombre": "FOSFOROS TRES PATITOS 222U",
         "marca": "",
@@ -8050,7 +8040,7 @@
         "activo": true
     },
     {
-        "fila_excel": 807,
+        "fila_excel": 806,
         "codigo": 769,
         "nombre": "GASA SYRA 10U",
         "marca": "",
@@ -8060,7 +8050,7 @@
         "activo": true
     },
     {
-        "fila_excel": 808,
+        "fila_excel": 807,
         "codigo": 782,
         "nombre": "HOJAS AFEITAR GILLETTE ROJA 5U",
         "marca": "",
@@ -8070,7 +8060,7 @@
         "activo": true
     },
     {
-        "fila_excel": 809,
+        "fila_excel": 808,
         "codigo": 2442,
         "nombre": "GLOBOS CANDELA CUMPLE 50U",
         "marca": "",
@@ -8080,7 +8070,7 @@
         "activo": true
     },
     {
-        "fila_excel": 810,
+        "fila_excel": 809,
         "codigo": 2443,
         "nombre": "GLOBOS CANDELA LISOS 50U",
         "marca": "",
@@ -8090,7 +8080,7 @@
         "activo": true
     },
     {
-        "fila_excel": 811,
+        "fila_excel": 810,
         "codigo": 2807,
         "nombre": "LAMPARA LED CANDELA 10W",
         "marca": "",
@@ -8100,7 +8090,7 @@
         "activo": true
     },
     {
-        "fila_excel": 812,
+        "fila_excel": 811,
         "codigo": 982,
         "nombre": "LAMPARA LED CANDELA 12W",
         "marca": "",
@@ -8110,7 +8100,7 @@
         "activo": true
     },
     {
-        "fila_excel": 813,
+        "fila_excel": 812,
         "codigo": 983,
         "nombre": "LAMPARA LED CANDELA 15W",
         "marca": "",
@@ -8120,7 +8110,7 @@
         "activo": true
     },
     {
-        "fila_excel": 814,
+        "fila_excel": 813,
         "codigo": 2806,
         "nombre": "LAMPARA LED CANDELA 7W",
         "marca": "",
@@ -8130,7 +8120,7 @@
         "activo": true
     },
     {
-        "fila_excel": 815,
+        "fila_excel": 814,
         "codigo": 9892,
         "nombre": "PAPELILLO STAMP ULTRA BLACK",
         "marca": "",
@@ -8140,7 +8130,7 @@
         "activo": true
     },
     {
-        "fila_excel": 816,
+        "fila_excel": 815,
         "codigo": 3787,
         "nombre": "PRESERVATIVO PRIME ESPERMICIDA 3U",
         "marca": "Prime",
@@ -8150,7 +8140,7 @@
         "activo": true
     },
     {
-        "fila_excel": 817,
+        "fila_excel": 816,
         "codigo": 3784,
         "nombre": "PRESERVATIVO PRIME EXTRA LUBRICADO 3U",
         "marca": "Prime",
@@ -8160,7 +8150,7 @@
         "activo": true
     },
     {
-        "fila_excel": 818,
+        "fila_excel": 817,
         "codigo": 3786,
         "nombre": "PRESERVATIVO PRIME MEGA 3U",
         "marca": "Prime",
@@ -8170,7 +8160,7 @@
         "activo": true
     },
     {
-        "fila_excel": 819,
+        "fila_excel": 818,
         "codigo": 3782,
         "nombre": "PRESERVATIVO PRIME SUPER FINO 3U",
         "marca": "Prime",
@@ -8180,7 +8170,7 @@
         "activo": true
     },
     {
-        "fila_excel": 820,
+        "fila_excel": 819,
         "codigo": 3783,
         "nombre": "PRESERVATIVO PRIME TEXTURADO 3U",
         "marca": "Prime",
@@ -8190,7 +8180,7 @@
         "activo": true
     },
     {
-        "fila_excel": 821,
+        "fila_excel": 820,
         "codigo": 3785,
         "nombre": "PRESERVATIVO PRIME ULTRA FINO 3U",
         "marca": "Prime",
@@ -8200,7 +8190,7 @@
         "activo": true
     },
     {
-        "fila_excel": 822,
+        "fila_excel": 821,
         "codigo": 3781,
         "nombre": "PRESERVATIVO PRIME WARMING 3U",
         "marca": "Prime",
@@ -8210,7 +8200,7 @@
         "activo": true
     },
     {
-        "fila_excel": 823,
+        "fila_excel": 822,
         "codigo": 9925,
         "nombre": "TRIM ALICATE CHICO",
         "marca": "",
@@ -8220,7 +8210,7 @@
         "activo": true
     },
     {
-        "fila_excel": 824,
+        "fila_excel": 823,
         "codigo": 9926,
         "nombre": "TRIM ALICATE GRANDE",
         "marca": "",
@@ -8230,7 +8220,7 @@
         "activo": true
     },
     {
-        "fila_excel": 825,
+        "fila_excel": 824,
         "codigo": 2101,
         "nombre": "VELAS CLEMEN 4U",
         "marca": "",
@@ -8240,7 +8230,7 @@
         "activo": true
     },
     {
-        "fila_excel": 826,
+        "fila_excel": 825,
         "codigo": 9927,
         "nombre": "VELAS JACARANDA 4U",
         "marca": "",
@@ -8250,7 +8240,7 @@
         "activo": true
     },
     {
-        "fila_excel": 827,
+        "fila_excel": 826,
         "codigo": 2331,
         "nombre": "VENDAS ADHESUR 7CM X 3MT",
         "marca": "",
@@ -8260,7 +8250,7 @@
         "activo": true
     },
     {
-        "fila_excel": 828,
+        "fila_excel": 827,
         "codigo": 2910,
         "nombre": "PEGAMENTO ECCOLE 3G",
         "marca": "",
@@ -8270,7 +8260,7 @@
         "activo": true
     },
     {
-        "fila_excel": 829,
+        "fila_excel": 828,
         "codigo": 2183,
         "nombre": "PEGAMENTO ECCOLE 9G",
         "marca": "",
@@ -8280,7 +8270,7 @@
         "activo": true
     },
     {
-        "fila_excel": 830,
+        "fila_excel": 829,
         "codigo": 636,
         "nombre": "PEGAMENTO FASTIX 25G",
         "marca": "",
@@ -8290,7 +8280,7 @@
         "activo": true
     },
     {
-        "fila_excel": 831,
+        "fila_excel": 830,
         "codigo": 964,
         "nombre": "PEGAMENTO LA GOTITA 2ML",
         "marca": "",
@@ -8300,7 +8290,7 @@
         "activo": true
     },
     {
-        "fila_excel": 832,
+        "fila_excel": 831,
         "codigo": 965,
         "nombre": "PEGAMENTO LA GOTITA GEL 3ML",
         "marca": "",
@@ -8310,7 +8300,7 @@
         "activo": true
     },
     {
-        "fila_excel": 833,
+        "fila_excel": 832,
         "codigo": 1595,
         "nombre": "PEGAMENTO POXILINA 70G",
         "marca": "",
@@ -8320,7 +8310,7 @@
         "activo": true
     },
     {
-        "fila_excel": 834,
+        "fila_excel": 833,
         "codigo": 9911,
         "nombre": "PEGAMENTO POXIPOL GRIS 21G",
         "marca": "",
@@ -8330,7 +8320,7 @@
         "activo": true
     },
     {
-        "fila_excel": 835,
+        "fila_excel": 834,
         "codigo": 1598,
         "nombre": "PEGAMENTO POXIPOL TRANSPARENTE 16G",
         "marca": "",
@@ -8340,7 +8330,7 @@
         "activo": true
     },
     {
-        "fila_excel": 836,
+        "fila_excel": 835,
         "codigo": 1599,
         "nombre": "PEGAMENTO POXIRAN 23G",
         "marca": "",
@@ -8350,7 +8340,7 @@
         "activo": true
     },
     {
-        "fila_excel": 837,
+        "fila_excel": 836,
         "codigo": 2068,
         "nombre": "PEGAMENTO UNIPOX 25ML",
         "marca": "",
@@ -8360,7 +8350,7 @@
         "activo": true
     },
     {
-        "fila_excel": 838,
+        "fila_excel": 837,
         "codigo": 3092,
         "nombre": "BICI KIT",
         "marca": "",
@@ -8370,7 +8360,7 @@
         "activo": true
     },
     {
-        "fila_excel": 839,
+        "fila_excel": 838,
         "codigo": 491,
         "nombre": "CHUPETE PARA BEBES 1U",
         "marca": "",
@@ -8380,7 +8370,7 @@
         "activo": true
     },
     {
-        "fila_excel": 840,
+        "fila_excel": 839,
         "codigo": 2766,
         "nombre": "CINTA CANDELA CONFITERA",
         "marca": "",
@@ -8390,7 +8380,7 @@
         "activo": true
     },
     {
-        "fila_excel": 841,
+        "fila_excel": 840,
         "codigo": 490,
         "nombre": "CINTA N°10 CABLE FIX 12U",
         "marca": "",
@@ -8400,7 +8390,7 @@
         "activo": true
     },
     {
-        "fila_excel": 842,
+        "fila_excel": 841,
         "codigo": 54,
         "nombre": "ENCENDEDOR CANDELA HOGAR",
         "marca": "",
@@ -8410,7 +8400,7 @@
         "activo": true
     },
     {
-        "fila_excel": 843,
+        "fila_excel": 842,
         "codigo": 3789,
         "nombre": "ESCARBADIENTES IBERIA 9U",
         "marca": "",
@@ -8420,7 +8410,7 @@
         "activo": true
     },
     {
-        "fila_excel": 844,
+        "fila_excel": 843,
         "codigo": 2465,
         "nombre": "FRASCO DE ANALISIS",
         "marca": "",
@@ -8430,7 +8420,7 @@
         "activo": true
     },
     {
-        "fila_excel": 845,
+        "fila_excel": 844,
         "codigo": 3086,
         "nombre": "PAPEL MANTECA",
         "marca": "",
@@ -8440,7 +8430,7 @@
         "activo": true
     },
     {
-        "fila_excel": 846,
+        "fila_excel": 845,
         "codigo": 1614,
         "nombre": "PRESTOBARBA GROOMEN 5 FILOS",
         "marca": "",
@@ -8450,7 +8440,7 @@
         "activo": true
     },
     {
-        "fila_excel": 847,
+        "fila_excel": 846,
         "codigo": 1850,
         "nombre": "SOLUCION FISIOLOGICA 100ML",
         "marca": "",
@@ -8460,7 +8450,7 @@
         "activo": true
     },
     {
-        "fila_excel": 848,
+        "fila_excel": 847,
         "codigo": 1928,
         "nombre": "TELA ADHESIVA SYRA Nª3",
         "marca": "",
@@ -8470,7 +8460,7 @@
         "activo": true
     },
     {
-        "fila_excel": 849,
+        "fila_excel": 848,
         "codigo": 1898,
         "nombre": "TERMOMETRO DIGITAL",
         "marca": "",
@@ -8480,7 +8470,7 @@
         "activo": true
     },
     {
-        "fila_excel": 850,
+        "fila_excel": 849,
         "codigo": 9923,
         "nombre": "VELAS DE CUMPLEAÑOS 10U",
         "marca": "",
@@ -8490,7 +8480,7 @@
         "activo": true
     },
     {
-        "fila_excel": 851,
+        "fila_excel": 850,
         "codigo": 277,
         "nombre": "CARAMELO ALKA STRONG 800G",
         "marca": "Alka",
@@ -8500,7 +8490,7 @@
         "activo": true
     },
     {
-        "fila_excel": 852,
+        "fila_excel": 851,
         "codigo": 388,
         "nombre": "CHUPETIN POPS EVO CEREZA 432G",
         "marca": "Arcor",
@@ -8510,7 +8500,7 @@
         "activo": true
     },
     {
-        "fila_excel": 853,
+        "fila_excel": 852,
         "codigo": 389,
         "nombre": "CHUPETIN POPS EVO SURTIDO 432G",
         "marca": "Arcor",
@@ -8520,7 +8510,7 @@
         "activo": true
     },
     {
-        "fila_excel": 854,
+        "fila_excel": 853,
         "codigo": 668,
         "nombre": "CARAMELOS FLYN PAFF UVA 70G",
         "marca": "Georgalos",
@@ -8530,7 +8520,7 @@
         "activo": true
     },
     {
-        "fila_excel": 855,
+        "fila_excel": 854,
         "codigo": 669,
         "nombre": "CARAMELOS FLYN PAFF FRUTILLA 70G",
         "marca": "Georgalos",
@@ -8540,7 +8530,7 @@
         "activo": true
     },
     {
-        "fila_excel": 856,
+        "fila_excel": 855,
         "codigo": 883,
         "nombre": "CHICLE BELDENT TUTTI 20U",
         "marca": "Mondelez",
@@ -8550,7 +8540,7 @@
         "activo": true
     },
     {
-        "fila_excel": 857,
+        "fila_excel": 856,
         "codigo": 884,
         "nombre": "CHICLE BELDENT MENTOL 20U",
         "marca": "Mondelez",
@@ -8560,7 +8550,7 @@
         "activo": true
     },
     {
-        "fila_excel": 858,
+        "fila_excel": 857,
         "codigo": 885,
         "nombre": "CHICLE BELDENT FRUTILLA 20U",
         "marca": "Mondelez",
@@ -8570,7 +8560,7 @@
         "activo": true
     },
     {
-        "fila_excel": 859,
+        "fila_excel": 858,
         "codigo": 886,
         "nombre": "CHICLE BELDENT MENTA 20U",
         "marca": "Mondelez",
@@ -8580,7 +8570,7 @@
         "activo": true
     },
     {
-        "fila_excel": 860,
+        "fila_excel": 859,
         "codigo": 891,
         "nombre": "CHICLE BELDENT NEGRO 20U",
         "marca": "Mondelez",
@@ -8590,7 +8580,7 @@
         "activo": true
     },
     {
-        "fila_excel": 861,
+        "fila_excel": 860,
         "codigo": 1378,
         "nombre": "CHICLE BUBBALOO MENTA 60U",
         "marca": "Mondelez",
@@ -8600,7 +8590,7 @@
         "activo": true
     },
     {
-        "fila_excel": 862,
+        "fila_excel": 861,
         "codigo": 1379,
         "nombre": "CHICLE BUBBALOO TUTTI 60U",
         "marca": "Mondelez",
@@ -8610,7 +8600,7 @@
         "activo": true
     },
     {
-        "fila_excel": 863,
+        "fila_excel": 862,
         "codigo": 1380,
         "nombre": "CHICLE BUBBALOO FRUTILLA 60U",
         "marca": "Mondelez",
@@ -8620,7 +8610,7 @@
         "activo": true
     },
     {
-        "fila_excel": 864,
+        "fila_excel": 863,
         "codigo": 1876,
         "nombre": "CARAMELOS SUGUS MAX ANANA 70U",
         "marca": "Arcor",
@@ -8630,7 +8620,7 @@
         "activo": true
     },
     {
-        "fila_excel": 865,
+        "fila_excel": 864,
         "codigo": 1877,
         "nombre": "CARAMELOS SUGUS MAX SANDIA 70U",
         "marca": "Arcor",
@@ -8640,7 +8630,7 @@
         "activo": true
     },
     {
-        "fila_excel": 866,
+        "fila_excel": 865,
         "codigo": 1932,
         "nombre": "CEREALFORT CLASICA 23G",
         "marca": "FelFort",
@@ -8650,7 +8640,7 @@
         "activo": true
     },
     {
-        "fila_excel": 867,
+        "fila_excel": 866,
         "codigo": 1933,
         "nombre": "CEREALFORT LADY 19G",
         "marca": "FelFort",
@@ -8660,7 +8650,7 @@
         "activo": true
     },
     {
-        "fila_excel": 868,
+        "fila_excel": 867,
         "codigo": 1934,
         "nombre": "CEREALFORT CHOCOLATE 19G",
         "marca": "FelFort",
@@ -8670,7 +8660,7 @@
         "activo": true
     },
     {
-        "fila_excel": 869,
+        "fila_excel": 868,
         "codigo": 1935,
         "nombre": "CEREALFORT GRANRICO 19G",
         "marca": "FelFort",
@@ -8680,7 +8670,7 @@
         "activo": true
     },
     {
-        "fila_excel": 870,
+        "fila_excel": 869,
         "codigo": 1936,
         "nombre": "CEREALFORT FRUTOS ROJOS 19G",
         "marca": "FelFort",
@@ -8690,7 +8680,7 @@
         "activo": true
     },
     {
-        "fila_excel": 871,
+        "fila_excel": 870,
         "codigo": 1992,
         "nombre": "CHICLE TOPLINE MENTHOL 16U",
         "marca": "Arcor",
@@ -8700,7 +8690,7 @@
         "activo": true
     },
     {
-        "fila_excel": 872,
+        "fila_excel": 871,
         "codigo": 1997,
         "nombre": "CHICLE TOPLINE VIOLET CHERRY 16U",
         "marca": "Arcor",
@@ -8710,7 +8700,7 @@
         "activo": true
     },
     {
-        "fila_excel": 873,
+        "fila_excel": 872,
         "codigo": 1998,
         "nombre": "CHICLE TOPLINE MANDARINA 16U",
         "marca": "Arcor",
@@ -8720,7 +8710,7 @@
         "activo": true
     },
     {
-        "fila_excel": 874,
+        "fila_excel": 873,
         "codigo": 1999,
         "nombre": "CHICLE TOPLINE SANDIA 16U",
         "marca": "Arcor",
@@ -8730,7 +8720,7 @@
         "activo": true
     },
     {
-        "fila_excel": 875,
+        "fila_excel": 874,
         "codigo": 2000,
         "nombre": "CHICLE TOPLINE FRUTILLA 16U",
         "marca": "Arcor",
@@ -8740,7 +8730,7 @@
         "activo": true
     },
     {
-        "fila_excel": 876,
+        "fila_excel": 875,
         "codigo": 2765,
         "nombre": "CHICLE BELDENT TROPICAL 12U",
         "marca": "Arcor",
@@ -8750,7 +8740,7 @@
         "activo": true
     },
     {
-        "fila_excel": 877,
+        "fila_excel": 876,
         "codigo": 3768,
         "nombre": "CARAMELOS BUTTER TOFFEES CHOCOLATE 822G",
         "marca": "Arcor",
@@ -8760,7 +8750,7 @@
         "activo": true
     },
     {
-        "fila_excel": 878,
+        "fila_excel": 877,
         "codigo": 3769,
         "nombre": "CARAMELOS BUTTER TOFFEES LECHE 822G",
         "marca": "Arcor",
@@ -8770,7 +8760,7 @@
         "activo": true
     },
     {
-        "fila_excel": 879,
+        "fila_excel": 878,
         "codigo": 135,
         "nombre": "CHICLE BAZOOKA MENTA 80U",
         "marca": "Georgalos",
@@ -8780,7 +8770,7 @@
         "activo": true
     },
     {
-        "fila_excel": 880,
+        "fila_excel": 879,
         "codigo": 128,
         "nombre": "CHICLE BAZOOKA TUTTI 80U",
         "marca": "Georgalos",
@@ -8790,7 +8780,7 @@
         "activo": true
     },
     {
-        "fila_excel": 881,
+        "fila_excel": 880,
         "codigo": 9929,
         "nombre": "CHICLE BELDENT CONFITADO FRUTILLA 9U",
         "marca": "Mondelez",
@@ -8800,7 +8790,7 @@
         "activo": true
     },
     {
-        "fila_excel": 882,
+        "fila_excel": 881,
         "codigo": 9987,
         "nombre": "CHICLE BELDENT INFINIT BLUEBERRY 12U",
         "marca": "Mondelez",
@@ -8810,7 +8800,7 @@
         "activo": true
     },
     {
-        "fila_excel": 883,
+        "fila_excel": 882,
         "codigo": 9897,
         "nombre": "CHICLE BELDENT INFINIT MENTA 12U",
         "marca": "Mondelez",
@@ -8820,57 +8810,57 @@
         "activo": true
     },
     {
-        "fila_excel": 884,
+        "fila_excel": 883,
         "codigo": 4304,
         "nombre": "ARROZ INFLADO BURBUJAS 80G",
         "marca": "Burbujas",
-        "categoria": "Golosinas",
+        "categoria": "Snacks",
         "precio": 798.6,
         "imagen": "4304.webp",
         "activo": true
     },
     {
-        "fila_excel": 885,
+        "fila_excel": 884,
         "codigo": 4305,
         "nombre": "BOLITAS COLORES BURBUJAS 80G",
         "marca": "Burbujas",
-        "categoria": "Golosinas",
+        "categoria": "Snacks",
         "precio": 798.6,
         "imagen": "4305.webp",
         "activo": true
     },
     {
-        "fila_excel": 886,
+        "fila_excel": 885,
         "codigo": 4301,
         "nombre": "CHIZITO BURBUJAS QUESO 80G",
         "marca": "Burbujas",
-        "categoria": "Golosinas",
+        "categoria": "Snacks",
         "precio": 798.6,
         "imagen": "4301.webp",
         "activo": true
     },
     {
-        "fila_excel": 887,
+        "fila_excel": 886,
         "codigo": 3560,
         "nombre": "DORITOS SABOR PIZZA 74G",
         "marca": "PepsiCo",
-        "categoria": "Golosinas",
+        "categoria": "Snacks",
         "precio": 2874.96,
         "imagen": "3560.webp",
         "activo": true
     },
     {
-        "fila_excel": 888,
+        "fila_excel": 887,
         "codigo": 4300,
         "nombre": "JAMCITOS BURBUJAS 80G",
         "marca": "Burbujas",
-        "categoria": "Golosinas",
+        "categoria": "Snacks",
         "precio": 798.6,
         "imagen": "4300.webp",
         "activo": true
     },
     {
-        "fila_excel": 889,
+        "fila_excel": 888,
         "codigo": 117,
         "nombre": "JUGO BAGGIO MANZANA 125 ML",
         "marca": "Baggio",
@@ -8880,7 +8870,7 @@
         "activo": true
     },
     {
-        "fila_excel": 890,
+        "fila_excel": 889,
         "codigo": 113,
         "nombre": "JUGO BAGGIO MANZANA 1L",
         "marca": "Baggio",
@@ -8890,7 +8880,7 @@
         "activo": true
     },
     {
-        "fila_excel": 891,
+        "fila_excel": 890,
         "codigo": 120,
         "nombre": "JUGO BAGGIO MANZANA 200ML",
         "marca": "Baggio",
@@ -8900,7 +8890,7 @@
         "activo": true
     },
     {
-        "fila_excel": 892,
+        "fila_excel": 891,
         "codigo": 118,
         "nombre": "JUGO BAGGIO MULTIFRUTA 125ML",
         "marca": "Baggio",
@@ -8910,7 +8900,7 @@
         "activo": true
     },
     {
-        "fila_excel": 893,
+        "fila_excel": 892,
         "codigo": 116,
         "nombre": "JUGO BAGGIO MULTIFRUTA 1L",
         "marca": "Baggio",
@@ -8920,7 +8910,7 @@
         "activo": true
     },
     {
-        "fila_excel": 894,
+        "fila_excel": 893,
         "codigo": 121,
         "nombre": "JUGO BAGGIO NARANJA 200ML",
         "marca": "Baggio",
@@ -8930,7 +8920,7 @@
         "activo": true
     },
     {
-        "fila_excel": 895,
+        "fila_excel": 894,
         "codigo": 940,
         "nombre": "JUGO CLIGHT ANANA 20U",
         "marca": "Mondelez",
@@ -8940,7 +8930,7 @@
         "activo": true
     },
     {
-        "fila_excel": 896,
+        "fila_excel": 895,
         "codigo": 943,
         "nombre": "JUGO CLIGHT MANZANA 20U",
         "marca": "Mondelez",
@@ -8950,7 +8940,7 @@
         "activo": true
     },
     {
-        "fila_excel": 897,
+        "fila_excel": 896,
         "codigo": 1721,
         "nombre": "KESITAS BOLSITA 75G",
         "marca": "Bagley",
@@ -8960,9 +8950,9 @@
         "activo": true
     },
     {
-        "fila_excel": 898,
+        "fila_excel": 897,
         "codigo": 3061,
-        "nombre": "PAPAS KRACHITOS AMERICO 55G",
+        "nombre": "PAPAS KRACHITOS CORTE AMERICANO 55G",
         "marca": "Krachitos",
         "categoria": "Snacks",
         "precio": 1303.17,
@@ -8970,7 +8960,7 @@
         "activo": true
     },
     {
-        "fila_excel": 899,
+        "fila_excel": 898,
         "codigo": 3562,
         "nombre": "PAPAS KRACHITOS CEBOLLA 55G",
         "marca": "Krachitos",
@@ -8980,7 +8970,7 @@
         "activo": true
     },
     {
-        "fila_excel": 900,
+        "fila_excel": 899,
         "codigo": 3563,
         "nombre": "PAPAS KRACHITOS CHEDDAR 55G",
         "marca": "Krachitos",
@@ -8990,7 +8980,7 @@
         "activo": true
     },
     {
-        "fila_excel": 901,
+        "fila_excel": 900,
         "codigo": 9989,
         "nombre": "PAPAS KRACHITOS KETCHUP 55GR",
         "marca": "Krachitos",
@@ -9000,7 +8990,7 @@
         "activo": true
     },
     {
-        "fila_excel": 902,
+        "fila_excel": 901,
         "codigo": 9919,
         "nombre": "PAPAS PRINGLES CEBOLLA 109G",
         "marca": "Pringles",
@@ -9010,7 +9000,7 @@
         "activo": true
     },
     {
-        "fila_excel": 903,
+        "fila_excel": 902,
         "codigo": 584,
         "nombre": "PAPAS PRINGLES CEBOLLA 37G",
         "marca": "Pringles",
@@ -9020,7 +9010,7 @@
         "activo": true
     },
     {
-        "fila_excel": 904,
+        "fila_excel": 903,
         "codigo": 9920,
         "nombre": "PAPAS PRINGLES CHEDDAR Y BACON 105G",
         "marca": "Pringles",
@@ -9030,7 +9020,7 @@
         "activo": true
     },
     {
-        "fila_excel": 905,
+        "fila_excel": 904,
         "codigo": 9918,
         "nombre": "PAPAS PRINGLES QUESO 109G",
         "marca": "Pringles",
@@ -9040,7 +9030,7 @@
         "activo": true
     },
     {
-        "fila_excel": 906,
+        "fila_excel": 905,
         "codigo": 8700,
         "nombre": "PASTA UNTABLE AGUILA 290G",
         "marca": "Arcor",
@@ -9050,7 +9040,7 @@
         "activo": true
     },
     {
-        "fila_excel": 907,
+        "fila_excel": 906,
         "codigo": 8740,
         "nombre": "PASTA UNTABLE BLOCK 290G",
         "marca": "Arcor",
@@ -9060,7 +9050,7 @@
         "activo": true
     },
     {
-        "fila_excel": 908,
+        "fila_excel": 907,
         "codigo": 1044,
         "nombre": "POETT ALEGRA TU DIA 900ML",
         "marca": "Ayudín",
@@ -9070,7 +9060,7 @@
         "activo": true
     },
     {
-        "fila_excel": 909,
+        "fila_excel": 908,
         "codigo": 1043,
         "nombre": "POETT SUAVIDAD ALGODON 900ML",
         "marca": "Ayudín",
@@ -9080,7 +9070,7 @@
         "activo": true
     },
     {
-        "fila_excel": 910,
+        "fila_excel": 909,
         "codigo": 1720,
         "nombre": "REX ESTUCHE 125G",
         "marca": "Bagley",
@@ -9090,7 +9080,7 @@
         "activo": true
     },
     {
-        "fila_excel": 911,
+        "fila_excel": 910,
         "codigo": 1777,
         "nombre": "SALADIX ESTUCHE JAMON 100G",
         "marca": "Arcor",
@@ -9100,7 +9090,7 @@
         "activo": true
     },
     {
-        "fila_excel": 912,
+        "fila_excel": 911,
         "codigo": 1779,
         "nombre": "SALADIX ESTUCHE PIZZA 100G",
         "marca": "Arcor",
@@ -9110,7 +9100,7 @@
         "activo": true
     },
     {
-        "fila_excel": 913,
+        "fila_excel": 912,
         "codigo": 1783,
         "nombre": "SALADIX JAMON TIRA 6U 40G",
         "marca": "Arcor",
@@ -9120,7 +9110,7 @@
         "activo": true
     },
     {
-        "fila_excel": 914,
+        "fila_excel": 913,
         "codigo": 1784,
         "nombre": "SALADIX PIZZA TIRA 6U 40G",
         "marca": "Arcor",
@@ -9130,17 +9120,17 @@
         "activo": true
     },
     {
-        "fila_excel": 915,
+        "fila_excel": 914,
         "codigo": 4303,
         "nombre": "TRIGO INFLADO BURBUJAS 80G",
         "marca": "Burbujas",
-        "categoria": "Golosinas",
+        "categoria": "Snacks",
         "precio": 798.6,
         "imagen": "4303.webp",
         "activo": true
     },
     {
-        "fila_excel": 916,
+        "fila_excel": 915,
         "codigo": 2062,
         "nombre": "TWISTOS JAMON 40G",
         "marca": "PepsiCo",
@@ -9150,7 +9140,7 @@
         "activo": true
     },
     {
-        "fila_excel": 917,
+        "fila_excel": 916,
         "codigo": 2065,
         "nombre": "TWISTOS JAMON 95G",
         "marca": "PepsiCo",
@@ -9160,7 +9150,7 @@
         "activo": true
     },
     {
-        "fila_excel": 918,
+        "fila_excel": 917,
         "codigo": 2064,
         "nombre": "TWISTOS QUESO 40G",
         "marca": "PepsiCo",
@@ -9170,17 +9160,17 @@
         "activo": true
     },
     {
-        "fila_excel": 919,
+        "fila_excel": 918,
         "codigo": 4302,
         "nombre": "WORMYS BURBUJAS 80G",
         "marca": "Burbujas",
-        "categoria": "Golosinas",
+        "categoria": "Snacks",
         "precio": 798.6,
         "imagen": "4302.webp",
         "activo": true
     },
     {
-        "fila_excel": 920,
+        "fila_excel": 919,
         "codigo": 98,
         "nombre": "GOMITAS MOGUL 360 PELABLE MANGO 20X26G",
         "marca": "Arcor",
@@ -9190,7 +9180,7 @@
         "activo": true
     },
     {
-        "fila_excel": 921,
+        "fila_excel": 920,
         "codigo": 97,
         "nombre": "GOMITAS MOGUL 360 PELABLE UVA 20X26G",
         "marca": "Arcor",
@@ -9200,7 +9190,7 @@
         "activo": true
     },
     {
-        "fila_excel": 922,
+        "fila_excel": 921,
         "codigo": 3565,
         "nombre": "PAPAS LAYS ASADO 77G",
         "marca": "Lays",
@@ -9210,7 +9200,7 @@
         "activo": true
     },
     {
-        "fila_excel": 923,
+        "fila_excel": 922,
         "codigo": 9903,
         "nombre": "PAPAS LAYS CLASICAS 20G",
         "marca": "Lays",
@@ -9220,7 +9210,7 @@
         "activo": true
     },
     {
-        "fila_excel": 924,
+        "fila_excel": 923,
         "codigo": 3561,
         "nombre": "PAPAS LAYS CLASICAS 85G",
         "marca": "Lays",
@@ -9230,7 +9220,7 @@
         "activo": true
     },
     {
-        "fila_excel": 925,
+        "fila_excel": 924,
         "codigo": 3564,
         "nombre": "PAPAS LAYS JAMON 77G",
         "marca": "Lays",
@@ -9240,7 +9230,7 @@
         "activo": true
     },
     {
-        "fila_excel": 926,
+        "fila_excel": 925,
         "codigo": 3566,
         "nombre": "PAPAS LAYS KETCHUP 77G",
         "marca": "Lays",
@@ -9250,7 +9240,7 @@
         "activo": true
     },
     {
-        "fila_excel": 927,
+        "fila_excel": 926,
         "codigo": 939,
         "nombre": "JUGO CLIGHT NARANJA 20U",
         "marca": "Mondelez",
@@ -9260,7 +9250,7 @@
         "activo": true
     },
     {
-        "fila_excel": 928,
+        "fila_excel": 927,
         "codigo": 9937,
         "nombre": "JUGO CLIGHT NARANJA DULCE 20U",
         "marca": "Mondelez",
@@ -9270,13 +9260,323 @@
         "activo": true
     },
     {
-        "fila_excel": 929,
+        "fila_excel": 928,
         "codigo": 8876,
         "nombre": "GOMITAS REGALIZ BULL DOG TUTTI FRUTTI 75G",
         "marca": "",
         "categoria": "Golosinas",
         "precio": 793.76,
         "imagen": "8876.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 929,
+        "codigo": 9934,
+        "nombre": "3D ORIGINAL QUESO 23G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 960.74,
+        "imagen": "9934.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 930,
+        "codigo": 1498,
+        "nombre": "3D ORIGINAL QUESO 43G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1633.5,
+        "imagen": "1498.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 931,
+        "codigo": 3052,
+        "nombre": "3D ORIGINAL QUESO 85G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 2836.24,
+        "imagen": "3052.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 932,
+        "codigo": 33,
+        "nombre": "BATATAS FRITAS KRACHITOS 70G",
+        "marca": "Krachitos",
+        "categoria": "Snacks",
+        "precio": 1890.02,
+        "imagen": "33.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 933,
+        "codigo": 1550,
+        "nombre": "CHEETOS ORIGINAL QUESO 23G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 960.74,
+        "imagen": "1550.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 934,
+        "codigo": 9909,
+        "nombre": "CHEETOS ORIGINAL QUESO 43G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1633.5,
+        "imagen": "9909.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 935,
+        "codigo": 1502,
+        "nombre": "CHEETOS ORIGINAL QUESO 85G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 2874.96,
+        "imagen": "1502.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 936,
+        "codigo": 8830,
+        "nombre": "CHIZITO BURBUJAS 400G",
+        "marca": "",
+        "categoria": "Snacks",
+        "precio": 3502.95,
+        "imagen": "8830.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 937,
+        "codigo": 1509,
+        "nombre": "DORITOS QUESO 20G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 960.74,
+        "imagen": "1509.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 938,
+        "codigo": 1504,
+        "nombre": "DORITOS QUESO 40G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1633.5,
+        "imagen": "1504.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 939,
+        "codigo": 3009,
+        "nombre": "MAICITOS PEHUAMAR 125G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 3267.0,
+        "imagen": "3009.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 940,
+        "codigo": 1073,
+        "nombre": "MAICITOS PEHUAMAR 265G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 5324.0,
+        "imagen": "1073.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 941,
+        "codigo": 8731,
+        "nombre": "MANI KRACHITOS 65G",
+        "marca": "Krachitos",
+        "categoria": "Snacks",
+        "precio": 1243.88,
+        "imagen": "8731.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 942,
+        "codigo": 1086,
+        "nombre": "MANI PELADO PEHUAMAR 75G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1903.33,
+        "imagen": "1086.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 943,
+        "codigo": 8790,
+        "nombre": "PALITOS KRACHITOS 110G",
+        "marca": "Krachitos",
+        "categoria": "Snacks",
+        "precio": 1247.51,
+        "imagen": "8790.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 944,
+        "codigo": 456,
+        "nombre": "PALITOS PEP PANCETA 84G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1839.2,
+        "imagen": "456.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 945,
+        "codigo": 1384,
+        "nombre": "PALITOS SALADOS BURBUJAS 20U",
+        "marca": "Burbujas",
+        "categoria": "Snacks",
+        "precio": 2618.44,
+        "imagen": "1384.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 946,
+        "codigo": 8907,
+        "nombre": "PALITOS SALADOS BURBUJAS 800G",
+        "marca": "Burbujas",
+        "categoria": "Snacks",
+        "precio": 7026.47,
+        "imagen": "8907.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 947,
+        "codigo": 3060,
+        "nombre": "PALITOS KRACHITOS 70G",
+        "marca": "Krachitos",
+        "categoria": "Snacks",
+        "precio": 1021.24,
+        "imagen": "3060.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 948,
+        "codigo": 3078,
+        "nombre": "PALITOS PEP PANCETA 120G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 2874.96,
+        "imagen": "3078.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 949,
+        "codigo": 2841,
+        "nombre": "PAPAS ACANALADAS BURBUJAS 500G",
+        "marca": "Burbujas",
+        "categoria": "Snacks",
+        "precio": 9885.7,
+        "imagen": "2841.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 950,
+        "codigo": 3050,
+        "nombre": "PAPAS FRITAS NIKITOS 65G",
+        "marca": "",
+        "categoria": "Snacks",
+        "precio": 1097.47,
+        "imagen": "3050.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 951,
+        "codigo": 1416,
+        "nombre": "PAPAS FRITAS PEHUAMAR 45OG",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 8542.6,
+        "imagen": "1416.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 952,
+        "codigo": 18,
+        "nombre": "PAPAS KRACHITOS CORTE TRADICIONAL 420G",
+        "marca": "Krachitos",
+        "categoria": "Snacks",
+        "precio": 8189.28,
+        "imagen": "18.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 953,
+        "codigo": 8814,
+        "nombre": "PAPAS NIKITOS 30G",
+        "marca": "Pipas",
+        "categoria": "Snacks",
+        "precio": 539.66,
+        "imagen": "8814.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 954,
+        "codigo": 9943,
+        "nombre": "PIPAS GIGANTES  DOYPACK 160G",
+        "marca": "Pipas",
+        "categoria": "Snacks",
+        "precio": 2023.12,
+        "imagen": "9943.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 955,
+        "codigo": 3295,
+        "nombre": "POCHOCLO BURBUJAS MANZANA 60G",
+        "marca": "Burbujas",
+        "categoria": "Snacks",
+        "precio": 544.5,
+        "imagen": "3295.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 956,
+        "codigo": 3294,
+        "nombre": "POCHOCLO BURBUJAS VAINILLA 60G",
+        "marca": "Burbujas",
+        "categoria": "Snacks",
+        "precio": 544.5,
+        "imagen": "3294.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 957,
+        "codigo": 1503,
+        "nombre": "RUEDITAS PEP PIZZA 40G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1009.14,
+        "imagen": "1503.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 958,
+        "codigo": 1500,
+        "nombre": "RUEDITAS PEP PIZZA 74G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1633.5,
+        "imagen": "1500.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 959,
+        "codigo": 2060,
+        "nombre": "TUTUCA BURBUJAS 30U 15G",
+        "marca": "Burbujas",
+        "categoria": "Snacks",
+        "precio": 3605.8,
+        "imagen": "2060.webp",
         "activo": true
     }
 ]
