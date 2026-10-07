@@ -1262,7 +1262,7 @@
     {
         "fila_excel": 128,
         "codigo": 107,
-        "nombre": "BABY DOLL CHUP 4U",
+        "nombre": "CHUPETIN BABY DOLL 4U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 592.9,
@@ -3282,7 +3282,7 @@
     {
         "fila_excel": 330,
         "codigo": 287,
-        "nombre": "CATCH POP  * CHUPETIN",
+        "nombre": "CHUPETIN CATCH POP 17G",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
         "precio": 2299.0,
@@ -3382,7 +3382,7 @@
     {
         "fila_excel": 340,
         "codigo": 8843,
-        "nombre": "GOMITAS MOGUL ANILLOS X 1KG",
+        "nombre": "GOMITAS MOGUL ANILLOS 1KG",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 9631.6,
@@ -3422,7 +3422,7 @@
     {
         "fila_excel": 344,
         "codigo": 1643,
-        "nombre": "PUSH POP CHUPETIN TODOS   C/U",
+        "nombre": "CHUPETIN PUSH POP 14G",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
         "precio": 468.27,
@@ -3442,7 +3442,7 @@
     {
         "fila_excel": 346,
         "codigo": 2520,
-        "nombre": "TNT CHICLE SURTIDO 40 U",
+        "nombre": "CHICLE TNT SURTIDO 40U",
         "marca": "TNT",
         "categoria": "Golosinas",
         "precio": 3446.08,
@@ -4352,7 +4352,7 @@
     {
         "fila_excel": 437,
         "codigo": 375,
-        "nombre": "CHUP ARCOR MR POP FRUTAL 50U",
+        "nombre": "CHUPETIN ARCOR MR POP FRUTAL 50U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 5912.06,
@@ -4372,7 +4372,7 @@
     {
         "fila_excel": 439,
         "codigo": 1028,
-        "nombre": "CHUPETIN PELOTITAS 50 U",
+        "nombre": "CHUPETIN PELOTITAS 50U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 2088.46,
@@ -4382,7 +4382,7 @@
     {
         "fila_excel": 440,
         "codigo": 391,
-        "nombre": "CHUPETIN PITO PITO 24 U",
+        "nombre": "CHUPETIN PITO PITO 24U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 2420.0,
@@ -5572,7 +5572,7 @@
     {
         "fila_excel": 559,
         "codigo": 475,
-        "nombre": "CRAZY POP X5 U",
+        "nombre": "CHUPETIN CRAZY POP FRUTILLA 5U",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
         "precio": 2415.16,
@@ -5812,7 +5812,7 @@
     {
         "fila_excel": 583,
         "codigo": 313,
-        "nombre": "CHICLE FLICS 12UNIDADES",
+        "nombre": "CHICLE FLICS 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 7175.3,
@@ -5832,7 +5832,7 @@
     {
         "fila_excel": 585,
         "codigo": 387,
-        "nombre": "CHUPETIN POPS EVO BLUEBERRY 432G",
+        "nombre": "CHUPETIN POPS EVOLUTION BLUEBERRY 432G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 4658.5,
@@ -5842,7 +5842,7 @@
     {
         "fila_excel": 586,
         "codigo": 396,
-        "nombre": "CARAMELO ALKA CHERRY 800G",
+        "nombre": "CHUPETIN CEBOLLITA 40U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 1355.2,
@@ -5852,7 +5852,7 @@
     {
         "fila_excel": 587,
         "codigo": 398,
-        "nombre": "CARAMELO ALKA STRONG 800G",
+        "nombre": "CHUPETIN FIERITA TUTTI 50U",
         "marca": "",
         "categoria": "Golosinas",
         "precio": 6524.02,
@@ -5862,7 +5862,7 @@
     {
         "fila_excel": 588,
         "codigo": 404,
-        "nombre": "CHUPETONCITO 8 U",
+        "nombre": "CHUPETIN LHERITIER CHUPETONCITO 8U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
         "precio": 5972.56,
@@ -5882,7 +5882,7 @@
     {
         "fila_excel": 590,
         "codigo": 974,
-        "nombre": "LA YAPA 36 U",
+        "nombre": "PASTILLA LA YAPA 36U",
         "marca": "Vauquita",
         "categoria": "Golosinas",
         "precio": 12892.55,
@@ -5902,7 +5902,7 @@
     {
         "fila_excel": 592,
         "codigo": 1725,
-        "nombre": "CHUPETIN RING POP 10G",
+        "nombre": "CHUPETIN RING POP SANDIA 10G",
         "marca": "Ring Pop",
         "categoria": "Golosinas",
         "precio": 214.17,
@@ -6012,7 +6012,7 @@
     {
         "fila_excel": 603,
         "codigo": 1129,
-        "nombre": "MARSHMELLOS GONGYS X 200 GR",
+        "nombre": "MARSHMELLOS GONGYS X 200G",
         "marca": "",
         "categoria": "Golosinas",
         "precio": 2456.3,
@@ -6052,12 +6052,12 @@
     {
         "fila_excel": 607,
         "codigo": 2522,
-        "nombre": "BARRA INTEGRA 41 GR",
+        "nombre": "BARRA INTEGRA 41G",
         "marca": "",
         "categoria": "Golosinas",
         "precio": 1089.0,
         "imagen": "2522.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 608,
@@ -6492,7 +6492,7 @@
     {
         "fila_excel": 651,
         "codigo": 378,
-        "nombre": "CUBANITOS OBLITA CHOCOLATE 48U",
+        "nombre": "CUBANITO OBLITA CHOCOLATE 48U",
         "marca": "Oblita",
         "categoria": "Golosinas",
         "precio": 5268.34,
@@ -8492,7 +8492,7 @@
     {
         "fila_excel": 851,
         "codigo": 388,
-        "nombre": "CHUPETIN POPS EVO CEREZA 432G",
+        "nombre": "CHUPETIN POPS EVOLUTION CEREZA 432G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 4658.5,
@@ -8502,7 +8502,7 @@
     {
         "fila_excel": 852,
         "codigo": 389,
-        "nombre": "CHUPETIN POPS EVO SURTIDO 432G",
+        "nombre": "CHUPETIN POPS EVOLUTION SURTIDO 432G",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 4658.5,
@@ -9687,6 +9687,76 @@
         "categoria": "Golosinas",
         "precio": 4682.7,
         "imagen": "1233.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 971,
+        "codigo": 99,
+        "nombre": "CHUPETIN BOLA LOCA CHICLE 24U",
+        "marca": "Lheritier",
+        "categoria": "Golosinas",
+        "precio": 2721.29,
+        "imagen": "99.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 972,
+        "codigo": 1762,
+        "nombre": "CHUPETIN CRAZY POP NARANJA 5U",
+        "marca": "Fun Candy",
+        "categoria": "Golosinas",
+        "precio": 2501.07,
+        "imagen": "1762.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 973,
+        "codigo": 1765,
+        "nombre": "CHUPETIN CRAZY POP SANDIA 5U",
+        "marca": "Fun Candy",
+        "categoria": "Golosinas",
+        "precio": 2501.07,
+        "imagen": "1765.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 974,
+        "codigo": 1763,
+        "nombre": "CHUPETIN CRAZY POP UVA 5U",
+        "marca": "Fun Candy",
+        "categoria": "Golosinas",
+        "precio": 2501.07,
+        "imagen": "1763.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 975,
+        "codigo": 1760,
+        "nombre": "CHUPETIN RING POP CEREZA 10G",
+        "marca": "Ring Pop",
+        "categoria": "Golosinas",
+        "precio": 214.17,
+        "imagen": "1760.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 976,
+        "codigo": 1761,
+        "nombre": "CHUPETIN RING POP FRUTILLA 10G",
+        "marca": "Ring Pop",
+        "categoria": "Golosinas",
+        "precio": 214.17,
+        "imagen": "1761.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 977,
+        "codigo": 376,
+        "nombre": "CHUPETIN BOLA LOCA BOCA 24U",
+        "marca": "Lheritier",
+        "categoria": "Golosinas",
+        "precio": 2099.35,
+        "imagen": "376.webp",
         "activo": true
     }
 ]
