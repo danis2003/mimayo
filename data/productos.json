@@ -5,7 +5,7 @@
         "nombre": "ACELGA 550GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 4934.38,
+        "precio": 4901.71,
         "imagen": "3226.webp",
         "activo": true
     },
@@ -15,7 +15,7 @@
         "nombre": "ARANDANOS 300GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 6068.15,
+        "precio": 6174.63,
         "imagen": "3220.webp",
         "activo": true
     },
@@ -25,7 +25,7 @@
         "nombre": "BROCOLI 450GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 6095.98,
+        "precio": 6070.57,
         "imagen": "3225.webp",
         "activo": true
     },
@@ -35,7 +35,7 @@
         "nombre": "ESPINACA 550GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 4810.96,
+        "precio": 4791.6,
         "imagen": "3222.webp",
         "activo": true
     },
@@ -45,7 +45,7 @@
         "nombre": "FRAMBUESAS 400GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 13475.77,
+        "precio": 13322.1,
         "imagen": "3224.webp",
         "activo": true
     },
@@ -55,7 +55,7 @@
         "nombre": "FRUTILLAS 400GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 6387.59,
+        "precio": 6134.7,
         "imagen": "3223.webp",
         "activo": true
     },
@@ -85,7 +85,7 @@
         "nombre": "MIX PRIMAVERA 350GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 3968.8,
+        "precio": 3951.86,
         "imagen": "3221.webp",
         "activo": true
     },
@@ -475,7 +475,7 @@
         "nombre": "ALFAJOR JORGITO SIN GLUTEN 50G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 942.59,
+        "precio": 1180.96,
         "imagen": "2464.webp",
         "activo": true
     },
@@ -555,7 +555,7 @@
         "nombre": "JUGO BAGGIO NARANJA 125ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 308.55,
+        "precio": 338.8,
         "imagen": "112.webp",
         "activo": true
     },
@@ -565,7 +565,7 @@
         "nombre": "JUGO BAGGIO NARANJA 1L",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 1589.94,
+        "precio": 1789.59,
         "imagen": "110.webp",
         "activo": true
     },
@@ -875,7 +875,7 @@
         "nombre": "CHOCOLATE KINDER BARRITA 24U",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 20369.14,
+        "precio": 19137.36,
         "imagen": "946.webp",
         "activo": true
     },
@@ -885,7 +885,7 @@
         "nombre": "CHOCOLATE KINDER BARRITA 4U",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2554.31,
+        "precio": 2452.67,
         "imagen": "949.webp",
         "activo": true
     },
@@ -895,7 +895,7 @@
         "nombre": "HUEVO KINDER SORPRESA NENE",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2331.67,
+        "precio": 2246.97,
         "imagen": "950.webp",
         "activo": true
     },
@@ -905,7 +905,7 @@
         "nombre": "CHOCOLATE KINDER MAXI 10U",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 10890.0,
+        "precio": 12584.0,
         "imagen": "954.webp",
         "activo": true
     },
@@ -925,7 +925,7 @@
         "nombre": "MAYONESA NATURA 250 CC",
         "marca": "Natura",
         "categoria": "Almacén",
-        "precio": 1702.47,
+        "precio": 1801.69,
         "imagen": "2745.webp",
         "activo": true
     },
@@ -995,7 +995,7 @@
         "nombre": "BIZCOCHO 9 DE ORO TODOS 200G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1150.71,
+        "precio": 1101.1,
         "imagen": "156.webp",
         "activo": true
     },
@@ -1005,7 +1005,7 @@
         "nombre": "GOMITAS MOGUL DIENTES 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6071.78,
+        "precio": 6292.0,
         "imagen": "1240.webp",
         "activo": true
     },
@@ -1035,7 +1035,7 @@
         "nombre": "GOMITAS MOGUL MORAS 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6071.78,
+        "precio": 6292.0,
         "imagen": "1245.webp",
         "activo": true
     },
@@ -1295,7 +1295,7 @@
         "nombre": "CARAMELO BUTTER TOFFEES CAFE 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9438.0,
+        "precio": 9302.48,
         "imagen": "890.webp",
         "activo": true
     },
@@ -1385,7 +1385,7 @@
         "nombre": "GOMITAS MOGUL OSITOS 12X30G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6098.4,
+        "precio": 6311.36,
         "imagen": "687.webp",
         "activo": true
     },
@@ -1405,7 +1405,7 @@
         "nombre": "GOMITAS MOGUL EXTREME SANDIA 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6071.78,
+        "precio": 6986.54,
         "imagen": "3068.webp",
         "activo": true
     },
@@ -1435,7 +1435,7 @@
         "nombre": "GOMITAS MOGUL CEREBRITOS 12X30G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6037.9,
+        "precio": 6311.36,
         "imagen": "686.webp",
         "activo": true
     },
@@ -1505,7 +1505,7 @@
         "nombre": "CHICLE TOPLINE STRONG 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12901.02,
+        "precio": 12548.91,
         "imagen": "1996.webp",
         "activo": true
     },
@@ -1875,7 +1875,7 @@
         "nombre": "QUESO RALLADO LA QUESERA 40",
         "marca": "La Quesera",
         "categoria": "Almacén",
-        "precio": 826.43,
+        "precio": 861.52,
         "imagen": "3150.webp",
         "activo": true
     },
@@ -2145,7 +2145,7 @@
         "nombre": "DON SATUR BIZCOCHOS 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1096.26,
+        "precio": 1069.64,
         "imagen": "534.webp",
         "activo": true
     },
@@ -2245,7 +2245,7 @@
         "nombre": "GALLETITA LINCOLN 160G",
         "marca": "Terrabusi",
         "categoria": "Galletitas",
-        "precio": 1379.4,
+        "precio": 1512.5,
         "imagen": "713.webp",
         "activo": true
     },
@@ -2535,7 +2535,7 @@
         "nombre": "CHEDDAR SALSA DANICA X 209 G",
         "marca": "Dánica",
         "categoria": "Almacén",
-        "precio": 1401.18,
+        "precio": 1611.72,
         "imagen": "3269.webp",
         "activo": true
     },
@@ -2655,7 +2655,7 @@
         "nombre": "KETCHUP DANICA X220G",
         "marca": "Dánica",
         "categoria": "Almacén",
-        "precio": 1128.93,
+        "precio": 1297.12,
         "imagen": "3266.webp",
         "activo": true
     },
@@ -2665,7 +2665,7 @@
         "nombre": "LEVEX X 10 GR",
         "marca": "Levex",
         "categoria": "Almacén",
-        "precio": 665.5,
+        "precio": 688.49,
         "imagen": "3144.webp",
         "activo": true
     },
@@ -2695,7 +2695,7 @@
         "nombre": "MOSTAZA DANICA X 220 G",
         "marca": "Dánica",
         "categoria": "Almacén",
-        "precio": 788.92,
+        "precio": 907.5,
         "imagen": "3267.webp",
         "activo": true
     },
@@ -3205,7 +3205,7 @@
         "nombre": "APOSITO SYRITA 10U",
         "marca": "Syrita",
         "categoria": "Varios",
-        "precio": 398.09,
+        "precio": 413.82,
         "imagen": "8803.webp",
         "activo": true
     },
@@ -3305,7 +3305,7 @@
         "nombre": "CHICLE BLUPER SANDIA 400G",
         "marca": "Bluper",
         "categoria": "Golosinas",
-        "precio": 5384.5,
+        "precio": 5929.0,
         "imagen": "2380.webp",
         "activo": true
     },
@@ -3395,7 +3395,7 @@
         "nombre": "PASTILLA BIYU SORPRESA",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 1397.55,
+        "precio": 1439.9,
         "imagen": "1472.webp",
         "activo": true
     },
@@ -3495,7 +3495,7 @@
         "nombre": "GALLETITA PEPAS TRIO 200G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 744.15,
+        "precio": 776.82,
         "imagen": "727.webp",
         "activo": true
     },
@@ -3585,7 +3585,7 @@
         "nombre": "GALLETITA  PEPAS TRIO 500G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 1883.97,
+        "precio": 1966.25,
         "imagen": "739.webp",
         "activo": true
     },
@@ -3705,7 +3705,7 @@
         "nombre": "MAGDALENA DON SATUR VAINILLA 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2393.38,
+        "precio": 2514.38,
         "imagen": "1065.webp",
         "activo": true
     },
@@ -3765,7 +3765,7 @@
         "nombre": "OBLEA OBLITA 50G",
         "marca": "Oblita",
         "categoria": "Galletitas",
-        "precio": 332.75,
+        "precio": 400.51,
         "imagen": "1316.webp",
         "activo": true
     },
@@ -3805,7 +3805,7 @@
         "nombre": "GALLETITA PARNOR SUAVECITAS 140G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 895.4,
+        "precio": 935.33,
         "imagen": "1457.webp",
         "activo": true
     },
@@ -3815,7 +3815,7 @@
         "nombre": "GALLETITA PITUSAS CHOCOLATE 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1038.18,
+        "precio": 1001.88,
         "imagen": "1459.webp",
         "activo": true
     },
@@ -4105,7 +4105,7 @@
         "nombre": "CARAMELO ARCOR MIEL MENTA 335G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 3751.0,
+        "precio": 3872.0,
         "imagen": "1792.webp",
         "activo": true
     },
@@ -4375,7 +4375,7 @@
         "nombre": "CHUPETIN PELOTITAS 50U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 2088.46,
+        "precio": 2722.5,
         "imagen": "1028.webp",
         "activo": true
     },
@@ -4675,7 +4675,7 @@
         "nombre": "CHOCOLATE KINDER BUENO NEGRO 43G",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2625.7,
+        "precio": 2178.0,
         "imagen": "947.webp",
         "activo": true
     },
@@ -4755,7 +4755,7 @@
         "nombre": "POETT FLORES PRIMAVERA 900ML",
         "marca": "Ayudín",
         "categoria": "Limpieza",
-        "precio": 1754.5,
+        "precio": 1829.52,
         "imagen": "1042.webp",
         "activo": true
     },
@@ -4995,7 +4995,7 @@
         "nombre": "QUERUBIN SUAVIZANTE*900",
         "marca": "Grupo Queruclor",
         "categoria": "Limpieza",
-        "precio": 2843.5,
+        "precio": 3212.55,
         "imagen": "1017.webp",
         "activo": true
     },
@@ -5415,7 +5415,7 @@
         "nombre": "MINI TORTA PICNIC 38G",
         "marca": "Nevares",
         "categoria": "Alfajores",
-        "precio": 350.9,
+        "precio": 378.73,
         "imagen": "9862.webp",
         "activo": true
     },
@@ -5465,7 +5465,7 @@
         "nombre": "SPORT POP C/U",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
-        "precio": 1818.63,
+        "precio": 1863.4,
         "imagen": "9884.webp",
         "activo": true
     },
@@ -5475,7 +5475,7 @@
         "nombre": "UNI POP  C/U",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
-        "precio": 2065.47,
+        "precio": 2098.14,
         "imagen": "9885.webp",
         "activo": true
     },
@@ -5525,7 +5525,7 @@
         "nombre": "TURRON DE MANI ARCOR X 25 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 226.27,
+        "precio": 242.0,
         "imagen": "2050.webp",
         "activo": true
     },
@@ -5545,7 +5545,7 @@
         "nombre": "TURRON MANI MISKY X 25 GR",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 199.65,
+        "precio": 201.47,
         "imagen": "2051.webp",
         "activo": true
     },
@@ -5575,7 +5575,7 @@
         "nombre": "CHUPETIN CRAZY POP FRUTILLA 5U",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
-        "precio": 2415.16,
+        "precio": 2501.07,
         "imagen": "475.webp",
         "activo": true
     },
@@ -6025,7 +6025,7 @@
         "nombre": "CARAMELO ARCOR MENTA CHOCOLATE 715G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7502.0,
+        "precio": 7744.0,
         "imagen": "1161.webp",
         "activo": true
     },
@@ -6035,7 +6035,7 @@
         "nombre": "CARAMELO ARCOR RELLENO FRUTAL 810G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8475.51,
+        "precio": 7744.0,
         "imagen": "1790.webp",
         "activo": true
     },
@@ -6225,7 +6225,7 @@
         "nombre": "CHOCOLATE KINDER BUENO DARK 43G",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2625.7,
+        "precio": 2178.0,
         "imagen": "953.webp",
         "activo": true
     },
@@ -6235,7 +6235,7 @@
         "nombre": "CHOCOLATE KINDER BUENO WHITE 39G",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2625.7,
+        "precio": 2178.0,
         "imagen": "948.webp",
         "activo": true
     },
@@ -6345,7 +6345,7 @@
         "nombre": "HUEVO KINDER SORPRESA NENA",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2331.67,
+        "precio": 2246.97,
         "imagen": "987.webp",
         "activo": true
     },
@@ -6435,7 +6435,7 @@
         "nombre": "OBLEA OBLITA 100G",
         "marca": "Oblita",
         "categoria": "Galletitas",
-        "precio": 726.0,
+        "precio": 747.78,
         "imagen": "8716.webp",
         "activo": true
     },
@@ -6575,7 +6575,7 @@
         "nombre": "GOMITAS MOGUL PIECITOS 12X30",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6098.4,
+        "precio": 6311.36,
         "imagen": "691.webp",
         "activo": true
     },
@@ -6725,7 +6725,7 @@
         "nombre": "BIZCOCHO DON SATUR AGRIDULCE 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1096.26,
+        "precio": 1069.64,
         "imagen": "535.webp",
         "activo": true
     },
@@ -6735,7 +6735,7 @@
         "nombre": "BIZCOCHO DON SATUR NEGRITO 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1149.5,
+        "precio": 1069.64,
         "imagen": "536.webp",
         "activo": true
     },
@@ -6745,7 +6745,7 @@
         "nombre": "BIZCOCHO DON SATUR VEGETAL 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1149.5,
+        "precio": 1069.64,
         "imagen": "538.webp",
         "activo": true
     },
@@ -6925,7 +6925,7 @@
         "nombre": "GALLETITA PITUSAS FRUTILLA 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1038.18,
+        "precio": 1001.88,
         "imagen": "55.webp",
         "activo": true
     },
@@ -6945,7 +6945,7 @@
         "nombre": "GALLETITA PITUSAS LIMON 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1016.4,
+        "precio": 1001.88,
         "imagen": "16.webp",
         "activo": true
     },
@@ -6975,7 +6975,7 @@
         "nombre": "MAGDALENA DON SATUR CHIPS CHOCOLATE 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2393.38,
+        "precio": 2514.38,
         "imagen": "249.webp",
         "activo": true
     },
@@ -6985,7 +6985,7 @@
         "nombre": "MAGDALENA DON SATUR MARMOLADAS 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2393.38,
+        "precio": 2514.38,
         "imagen": "248.webp",
         "activo": true
     },
@@ -6995,7 +6995,7 @@
         "nombre": "MAGDALENA DON SATUR VAINILLA DDL 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2393.38,
+        "precio": 2514.38,
         "imagen": "246.webp",
         "activo": true
     },
@@ -7585,7 +7585,7 @@
         "nombre": "ALFAJOR CAPITAN DEL ESPACIO SIMPLE BLANCO 40G",
         "marca": "Capitán del Espacio",
         "categoria": "Alfajores",
-        "precio": 1435.06,
+        "precio": 1497.98,
         "imagen": "9860.webp",
         "activo": true
     },
@@ -8445,7 +8445,7 @@
         "nombre": "SOLUCION FISIOLOGICA 100ML",
         "marca": "",
         "categoria": "Varios",
-        "precio": 726.0,
+        "precio": 878.46,
         "imagen": "1850.webp",
         "activo": true
     },
@@ -8685,7 +8685,7 @@
         "nombre": "CHICLE TOPLINE MENTHOL 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12901.02,
+        "precio": 12548.91,
         "imagen": "1992.webp",
         "activo": true
     },
@@ -8695,7 +8695,7 @@
         "nombre": "CHICLE TOPLINE VIOLET CHERRY 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12901.02,
+        "precio": 12548.91,
         "imagen": "1997.webp",
         "activo": true
     },
@@ -8705,7 +8705,7 @@
         "nombre": "CHICLE TOPLINE MANDARINA 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12901.02,
+        "precio": 12548.91,
         "imagen": "1998.webp",
         "activo": true
     },
@@ -8715,7 +8715,7 @@
         "nombre": "CHICLE TOPLINE SANDIA 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12901.02,
+        "precio": 12548.91,
         "imagen": "1999.webp",
         "activo": true
     },
@@ -8725,7 +8725,7 @@
         "nombre": "CHICLE TOPLINE FRUTILLA 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12901.02,
+        "precio": 12548.91,
         "imagen": "2000.webp",
         "activo": true
     },
@@ -8745,7 +8745,7 @@
         "nombre": "CARAMELO BUTTER TOFFEES CHOCOLATE 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9438.0,
+        "precio": 9302.48,
         "imagen": "3768.webp",
         "activo": true
     },
@@ -8865,7 +8865,7 @@
         "nombre": "JUGO BAGGIO MANZANA 125 ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 308.55,
+        "precio": 338.8,
         "imagen": "117.webp",
         "activo": true
     },
@@ -8875,7 +8875,7 @@
         "nombre": "JUGO BAGGIO MANZANA 1L",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 1589.94,
+        "precio": 1789.59,
         "imagen": "113.webp",
         "activo": true
     },
@@ -8885,7 +8885,7 @@
         "nombre": "JUGO BAGGIO MANZANA 200ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 471.9,
+        "precio": 521.51,
         "imagen": "120.webp",
         "activo": true
     },
@@ -8895,7 +8895,7 @@
         "nombre": "JUGO BAGGIO MULTIFRUTA 125ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 308.55,
+        "precio": 338.8,
         "imagen": "118.webp",
         "activo": true
     },
@@ -8905,7 +8905,7 @@
         "nombre": "JUGO BAGGIO MULTIFRUTA 1L",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 1589.94,
+        "precio": 1789.59,
         "imagen": "116.webp",
         "activo": true
     },
@@ -8915,7 +8915,7 @@
         "nombre": "JUGO BAGGIO NARANJA 200ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 471.9,
+        "precio": 521.51,
         "imagen": "121.webp",
         "activo": true
     },
@@ -9055,7 +9055,7 @@
         "nombre": "POETT ALEGRA TU DIA 900ML",
         "marca": "Ayudín",
         "categoria": "Limpieza",
-        "precio": 1754.5,
+        "precio": 1829.52,
         "imagen": "1044.webp",
         "activo": true
     },
@@ -9065,7 +9065,7 @@
         "nombre": "POETT SUAVIDAD ALGODON 900ML",
         "marca": "Ayudín",
         "categoria": "Limpieza",
-        "precio": 1754.5,
+        "precio": 1829.52,
         "imagen": "1043.webp",
         "activo": true
     },
@@ -9435,7 +9435,7 @@
         "nombre": "PALITOS SALADOS BURBUJAS 20U",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 2618.44,
+        "precio": 2751.54,
         "imagen": "1384.webp",
         "activo": true
     },
@@ -9585,7 +9585,7 @@
         "nombre": "ALFAJOR ALFANÜIT 80G",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1839.0,
+        "precio": 1839.2,
         "imagen": "152.webp",
         "activo": true
     },
