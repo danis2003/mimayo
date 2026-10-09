@@ -23,6 +23,25 @@ let textoBusqueda = "";
 let criterioOrden = "default";
 let productosVisibles = 50;
 let productosFiltrados = [];
+// =========================================
+// ORDEN COMERCIAL DE CATEGORÍAS
+// =========================================
+
+const ORDEN_CATEGORIAS = [
+  "Golosinas",
+  "Chocolates",
+  "Alfajores",
+  "Galletitas",
+  "Snacks",
+  "Almacén",
+  "Bebidas",
+  "Congelados",
+  "Frescos",
+  "Lácteos",
+  "Limpieza",
+  "Perfumería",
+  "Varios",
+];
 
 const contenedorProductos = document.getElementById("productos");
 const contenedorCategorias = document.getElementById("categorias");
@@ -655,6 +674,22 @@ function renderizarCategorias() {
     ...new Set(productos.map((producto) => producto.categoria)),
   ];
 
+  categorias.sort((a, b) => {
+    const indiceA = ORDEN_CATEGORIAS.indexOf(a);
+    const indiceB = ORDEN_CATEGORIAS.indexOf(b);
+
+    // Las categorías configuradas aparecen primero.
+    if (indiceA === -1 && indiceB !== -1) return 1;
+    if (indiceA !== -1 && indiceB === -1) return -1;
+
+    // Las categorías nuevas no configuradas quedan al final.
+    if (indiceA === -1 && indiceB === -1) {
+      return a.localeCompare(b, "es", { sensitivity: "base" });
+    }
+
+    return indiceA - indiceB;
+  });
+
   // Botón "Todos"
   const botonTodos = document.createElement("button");
 
@@ -768,11 +803,14 @@ function aplicarFiltros() {
         String(producto.codigo).includes(textoBusqueda),
     );
   }
-
-  // Ordenar
+  // Ordenar productos
   switch (criterioOrden) {
     case "nombre":
-      resultado.sort((a, b) => a.nombre.localeCompare(b.nombre));
+      resultado.sort((a, b) =>
+        a.nombre.localeCompare(b.nombre, "es", {
+          sensitivity: "base",
+        }),
+      );
       break;
 
     case "precioAsc":
@@ -782,7 +820,43 @@ function aplicarFiltros() {
     case "precioDesc":
       resultado.sort((a, b) => b.precio - a.precio);
       break;
+
+    default:
+      resultado.sort((a, b) => {
+        // En "Todos", respetar primero el orden comercial
+        // de las categorías.
+        if (categoriaSeleccionada === "Todos") {
+          const indiceA = ORDEN_CATEGORIAS.indexOf(a.categoria);
+          const indiceB = ORDEN_CATEGORIAS.indexOf(b.categoria);
+
+          const ordenA = indiceA === -1 ? Infinity : indiceA;
+          const ordenB = indiceB === -1 ? Infinity : indiceB;
+
+          if (ordenA !== ordenB) {
+            return ordenA - ordenB;
+          }
+        }
+
+        // Dentro de cada categoría, ordenar alfabéticamente.
+        return a.nombre.localeCompare(b.nombre, "es", {
+          sensitivity: "base",
+        });
+      });
   }
+  // // Ordenar
+  // switch (criterioOrden) {
+  //   case "nombre":
+  //     resultado.sort((a, b) => a.nombre.localeCompare(b.nombre));
+  //     break;
+
+  //   case "precioAsc":
+  //     resultado.sort((a, b) => a.precio - b.precio);
+  //     break;
+
+  //   case "precioDesc":
+  //     resultado.sort((a, b) => b.precio - a.precio);
+  //     break;
+  // }
 
   productosFiltrados = resultado;
 
