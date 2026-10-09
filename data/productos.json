@@ -9898,5 +9898,35 @@
         "precio": 14874.53,
         "imagen": "2197.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 992,
+        "codigo": 670,
+        "nombre": "HELADO FRANUI AMARGO 150G",
+        "marca": "Franuí",
+        "categoria": "Congelados",
+        "precio": 6769.95,
+        "imagen": "670.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 993,
+        "codigo": 8904,
+        "nombre": "HELADO FRANUI LECHE 150G",
+        "marca": "Franuí",
+        "categoria": "Congelados",
+        "precio": 6769.95,
+        "imagen": "8904.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 994,
+        "codigo": 671,
+        "nombre": "HELADO FRANUI PINK 150G",
+        "marca": "Franuí",
+        "categoria": "Congelados",
+        "precio": 6769.95,
+        "imagen": "671.webp",
+        "activo": true
     }
 ]
