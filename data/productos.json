@@ -2232,7 +2232,7 @@
     {
         "fila_excel": 225,
         "codigo": 3177,
-        "nombre": "SUEROX x 630ML",
+        "nombre": "SUEROX LIMONADA 630ML",
         "marca": "Suerox",
         "categoria": "Bebidas",
         "precio": 1667.38,
@@ -9897,6 +9897,26 @@
         "categoria": "Congelados",
         "precio": 6769.95,
         "imagen": "671.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 992,
+        "codigo": 3279,
+        "nombre": "SUEROX FRUTOS ROJOS 630ML",
+        "marca": "Suerox",
+        "categoria": "Bebidas",
+        "precio": 1667.38,
+        "imagen": "3279.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 993,
+        "codigo": 3278,
+        "nombre": "SUEROX MANZANA 630ML",
+        "marca": "Suerox",
+        "categoria": "Bebidas",
+        "precio": 1667.38,
+        "imagen": "3278.webp",
         "activo": true
     }
 ]
