@@ -7587,7 +7587,7 @@
         "categoria": "Alfajores",
         "precio": 1020.03,
         "imagen": "3389.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 761,
