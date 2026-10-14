@@ -435,7 +435,7 @@
         "nombre": "ALFAJOR GUAYMALLEN SIMPLE CHOCOLATE CAJA 40U",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 10864.59,
+        "precio": 10559.67,
         "imagen": "61.webp",
         "activo": true
     },
@@ -595,7 +595,7 @@
         "nombre": "CARAMELO BILLIKEN YOGURT 600G",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 4751.67,
+        "precio": 4647.61,
         "imagen": "3075.webp",
         "activo": true
     },
@@ -665,7 +665,7 @@
         "nombre": "CHOCOLATE CADBURY YOGURT 82G",
         "marca": "Cadbury",
         "categoria": "Chocolates",
-        "precio": 4385.04,
+        "precio": 4560.44,
         "imagen": "335.webp",
         "activo": true
     },
@@ -675,7 +675,7 @@
         "nombre": "CHOCOLATE CADBURY YOGURT 29G",
         "marca": "Cadbury",
         "categoria": "Chocolates",
-        "precio": 1770.23,
+        "precio": 1841.04,
         "imagen": "334.webp",
         "activo": true
     },
@@ -695,7 +695,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 110G",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 3518.68,
+        "precio": 3556.19,
         "imagen": "342.webp",
         "activo": true
     },
@@ -715,7 +715,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 38G",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 1524.6,
+        "precio": 1552.43,
         "imagen": "341.webp",
         "activo": true
     },
@@ -725,7 +725,7 @@
         "nombre": "CHOCOLATE MILKA OREO 37G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2127.18,
+        "precio": 2212.27,
         "imagen": "3084.webp",
         "activo": true
     },
@@ -935,7 +935,7 @@
         "nombre": "CHOCOLATE MILKA AIR ALMENDRA 110G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 6289.58,
+        "precio": 6541.16,
         "imagen": "8817.webp",
         "activo": true
     },
@@ -945,7 +945,7 @@
         "nombre": "CHOCOLATE MILKA AIR LECHE 50G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2631.75,
+        "precio": 2737.02,
         "imagen": "3014.webp",
         "activo": true
     },
@@ -955,7 +955,7 @@
         "nombre": "CHOCOLATE MILKA CHOCOLAT LECHE 55G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2888.27,
+        "precio": 3003.8,
         "imagen": "8818.webp",
         "activo": true
     },
@@ -965,7 +965,7 @@
         "nombre": "CHOCOLATE MILKA DDLECHE 29G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 1274.13,
+        "precio": 1325.1,
         "imagen": "3063.webp",
         "activo": true
     },
@@ -975,7 +975,7 @@
         "nombre": "CHOCOLATE MILKA DULCE DE LECH 68G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 3509.0,
+        "precio": 3649.36,
         "imagen": "3018.webp",
         "activo": true
     },
@@ -1015,7 +1015,7 @@
         "nombre": "GOMITAS MOGUL EXTREME FRUTILLA 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6071.78,
+        "precio": 6335.56,
         "imagen": "8804.webp",
         "activo": true
     },
@@ -1145,7 +1145,7 @@
         "nombre": "CHOCOLATE SHOT 35G",
         "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 1331.0,
+        "precio": 1384.24,
         "imagen": "1826.webp",
         "activo": true
     },
@@ -1155,7 +1155,7 @@
         "nombre": "CHOCOLATE SHOT 90G",
         "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 3751.0,
+        "precio": 3901.04,
         "imagen": "1823.webp",
         "activo": true
     },
@@ -1165,7 +1165,7 @@
         "nombre": "CHOCOLATE SHOT 170G",
         "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 5638.6,
+        "precio": 5864.14,
         "imagen": "1825.webp",
         "activo": true
     },
@@ -1255,7 +1255,7 @@
         "nombre": "CARAMELO LOTZA FIZZ 48U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 11853.77,
+        "precio": 13691.15,
         "imagen": "1051.webp",
         "activo": true
     },
@@ -1275,7 +1275,7 @@
         "nombre": "CHICLE BELDENT SANDIA 20U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 11113.85,
+        "precio": 12463.0,
         "imagen": "882.webp",
         "activo": true
     },
@@ -1345,7 +1345,7 @@
         "nombre": "PASTILLA HALLS STRONG 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6642.9,
+        "precio": 7097.86,
         "imagen": "828.webp",
         "activo": true
     },
@@ -1465,7 +1465,7 @@
         "nombre": "GOMITAS ROLLO MOGUL FRUTAL 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6057.26,
+        "precio": 5769.28,
         "imagen": "1745.webp",
         "activo": true
     },
@@ -1535,7 +1535,7 @@
         "nombre": "ACEITE CAÑUELAS 1.5L",
         "marca": "Molino Cañuelas",
         "categoria": "Almacén",
-        "precio": 6271.43,
+        "precio": 5832.2,
         "imagen": "2184.webp",
         "activo": true
     },
@@ -1745,7 +1745,7 @@
         "nombre": "DULCE DE LECHE REPOS LS 400G",
         "marca": "La Serenísima",
         "categoria": "Almacén",
-        "precio": 3872.0,
+        "precio": 3630.0,
         "imagen": "3307.webp",
         "activo": true
     },
@@ -1865,7 +1865,7 @@
         "nombre": "QUESO LA SERENISIMA 10U",
         "marca": "La Serenísima",
         "categoria": "Almacén",
-        "precio": 15158.88,
+        "precio": 14520.0,
         "imagen": "1648.webp",
         "activo": true
     },
@@ -2085,7 +2085,7 @@
         "nombre": "AQUARIUS VARIOS SABORES 2.25 Lt",
         "marca": "Coca-Cola",
         "categoria": "Bebidas",
-        "precio": 2099.35,
+        "precio": 2217.93,
         "imagen": "8800.webp",
         "activo": true
     },
@@ -2925,7 +2925,7 @@
         "nombre": "APOSITO CURITAS 8U",
         "marca": "Curitas",
         "categoria": "Varios",
-        "precio": 1295.91,
+        "precio": 1364.88,
         "imagen": "500.webp",
         "activo": true
     },
@@ -2985,7 +2985,7 @@
         "nombre": "ENERGIZER 2A",
         "marca": "Energizer",
         "categoria": "Varios",
-        "precio": 844.58,
+        "precio": 882.09,
         "imagen": "568.webp",
         "activo": true
     },
@@ -2995,7 +2995,7 @@
         "nombre": "ENERGIZER 3A",
         "marca": "Energizer",
         "categoria": "Varios",
-        "precio": 844.58,
+        "precio": 882.09,
         "imagen": "569.webp",
         "activo": true
     },
@@ -3045,7 +3045,7 @@
         "nombre": "EVEREADY BATERIA * 9 V",
         "marca": "Eveready",
         "categoria": "Varios",
-        "precio": 3115.75,
+        "precio": 3747.37,
         "imagen": "616.webp",
         "activo": true
     },
@@ -3085,7 +3085,7 @@
         "nombre": "FILTROS OCB SLIM 150U",
         "marca": "OCB",
         "categoria": "Varios",
-        "precio": 1767.81,
+        "precio": 1825.89,
         "imagen": "2571.webp",
         "activo": true
     },
@@ -3255,7 +3255,7 @@
         "nombre": "CARAMELO ALKA CHERRY 800G",
         "marca": "Alka",
         "categoria": "Golosinas",
-        "precio": 11017.05,
+        "precio": 11457.49,
         "imagen": "263.webp",
         "activo": true
     },
@@ -3285,7 +3285,7 @@
         "nombre": "CATY HOUSE",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 2182.84,
+        "precio": 2249.39,
         "imagen": "9854.webp",
         "activo": true
     },
@@ -3325,7 +3325,7 @@
         "nombre": "PASTILLA DRF MENTA 12U",
         "marca": "D.R.F.",
         "categoria": "Golosinas",
-        "precio": 3677.19,
+        "precio": 3836.91,
         "imagen": "542.webp",
         "activo": true
     },
@@ -3405,7 +3405,7 @@
         "nombre": "PUPPY HOUSE",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 2182.84,
+        "precio": 2249.39,
         "imagen": "9853.webp",
         "activo": true
     },
@@ -3805,7 +3805,7 @@
         "nombre": "GALLETITA PITUSAS CHOCOLATE 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1001.88,
+        "precio": 1038.18,
         "imagen": "1459.webp",
         "activo": true
     },
@@ -4055,7 +4055,7 @@
         "nombre": "ALGODON DONCELLA *70GS",
         "marca": "Doncella",
         "categoria": "Perfumería",
-        "precio": 965.58,
+        "precio": 847.0,
         "imagen": "65.webp",
         "activo": true
     },
@@ -4245,7 +4245,7 @@
         "nombre": "CHOCOLATE FULL MANI 150G",
         "marca": "Georgalos",
         "categoria": "Chocolates",
-        "precio": 3100.02,
+        "precio": 3224.02,
         "imagen": "2173.webp",
         "activo": true
     },
@@ -4345,7 +4345,7 @@
         "nombre": "CHUPETIN ARCOR MR POP FRUTAL 50U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5912.06,
+        "precio": 5324.0,
         "imagen": "375.webp",
         "activo": true
     },
@@ -4605,7 +4605,7 @@
         "nombre": "JABON LIQUI QUERUBIN* 800 ML",
         "marca": "Grupo Queruclor",
         "categoria": "Limpieza",
-        "precio": 3206.5,
+        "precio": 2758.8,
         "imagen": "2771.webp",
         "activo": true
     },
@@ -4695,7 +4695,7 @@
         "nombre": "LAVANDINA  HEROE  1 LITRO",
         "marca": "",
         "categoria": "Limpieza",
-        "precio": 767.14,
+        "precio": 779.24,
         "imagen": "2340.webp",
         "activo": true
     },
@@ -4765,7 +4765,7 @@
         "nombre": "MANTECOL 111G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 2562.78,
+        "precio": 2665.29,
         "imagen": "1095.webp",
         "activo": true
     },
@@ -4775,7 +4775,7 @@
         "nombre": "MANTECOL 26G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 844.58,
+        "precio": 878.36,
         "imagen": "1093.webp",
         "activo": true
     },
@@ -4785,7 +4785,7 @@
         "nombre": "MANTECOL 40G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 1217.26,
+        "precio": 1265.95,
         "imagen": "1103.webp",
         "activo": true
     },
@@ -4795,7 +4795,7 @@
         "nombre": "MANTECOL 64G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 1429.01,
+        "precio": 1486.17,
         "imagen": "1090.webp",
         "activo": true
     },
@@ -4845,7 +4845,7 @@
         "nombre": "MILKA CHOCO PAUSE LECHE 45G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 1502.82,
+        "precio": 1562.93,
         "imagen": "1197.webp",
         "activo": true
     },
@@ -4885,7 +4885,7 @@
         "nombre": "PAPEL HIG FELPITA*4 X 30 MTS",
         "marca": "Felpita",
         "categoria": "Limpieza",
-        "precio": 1573.0,
+        "precio": 1766.6,
         "imagen": "1440.webp",
         "activo": true
     },
@@ -4955,7 +4955,7 @@
         "nombre": "PROTECTORES DONCELLA VERDE*2",
         "marca": "Doncella",
         "categoria": "Perfumería",
-        "precio": 974.05,
+        "precio": 897.82,
         "imagen": "2456.webp",
         "activo": true
     },
@@ -5015,7 +5015,7 @@
         "nombre": "ROLLO COCINA SUSSEX* 3 UNID",
         "marca": "Sussex",
         "categoria": "Limpieza",
-        "precio": 1754.5,
+        "precio": 1773.86,
         "imagen": "1741.webp",
         "activo": true
     },
@@ -5065,7 +5065,7 @@
         "nombre": "CHOCOLATE TIVIS 25G",
         "marca": "FelFort",
         "categoria": "Chocolates",
-        "precio": 813.4,
+        "precio": 845.94,
         "imagen": "1957.webp",
         "activo": true
     },
@@ -5135,7 +5135,7 @@
         "nombre": "MILKA RASPBERRY CREME 100G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 6166.16,
+        "precio": 6412.81,
         "imagen": "8891.webp",
         "activo": true
     },
@@ -5175,7 +5175,7 @@
         "nombre": "CHOCOLATE ROCKLETS 20G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 726.0,
+        "precio": 635.25,
         "imagen": "1731.webp",
         "activo": true
     },
@@ -5185,7 +5185,7 @@
         "nombre": "CHOCOLATE ROCKLETS 40G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 1331.0,
+        "precio": 1149.5,
         "imagen": "1732.webp",
         "activo": true
     },
@@ -5215,7 +5215,7 @@
         "nombre": "CARAMELO BUTTER TOFFEES PISTACHO 648G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6746.96,
+        "precio": 7039.78,
         "imagen": "9882.webp",
         "activo": true
     },
@@ -5425,7 +5425,7 @@
         "nombre": "MANTECOL BAÑADO 20G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 847.0,
+        "precio": 880.88,
         "imagen": "9883.webp",
         "activo": true
     },
@@ -5555,7 +5555,7 @@
         "nombre": "OBLEA RHODESIA 22G",
         "marca": "Terrabusi",
         "categoria": "Chocolates",
-        "precio": 740.52,
+        "precio": 770.14,
         "imagen": "733.webp",
         "activo": true
     },
@@ -5585,7 +5585,7 @@
         "nombre": "BOMBON MILKA OREO 19G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 544.5,
+        "precio": 566.28,
         "imagen": "1210.webp",
         "activo": true
     },
@@ -5675,7 +5675,7 @@
         "nombre": "ALFAJOR MANTECOL TRIPLE 60G",
         "marca": "Georgalos",
         "categoria": "Alfajores",
-        "precio": 1471.36,
+        "precio": 1439.9,
         "imagen": "9893.webp",
         "activo": true
     },
@@ -5715,7 +5715,7 @@
         "nombre": "OBLEA MANTECOL 27G",
         "marca": "Georgalos",
         "categoria": "Chocolates",
-        "precio": 665.5,
+        "precio": 692.12,
         "imagen": "9872.webp",
         "activo": true
     },
@@ -5755,7 +5755,7 @@
         "nombre": "CARAMELO PICO DULCE MASTICABLE 165G",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 4129.73,
+        "precio": 6208.51,
         "imagen": "265.webp",
         "activo": true
     },
@@ -5765,7 +5765,7 @@
         "nombre": "CARAMELO PICO DULCE DURO 450G",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 5644.65,
+        "precio": 6208.51,
         "imagen": "266.webp",
         "activo": true
     },
@@ -5805,7 +5805,7 @@
         "nombre": "CHUPETIN POPS EVOLUTION BLUEBERRY 432G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 4658.5,
+        "precio": 4416.5,
         "imagen": "387.webp",
         "activo": true
     },
@@ -5825,7 +5825,7 @@
         "nombre": "CHUPETIN FIERITA TUTTI 50U",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 6524.02,
+        "precio": 7165.62,
         "imagen": "398.webp",
         "activo": true
     },
@@ -5875,7 +5875,7 @@
         "nombre": "CHUPETIN RING POP SANDIA 10G",
         "marca": "Ring Pop",
         "categoria": "Golosinas",
-        "precio": 214.17,
+        "precio": 297.66,
         "imagen": "1725.webp",
         "activo": true
     },
@@ -5905,7 +5905,7 @@
         "nombre": "CHUPETIN EVOLUTION EXTREME DUO 432G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 4658.5,
+        "precio": 4416.5,
         "imagen": "2238.webp",
         "activo": true
     },
@@ -6075,7 +6075,7 @@
         "nombre": "CHOCOLATE CADBURY 3 SUEÑOS 82G",
         "marca": "Mondelez",
         "categoria": "Chocolates",
-        "precio": 4241.05,
+        "precio": 4410.69,
         "imagen": "337.webp",
         "activo": false
     },
@@ -6085,7 +6085,7 @@
         "nombre": "CHOCOLATE CADBURY ALMENDRAS 82G",
         "marca": "Mondelez",
         "categoria": "Chocolates",
-        "precio": 4385.04,
+        "precio": 4560.44,
         "imagen": "336.webp",
         "activo": true
     },
@@ -6215,7 +6215,7 @@
         "nombre": "CHOCOLATE MILKA AIR ALMENDRAS 50G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2631.75,
+        "precio": 2737.02,
         "imagen": "3015.webp",
         "activo": true
     },
@@ -6225,7 +6225,7 @@
         "nombre": "CHOCOLATE MILKA AIR COMBINADO 50G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2631.75,
+        "precio": 2737.02,
         "imagen": "3016.webp",
         "activo": true
     },
@@ -6255,7 +6255,7 @@
         "nombre": "CHOCOLATE FULL MANI 90G",
         "marca": "Georgalos",
         "categoria": "Chocolates",
-        "precio": 1948.1,
+        "precio": 2026.02,
         "imagen": "2250.webp",
         "activo": true
     },
@@ -6325,7 +6325,7 @@
         "nombre": "CHOCOLATE MILKA CHOCO PAUSE OREO 45G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 1502.82,
+        "precio": 1562.93,
         "imagen": "1198.webp",
         "activo": true
     },
@@ -6595,7 +6595,7 @@
         "nombre": "GOMITAS ROLLO MOGUL EXTREME 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6057.26,
+        "precio": 5808.0,
         "imagen": "1746.webp",
         "activo": true
     },
@@ -6895,7 +6895,7 @@
         "nombre": "GALLETITA PITUSAS FRUTILLA 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1001.88,
+        "precio": 1038.18,
         "imagen": "55.webp",
         "activo": true
     },
@@ -6915,7 +6915,7 @@
         "nombre": "GALLETITA PITUSAS LIMON 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1001.88,
+        "precio": 1038.18,
         "imagen": "16.webp",
         "activo": true
     },
@@ -7295,7 +7295,7 @@
         "nombre": "PASTILLA DRF LIMON 12U",
         "marca": "D.R.F.",
         "categoria": "Golosinas",
-        "precio": 3884.1,
+        "precio": 3836.91,
         "imagen": "108.webp",
         "activo": true
     },
@@ -7355,7 +7355,7 @@
         "nombre": "PASTILLA HALLS CHERRY 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6642.9,
+        "precio": 7097.86,
         "imagen": "816.webp",
         "activo": true
     },
@@ -7375,7 +7375,7 @@
         "nombre": "PASTILLA HALLS MENTA 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6642.9,
+        "precio": 7097.86,
         "imagen": "811.webp",
         "activo": true
     },
@@ -7385,7 +7385,7 @@
         "nombre": "PASTILLA HALLS MENTOL 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6642.9,
+        "precio": 7097.86,
         "imagen": "812.webp",
         "activo": true
     },
@@ -7395,7 +7395,7 @@
         "nombre": "PASTILLA HALLS MIEL LIMON 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6642.9,
+        "precio": 7097.86,
         "imagen": "813.webp",
         "activo": true
     },
@@ -7405,7 +7405,7 @@
         "nombre": "PASTILLA HALLS MIEL MENTA 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6642.9,
+        "precio": 7097.86,
         "imagen": "814.webp",
         "activo": true
     },
@@ -7415,7 +7415,7 @@
         "nombre": "PASTILLA HALLS SANDIA 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6642.9,
+        "precio": 7097.86,
         "imagen": "815.webp",
         "activo": true
     },
@@ -7795,7 +7795,7 @@
         "nombre": "ALFAJOR GUAYMALLEN SIMPLE BLANCO CAJA 40U",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 10864.59,
+        "precio": 10559.67,
         "imagen": "146.webp",
         "activo": true
     },
@@ -7905,7 +7905,7 @@
         "nombre": "AZUFRE DISMAR 5U",
         "marca": "",
         "categoria": "Varios",
-        "precio": 1418.12,
+        "precio": 1533.07,
         "imagen": "2207.webp",
         "activo": true
     },
@@ -7975,7 +7975,7 @@
         "nombre": "ENCENDEDOR BIC MINI",
         "marca": "",
         "categoria": "Varios",
-        "precio": 919.6,
+        "precio": 895.4,
         "imagen": "145.webp",
         "activo": true
     },
@@ -8025,7 +8025,7 @@
         "nombre": "HOJAS AFEITAR GILLETTE ROJA 5U",
         "marca": "",
         "categoria": "Varios",
-        "precio": 919.6,
+        "precio": 888.14,
         "imagen": "782.webp",
         "activo": true
     },
@@ -8035,7 +8035,7 @@
         "nombre": "GLOBOS CANDELA CUMPLE 50U",
         "marca": "",
         "categoria": "Varios",
-        "precio": 2480.5,
+        "precio": 2565.2,
         "imagen": "2442.webp",
         "activo": true
     },
@@ -8045,7 +8045,7 @@
         "nombre": "GLOBOS CANDELA LISOS 50U",
         "marca": "",
         "categoria": "Varios",
-        "precio": 2480.5,
+        "precio": 2565.2,
         "imagen": "2443.webp",
         "activo": true
     },
@@ -8345,7 +8345,7 @@
         "nombre": "CINTA CANDELA CONFITERA",
         "marca": "",
         "categoria": "Varios",
-        "precio": 641.3,
+        "precio": 561.44,
         "imagen": "2766.webp",
         "activo": true
     },
@@ -8455,7 +8455,7 @@
         "nombre": "CARAMELO ALKA STRONG 800G",
         "marca": "Alka",
         "categoria": "Golosinas",
-        "precio": 11017.05,
+        "precio": 11457.49,
         "imagen": "277.webp",
         "activo": true
     },
@@ -8465,7 +8465,7 @@
         "nombre": "CHUPETIN POPS EVOLUTION CEREZA 432G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 4658.5,
+        "precio": 4416.5,
         "imagen": "388.webp",
         "activo": true
     },
@@ -8505,7 +8505,7 @@
         "nombre": "CHICLE BELDENT TUTTI 20U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 11113.85,
+        "precio": 12463.0,
         "imagen": "883.webp",
         "activo": true
     },
@@ -8515,7 +8515,7 @@
         "nombre": "CHICLE BELDENT MENTOL 20U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 11113.85,
+        "precio": 12463.0,
         "imagen": "884.webp",
         "activo": true
     },
@@ -8525,7 +8525,7 @@
         "nombre": "CHICLE BELDENT FRUTILLA 20U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 11113.85,
+        "precio": 12463.0,
         "imagen": "885.webp",
         "activo": true
     },
@@ -8535,7 +8535,7 @@
         "nombre": "CHICLE BELDENT MENTA 20U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 11113.85,
+        "precio": 12463.0,
         "imagen": "886.webp",
         "activo": true
     },
@@ -8545,7 +8545,7 @@
         "nombre": "CHICLE BELDENT NEGRO 20U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 11113.85,
+        "precio": 12463.0,
         "imagen": "891.webp",
         "activo": true
     },
@@ -8725,7 +8725,7 @@
         "nombre": "CARAMELO BUTTER TOFFEES LECHE 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9438.0,
+        "precio": 9302.48,
         "imagen": "3769.webp",
         "activo": true
     },
@@ -9375,7 +9375,7 @@
         "nombre": "MANI PELADO PEHUAMAR 75G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1903.33,
+        "precio": 1969.88,
         "imagen": "1086.webp",
         "activo": true
     },
@@ -9395,7 +9395,7 @@
         "nombre": "PALITOS PEP PANCETA 84G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1839.2,
+        "precio": 1969.88,
         "imagen": "456.webp",
         "activo": true
     },
@@ -9565,7 +9565,7 @@
         "nombre": "CARAMELO BUTTER TOFFES CHOKKO MINT 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9438.0,
+        "precio": 9302.48,
         "imagen": "9076.webp",
         "activo": true
     },
@@ -9585,7 +9585,7 @@
         "nombre": "CARAMELO ARCOR FRESH CRISTAL 405G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 4961.0,
+        "precio": 5154.6,
         "imagen": "1162.webp",
         "activo": true
     },
@@ -9645,7 +9645,7 @@
         "nombre": "CARAMELO ARCOR MASTICABLE 800G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7260.0,
+        "precio": 6957.5,
         "imagen": "1134.webp",
         "activo": true
     },
@@ -9705,7 +9705,7 @@
         "nombre": "CHUPETIN RING POP CEREZA 10G",
         "marca": "Ring Pop",
         "categoria": "Golosinas",
-        "precio": 214.17,
+        "precio": 297.66,
         "imagen": "1760.webp",
         "activo": true
     },
@@ -9715,7 +9715,7 @@
         "nombre": "CHUPETIN RING POP FRUTILLA 10G",
         "marca": "Ring Pop",
         "categoria": "Golosinas",
-        "precio": 214.17,
+        "precio": 297.66,
         "imagen": "1761.webp",
         "activo": true
     },
@@ -9917,6 +9917,16 @@
         "categoria": "Bebidas",
         "precio": 1667.38,
         "imagen": "3278.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 994,
+        "codigo": 175,
+        "nombre": "BOMBON BONOBON SUPREME 36G",
+        "marca": "Arcor",
+        "categoria": "Chocolates",
+        "precio": 1830.73,
+        "imagen": "175.webp",
         "activo": true
     }
 ]
