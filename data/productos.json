@@ -2837,7 +2837,7 @@
         "categoria": "Alfajores",
         "precio": 1551.22,
         "imagen": "8823.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 286,
@@ -2847,7 +2847,7 @@
         "categoria": "Alfajores",
         "precio": 1551.22,
         "imagen": "8824.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 287,
@@ -4477,7 +4477,7 @@
         "categoria": "Alfajores",
         "precio": 1551.22,
         "imagen": "8828.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 450,
