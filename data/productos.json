@@ -9918,5 +9918,35 @@
         "precio": 1830.73,
         "imagen": "175.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 994,
+        "codigo": 182,
+        "nombre": "ALFAJOR ATR BLANCO 80G",
+        "marca": "",
+        "categoria": "Alfajores",
+        "precio": 1049.07,
+        "imagen": "182.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 995,
+        "codigo": 181,
+        "nombre": "ALFAJOR ATR NEGRO 80G",
+        "marca": "",
+        "categoria": "Alfajores",
+        "precio": 1049.07,
+        "imagen": "181.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 996,
+        "codigo": 698,
+        "nombre": "PAPAS HABEMUS PAPA 70G",
+        "marca": "",
+        "categoria": "Snacks",
+        "precio": 1880.34,
+        "imagen": "698.webp",
+        "activo": true
     }
 ]
