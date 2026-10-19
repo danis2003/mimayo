@@ -345,7 +345,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE OREO 61G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1287.44,
+        "precio": 1335.84,
         "imagen": "3082.webp",
         "activo": true
     },
@@ -425,7 +425,7 @@
         "nombre": "ALFAJOR GOAT BONOBON 75G",
         "marca": "Arcor",
         "categoria": "Alfajores",
-        "precio": 1340.68,
+        "precio": 1573.0,
         "imagen": "8733.webp",
         "activo": true
     },
@@ -495,7 +495,7 @@
         "nombre": "ALFAJOR MATILDA 80G",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1758.13,
+        "precio": 1464.1,
         "imagen": "3160.webp",
         "activo": true
     },
@@ -505,7 +505,7 @@
         "nombre": "ALFAJOR MILKA SUPER DULCE DE LECHE NEGRO 70G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1299.54,
+        "precio": 1350.36,
         "imagen": "2302.webp",
         "activo": true
     },
@@ -525,7 +525,7 @@
         "nombre": "ALFAJOR TRISHOT NEGRO 60G",
         "marca": "Shot",
         "categoria": "Alfajores",
-        "precio": 1287.44,
+        "precio": 1335.84,
         "imagen": "50.webp",
         "activo": true
     },
@@ -665,7 +665,7 @@
         "nombre": "CHOCOLATE CADBURY YOGURT 82G",
         "marca": "Cadbury",
         "categoria": "Chocolates",
-        "precio": 4560.44,
+        "precio": 4748.04,
         "imagen": "335.webp",
         "activo": true
     },
@@ -915,7 +915,7 @@
         "nombre": "CHOCOLATE KITKAT NEGRO 41G",
         "marca": "Nestlé",
         "categoria": "Chocolates",
-        "precio": 1512.5,
+        "precio": 1534.28,
         "imagen": "955.webp",
         "activo": true
     },
@@ -945,7 +945,7 @@
         "nombre": "CHOCOLATE MILKA AIR LECHE 50G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2737.02,
+        "precio": 3153.26,
         "imagen": "3014.webp",
         "activo": true
     },
@@ -1085,7 +1085,7 @@
         "nombre": "GALLETITA  CEREALITAS 200G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1795.64,
+        "precio": 1731.51,
         "imagen": "302.webp",
         "activo": true
     },
@@ -1145,7 +1145,7 @@
         "nombre": "CHOCOLATE SHOT 35G",
         "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 1384.24,
+        "precio": 1511.29,
         "imagen": "1826.webp",
         "activo": true
     },
@@ -1155,7 +1155,7 @@
         "nombre": "CHOCOLATE SHOT 90G",
         "marca": "Shot",
         "categoria": "Chocolates",
-        "precio": 3901.04,
+        "precio": 3751.0,
         "imagen": "1823.webp",
         "activo": true
     },
@@ -1255,7 +1255,7 @@
         "nombre": "CARAMELO LOTZA FIZZ 48U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 13691.15,
+        "precio": 12826.0,
         "imagen": "1051.webp",
         "activo": true
     },
@@ -1345,7 +1345,7 @@
         "nombre": "PASTILLA HALLS STRONG 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 7097.86,
+        "precio": 6883.69,
         "imagen": "828.webp",
         "activo": true
     },
@@ -1595,7 +1595,7 @@
         "nombre": "AZUCAR LEDESMA 1KG",
         "marca": "Ledesma",
         "categoria": "Almacén",
-        "precio": 1706.1,
+        "precio": 1760.55,
         "imagen": "101.webp",
         "activo": true
     },
@@ -1785,7 +1785,7 @@
         "nombre": "HARINA PUREZA LEUDANTE 1KG",
         "marca": "Molino Cañuelas",
         "categoria": "Almacén",
-        "precio": 1508.87,
+        "precio": 1694.0,
         "imagen": "81.webp",
         "activo": true
     },
@@ -1975,7 +1975,7 @@
         "nombre": "YERBA  TARAGUI X 500 GS",
         "marca": "Las Marías",
         "categoria": "Almacén",
-        "precio": 1905.75,
+        "precio": 1954.15,
         "imagen": "2142.webp",
         "activo": true
     },
@@ -2125,7 +2125,7 @@
         "nombre": "GALLETITA  CRIOLLITAS 100G",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 589.27,
+        "precio": 614.68,
         "imagen": "483.webp",
         "activo": true
     },
@@ -2145,7 +2145,7 @@
         "nombre": "DON SATUR BIZCOCHOS 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1069.64,
+        "precio": 1125.3,
         "imagen": "534.webp",
         "activo": true
     },
@@ -2215,7 +2215,7 @@
         "nombre": "GALLETITA AMOR 110G",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1149.5,
+        "precio": 1285.02,
         "imagen": "705.webp",
         "activo": true
     },
@@ -2375,7 +2375,7 @@
         "nombre": "ALFAJOR DUBAI PISTACHO STYLE NEGRO 70G",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1460.47,
+        "precio": 1524.6,
         "imagen": "3095.webp",
         "activo": true
     },
@@ -2395,7 +2395,7 @@
         "nombre": "ALFAJOR OREO TRIPLE 56G",
         "marca": "Mondelez",
         "categoria": "Alfajores",
-        "precio": 1287.44,
+        "precio": 1335.84,
         "imagen": "32.webp",
         "activo": true
     },
@@ -2405,7 +2405,7 @@
         "nombre": "ALFAJOR PEPITOS TRIPLE 57G",
         "marca": "Mondelez",
         "categoria": "Alfajores",
-        "precio": 1287.44,
+        "precio": 1335.84,
         "imagen": "49.webp",
         "activo": true
     },
@@ -2455,7 +2455,7 @@
         "nombre": "OBLI BON MIX 15U",
         "marca": "Oblita",
         "categoria": "Chocolates",
-        "precio": 4598.0,
+        "precio": 4787.97,
         "imagen": "3300.webp",
         "activo": true
     },
@@ -2465,7 +2465,7 @@
         "nombre": "OBLI BON CLASICO 30U",
         "marca": "Oblita",
         "categoria": "Chocolates",
-        "precio": 7146.26,
+        "precio": 7457.23,
         "imagen": "3309.webp",
         "activo": true
     },
@@ -3215,7 +3215,7 @@
         "nombre": "TABACO CERRITO 45G",
         "marca": "Cerrito",
         "categoria": "Varios",
-        "precio": 6254.49,
+        "precio": 6703.4,
         "imagen": "2587.webp",
         "activo": true
     },
@@ -3225,7 +3225,7 @@
         "nombre": "TABACO CUATRO LEGUAS 30G",
         "marca": "Cuatro Leguas",
         "categoria": "Varios",
-        "precio": 5687.0,
+        "precio": 6050.0,
         "imagen": "2649.webp",
         "activo": true
     },
@@ -3515,7 +3515,7 @@
         "nombre": "GALLETITA  COFLER BLOCK 124G",
         "marca": "Cofler",
         "categoria": "Galletitas",
-        "precio": 1548.8,
+        "precio": 1452.0,
         "imagen": "729.webp",
         "activo": true
     },
@@ -3625,7 +3625,7 @@
         "nombre": "TOSTADAS RIERA CLASICAS 200G",
         "marca": "Riera",
         "categoria": "Galletitas",
-        "precio": 1245.09,
+        "precio": 1427.8,
         "imagen": "753.webp",
         "activo": true
     },
@@ -3665,7 +3665,7 @@
         "nombre": "BISCUIT HJ 130G",
         "marca": "HJ",
         "categoria": "Galletitas",
-        "precio": 1488.3,
+        "precio": 1673.43,
         "imagen": "888.webp",
         "activo": true
     },
@@ -3675,7 +3675,7 @@
         "nombre": "GALLETITA PEPAS ALEMANA 180G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 719.95,
+        "precio": 767.14,
         "imagen": "951.webp",
         "activo": true
     },
@@ -3695,7 +3695,7 @@
         "nombre": "MAGDALENA DON SATUR VAINILLA 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2514.38,
+        "precio": 2392.17,
         "imagen": "1065.webp",
         "activo": true
     },
@@ -3745,7 +3745,7 @@
         "nombre": "GALLETITA  MINI OREO 50G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 909.92,
+        "precio": 894.19,
         "imagen": "1226.webp",
         "activo": true
     },
@@ -3775,7 +3775,7 @@
         "nombre": "GALLETITA OPERA 55G",
         "marca": "Arcor",
         "categoria": "Galletitas",
-        "precio": 736.89,
+        "precio": 786.5,
         "imagen": "1351.webp",
         "activo": true
     },
@@ -3835,7 +3835,7 @@
         "nombre": "GALLETITA  RUMBA 112G",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1237.83,
+        "precio": 1285.02,
         "imagen": "1764.webp",
         "activo": true
     },
@@ -3855,7 +3855,7 @@
         "nombre": "GALLETITA PEPAS TEREPIN 400G",
         "marca": "Terepín",
         "categoria": "Galletitas",
-        "precio": 1520.97,
+        "precio": 1586.31,
         "imagen": "1944.webp",
         "activo": true
     },
@@ -3975,7 +3975,7 @@
         "nombre": "GALLETITA  MINI PEPITOS 50G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 849.36,
+        "precio": 894.19,
         "imagen": "2718.webp",
         "activo": true
     },
@@ -3995,7 +3995,7 @@
         "nombre": "GALLETITA  SURTIDO LIA 400G",
         "marca": "Lía",
         "categoria": "Galletitas",
-        "precio": 1905.75,
+        "precio": 1858.56,
         "imagen": "2951.webp",
         "activo": true
     },
@@ -4125,7 +4125,7 @@
         "nombre": "CHOCOLATE BANANITA DOLCA 14G",
         "marca": "Nestlé",
         "categoria": "Chocolates",
-        "precio": 689.7,
+        "precio": 730.84,
         "imagen": "114.webp",
         "activo": true
     },
@@ -4135,7 +4135,7 @@
         "nombre": "CHOCOLATE BANANITA DOLCA 30G",
         "marca": "Nestlé",
         "categoria": "Chocolates",
-        "precio": 1191.85,
+        "precio": 1262.03,
         "imagen": "115.webp",
         "activo": true
     },
@@ -4205,7 +4205,7 @@
         "nombre": "CHOCOLATE MECANO BLANCO 19G",
         "marca": "Bonafide",
         "categoria": "Chocolates",
-        "precio": 728.42,
+        "precio": 758.67,
         "imagen": "1149.webp",
         "activo": true
     },
@@ -4765,7 +4765,7 @@
         "nombre": "MANTECOL 111G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 2665.29,
+        "precio": 2562.78,
         "imagen": "1095.webp",
         "activo": true
     },
@@ -4775,7 +4775,7 @@
         "nombre": "MANTECOL 26G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 878.36,
+        "precio": 844.58,
         "imagen": "1093.webp",
         "activo": true
     },
@@ -4785,7 +4785,7 @@
         "nombre": "MANTECOL 40G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 1265.95,
+        "precio": 1218.47,
         "imagen": "1103.webp",
         "activo": true
     },
@@ -4795,7 +4795,7 @@
         "nombre": "MANTECOL 64G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 1486.17,
+        "precio": 1427.8,
         "imagen": "1090.webp",
         "activo": true
     },
@@ -5225,7 +5225,7 @@
         "nombre": "ALFAJOR TERRABUSI TORTA TIPLE 70G",
         "marca": "Terrabusi",
         "categoria": "Alfajores",
-        "precio": 1287.44,
+        "precio": 1335.84,
         "imagen": "53.webp",
         "activo": true
     },
@@ -5385,7 +5385,7 @@
         "nombre": "MINI TORTA PICNIC 38G",
         "marca": "Nevares",
         "categoria": "Alfajores",
-        "precio": 378.73,
+        "precio": 361.79,
         "imagen": "9862.webp",
         "activo": true
     },
@@ -5415,7 +5415,7 @@
         "nombre": "ALFAJOR CACHAFAZ  NEGRO 60G",
         "marca": "Cachafaz",
         "categoria": "Alfajores",
-        "precio": 1686.74,
+        "precio": 1856.14,
         "imagen": "9869.webp",
         "activo": true
     },
@@ -5455,7 +5455,7 @@
         "nombre": "CHICLE BELDENT CONFITADO SANDIA 9U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 7090.6,
+        "precio": 7514.1,
         "imagen": "9887.webp",
         "activo": true
     },
@@ -5645,7 +5645,7 @@
         "nombre": "LATITA CANDY 10G",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 7909.77,
+        "precio": 8254.62,
         "imagen": "3143.webp",
         "activo": true
     },
@@ -5665,7 +5665,7 @@
         "nombre": "PIPA CLASICA TIRA 10U 18G",
         "marca": "Pipas",
         "categoria": "Snacks",
-        "precio": 2490.18,
+        "precio": 2613.6,
         "imagen": "6081.webp",
         "activo": true
     },
@@ -5685,7 +5685,7 @@
         "nombre": "ALFAJOR DUBAI BLUE LABEL 65G",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1458.05,
+        "precio": 1518.55,
         "imagen": "9894.webp",
         "activo": true
     },
@@ -5795,7 +5795,7 @@
         "nombre": "CARAMELO LIPO SUPER ACIDO 454G",
         "marca": "Lipo",
         "categoria": "Golosinas",
-        "precio": 3061.3,
+        "precio": 3213.76,
         "imagen": "385.webp",
         "activo": true
     },
@@ -6085,7 +6085,7 @@
         "nombre": "CHOCOLATE CADBURY ALMENDRAS 82G",
         "marca": "Mondelez",
         "categoria": "Chocolates",
-        "precio": 4560.44,
+        "precio": 4748.04,
         "imagen": "336.webp",
         "activo": true
     },
@@ -6215,7 +6215,7 @@
         "nombre": "CHOCOLATE MILKA AIR ALMENDRAS 50G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2737.02,
+        "precio": 3153.26,
         "imagen": "3015.webp",
         "activo": true
     },
@@ -6225,7 +6225,7 @@
         "nombre": "CHOCOLATE MILKA AIR COMBINADO 50G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2737.02,
+        "precio": 3153.26,
         "imagen": "3016.webp",
         "activo": true
     },
@@ -6265,7 +6265,7 @@
         "nombre": "CHOCOLATE KITKAT BLANCO 41G",
         "marca": "Nestlé",
         "categoria": "Chocolates",
-        "precio": 1470.15,
+        "precio": 1534.28,
         "imagen": "957.webp",
         "activo": true
     },
@@ -6275,7 +6275,7 @@
         "nombre": "CHOCOLATE MECANO NEGRO 19G",
         "marca": "Bonafide",
         "categoria": "Chocolates",
-        "precio": 728.42,
+        "precio": 758.67,
         "imagen": "1150.webp",
         "activo": true
     },
@@ -6695,7 +6695,7 @@
         "nombre": "BIZCOCHO DON SATUR AGRIDULCE 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1069.64,
+        "precio": 1125.3,
         "imagen": "535.webp",
         "activo": true
     },
@@ -6705,7 +6705,7 @@
         "nombre": "BIZCOCHO DON SATUR NEGRITO 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1069.64,
+        "precio": 1125.3,
         "imagen": "536.webp",
         "activo": true
     },
@@ -6715,7 +6715,7 @@
         "nombre": "BIZCOCHO DON SATUR VEGETAL 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 1069.64,
+        "precio": 1125.3,
         "imagen": "538.webp",
         "activo": true
     },
@@ -6845,7 +6845,7 @@
         "nombre": "GALLETITA MELLIZAS 110G",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1149.5,
+        "precio": 1285.02,
         "imagen": "82.webp",
         "activo": true
     },
@@ -6945,7 +6945,7 @@
         "nombre": "MAGDALENA DON SATUR CHIPS CHOCOLATE 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2514.38,
+        "precio": 2392.17,
         "imagen": "249.webp",
         "activo": true
     },
@@ -6955,7 +6955,7 @@
         "nombre": "MAGDALENA DON SATUR MARMOLADAS 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2514.38,
+        "precio": 2392.17,
         "imagen": "248.webp",
         "activo": true
     },
@@ -6965,7 +6965,7 @@
         "nombre": "MAGDALENA DON SATUR VAINILLA DDL 200G",
         "marca": "Don Satur",
         "categoria": "Galletitas",
-        "precio": 2514.38,
+        "precio": 2392.17,
         "imagen": "246.webp",
         "activo": true
     },
@@ -6995,7 +6995,7 @@
         "nombre": "MINI RHODESIA TERRABUSI 60G",
         "marca": "Terrabusi",
         "categoria": "Galletitas",
-        "precio": 1822.26,
+        "precio": 2146.54,
         "imagen": "1228.webp",
         "activo": true
     },
@@ -7035,7 +7035,7 @@
         "nombre": "GALLETITA PEPAS TRIO  ALEMANAS 500G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 2008.6,
+        "precio": 2093.3,
         "imagen": "952.webp",
         "activo": true
     },
@@ -7125,7 +7125,7 @@
         "nombre": "TOSTADAS RIERA DULCES 200G",
         "marca": "Riera",
         "categoria": "Galletitas",
-        "precio": 1245.09,
+        "precio": 1427.8,
         "imagen": "754.webp",
         "activo": true
     },
@@ -7135,7 +7135,7 @@
         "nombre": "TOSTADAS RIERA LIGHT 200G",
         "marca": "Riera",
         "categoria": "Galletitas",
-        "precio": 1245.09,
+        "precio": 1427.8,
         "imagen": "756.webp",
         "activo": true
     },
@@ -7355,7 +7355,7 @@
         "nombre": "PASTILLA HALLS CHERRY 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 7097.86,
+        "precio": 6883.69,
         "imagen": "816.webp",
         "activo": true
     },
@@ -7375,7 +7375,7 @@
         "nombre": "PASTILLA HALLS MENTA 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 7097.86,
+        "precio": 6883.69,
         "imagen": "811.webp",
         "activo": true
     },
@@ -7385,7 +7385,7 @@
         "nombre": "PASTILLA HALLS MENTOL 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 7097.86,
+        "precio": 6883.69,
         "imagen": "812.webp",
         "activo": true
     },
@@ -7395,7 +7395,7 @@
         "nombre": "PASTILLA HALLS MIEL LIMON 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 7097.86,
+        "precio": 6883.69,
         "imagen": "813.webp",
         "activo": true
     },
@@ -7405,7 +7405,7 @@
         "nombre": "PASTILLA HALLS MIEL MENTA 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 7097.86,
+        "precio": 6883.69,
         "imagen": "814.webp",
         "activo": true
     },
@@ -7415,7 +7415,7 @@
         "nombre": "PASTILLA HALLS SANDIA 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 7097.86,
+        "precio": 6883.69,
         "imagen": "815.webp",
         "activo": true
     },
@@ -7525,7 +7525,7 @@
         "nombre": "ALFAJOR BONOBON BLANCO SIMPLE 40G",
         "marca": "Arcor",
         "categoria": "Alfajores",
-        "precio": 682.26,
+        "precio": 803.44,
         "imagen": "438.webp",
         "activo": true
     },
@@ -7545,7 +7545,7 @@
         "nombre": "ALFAJOR CACHAFAZ BLANCO 60G",
         "marca": "Cachafaz",
         "categoria": "Alfajores",
-        "precio": 1686.74,
+        "precio": 1856.14,
         "imagen": "7658.webp",
         "activo": true
     },
@@ -7575,7 +7575,7 @@
         "nombre": "ALFAJOR DUBAI PISTACHO STYLE BLANCO 70G",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1460.47,
+        "precio": 1524.6,
         "imagen": "3020.webp",
         "activo": true
     },
@@ -7715,7 +7715,7 @@
         "nombre": "ALFAJOR MILKA SUPER DULCE DE LECHE BLANCO 70G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1299.54,
+        "precio": 1350.36,
         "imagen": "1684.webp",
         "activo": true
     },
@@ -7725,7 +7725,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE MOUSSE BLANCO 55G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1287.44,
+        "precio": 1335.84,
         "imagen": "1683.webp",
         "activo": true
     },
@@ -7735,7 +7735,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE MOUSSE 55G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1287.44,
+        "precio": 1335.84,
         "imagen": "1682.webp",
         "activo": true
     },
@@ -7785,7 +7785,7 @@
         "nombre": "ALFAJOR TRISHOT BLANCO 60G",
         "marca": "Shot",
         "categoria": "Alfajores",
-        "precio": 1287.44,
+        "precio": 1335.84,
         "imagen": "37.webp",
         "activo": true
     },
@@ -7815,7 +7815,7 @@
         "nombre": "ALFAJOR FULBITO MANI CAJA 40U",
         "marca": "Nevares",
         "categoria": "Alfajores",
-        "precio": 8125.15,
+        "precio": 8833.0,
         "imagen": "271.webp",
         "activo": true
     },
@@ -7825,7 +7825,7 @@
         "nombre": "ALFAJOR VIMAR ESCOLAR DDL CAJA 60U",
         "marca": "Vimar",
         "categoria": "Alfajores",
-        "precio": 11952.38,
+        "precio": 12826.0,
         "imagen": "289.webp",
         "activo": true
     },
@@ -7835,7 +7835,7 @@
         "nombre": "ALFAJOR FULBITO BLACK CAJA 40U",
         "marca": "Nevares",
         "categoria": "Alfajores",
-        "precio": 8125.15,
+        "precio": 8833.0,
         "imagen": "3002.webp",
         "activo": true
     },
@@ -8075,7 +8075,7 @@
         "nombre": "LAMPARA LED CANDELA 15W",
         "marca": "",
         "categoria": "Varios",
-        "precio": 1225.73,
+        "precio": 1306.8,
         "imagen": "983.webp",
         "activo": true
     },
@@ -8255,7 +8255,7 @@
         "nombre": "PEGAMENTO LA GOTITA 2ML",
         "marca": "",
         "categoria": "Varios",
-        "precio": 1815.0,
+        "precio": 1936.0,
         "imagen": "964.webp",
         "activo": true
     },
@@ -8755,7 +8755,7 @@
         "nombre": "CHICLE BELDENT CONFITADO FRUTILLA 9U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 7090.6,
+        "precio": 7514.1,
         "imagen": "9929.webp",
         "activo": true
     },
@@ -9555,7 +9555,7 @@
         "nombre": "ALFAJOR ALFANÜIT 80G",
         "marca": "Maixanas",
         "categoria": "Alfajores",
-        "precio": 1839.2,
+        "precio": 1913.01,
         "imagen": "152.webp",
         "activo": true
     },
