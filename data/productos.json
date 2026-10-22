@@ -535,7 +535,7 @@
         "nombre": "CARAMELO ARCOR RELLENO MIEL 675G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7429.4,
+        "precio": 7752.47,
         "imagen": "1791.webp",
         "activo": true
     },
@@ -1245,7 +1245,7 @@
         "nombre": "CARAMELO ARCOR MENTA CRISTAL 810G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9880.86,
+        "precio": 10310.41,
         "imagen": "1163.webp",
         "activo": true
     },
@@ -1265,7 +1265,7 @@
         "nombre": "CHUPETIN BABY DOLL 4U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 592.9,
+        "precio": 632.83,
         "imagen": "107.webp",
         "activo": true
     },
@@ -2865,7 +2865,7 @@
         "nombre": "ENCENDEDOR CANDELA GLOW",
         "marca": "Candela",
         "categoria": "Varios",
-        "precio": 496.1,
+        "precio": 520.3,
         "imagen": "257.webp",
         "activo": true
     },
@@ -3115,7 +3115,7 @@
         "nombre": "NAIPES CANDELA 50U",
         "marca": "Candela",
         "categoria": "Varios",
-        "precio": 1028.5,
+        "precio": 943.8,
         "imagen": "288.webp",
         "activo": true
     },
@@ -3175,7 +3175,7 @@
         "nombre": "PRESERVATIVO PRIME TACHAS 3U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3236.75,
+        "precio": 3121.8,
         "imagen": "1609.webp",
         "activo": true
     },
@@ -3815,7 +3815,7 @@
         "nombre": "GALLETITA PASEO CRACKER AGUA 300G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1391.5,
+        "precio": 1350.36,
         "imagen": "1465.webp",
         "activo": true
     },
@@ -4385,7 +4385,7 @@
         "nombre": "CIF CREMA 375GR",
         "marca": "Unilever",
         "categoria": "Limpieza",
-        "precio": 2069.1,
+        "precio": 2191.31,
         "imagen": "3302.webp",
         "activo": true
     },
@@ -4415,7 +4415,7 @@
         "nombre": "CONITO DON QUIQUE 34G",
         "marca": "Don Quique",
         "categoria": "Chocolates",
-        "precio": 670.34,
+        "precio": 750.2,
         "imagen": "9866.webp",
         "activo": true
     },
@@ -4555,7 +4555,7 @@
         "nombre": "JABON DOVE 90 GR",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1694.0,
+        "precio": 1718.2,
         "imagen": "914.webp",
         "activo": true
     },
@@ -4615,7 +4615,7 @@
         "nombre": "JABON REXONA",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1197.9,
+        "precio": 1130.14,
         "imagen": "932.webp",
         "activo": true
     },
@@ -4695,7 +4695,7 @@
         "nombre": "LAVANDINA AYUDIN CLASICA 1 L",
         "marca": "Ayudín",
         "categoria": "Limpieza",
-        "precio": 920.81,
+        "precio": 1066.01,
         "imagen": "1010.webp",
         "activo": true
     },
@@ -5365,7 +5365,7 @@
         "nombre": "ALFAJOR DON QUIQUE MERENGUE 65G",
         "marca": "Don Quique",
         "categoria": "Alfajores",
-        "precio": 1059.96,
+        "precio": 1028.5,
         "imagen": "8842.webp",
         "activo": true
     },
@@ -5395,7 +5395,7 @@
         "nombre": "ALFAJOR DON QUIQUE MAICENA 65G",
         "marca": "Don Quique",
         "categoria": "Alfajores",
-        "precio": 678.81,
+        "precio": 689.7,
         "imagen": "9865.webp",
         "activo": true
     },
@@ -5545,7 +5545,7 @@
         "nombre": "OBLEA RHODESIA 22G",
         "marca": "Terrabusi",
         "categoria": "Chocolates",
-        "precio": 770.14,
+        "precio": 865.15,
         "imagen": "733.webp",
         "activo": true
     },
@@ -6795,7 +6795,7 @@
         "nombre": "GALLETITA PASEO 5 SEMILLAS 300G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1677.06,
+        "precio": 1633.5,
         "imagen": "1466.webp",
         "activo": true
     },
@@ -7415,7 +7415,7 @@
         "nombre": "PASTILLA REFRESCO ROJA 12U",
         "marca": "FelFort",
         "categoria": "Golosinas",
-        "precio": 5430.48,
+        "precio": 5287.7,
         "imagen": "1751.webp",
         "activo": true
     },
@@ -8095,7 +8095,7 @@
         "nombre": "PRESERVATIVO PRIME ESPERMICIDA 3U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3236.75,
+        "precio": 3121.8,
         "imagen": "3787.webp",
         "activo": true
     },
@@ -8105,7 +8105,7 @@
         "nombre": "PRESERVATIVO PRIME EXTRA LUBRICADO 3U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3236.75,
+        "precio": 3121.8,
         "imagen": "3784.webp",
         "activo": true
     },
@@ -8115,7 +8115,7 @@
         "nombre": "PRESERVATIVO PRIME MEGA 3U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3236.75,
+        "precio": 3121.8,
         "imagen": "3786.webp",
         "activo": true
     },
@@ -8125,7 +8125,7 @@
         "nombre": "PRESERVATIVO PRIME SUPER FINO 3U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3236.75,
+        "precio": 3121.8,
         "imagen": "3782.webp",
         "activo": true
     },
@@ -8135,7 +8135,7 @@
         "nombre": "PRESERVATIVO PRIME TEXTURADO 3U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3236.75,
+        "precio": 3121.8,
         "imagen": "3783.webp",
         "activo": true
     },
@@ -8145,7 +8145,7 @@
         "nombre": "PRESERVATIVO PRIME ULTRA FINO 3U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3236.75,
+        "precio": 3121.8,
         "imagen": "3785.webp",
         "activo": true
     },
@@ -8155,7 +8155,7 @@
         "nombre": "PRESERVATIVO PRIME WARMING 3U",
         "marca": "Prime",
         "categoria": "Varios",
-        "precio": 3236.75,
+        "precio": 3121.8,
         "imagen": "3781.webp",
         "activo": true
     },
@@ -8225,7 +8225,7 @@
         "nombre": "PEGAMENTO ECCOLE 9G",
         "marca": "",
         "categoria": "Varios",
-        "precio": 4743.2,
+        "precio": 5417.17,
         "imagen": "2183.webp",
         "activo": true
     },
@@ -8695,7 +8695,7 @@
         "nombre": "CHICLE BELDENT TROPICAL 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 11113.85,
+        "precio": 12463.0,
         "imagen": "2765.webp",
         "activo": true
     },
@@ -9915,7 +9915,7 @@
         "nombre": "BOMBON BONOBON SUPREME 36G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 1830.73,
+        "precio": 1739.98,
         "imagen": "175.webp",
         "activo": true
     },
@@ -9947,6 +9947,46 @@
         "categoria": "Snacks",
         "precio": 1880.34,
         "imagen": "698.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 997,
+        "codigo": 192,
+        "nombre": "MAMADERA BEBE",
+        "marca": "",
+        "categoria": "Varios",
+        "precio": 2486.55,
+        "imagen": "192.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 998,
+        "codigo": 193,
+        "nombre": "ALFAJOR DON QUIQUE PREMIUM 65G",
+        "marca": "Don Quique",
+        "categoria": "Alfajores",
+        "precio": 919.6,
+        "imagen": "193.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 999,
+        "codigo": 169,
+        "nombre": "ALFAJOR GUAYMALLEN PLATINO 50G",
+        "marca": "Guaymallén",
+        "categoria": "Alfajores",
+        "precio": 796.18,
+        "imagen": "169.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1000,
+        "codigo": 184,
+        "nombre": "GOMITAS MOGUL COLA 12X30G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 4650.03,
+        "imagen": "184.webp",
         "activo": true
     }
 ]
