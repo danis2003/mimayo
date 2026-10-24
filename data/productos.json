@@ -345,7 +345,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE OREO 61G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1335.84,
+        "precio": 1419.33,
         "imagen": "3082.webp",
         "activo": true
     },
@@ -505,7 +505,7 @@
         "nombre": "ALFAJOR MILKA SUPER DULCE DE LECHE NEGRO 70G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1350.36,
+        "precio": 1419.33,
         "imagen": "2302.webp",
         "activo": true
     },
@@ -525,7 +525,7 @@
         "nombre": "ALFAJOR TRISHOT NEGRO 60G",
         "marca": "Shot",
         "categoria": "Alfajores",
-        "precio": 1335.84,
+        "precio": 1419.33,
         "imagen": "50.webp",
         "activo": true
     },
@@ -1285,7 +1285,7 @@
         "nombre": "CHICLE BUBBALOO UVA 60U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 5203.0,
+        "precio": 5679.74,
         "imagen": "889.webp",
         "activo": true
     },
@@ -1455,7 +1455,7 @@
         "nombre": "CARAMELO PALITO DE LA SELVA 660G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 9329.1,
+        "precio": 9734.45,
         "imagen": "1388.webp",
         "activo": true
     },
@@ -2395,7 +2395,7 @@
         "nombre": "ALFAJOR OREO TRIPLE 56G",
         "marca": "Mondelez",
         "categoria": "Alfajores",
-        "precio": 1335.84,
+        "precio": 1419.33,
         "imagen": "32.webp",
         "activo": true
     },
@@ -2405,7 +2405,7 @@
         "nombre": "ALFAJOR PEPITOS TRIPLE 57G",
         "marca": "Mondelez",
         "categoria": "Alfajores",
-        "precio": 1335.84,
+        "precio": 1419.33,
         "imagen": "49.webp",
         "activo": true
     },
@@ -3105,7 +3105,7 @@
         "nombre": "PASTILLA HALLS FREE CHERRY 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 8007.78,
+        "precio": 9077.42,
         "imagen": "830.webp",
         "activo": true
     },
@@ -3535,7 +3535,7 @@
         "nombre": "GALLETITA  PEPITOS  118G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1685.53,
+        "precio": 1752.08,
         "imagen": "730.webp",
         "activo": true
     },
@@ -3865,7 +3865,7 @@
         "nombre": "TOSTADAS LEIVA DULCES 150G",
         "marca": "Leiva",
         "categoria": "Galletitas",
-        "precio": 1176.12,
+        "precio": 1234.2,
         "imagen": "2021.webp",
         "activo": true
     },
@@ -5215,7 +5215,7 @@
         "nombre": "ALFAJOR TERRABUSI TORTA TIPLE 70G",
         "marca": "Terrabusi",
         "categoria": "Alfajores",
-        "precio": 1335.84,
+        "precio": 1419.33,
         "imagen": "53.webp",
         "activo": true
     },
@@ -7095,7 +7095,7 @@
         "nombre": "TOSTADAS LEIVA CLASICAS 150G",
         "marca": "Leiva",
         "categoria": "Galletitas",
-        "precio": 1176.12,
+        "precio": 1234.2,
         "imagen": "2022.webp",
         "activo": true
     },
@@ -7105,7 +7105,7 @@
         "nombre": "TOSTADAS LEIVA SIN SAL 150G",
         "marca": "Leiva",
         "categoria": "Galletitas",
-        "precio": 1176.12,
+        "precio": 1234.2,
         "imagen": "2023.webp",
         "activo": true
     },
@@ -7355,7 +7355,7 @@
         "nombre": "PASTILLA HALLS FREE MENTA 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 8102.16,
+        "precio": 9077.42,
         "imagen": "829.webp",
         "activo": true
     },
@@ -7705,7 +7705,7 @@
         "nombre": "ALFAJOR MILKA SUPER DULCE DE LECHE BLANCO 70G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1350.36,
+        "precio": 1419.33,
         "imagen": "1684.webp",
         "activo": true
     },
@@ -7715,7 +7715,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE MOUSSE BLANCO 55G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1335.84,
+        "precio": 1419.33,
         "imagen": "1683.webp",
         "activo": true
     },
@@ -7725,7 +7725,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE MOUSSE 55G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1335.84,
+        "precio": 1419.33,
         "imagen": "1682.webp",
         "activo": true
     },
@@ -7775,7 +7775,7 @@
         "nombre": "ALFAJOR TRISHOT BLANCO 60G",
         "marca": "Shot",
         "categoria": "Alfajores",
-        "precio": 1335.84,
+        "precio": 1419.33,
         "imagen": "37.webp",
         "activo": true
     },
@@ -7845,7 +7845,7 @@
         "nombre": "ALF MILKA SIMPLE MOUSSE NEGRO 42G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 845.79,
+        "precio": 968.0,
         "imagen": "904.webp",
         "activo": true
     },
@@ -8545,7 +8545,7 @@
         "nombre": "CHICLE BUBBALOO MENTA 60U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 5203.0,
+        "precio": 5679.74,
         "imagen": "1378.webp",
         "activo": true
     },
@@ -8555,7 +8555,7 @@
         "nombre": "CHICLE BUBBALOO TUTTI 60U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 5203.0,
+        "precio": 5679.74,
         "imagen": "1379.webp",
         "activo": true
     },
@@ -8565,7 +8565,7 @@
         "nombre": "CHICLE BUBBALOO FRUTILLA 60U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 5203.0,
+        "precio": 5679.74,
         "imagen": "1380.webp",
         "activo": true
     },
@@ -8755,7 +8755,7 @@
         "nombre": "CHICLE BELDENT INFINIT BLUEBERRY 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 19257.15,
+        "precio": 20796.27,
         "imagen": "9987.webp",
         "activo": true
     },
@@ -8765,7 +8765,7 @@
         "nombre": "CHICLE BELDENT INFINIT MENTA 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 19874.25,
+        "precio": 20796.27,
         "imagen": "9897.webp",
         "activo": true
     },
@@ -9035,7 +9035,7 @@
         "nombre": "REX ESTUCHE 125G",
         "marca": "Bagley",
         "categoria": "Snacks",
-        "precio": 1754.5,
+        "precio": 1694.0,
         "imagen": "1720.webp",
         "activo": true
     },
@@ -9987,6 +9987,26 @@
         "categoria": "Golosinas",
         "precio": 4650.03,
         "imagen": "184.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1001,
+        "codigo": 202,
+        "nombre": "POCHOCLO BURBUJAS ACARAMELADOS 80G",
+        "marca": "Burbujas",
+        "categoria": "Snacks",
+        "precio": 848.21,
+        "imagen": "202.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1002,
+        "codigo": 210,
+        "nombre": "RUEDITAS BURBUJAS NACHOS 40G",
+        "marca": "Burbujas",
+        "categoria": "Snacks",
+        "precio": 890.56,
+        "imagen": "210.webp",
         "activo": true
     }
 ]
