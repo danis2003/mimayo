@@ -207,6 +207,12 @@ def seleccionar_producto_variantes(modo="variantes"):
     global archivos_variantes
     global archivo_seleccionado
     global archivos_variantes_existentes
+    global modo_administracion
+    global producto_administrar
+    global indice_imagen_reemplazo
+    global imagen_nueva_reemplazo
+    global imagenes_marcadas_eliminar
+    global archivos_variantes_originales
 
     ventana = tk.Toplevel(root)
     ventana.title("Seleccionar producto")
@@ -384,6 +390,13 @@ def seleccionar_producto_variantes(modo="variantes"):
         global archivos_variantes
         global archivo_seleccionado
 
+        global modo_administracion
+        global producto_administrar
+        global indice_imagen_reemplazo
+        global imagen_nueva_reemplazo
+        global imagenes_marcadas_eliminar
+        global archivos_variantes_originales
+
         seleccion = lista.curselection()
 
         if not seleccion:
@@ -406,6 +419,19 @@ def seleccionar_producto_variantes(modo="variantes"):
         # ======================================
 
         if modo == "variantes":
+                        # Salir del modo administración anterior
+            modo_administracion = False
+            producto_administrar = None
+
+            indice_imagen_reemplazo = None
+            imagen_nueva_reemplazo = None
+            imagenes_marcadas_eliminar = []
+
+            archivos_variantes_originales = []
+
+            btnGuardarCambios.config(
+                state="disabled"
+            )
 
             global archivos_variantes_existentes
 
@@ -443,51 +469,22 @@ def seleccionar_producto_variantes(modo="variantes"):
 
             return
 
-        # if modo == "variantes":
-
-        #     producto_variantes = producto
-        #     archivos_variantes = []
-        #     archivo_seleccionado = None
-
-        #     actualizar_estado(
-        #         f"Producto seleccionado: "
-        #         f"{producto['codigo']} - "
-        #         f"{producto['nombre']}"
-        #     )
-
-        #     lblCodigo.config(
-        #         text=producto["codigo"]
-        #     )
-
-        #     lblNombre.config(
-        #         text=producto["nombre"]
-        #     )
-
-        #     lblMarca.config(
-        #         text=producto["marca"]
-        #     )
-
-        #     lblCategoria.config(
-        #         text=producto["categoria"]
-        #     )
-
-        #     return
-
         # ======================================
         # MODO ADMINISTRAR IMÁGENES
         # ======================================
 
         if modo == "administrar":
 
-            global producto_administrar
-            global archivos_variantes_originales
-            global modo_administracion
 
             producto_variantes = None
             archivo_seleccionado = None
 
             producto_administrar = producto
             modo_administracion = True
+
+            indice_imagen_reemplazo = None
+            imagen_nueva_reemplazo = None
+            imagenes_marcadas_eliminar = []
 
             # ------------------------------------------
             # Cargar imágenes existentes
@@ -616,6 +613,10 @@ def administrar_imagenes():
     producto_administrar = None
 
     modo_administracion = True
+
+    indice_imagen_reemplazo = None
+    imagen_nueva_reemplazo = None
+    imagenes_marcadas_eliminar = []
 
     limpiar_previsualizacion()
 
@@ -842,6 +843,7 @@ def seleccionar_imagen():
 
     global archivo_seleccionado
     global archivos_variantes
+    global imagen_nueva_reemplazo
 
     global archivos_variantes_existentes
 
@@ -1108,46 +1110,103 @@ def mover_imagen(indice, desplazamiento):
 
     global archivos_variantes
 
+    # --------------------------------------
+    # DETERMINAR LA LISTA QUE SE VA A MOVER
+    # --------------------------------------
+
+    if modo_administracion:
+
+        lista = archivos_variantes
+
+    else:
+
+        if producto_variantes is None:
+            return
+
+        lista = archivos_variantes
+
+    # --------------------------------------
+    # VALIDAR POSICIÓN
+    # --------------------------------------
+
     nueva_posicion = indice + desplazamiento
 
-    if nueva_posicion < 0 or nueva_posicion >= len(archivos_variantes):
+    if indice < 0 or indice >= len(lista):
         return
 
-    # ------------------------------------------
-    # Intercambiar posiciones solamente
-    # en memoria.
-    # ------------------------------------------
+    if nueva_posicion < 0 or nueva_posicion >= len(lista):
+        return
 
-    archivos_variantes[indice], archivos_variantes[nueva_posicion] = (
-        archivos_variantes[nueva_posicion],
-        archivos_variantes[indice]
+    # --------------------------------------
+    # INTERCAMBIAR POSICIONES
+    # --------------------------------------
+
+    lista[indice], lista[nueva_posicion] = (
+        lista[nueva_posicion],
+        lista[indice]
     )
 
-    # ------------------------------------------
-    # Si estamos administrando un producto,
-    # determinar si existen cambios pendientes.
-    # ------------------------------------------
+    # --------------------------------------
+    # ACTUALIZAR ESTADO SEGÚN EL MODO
+    # --------------------------------------
 
     if modo_administracion:
 
         if archivos_variantes != archivos_variantes_originales:
 
-            btnGuardarCambios.config(
-                state="normal"
-            )
+            btnGuardarCambios.config(state="normal")
 
         else:
 
-            btnGuardarCambios.config(
-                state="disabled"
-            )
+            btnGuardarCambios.config(state="disabled")
 
-    # ------------------------------------------
-    # Reconstruir previsualización
-    # ------------------------------------------
+    else:
+
+        btnConfirmar.config(
+            state="normal" if archivos_variantes else "disabled"
+        )
+
+    # --------------------------------------
+    # ACTUALIZAR PREVISUALIZACIÓN
+    # --------------------------------------
 
     mostrar_previsualizacion_variantes()
 
+# ==========================================
+# QUITAR VARIANTE NUEVA
+# Retira una imagen de la selección pendiente.
+# No elimina archivos del disco.
+# ==========================================
+
+def quitar_variante_nueva(indice):
+
+    global archivos_variantes
+
+    if producto_variantes is None:
+        return
+
+    if indice < 0 or indice >= len(archivos_variantes):
+        return
+
+    imagen = archivos_variantes.pop(indice)
+
+    # Actualizar estado del botón Confirmar
+    btnConfirmar.config(
+        state="normal" if archivos_variantes else "disabled"
+    )
+
+    # Actualizar vista previa
+    if archivos_variantes or archivos_variantes_existentes:
+
+        mostrar_previsualizacion_variantes()
+
+    else:
+
+        limpiar_previsualizacion()
+
+    actualizar_estado(
+        f"Imagen quitada de la selección: {Path(imagen).name}"
+    )
 
 # ==========================================
 # MARCAR IMAGEN PARA ELIMINACIÓN
@@ -1278,6 +1337,9 @@ def guardar_cambios_imagenes():
     global imagen_nueva_reemplazo
     global indice_imagen_reemplazo
     global imagenes_marcadas_eliminar
+    global producto_variantes
+    global archivo_seleccionado
+    global archivos_variantes_existentes
 
     # ------------------------------------------
     # VALIDACIONES
@@ -1389,9 +1451,26 @@ def guardar_cambios_imagenes():
     )
 
     # Guardamos información para poder restaurar
-    # si ocurre un error.
+    # las imágenes si ocurre un error.
     movimientos_transaccion = []
+
+    # Indica si deben conservarse los temporales
+    # para una recuperación manual.
+    conservar_temporales = False
+
+
+    # Rutas de los archivos que deben respaldarse.
+    VARIANTES_JSON = BASE_DIR / "data" / "variantes.json"
+    PRODUCTOS_JSON = BASE_DIR / "data" / "productos.json"
+
+    # Respaldos en memoria.
+    archivos_respaldo = {}
+
     try:
+        for ruta in (EXCEL, VARIANTES_JSON, PRODUCTOS_JSON):
+            archivos_respaldo[ruta] = (
+                ruta.read_bytes() if ruta.exists() else None
+            )
 
         # ======================================
         # DELETE
@@ -1617,29 +1696,15 @@ def guardar_cambios_imagenes():
             )
 
             if VARIANTES_JSON.exists():
-
-                try:
-
-                    with open(
-                        VARIANTES_JSON,
-                        "r",
-                        encoding="utf-8"
-                    ) as archivo:
-
-                        variantes = json.load(
-                            archivo
-                        )
-
-                except (
-                    json.JSONDecodeError,
-                    OSError
-                ):
-
-                    variantes = {}
-
+                with open(
+                    VARIANTES_JSON,
+                    "r",
+                    encoding="utf-8"
+                ) as archivo:
+                    variantes = json.load(archivo)
             else:
-
                 variantes = {}
+
 
             codigo = str(
                 producto_administrar["codigo"]
@@ -1876,10 +1941,6 @@ def guardar_cambios_imagenes():
 
                     break
 
-            # Ya no necesitamos restaurar este
-            # temporal porque la operación terminó.
-            movimientos_transaccion.clear()
-
         # ======================================
         # CASO 2
         # CAMBIO DE ORDEN
@@ -2038,52 +2099,52 @@ def guardar_cambios_imagenes():
                 archivos_variantes
             )
 
-            imagen_nueva_reemplazo = None
-            indice_imagen_reemplazo = None
-            imagenes_marcadas_eliminar = []
-
-            btnGuardarCambios.config(
-                state="disabled"
-            )
-
-            actualizar_estado(
-                "Cambios guardados correctamente."
-            )
-
-            mostrar_previsualizacion_variantes()
-
+            # Actualizar productos.json
             generar_json()
 
-            # Si el producto quedó sin imágenes,
-            # salir del modo administración.
-            if not actuales:
+        # --------------------------------------
+        # FINALIZAR ADMINISTRACIÓN
+        # Se ejecuta después de cualquier operación
+        # guardada correctamente.
+        # --------------------------------------
 
-                modo_administracion = False
-                producto_administrar = None
+        modo_administracion = False
+        producto_administrar = None
 
-                archivos_variantes = []
-                archivos_variantes_originales = []
+        producto_variantes = None
+        archivo_seleccionado = None
 
-                imagen_nueva_reemplazo = None
-                indice_imagen_reemplazo = None
-                imagenes_marcadas_eliminar = []
+        archivos_variantes = []
+        archivos_variantes_originales = []
+        archivos_variantes_existentes = []
 
-                btnGuardarCambios.config(state="disabled")
-                btnConfirmar.config(state="disabled")
+        imagen_nueva_reemplazo = None
+        indice_imagen_reemplazo = None
+        imagenes_marcadas_eliminar = []
 
-                limpiar_previsualizacion()
+        btnGuardarCambios.config(
+            state="disabled"
+        )
 
-                mostrar_producto()
+        btnConfirmar.config(
+            state="disabled"
+        )
 
-                actualizar_estado(
-                    "Seleccione una imagen para comenzar."
-                )
+        limpiar_previsualizacion()
 
-            messagebox.showinfo(
-                "Cambios guardados",
-                "Las modificaciones se guardaron "
-                "correctamente."
-            )
+        # Buscar y mostrar el siguiente producto pendiente.
+        mostrar_producto()
+
+        actualizar_estado(
+            "Cambios guardados correctamente. "
+            "Seleccione una imagen para continuar."
+        )
+
+        messagebox.showinfo(
+            "Cambios guardados",
+            "Las modificaciones se guardaron "
+            "correctamente."
+        )
 
     except Exception as error:
 
@@ -2091,33 +2152,38 @@ def guardar_cambios_imagenes():
         # RESTAURACIÓN
         # ======================================
 
+        # Registrar posibles errores de restauración.
+        errores_restauracion = []
+
+        # Restaurar los archivos originales desde memoria.
+        try:
+            for ruta, contenido in archivos_respaldo.items():
+                if contenido is None:
+                    if ruta.exists():
+                        ruta.unlink()
+                else:
+                    ruta.write_bytes(contenido)
+
+        except Exception as error_archivos:
+            errores_restauracion.append(
+                f"Archivos: {error_archivos}"
+            )
+
         try:
 
-            for movimiento in reversed(
+            # ======================================
+            # FASE 1
+            # Mover todas las imágenes actuales
+            # a ubicaciones temporales independientes.
+            # ======================================
+
+            temporales_restauracion = []
+
+            for indice, movimiento in enumerate(
                 movimientos_transaccion
             ):
 
-                ruta_original = movimiento[
-                    "original"
-                ]
-
-                ruta_actual = movimiento[
-                    "actual"
-                ]
-
-                # ----------------------------------
-                # Si el archivo ya está en su ubicación
-                # original, no hay nada que restaurar.
-                # ----------------------------------
-
-                if ruta_actual == ruta_original:
-
-                    continue
-
-                # ----------------------------------
-                # Verificar que el archivo exista
-                # actualmente.
-                # ----------------------------------
+                ruta_actual = movimiento["actual"]
 
                 if not ruta_actual.exists():
 
@@ -2127,54 +2193,74 @@ def guardar_cambios_imagenes():
                         f"{ruta_actual}"
                     )
 
-                # ----------------------------------
-                # Si la ubicación original está ocupada,
-                # eliminar el archivo que quedó allí
-                # durante la operación fallida.
-                # ----------------------------------
+                temporal_restauracion = (
+                    carpeta_temporal
+                    / f".tmp_restaurar_{indice}_"
+                    f"{ruta_actual.name}"
+                )
 
-                if ruta_original.exists():
+                contador = 1
 
-                    try:
+                while temporal_restauracion.exists():
 
-                        ruta_original.unlink()
+                    temporal_restauracion = (
+                        carpeta_temporal
+                        / f".tmp_restaurar_{indice}_"
+                        f"{contador}_"
+                        f"{ruta_actual.name}"
+                    )
 
-                    except Exception as error_eliminar_original:
-
-                        raise RuntimeError(
-                            "No se pudo preparar la ubicación "
-                            "original para la restauración:\n\n"
-                            f"{ruta_original}"
-                        ) from error_eliminar_original
-
-                # ----------------------------------
-                # Restaurar el archivo a su ubicación
-                # original.
-                #
-                # Puede ser:
-                #
-                # papelera → productos
-                # .tmp_crud → productos
-                # productos → productos
-                # ----------------------------------
+                    contador += 1
 
                 shutil.move(
                     str(ruta_actual),
+                    str(temporal_restauracion)
+                )
+
+                movimiento["actual"] = temporal_restauracion
+
+                temporales_restauracion.append(
+                    movimiento
+                )
+
+            # ======================================
+            # FASE 2
+            # Devolver cada imagen a su ubicación
+            # original.
+            # ======================================
+
+            for movimiento in reversed(
+                temporales_restauracion
+            ):
+
+                ruta_original = movimiento["original"]
+                ruta_temporal = movimiento["actual"]
+
+                if ruta_original.exists():
+
+                    ruta_original.unlink()
+
+                shutil.move(
+                    str(ruta_temporal),
                     str(ruta_original)
                 )
 
-        except Exception as error_restauracion:
+                movimiento["actual"] = ruta_original
 
-            messagebox.showerror(
-                "Error crítico",
-                "No se pudo completar la operación "
-                "y tampoco se pudo restaurar "
-                "completamente el estado anterior.\n\n"
-                f"Error original:\n{error}\n\n"
-                f"Error de restauración:\n"
-                f"{error_restauracion}"
+
+        except Exception as error_restauracion:
+            errores_restauracion.append(
+                f"Imágenes: {error_restauracion}"
             )
 
+        if errores_restauracion:
+            conservar_temporales = True
+            messagebox.showerror(
+                "Error crítico",
+                "La operación falló y no se pudo restaurar "
+                "completamente el estado anterior.\n\n"
+                + "\n\n".join(errores_restauracion)
+            )
             return
 
         messagebox.showerror(
@@ -2185,30 +2271,24 @@ def guardar_cambios_imagenes():
         )
 
     finally:
-
-        # --------------------------------------
-        # Limpiar archivos temporales restantes
-        # --------------------------------------
-
-        try:
-
-            if carpeta_temporal.exists():
-
-                for archivo in carpeta_temporal.iterdir():
+        # Limpiar temporales solamente si la restauración
+        # no requiere conservarlos para una recuperación manual.
+        if not conservar_temporales:
+            try:
+                if carpeta_temporal.exists():
+                    for archivo in carpeta_temporal.iterdir():
+                        try:
+                            archivo.unlink()
+                        except Exception:
+                            pass
 
                     try:
-                        archivo.unlink()
+                        carpeta_temporal.rmdir()
                     except Exception:
                         pass
 
-                try:
-                    carpeta_temporal.rmdir()
-                except Exception:
-                    pass
-
-        except Exception:
-            pass
-
+            except Exception:
+                pass
 
 # ==========================================
 # PREVISUALIZAR VARIANTES
@@ -2462,133 +2542,151 @@ def mostrar_previsualizacion_variantes():
         # --------------------------------------
         # Seleccionar para reemplazo
         # --------------------------------------
+        # --------------------------------------
+        # CONTROLES SEGÚN EL MODO DE TRABAJO
+        # --------------------------------------
 
-        def seleccionar_para_reemplazo(
-            evento=None,
-            indice_actual=indice
-        ):
+        if modo_administracion:
 
-            global indice_imagen_reemplazo
+            # ----------------------------------
+            # Seleccionar para reemplazo
+            # ----------------------------------
 
-            if not modo_administracion:
-                return
+            def seleccionar_para_reemplazo(
+                evento=None,
+                indice_actual=indice,
+                frame_actual=frameImagen
+            ):
 
-            indice_imagen_reemplazo = indice_actual
+                global indice_imagen_reemplazo
 
-            # Actualizar apariencia de todas
-            # las miniaturas.
+                if not modo_administracion:
+                    return
 
-            for widget in frameImagenes.winfo_children():
+                indice_imagen_reemplazo = indice_actual
 
-                widget.configure(
-                    bg="#F3F4F6"
-                )
+                for widget in frameImagenes.winfo_children():
 
-                for hijo in widget.winfo_children():
+                    widget.configure(bg="#F3F4F6")
 
+                    for hijo in widget.winfo_children():
+                        try:
+                            hijo.configure(bg="#F3F4F6")
+                        except Exception:
+                            pass
+
+                frame_actual.configure(bg="#DBEAFE")
+
+                for hijo in frame_actual.winfo_children():
                     try:
-                        hijo.configure(
-                            bg="#F3F4F6"
-                        )
+                        hijo.configure(bg="#DBEAFE")
                     except Exception:
                         pass
 
-            frameImagen.configure(
-                bg="#DBEAFE"
+                nombre_imagen_seleccionada = Path(
+                    archivos_variantes[indice_actual]
+                ).name
+
+                actualizar_estado(
+                    f"Imagen seleccionada para reemplazo: "
+                    f"{nombre_imagen_seleccionada}"
+                )
+
+            frameImagen.bind(
+                "<Button-1>",
+                seleccionar_para_reemplazo
             )
 
-            for hijo in frameImagen.winfo_children():
-
-                try:
-                    hijo.configure(
-                        bg="#DBEAFE"
-                    )
-                except Exception:
-                    pass
-
-            nombre_imagen_seleccionada = Path(
-                archivos_variantes[indice_actual]
-            ).name
-
-            actualizar_estado(
-                f"Imagen seleccionada para reemplazo: "
-                f"{nombre_imagen_seleccionada}"
+            labelImagen.bind(
+                "<Button-1>",
+                seleccionar_para_reemplazo
             )
 
-        # --------------------------------------
-        # Vincular clic a toda la tarjeta
-        # --------------------------------------
+            indice_control = indice
 
-        frameImagen.bind(
-            "<Button-1>",
-            seleccionar_para_reemplazo
-        )
+        elif (
+            producto_variantes is not None
+            and indice >= len(archivos_variantes_existentes)
+        ):
 
-        labelImagen.bind(
-            "<Button-1>",
-            seleccionar_para_reemplazo
-        )
+            # Las imágenes nuevas se ordenan
+            # dentro de archivos_variantes.
 
-        # --------------------------------------
-        # Controles de movimiento
-        # --------------------------------------
-
-        frameBotones = tk.Frame(
-            frameImagen,
-            bg="#F3F4F6"
-        )
-
-        frameBotones.pack(
-            pady=(0, 8)
-        )
-
-        btnArriba = tk.Button(
-            frameBotones,
-            text="▲",
-            width=3,
-            command=lambda i=indice: mover_imagen(
-                i,
-                -1
+            indice_control = (
+                indice - len(archivos_variantes_existentes)
             )
-        )
 
-        btnArriba.pack(
-            side="left",
-            padx=2
-        )
+        else:
+            indice_control = None
 
-        btnAbajo = tk.Button(
-            frameBotones,
-            text="▼",
-            width=3,
-            command=lambda i=indice: mover_imagen(
-                i,
-                1
+        # --------------------------------------
+        # MOSTRAR CONTROLES
+        # --------------------------------------
+
+        if indice_control is not None:
+
+            frameBotones = tk.Frame(
+                frameImagen,
+                bg="#F3F4F6"
             )
-        )
 
-        btnAbajo.pack(
-            side="left",
-            padx=2
-        )
+            frameBotones.pack(
+                pady=(0, 8)
+            )
 
-        # --------------------------------------
-        # Botón eliminar
-        # --------------------------------------
+            btnArriba = tk.Button(
+                frameBotones,
+                text="▲",
+                width=3,
+                command=lambda i=indice_control: mover_imagen(i, -1)
+            )
 
-        btnEliminar = tk.Button(
-            frameImagen,
-            text="🗑 Eliminar",
-            font=("Segoe UI", 9, "bold"),
-            fg="#B91C1C",
-            cursor="hand2",
-            command=lambda i=indice: marcar_imagen_para_eliminar(i)
-        )
+            btnArriba.pack(
+                side="left",
+                padx=2
+            )
 
-        btnEliminar.pack(
-            pady=(0, 8)
-        )
+            btnAbajo = tk.Button(
+                frameBotones,
+                text="▼",
+                width=3,
+                command=lambda i=indice_control: mover_imagen(i, 1)
+            )
 
+            btnAbajo.pack(
+                side="left",
+                padx=2
+            )
+
+            # ----------------------------------
+            # Botón según el modo
+            # ----------------------------------
+
+            if modo_administracion:
+
+                btnEliminar = tk.Button(
+                    frameImagen,
+                    text="🗑 Eliminar",
+                    font=("Segoe UI", 9, "bold"),
+                    fg="#B91C1C",
+                    cursor="hand2",
+                    command=lambda i=indice_control: marcar_imagen_para_eliminar(i)
+                )
+
+            else:
+
+                btnEliminar = tk.Button(
+                    frameImagen,
+                    text="🗑 Quitar",
+                    font=("Segoe UI", 9, "bold"),
+                    fg="#B91C1C",
+                    cursor="hand2",
+                    command=lambda i=indice_control: quitar_variante_nueva(i)
+                )
+
+            btnEliminar.pack(
+                pady=(0, 8)
+            )
 # ==========================================
 # Limpiar imagen principal
 # ==========================================

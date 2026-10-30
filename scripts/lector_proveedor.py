@@ -19,7 +19,7 @@ def buscar_encabezados(hoja):
             elif texto == "descripcion":
                 encabezados["descripcion"] = celda.column - 1
 
-            elif texto == "precio/lista.":
+            elif texto in ("precio/lista.", "precio x mayor", "precio lista2"):
                 encabezados["precio"] = celda.column - 1
 
         if len(encabezados) == 3:
