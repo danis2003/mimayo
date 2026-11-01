@@ -10758,5 +10758,75 @@
         "precio": 11977.55,
         "imagen": "219.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 1078,
+        "codigo": 296,
+        "nombre": "CEPILLO DENTAL COLGATE",
+        "marca": "Colgate",
+        "categoria": "Perfumería",
+        "precio": 1385.45,
+        "imagen": "296.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1079,
+        "codigo": 52,
+        "nombre": "MAQUINA GILLETTE VENUS SUAVE",
+        "marca": "Gillette",
+        "categoria": "Perfumería",
+        "precio": 1667.38,
+        "imagen": "52.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1080,
+        "codigo": 9924,
+        "nombre": "PINZA DE DEPILAR MERHEJE 12U",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 2822.93,
+        "imagen": "9924.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1081,
+        "codigo": 1629,
+        "nombre": "PROTECTOR DONCELLA ANATOMICO SIN PERFUME 20U",
+        "marca": "Doncella",
+        "categoria": "Perfumería",
+        "precio": 897.82,
+        "imagen": "1629.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1082,
+        "codigo": 2887,
+        "nombre": "PROTECTOR QUE LINDA ANATOMICO 20U",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 963.16,
+        "imagen": "2887.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1083,
+        "codigo": 174,
+        "nombre": "TOALLAS QUE LINDA CON ALAS 8U",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 895.4,
+        "imagen": "174.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1084,
+        "codigo": 2879,
+        "nombre": "TOALLAS QUE LINDA NOCTURNA CON ALAS 8U",
+        "marca": "",
+        "categoria": "Perfumería",
+        "precio": 1282.6,
+        "imagen": "2879.webp",
+        "activo": true
     }
 ]
