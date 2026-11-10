@@ -1105,7 +1105,7 @@
         "nombre": "REX BOLSITA 75G",
         "marca": "Bagley",
         "categoria": "Snacks",
-        "precio": 1141.27,
+        "precio": 1139.82,
         "imagen": "1719.webp",
         "activo": true
     },
@@ -1315,7 +1315,7 @@
         "nombre": "CARAMELO FLYN PAFF TUTTI FRUTTI 70U",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 6828.03,
+        "precio": 7138.4,
         "imagen": "666.webp",
         "activo": true
     },
@@ -1355,7 +1355,7 @@
         "nombre": "LENGUETAZO TODOS 32 UNIDADES",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 6509.32,
+        "precio": 7154.0,
         "imagen": "1024.webp",
         "activo": true
     },
@@ -1375,7 +1375,7 @@
         "nombre": "PASTILLA MENTHOPLUS MENTA 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5549.06,
+        "precio": 5902.74,
         "imagen": "1169.webp",
         "activo": true
     },
@@ -1385,7 +1385,7 @@
         "nombre": "GOMITAS MOGUL OSITOS 12X30G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6311.36,
+        "precio": 6311.84,
         "imagen": "687.webp",
         "activo": true
     },
@@ -1435,7 +1435,7 @@
         "nombre": "GOMITAS MOGUL CEREBRITOS 12X30G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6311.36,
+        "precio": 6311.84,
         "imagen": "686.webp",
         "activo": true
     },
@@ -1485,7 +1485,7 @@
         "nombre": "SUGUS CONFITADOS 50G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 1200.32,
+        "precio": 1136.92,
         "imagen": "1871.webp",
         "activo": true
     },
@@ -1505,7 +1505,7 @@
         "nombre": "CHICLE TOPLINE STRONG 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12578.49,
+        "precio": 12901.02,
         "imagen": "1996.webp",
         "activo": true
     },
@@ -1795,7 +1795,7 @@
         "nombre": "HARINA PUREZA PIZZA 1KG",
         "marca": "Molino Cañuelas",
         "categoria": "Almacén",
-        "precio": 2026.75,
+        "precio": 2109.94,
         "imagen": "9851.webp",
         "activo": true
     },
@@ -1855,7 +1855,7 @@
         "nombre": "PURE DE TOMATE NOEL* 520 GS",
         "marca": "Noel",
         "categoria": "Almacén",
-        "precio": 778.03,
+        "precio": 806.16,
         "imagen": "1641.webp",
         "activo": true
     },
@@ -2015,7 +2015,7 @@
         "nombre": "YERBA LA TRANQUERA 500 GR",
         "marca": "La Tranquera",
         "categoria": "Almacén",
-        "precio": 1551.22,
+        "precio": 1447.64,
         "imagen": "942.webp",
         "activo": true
     },
@@ -2055,7 +2055,7 @@
         "nombre": "YERBA UNION 500 GR",
         "marca": "Las Marías",
         "categoria": "Almacén",
-        "precio": 2030.38,
+        "precio": 1973.27,
         "imagen": "2149.webp",
         "activo": true
     },
@@ -2245,7 +2245,7 @@
         "nombre": "GALLETITA LINCOLN 160G",
         "marca": "Terrabusi",
         "categoria": "Galletitas",
-        "precio": 1512.5,
+        "precio": 1547.83,
         "imagen": "713.webp",
         "activo": true
     },
@@ -2285,7 +2285,7 @@
         "nombre": "DORITOS DINAMITA 82G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2433.31,
+        "precio": 2581.66,
         "imagen": "2913.webp",
         "activo": true
     },
@@ -2295,7 +2295,7 @@
         "nombre": "DORITOS QUESO 77G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2825.35,
+        "precio": 2921.42,
         "imagen": "3000.webp",
         "activo": true
     },
@@ -2345,7 +2345,7 @@
         "nombre": "PAPAS LAYS CLASICAS 40G",
         "marca": "Lays",
         "categoria": "Snacks",
-        "precio": 1633.5,
+        "precio": 1729.33,
         "imagen": "1501.webp",
         "activo": true
     },
@@ -3045,7 +3045,7 @@
         "nombre": "EVEREADY BATERIA * 9 V",
         "marca": "Eveready",
         "categoria": "Varios",
-        "precio": 3747.37,
+        "precio": 4145.46,
         "imagen": "616.webp",
         "activo": true
     },
@@ -3435,7 +3435,7 @@
         "nombre": "CHICLE TNT SURTIDO 40U",
         "marca": "TNT",
         "categoria": "Golosinas",
-        "precio": 3446.08,
+        "precio": 4207.9,
         "imagen": "2520.webp",
         "activo": true
     },
@@ -3465,7 +3465,7 @@
         "nombre": "GALLETITA  OREO  118G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1736.35,
+        "precio": 1678.51,
         "imagen": "724.webp",
         "activo": true
     },
@@ -3535,7 +3535,7 @@
         "nombre": "GALLETITA  PEPITOS  118G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1752.08,
+        "precio": 1688.68,
         "imagen": "730.webp",
         "activo": true
     },
@@ -3615,7 +3615,7 @@
         "nombre": "GALLETITA VOCACION TRIPACK 384G",
         "marca": "Lía",
         "categoria": "Galletitas",
-        "precio": 2165.9,
+        "precio": 2169.29,
         "imagen": "750.webp",
         "activo": true
     },
@@ -3915,7 +3915,7 @@
         "nombre": "SALADIX ESTUCHE DUO 100G",
         "marca": "Arcor",
         "categoria": "Snacks",
-        "precio": 1372.14,
+        "precio": 1417.15,
         "imagen": "1778.webp",
         "activo": true
     },
@@ -3945,7 +3945,7 @@
         "nombre": "GALLETITA HOJALMAR TRIANGULO 150G",
         "marca": "Hojalmar",
         "categoria": "Galletitas",
-        "precio": 1483.46,
+        "precio": 1547.83,
         "imagen": "2039.webp",
         "activo": true
     },
@@ -4005,7 +4005,7 @@
         "nombre": "GALLETITA TERRABUSI ANILLOS 170G",
         "marca": "Terrabusi",
         "categoria": "Galletitas",
-        "precio": 1225.73,
+        "precio": 1486.85,
         "imagen": "3170.webp",
         "activo": true
     },
@@ -4545,7 +4545,7 @@
         "nombre": "JABON CUPIDO 3U 270G",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 1548.8,
+        "precio": 1579.78,
         "imagen": "913.webp",
         "activo": true
     },
@@ -4645,7 +4645,7 @@
         "nombre": "JUGO CLIGHT POMELO ROSA 20U",
         "marca": "Mondelez",
         "categoria": "Almacén",
-        "precio": 6661.05,
+        "precio": 7129.32,
         "imagen": "938.webp",
         "activo": true
     },
@@ -4685,7 +4685,7 @@
         "nombre": "LAVANDINA  HEROE  1 LITRO",
         "marca": "",
         "categoria": "Limpieza",
-        "precio": 779.24,
+        "precio": 801.5,
         "imagen": "2340.webp",
         "activo": true
     },
@@ -4885,7 +4885,7 @@
         "nombre": "PAPEL HIGIENICO VUAL*50 MTS",
         "marca": "Vual",
         "categoria": "Limpieza",
-        "precio": 562.65,
+        "precio": 588.06,
         "imagen": "1444.webp",
         "activo": true
     },
@@ -6375,7 +6375,7 @@
         "nombre": "GALLETITA  COQUITAS 177G",
         "marca": "Bagley",
         "categoria": "Galletitas",
-        "precio": 1585.1,
+        "precio": 1653.83,
         "imagen": "8715.webp",
         "activo": true
     },
@@ -6525,7 +6525,7 @@
         "nombre": "GOMITAS MOGUL PIECITOS 12X30",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6311.36,
+        "precio": 6311.84,
         "imagen": "691.webp",
         "activo": true
     },
@@ -6765,7 +6765,7 @@
         "nombre": "GALLETITA HOJALMAR LARGUITA 150G",
         "marca": "Hojalmar",
         "categoria": "Galletitas",
-        "precio": 1458.05,
+        "precio": 1547.83,
         "imagen": "619.webp",
         "activo": true
     },
@@ -7015,7 +7015,7 @@
         "nombre": "GALLETITA PEPAS TRIO  ALEMANAS 500G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 2397.25,
+        "precio": 2240.44,
         "imagen": "952.webp",
         "activo": true
     },
@@ -7175,7 +7175,7 @@
         "nombre": "PASTILLA MENTHOPLUS CEREZA 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5549.06,
+        "precio": 5902.74,
         "imagen": "1170.webp",
         "activo": true
     },
@@ -7185,7 +7185,7 @@
         "nombre": "PASTILLA MENTHOPLUS STRONG 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5549.06,
+        "precio": 5902.74,
         "imagen": "1774.webp",
         "activo": true
     },
@@ -7195,7 +7195,7 @@
         "nombre": "PASTILLA MENTHOPLUS ZERO CEREZA 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8467.58,
+        "precio": 8851.33,
         "imagen": "21.webp",
         "activo": true
     },
@@ -7205,7 +7205,7 @@
         "nombre": "PASTILLA MENTHOPLUS ZERO DURAZNO 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8467.58,
+        "precio": 8851.33,
         "imagen": "1168.webp",
         "activo": true
     },
@@ -7215,7 +7215,7 @@
         "nombre": "PASTILLA MENTHOPLUS ZERO MENTOL 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8467.58,
+        "precio": 8851.33,
         "imagen": "132.webp",
         "activo": true
     },
@@ -7225,7 +7225,7 @@
         "nombre": "PASTILLA MENTHOPLUS ZERO STRONG 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 8467.58,
+        "precio": 8851.33,
         "imagen": "1174.webp",
         "activo": true
     },
@@ -8365,7 +8365,7 @@
         "nombre": "PAPEL MANTECA",
         "marca": "",
         "categoria": "Varios",
-        "precio": 1799.27,
+        "precio": 1781.6,
         "imagen": "3086.webp",
         "activo": true
     },
@@ -8455,7 +8455,7 @@
         "nombre": "CARAMELO FLYN PAFF UVA 70U",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 6836.5,
+        "precio": 7138.4,
         "imagen": "668.webp",
         "activo": true
     },
@@ -8465,7 +8465,7 @@
         "nombre": "CARAMELO FLYN PAFF FRUTILLA 70U",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 6836.5,
+        "precio": 7138.4,
         "imagen": "669.webp",
         "activo": true
     },
@@ -8635,7 +8635,7 @@
         "nombre": "CHICLE TOPLINE VIOLET CHERRY 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12578.49,
+        "precio": 12901.02,
         "imagen": "1997.webp",
         "activo": true
     },
@@ -8645,7 +8645,7 @@
         "nombre": "CHICLE TOPLINE MANDARINA 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12578.49,
+        "precio": 12901.02,
         "imagen": "1998.webp",
         "activo": true
     },
@@ -8655,7 +8655,7 @@
         "nombre": "CHICLE TOPLINE SANDIA 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12578.49,
+        "precio": 12901.02,
         "imagen": "1999.webp",
         "activo": true
     },
@@ -8665,7 +8665,7 @@
         "nombre": "CHICLE TOPLINE FRUTILLA 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12578.49,
+        "precio": 12901.02,
         "imagen": "2000.webp",
         "activo": true
     },
@@ -8865,7 +8865,7 @@
         "nombre": "JUGO CLIGHT ANANA 20U",
         "marca": "Mondelez",
         "categoria": "Almacén",
-        "precio": 7676.24,
+        "precio": 7129.32,
         "imagen": "940.webp",
         "activo": true
     },
@@ -8875,7 +8875,7 @@
         "nombre": "JUGO CLIGHT MANZANA 20U",
         "marca": "Mondelez",
         "categoria": "Almacén",
-        "precio": 6661.05,
+        "precio": 7129.32,
         "imagen": "943.webp",
         "activo": true
     },
@@ -8885,7 +8885,7 @@
         "nombre": "KESITAS BOLSITA 75G",
         "marca": "Bagley",
         "categoria": "Snacks",
-        "precio": 1103.52,
+        "precio": 1139.82,
         "imagen": "1721.webp",
         "activo": true
     },
@@ -9025,7 +9025,7 @@
         "nombre": "SALADIX ESTUCHE JAMON 100G",
         "marca": "Arcor",
         "categoria": "Snacks",
-        "precio": 1372.14,
+        "precio": 1417.15,
         "imagen": "1777.webp",
         "activo": true
     },
@@ -9035,7 +9035,7 @@
         "nombre": "SALADIX ESTUCHE PIZZA 100G",
         "marca": "Arcor",
         "categoria": "Snacks",
-        "precio": 1372.14,
+        "precio": 1417.15,
         "imagen": "1779.webp",
         "activo": true
     },
@@ -9145,7 +9145,7 @@
         "nombre": "PAPAS LAYS CLASICAS 20G",
         "marca": "Lays",
         "categoria": "Snacks",
-        "precio": 959.77,
+        "precio": 1009.14,
         "imagen": "9903.webp",
         "activo": true
     },
@@ -9185,7 +9185,7 @@
         "nombre": "JUGO CLIGHT NARANJA 20U",
         "marca": "Mondelez",
         "categoria": "Almacén",
-        "precio": 7676.24,
+        "precio": 7129.32,
         "imagen": "939.webp",
         "activo": true
     },
@@ -9275,7 +9275,7 @@
         "nombre": "CHEETOS ORIGINAL QUESO 85G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2835.76,
+        "precio": 2931.59,
         "imagen": "1502.webp",
         "activo": true
     },
@@ -9305,7 +9305,7 @@
         "nombre": "DORITOS QUESO 40G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1633.5,
+        "precio": 1729.33,
         "imagen": "1504.webp",
         "activo": true
     },
@@ -9505,7 +9505,7 @@
         "nombre": "RUEDITAS PEP PIZZA 74G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 1633.5,
+        "precio": 1729.33,
         "imagen": "1500.webp",
         "activo": true
     },
