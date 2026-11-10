@@ -5,7 +5,7 @@
         "nombre": "ACELGA 550GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 4901.71,
+        "precio": 5069.78,
         "imagen": "3226.webp",
         "activo": true
     },
@@ -15,7 +15,7 @@
         "nombre": "ARANDANOS 300GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 6174.63,
+        "precio": 6356.49,
         "imagen": "3220.webp",
         "activo": true
     },
@@ -25,7 +25,7 @@
         "nombre": "BROCOLI 450GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 6070.57,
+        "precio": 6279.42,
         "imagen": "3225.webp",
         "activo": true
     },
@@ -35,7 +35,7 @@
         "nombre": "ESPINACA 550GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 4791.6,
+        "precio": 4956.52,
         "imagen": "3222.webp",
         "activo": true
     },
@@ -45,7 +45,7 @@
         "nombre": "FRAMBUESAS 400GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 13322.1,
+        "precio": 13710.27,
         "imagen": "3224.webp",
         "activo": true
     },
@@ -55,7 +55,7 @@
         "nombre": "FRUTILLAS 400GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 6134.7,
+        "precio": 6314.02,
         "imagen": "3223.webp",
         "activo": true
     },
@@ -75,7 +75,7 @@
         "nombre": "MIX 4 BERRIES 400GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 5958.04,
+        "precio": 9867.43,
         "imagen": "3219.webp",
         "activo": true
     },
@@ -85,7 +85,7 @@
         "nombre": "MIX PRIMAVERA 350GR",
         "marca": "Green Life",
         "categoria": "Congelados",
-        "precio": 3951.86,
+        "precio": 4088.23,
         "imagen": "3221.webp",
         "activo": true
     },
@@ -335,7 +335,7 @@
         "nombre": "ALFAJOR JORGITO BLANCO 55G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 942.59,
+        "precio": 943.44,
         "imagen": "3011.webp",
         "activo": true
     },
@@ -375,7 +375,7 @@
         "nombre": "ALFAJOR VIMAR ESCOLAR SURTIDO CAJA 60U",
         "marca": "Vimar",
         "categoria": "Alfajores",
-        "precio": 12787.28,
+        "precio": 13343.88,
         "imagen": "3019.webp",
         "activo": true
     },
@@ -415,7 +415,7 @@
         "nombre": "ALFAJOR GIGA BY SPREEN 72G",
         "marca": "GIGA",
         "categoria": "Alfajores",
-        "precio": 1252.35,
+        "precio": 1199.35,
         "imagen": "8811.webp",
         "activo": true
     },
@@ -425,7 +425,7 @@
         "nombre": "ALFAJOR GOAT BONOBON 75G",
         "marca": "Arcor",
         "categoria": "Alfajores",
-        "precio": 1573.0,
+        "precio": 1456.84,
         "imagen": "8733.webp",
         "activo": true
     },
@@ -465,7 +465,7 @@
         "nombre": "ALFAJOR JORGITO NEGRO 55G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 943.8,
+        "precio": 943.44,
         "imagen": "3010.webp",
         "activo": true
     },
@@ -505,7 +505,7 @@
         "nombre": "ALFAJOR MILKA SUPER DULCE DE LECHE NEGRO 70G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1337.29,
+        "precio": 1347.46,
         "imagen": "2302.webp",
         "activo": true
     },
@@ -585,7 +585,7 @@
         "nombre": "CARAMELO BILLIKEN FRUTAL 600G",
         "marca": "Billiken",
         "categoria": "Golosinas",
-        "precio": 4356.0,
+        "precio": 4647.85,
         "imagen": "887.webp",
         "activo": true
     },
@@ -605,7 +605,7 @@
         "nombre": "BOMBON FERRERO ROCHER 8U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 7619.37,
+        "precio": 7187.4,
         "imagen": "201.webp",
         "activo": true
     },
@@ -615,7 +615,7 @@
         "nombre": "BOMBON FERRERO ROCHER 12U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 10599.6,
+        "precio": 10837.73,
         "imagen": "199.webp",
         "activo": true
     },
@@ -635,7 +635,7 @@
         "nombre": "BOMBON FERRERO ROCHER 4U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 4485.47,
+        "precio": 3747.98,
         "imagen": "2570.webp",
         "activo": true
     },
@@ -645,7 +645,7 @@
         "nombre": "BOMBON FERRERO ESTUCHE 24U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 19662.5,
+        "precio": 20830.15,
         "imagen": "3055.webp",
         "activo": true
     },
@@ -715,7 +715,7 @@
         "nombre": "CHOCOLATE COFLER BLOCK 38G",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 1552.43,
+        "precio": 1592.84,
         "imagen": "341.webp",
         "activo": true
     },
@@ -745,7 +745,7 @@
         "nombre": "GALLETITA  PEPAS CHOCOTRIO 180G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 778.03,
+        "precio": 832.0,
         "imagen": "38.webp",
         "activo": true
     },
@@ -805,7 +805,7 @@
         "nombre": "BOMBON FERRERO ROCHER 7U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 8681.75,
+        "precio": 8189.28,
         "imagen": "3056.webp",
         "activo": true
     },
@@ -835,7 +835,7 @@
         "nombre": "BIZCOCHOS JORGITO 200 G",
         "marca": "Jorgito",
         "categoria": "Galletitas",
-        "precio": 968.0,
+        "precio": 967.09,
         "imagen": "154.webp",
         "activo": true
     },
@@ -895,7 +895,7 @@
         "nombre": "HUEVO KINDER SORPRESA NENE",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2246.97,
+        "precio": 2291.26,
         "imagen": "950.webp",
         "activo": true
     },
@@ -915,7 +915,7 @@
         "nombre": "CHOCOLATE KITKAT NEGRO 41G",
         "marca": "Nestlé",
         "categoria": "Chocolates",
-        "precio": 1534.28,
+        "precio": 1534.76,
         "imagen": "955.webp",
         "activo": true
     },
@@ -925,7 +925,7 @@
         "nombre": "MAYONESA NATURA 250 CC",
         "marca": "Natura",
         "categoria": "Almacén",
-        "precio": 1706.1,
+        "precio": 1701.74,
         "imagen": "2745.webp",
         "activo": true
     },
@@ -995,7 +995,7 @@
         "nombre": "BIZCOCHO 9 DE ORO TODOS 200G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1150.71,
+        "precio": 1168.86,
         "imagen": "156.webp",
         "activo": true
     },
@@ -1005,7 +1005,7 @@
         "nombre": "GOMITAS MOGUL DIENTES 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6292.0,
+        "precio": 6336.53,
         "imagen": "1240.webp",
         "activo": true
     },
@@ -1025,7 +1025,7 @@
         "nombre": "GOMITAS MOGUL EXTREME LADRILLOS 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6116.55,
+        "precio": 6381.54,
         "imagen": "2894.webp",
         "activo": true
     },
@@ -1035,7 +1035,7 @@
         "nombre": "GOMITAS MOGUL MORAS 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6292.0,
+        "precio": 6336.53,
         "imagen": "1245.webp",
         "activo": true
     },
@@ -1085,7 +1085,7 @@
         "nombre": "GALLETITA  CEREALITAS 200G",
         "marca": "Mondelez",
         "categoria": "Galletitas",
-        "precio": 1731.51,
+        "precio": 1730.78,
         "imagen": "302.webp",
         "activo": true
     },
@@ -1095,7 +1095,7 @@
         "nombre": "GALLETITA CEREAL MIX 207G",
         "marca": "Arcor",
         "categoria": "Galletitas",
-        "precio": 1940.84,
+        "precio": 2757.95,
         "imagen": "303.webp",
         "activo": true
     },
@@ -1205,7 +1205,7 @@
         "nombre": "TALITA URQUIZA CLASICA 110G",
         "marca": "Urquiza",
         "categoria": "Galletitas",
-        "precio": 1161.6,
+        "precio": 1170.31,
         "imagen": "6075.webp",
         "activo": true
     },
@@ -1245,7 +1245,7 @@
         "nombre": "CARAMELO ARCOR MENTA CRISTAL 810G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 10310.41,
+        "precio": 10310.65,
         "imagen": "1163.webp",
         "activo": true
     },
@@ -1305,7 +1305,7 @@
         "nombre": "CHUPETIN PICO DULCE 48U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 10678.25,
+        "precio": 10238.05,
         "imagen": "390.webp",
         "activo": true
     },
@@ -1355,7 +1355,7 @@
         "nombre": "LENGUETAZO TODOS 32 UNIDADES",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 6660.32,
+        "precio": 6509.32,
         "imagen": "1024.webp",
         "activo": true
     },
@@ -1465,7 +1465,7 @@
         "nombre": "GOMITAS ROLLO MOGUL FRUTAL 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 5769.28,
+        "precio": 5469.68,
         "imagen": "1745.webp",
         "activo": true
     },
@@ -1475,7 +1475,7 @@
         "nombre": "GOMITAS ROLLO MOGUL BERRIES 12U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6100.82,
+        "precio": 5469.68,
         "imagen": "26.webp",
         "activo": true
     },
@@ -1595,7 +1595,7 @@
         "nombre": "AZUCAR LEDESMA 1KG",
         "marca": "Ledesma",
         "categoria": "Almacén",
-        "precio": 1760.55,
+        "precio": 1749.66,
         "imagen": "101.webp",
         "activo": true
     },
@@ -1845,7 +1845,7 @@
         "nombre": "NESQUIK ORIGINAL * 180 GS",
         "marca": "Nestlé",
         "categoria": "Almacén",
-        "precio": 2086.04,
+        "precio": 2193.97,
         "imagen": "2945.webp",
         "activo": true
     },
@@ -1995,7 +1995,7 @@
         "nombre": "YERBA CBSE 500 GR",
         "marca": "CBSé",
         "categoria": "Almacén",
-        "precio": 1859.77,
+        "precio": 1919.54,
         "imagen": "2633.webp",
         "activo": true
     },
@@ -2005,7 +2005,7 @@
         "nombre": "YERBA LA  CUMBRECITA 500 GR",
         "marca": "La Cumbrecita",
         "categoria": "Almacén",
-        "precio": 1678.27,
+        "precio": 1678.51,
         "imagen": "2140.webp",
         "activo": true
     },
@@ -2025,7 +2025,7 @@
         "nombre": "YERBA PLAYADITO X 500 GR",
         "marca": "Liebig",
         "categoria": "Almacén",
-        "precio": 2459.93,
+        "precio": 2517.77,
         "imagen": "2809.webp",
         "activo": true
     },
@@ -2035,7 +2035,7 @@
         "nombre": "YERBA ROSAMONTE X 500 GR",
         "marca": "Rosamonte",
         "categoria": "Almacén",
-        "precio": 1724.25,
+        "precio": 1979.08,
         "imagen": "8793.webp",
         "activo": true
     },
@@ -2115,7 +2115,7 @@
         "nombre": "SPEED ENERGY x 473 ML",
         "marca": "Speed",
         "categoria": "Bebidas",
-        "precio": 2326.83,
+        "precio": 2525.03,
         "imagen": "2662.webp",
         "activo": true
     },
@@ -2265,7 +2265,7 @@
         "nombre": "BASTONITOS KRACHITOS QUESO 60G",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1134.98,
+        "precio": 1202.26,
         "imagen": "8708.webp",
         "activo": true
     },
@@ -2305,7 +2305,7 @@
         "nombre": "CHIZITOS KRACHITOS 60G",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1134.98,
+        "precio": 1202.26,
         "imagen": "8729.webp",
         "activo": true
     },
@@ -2325,7 +2325,7 @@
         "nombre": "PAPAS KRACHITOS JAMON 55G",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1303.84,
+        "precio": 1433.25,
         "imagen": "3059.webp",
         "activo": true
     },
@@ -2335,7 +2335,7 @@
         "nombre": "PAPAS KRACHITOS CORTE TRADICIONAL 55G",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1303.84,
+        "precio": 1433.25,
         "imagen": "3058.webp",
         "activo": true
     },
@@ -2385,7 +2385,7 @@
         "nombre": "ALFAJOR JORGITO NEGRO 6U 155G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 2891.9,
+        "precio": 2890.15,
         "imagen": "56.webp",
         "activo": true
     },
@@ -2415,7 +2415,7 @@
         "nombre": "ALFAJOR CHOCOARROZ  DULCE DE LECHE 26G",
         "marca": "Molinos",
         "categoria": "Alfajores",
-        "precio": 1052.7,
+        "precio": 1099.16,
         "imagen": "368.webp",
         "activo": true
     },
@@ -2515,7 +2515,7 @@
         "nombre": "PASTA UNTABLE BONOBON 290G",
         "marca": "Arcor",
         "categoria": "Almacén",
-        "precio": 5738.3,
+        "precio": 443.4,
         "imagen": "8710.webp",
         "activo": true
     },
@@ -2855,7 +2855,7 @@
         "nombre": "ENCENDEDOR BIX MAXI",
         "marca": "Bic",
         "categoria": "Varios",
-        "precio": 1185.8,
+        "precio": 1186.28,
         "imagen": "144.webp",
         "activo": true
     },
@@ -2885,7 +2885,7 @@
         "nombre": "NAIPES CASINO 40U",
         "marca": "Casino",
         "categoria": "Varios",
-        "precio": 2084.83,
+        "precio": 2310.13,
         "imagen": "285.webp",
         "activo": true
     },
@@ -2895,7 +2895,7 @@
         "nombre": "NAIPES CASINO 50U",
         "marca": "Casino",
         "categoria": "Varios",
-        "precio": 2613.6,
+        "precio": 2722.5,
         "imagen": "286.webp",
         "activo": true
     },
@@ -2915,7 +2915,7 @@
         "nombre": "APOSITO ADHESUR 8U",
         "marca": "Adhesur",
         "categoria": "Varios",
-        "precio": 592.9,
+        "precio": 704.22,
         "imagen": "8850.webp",
         "activo": true
     },
@@ -2935,7 +2935,7 @@
         "nombre": "DURACELL 2A C/U",
         "marca": "Duracell",
         "categoria": "Varios",
-        "precio": 1026.08,
+        "precio": 1071.58,
         "imagen": "551.webp",
         "activo": true
     },
@@ -2945,7 +2945,7 @@
         "nombre": "DURACELL 3A  C/U",
         "marca": "Duracell",
         "categoria": "Varios",
-        "precio": 1026.08,
+        "precio": 1071.58,
         "imagen": "552.webp",
         "activo": true
     },
@@ -3135,7 +3135,7 @@
         "nombre": "PAPELILLO OCB NEGRO",
         "marca": "OCB",
         "categoria": "Varios",
-        "precio": 810.7,
+        "precio": 882.82,
         "imagen": "1455.webp",
         "activo": true
     },
@@ -3145,7 +3145,7 @@
         "nombre": "PAÑUELOS ELITE 6U",
         "marca": "Elite",
         "categoria": "Varios",
-        "precio": 1331.0,
+        "precio": 1296.64,
         "imagen": "1371.webp",
         "activo": true
     },
@@ -3215,7 +3215,7 @@
         "nombre": "TABACO CERRITO 45G",
         "marca": "Cerrito",
         "categoria": "Varios",
-        "precio": 6703.4,
+        "precio": 6705.34,
         "imagen": "2587.webp",
         "activo": true
     },
@@ -3235,7 +3235,7 @@
         "nombre": "TABACO LAS HOJAS*50GS",
         "marca": "Cuatro Leguas",
         "categoria": "Varios",
-        "precio": 4819.19,
+        "precio": 5203.97,
         "imagen": "2702.webp",
         "activo": true
     },
@@ -3245,7 +3245,7 @@
         "nombre": "BLUPER PASTILLAS 12 UNI",
         "marca": "Bluper",
         "categoria": "Golosinas",
-        "precio": 3146.0,
+        "precio": 3393.32,
         "imagen": "3076.webp",
         "activo": true
     },
@@ -3285,7 +3285,7 @@
         "nombre": "CATY HOUSE",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 2249.39,
+        "precio": 2397.25,
         "imagen": "9854.webp",
         "activo": true
     },
@@ -3295,7 +3295,7 @@
         "nombre": "CHICLE BLUPER SANDIA 400G",
         "marca": "Bluper",
         "categoria": "Golosinas",
-        "precio": 5929.0,
+        "precio": 5610.53,
         "imagen": "2380.webp",
         "activo": true
     },
@@ -3405,7 +3405,7 @@
         "nombre": "PUPPY HOUSE",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 2249.39,
+        "precio": 2442.26,
         "imagen": "9853.webp",
         "activo": true
     },
@@ -3475,7 +3475,7 @@
         "nombre": "GALLETITA  COFLER BONOBON 85G",
         "marca": "Cofler",
         "categoria": "Galletitas",
-        "precio": 1001.88,
+        "precio": 885.72,
         "imagen": "726.webp",
         "activo": true
     },
@@ -3585,7 +3585,7 @@
         "nombre": "GALLETITA  PEPAS TRICHOC 500G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 2117.5,
+        "precio": 2265.12,
         "imagen": "740.webp",
         "activo": true
     },
@@ -3675,7 +3675,7 @@
         "nombre": "GALLETITA PEPAS ALEMANA 180G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 767.14,
+        "precio": 820.38,
         "imagen": "951.webp",
         "activo": true
     },
@@ -3795,7 +3795,7 @@
         "nombre": "GALLETITA PARNOR SUAVECITAS 140G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 935.33,
+        "precio": 933.64,
         "imagen": "1457.webp",
         "activo": true
     },
@@ -3805,7 +3805,7 @@
         "nombre": "GALLETITA PITUSAS CHOCOLATE 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1038.18,
+        "precio": 1083.19,
         "imagen": "1459.webp",
         "activo": true
     },
@@ -3955,7 +3955,7 @@
         "nombre": "VAINILLA MAURI 80G",
         "marca": "Mauri",
         "categoria": "Galletitas",
-        "precio": 486.42,
+        "precio": 511.1,
         "imagen": "2077.webp",
         "activo": true
     },
@@ -3965,7 +3965,7 @@
         "nombre": "VAINILLA MAURI 160G",
         "marca": "Mauri",
         "categoria": "Galletitas",
-        "precio": 1091.42,
+        "precio": 1090.45,
         "imagen": "2079.webp",
         "activo": true
     },
@@ -4035,7 +4035,7 @@
         "nombre": "ALA CREMOSO 750ML",
         "marca": "Ala",
         "categoria": "Limpieza",
-        "precio": 2688.62,
+        "precio": 2329.25,
         "imagen": "3380.webp",
         "activo": true
     },
@@ -4085,7 +4085,7 @@
         "nombre": "ALGODON ESTRELLA 75G",
         "marca": "Estrella",
         "categoria": "Perfumería",
-        "precio": 1073.27,
+        "precio": 892.98,
         "imagen": "66.webp",
         "activo": true
     },
@@ -4095,7 +4095,7 @@
         "nombre": "CARAMELO ARCOR MIEL MENTA 335G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 3872.0,
+        "precio": 3868.13,
         "imagen": "1792.webp",
         "activo": true
     },
@@ -4365,7 +4365,7 @@
         "nombre": "CHUPETIN PELOTITAS 50U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 2722.5,
+        "precio": 2777.68,
         "imagen": "1028.webp",
         "activo": true
     },
@@ -4415,7 +4415,7 @@
         "nombre": "CONITO DON QUIQUE 34G",
         "marca": "Don Quique",
         "categoria": "Chocolates",
-        "precio": 750.2,
+        "precio": 749.23,
         "imagen": "9866.webp",
         "activo": true
     },
@@ -4445,7 +4445,7 @@
         "nombre": "DETER CIF ACTIVE 500 ML",
         "marca": "Unilever",
         "categoria": "Limpieza",
-        "precio": 3239.17,
+        "precio": 2992.57,
         "imagen": "2625.webp",
         "activo": true
     },
@@ -4505,7 +4505,7 @@
         "nombre": "GEL DOREE PRO VITAMINA B5 180G",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 1841.62,
+        "precio": 2003.76,
         "imagen": "774.webp",
         "activo": true
     },
@@ -4605,7 +4605,7 @@
         "nombre": "JABON LUX ROSAS FRANCESAS 120G",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1141.03,
+        "precio": 1129.66,
         "imagen": "925.webp",
         "activo": true
     },
@@ -4615,7 +4615,7 @@
         "nombre": "JABON REXONA NUTRITIVE ORCHID 120G",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1130.14,
+        "precio": 1129.66,
         "imagen": "932.webp",
         "activo": true
     },
@@ -4695,7 +4695,7 @@
         "nombre": "LAVANDINA AYUDIN CLASICA 1 L",
         "marca": "Ayudín",
         "categoria": "Limpieza",
-        "precio": 1066.01,
+        "precio": 1087.55,
         "imagen": "1010.webp",
         "activo": true
     },
@@ -4785,7 +4785,7 @@
         "nombre": "MANTECOL 64G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 1427.8,
+        "precio": 1472.33,
         "imagen": "1090.webp",
         "activo": true
     },
@@ -4805,7 +4805,7 @@
         "nombre": "MATA MOSCAS SELTON 360 CC",
         "marca": "Ayudín",
         "categoria": "Varios",
-        "precio": 4446.75,
+        "precio": 4399.56,
         "imagen": "903.webp",
         "activo": true
     },
@@ -4985,7 +4985,7 @@
         "nombre": "ROLLO COCINA ELEGANTE 3 UNID",
         "marca": "Elegante",
         "categoria": "Limpieza",
-        "precio": 1871.87,
+        "precio": 1694.0,
         "imagen": "1737.webp",
         "activo": true
     },
@@ -5015,7 +5015,7 @@
         "nombre": "SHAMPOO PLUSBELLE 1000ML",
         "marca": "Plusbelle",
         "categoria": "Perfumería",
-        "precio": 3161.73,
+        "precio": 3165.36,
         "imagen": "3153.webp",
         "activo": false
     },
@@ -5035,7 +5035,7 @@
         "nombre": "CHOCOLATE VAUQUITA CLASICA 25G",
         "marca": "Vauquita",
         "categoria": "Chocolates",
-        "precio": 549.34,
+        "precio": 476.26,
         "imagen": "3174.webp",
         "activo": true
     },
@@ -5145,7 +5145,7 @@
         "nombre": "OBLEA BONOBON NEGRO 30G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 931.7,
+        "precio": 1154.34,
         "imagen": "1306.webp",
         "activo": true
     },
@@ -5165,7 +5165,7 @@
         "nombre": "CHOCOLATE ROCKLETS 40G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 1149.5,
+        "precio": 1282.12,
         "imagen": "1732.webp",
         "activo": true
     },
@@ -5215,7 +5215,7 @@
         "nombre": "ALFAJOR JORGELIN NEGRO 85G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 1258.4,
+        "precio": 1314.06,
         "imagen": "57.webp",
         "activo": true
     },
@@ -5235,7 +5235,7 @@
         "nombre": "MINI TORTA RAPSODIA 80G",
         "marca": "Nevares",
         "categoria": "Alfajores",
-        "precio": 600.16,
+        "precio": 633.07,
         "imagen": "1664.webp",
         "activo": true
     },
@@ -5295,7 +5295,7 @@
         "nombre": "ALFAJOR VAUQUITA SUBLIME 70G",
         "marca": "Vauquita",
         "categoria": "Alfajores",
-        "precio": 932.91,
+        "precio": 932.18,
         "imagen": "3172.webp",
         "activo": true
     },
@@ -5345,7 +5345,7 @@
         "nombre": "ALFAJOR GUAYMALLEN RUBI 50G",
         "marca": "Guaymallén",
         "categoria": "Alfajores",
-        "precio": 583.7,
+        "precio": 570.64,
         "imagen": "8838.webp",
         "activo": true
     },
@@ -5365,7 +5365,7 @@
         "nombre": "MINI TORTA PICNIC 38G",
         "marca": "Nevares",
         "categoria": "Alfajores",
-        "precio": 361.79,
+        "precio": 361.55,
         "imagen": "9862.webp",
         "activo": true
     },
@@ -5395,7 +5395,7 @@
         "nombre": "ALFAJOR CACHAFAZ  NEGRO 60G",
         "marca": "Cachafaz",
         "categoria": "Alfajores",
-        "precio": 1856.14,
+        "precio": 1902.12,
         "imagen": "9869.webp",
         "activo": true
     },
@@ -5505,7 +5505,7 @@
         "nombre": "MIELCITAS X5 TIRAS",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 3039.04,
+        "precio": 2639.74,
         "imagen": "15.webp",
         "activo": true
     },
@@ -5515,7 +5515,7 @@
         "nombre": "TUTUCA BURBUJAS 80G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 798.6,
+        "precio": 826.19,
         "imagen": "226.webp",
         "activo": true
     },
@@ -5525,7 +5525,7 @@
         "nombre": "CHUPETIN CRAZY POP FRUTILLA 5U",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
-        "precio": 2501.07,
+        "precio": 2664.42,
         "imagen": "475.webp",
         "activo": true
     },
@@ -5555,7 +5555,7 @@
         "nombre": "PIPAS GIGANTES 12U 50G",
         "marca": "Pipas",
         "categoria": "Golosinas",
-        "precio": 8278.82,
+        "precio": 9934.58,
         "imagen": "784.webp",
         "activo": true
     },
@@ -5585,7 +5585,7 @@
         "nombre": "PALITOS SALADO BURBUJA 150G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 1200.32,
+        "precio": 1200.8,
         "imagen": "1385.webp",
         "activo": true
     },
@@ -5595,7 +5595,7 @@
         "nombre": "PAPAS PRINGLES ORIGINAL 105G",
         "marca": "Pringles",
         "categoria": "Snacks",
-        "precio": 3947.02,
+        "precio": 4119.32,
         "imagen": "1422.webp",
         "activo": true
     },
@@ -5605,7 +5605,7 @@
         "nombre": "PAPAS PRINGLES ORIGINAL 37G",
         "marca": "Pringles",
         "categoria": "Snacks",
-        "precio": 1958.99,
+        "precio": 1993.6,
         "imagen": "1423.webp",
         "activo": true
     },
@@ -5715,7 +5715,7 @@
         "nombre": "ALFAJOR CAPITAN DEL ESPACIO TRIPLE NEGRO 80G",
         "marca": "Capitán del Espacio",
         "categoria": "Alfajores",
-        "precio": 2349.82,
+        "precio": 2490.18,
         "imagen": "9898.webp",
         "activo": true
     },
@@ -5735,7 +5735,7 @@
         "nombre": "CARAMELO PICO DULCE MASTICABLE 165G",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 6208.51,
+        "precio": 6478.82,
         "imagen": "265.webp",
         "activo": true
     },
@@ -5755,7 +5755,7 @@
         "nombre": "CARAMELO MISKY SURTIDO 800G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6786.65,
+        "precio": 6817.14,
         "imagen": "270.webp",
         "activo": true
     },
@@ -5795,7 +5795,7 @@
         "nombre": "CHUPETIN CEBOLLITA 40U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 1355.2,
+        "precio": 1767.08,
         "imagen": "396.webp",
         "activo": true
     },
@@ -5825,7 +5825,7 @@
         "nombre": "CUBANITOS OBLITA FRUTILLA 48U",
         "marca": "Oblita",
         "categoria": "Golosinas",
-        "precio": 4961.0,
+        "precio": 4949.87,
         "imagen": "498.webp",
         "activo": true
     },
@@ -5935,7 +5935,7 @@
         "nombre": "CARAMELO BUTTER TOFFEES BONOBON 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 10527.0,
+        "precio": 1573.0,
         "imagen": "9846.webp",
         "activo": true
     },
@@ -5975,7 +5975,7 @@
         "nombre": "CARAMELO ARCOR MENTA CHOCOLATE 715G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7744.0,
+        "precio": 7752.23,
         "imagen": "1161.webp",
         "activo": true
     },
@@ -6025,7 +6025,7 @@
         "nombre": "BOMBON BONOBON NEGRO 15G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 473.11,
+        "precio": 470.45,
         "imagen": "204.webp",
         "activo": true
     },
@@ -6115,7 +6115,7 @@
         "nombre": "CHOCOLATE COFLER AIR LECHE 27G",
         "marca": "Cofler",
         "categoria": "Chocolates",
-        "precio": 1476.2,
+        "precio": 1530.41,
         "imagen": "344.webp",
         "activo": true
     },
@@ -6245,7 +6245,7 @@
         "nombre": "CHOCOLATE KITKAT BLANCO 41G",
         "marca": "Nestlé",
         "categoria": "Chocolates",
-        "precio": 1534.28,
+        "precio": 1534.76,
         "imagen": "957.webp",
         "activo": true
     },
@@ -6295,7 +6295,7 @@
         "nombre": "HUEVO KINDER SORPRESA NENA",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2246.97,
+        "precio": 2291.26,
         "imagen": "987.webp",
         "activo": true
     },
@@ -6315,7 +6315,7 @@
         "nombre": "OBLEA BONOBON BLANCO 30G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 931.7,
+        "precio": 1154.34,
         "imagen": "1307.webp",
         "activo": true
     },
@@ -6365,7 +6365,7 @@
         "nombre": "GALLETITA  PEPAS TRICHOC 300G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 1966.25,
+        "precio": 2103.95,
         "imagen": "8706.webp",
         "activo": true
     },
@@ -6415,7 +6415,7 @@
         "nombre": "GALLETITA  PEPAS CHOCOTRIO 500G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 2712.82,
+        "precio": 2902.55,
         "imagen": "8906.webp",
         "activo": true
     },
@@ -6435,7 +6435,7 @@
         "nombre": "CUBANITO OBLITA MARROC 48U",
         "marca": "Oblita",
         "categoria": "Golosinas",
-        "precio": 4961.0,
+        "precio": 4949.87,
         "imagen": "122.webp",
         "activo": true
     },
@@ -6445,7 +6445,7 @@
         "nombre": "CUBANITO OBLITA CHOCOLATE 48U",
         "marca": "Oblita",
         "categoria": "Golosinas",
-        "precio": 4961.0,
+        "precio": 4949.87,
         "imagen": "378.webp",
         "activo": true
     },
@@ -6595,7 +6595,7 @@
         "nombre": "POTE BUBLI 30U",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 9715.09,
+        "precio": 12259.24,
         "imagen": "sin-imagen.png",
         "activo": false
     },
@@ -6635,7 +6635,7 @@
         "nombre": "HUEVO KINDER JOY NENA 20G",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2071.52,
+        "precio": 2291.26,
         "imagen": "989.webp",
         "activo": true
     },
@@ -6645,7 +6645,7 @@
         "nombre": "HUEVO KINDER JOY NENE 20G",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 2071.52,
+        "precio": 2291.26,
         "imagen": "988.webp",
         "activo": true
     },
@@ -6655,7 +6655,7 @@
         "nombre": "BIZCOCHO 9 DE ORO AGRIDULCES 200G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1150.71,
+        "precio": 1168.86,
         "imagen": "157.webp",
         "activo": true
     },
@@ -6665,7 +6665,7 @@
         "nombre": "BIZCOCHO 9 DE ORO CLÁSICOS 200G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1150.71,
+        "precio": 1168.86,
         "imagen": "158.webp",
         "activo": true
     },
@@ -6705,7 +6705,7 @@
         "nombre": "GALLETITA CEREAL MIX AVENA Y PASAS 207G",
         "marca": "Arcor",
         "categoria": "Galletitas",
-        "precio": 1940.84,
+        "precio": 2349.34,
         "imagen": "84.webp",
         "activo": true
     },
@@ -6745,7 +6745,7 @@
         "nombre": "GALLETITA FRUTIGRAN SALVADO 250G",
         "marca": "Granix",
         "categoria": "Galletitas",
-        "precio": 1956.57,
+        "precio": 1955.06,
         "imagen": "1343.webp",
         "activo": true
     },
@@ -6875,7 +6875,7 @@
         "nombre": "GALLETITA PITUSAS FRUTILLA 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1038.18,
+        "precio": 1083.19,
         "imagen": "55.webp",
         "activo": true
     },
@@ -6885,7 +6885,7 @@
         "nombre": "GALLETITA PITUSAS JALEA 140G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1038.18,
+        "precio": 1083.19,
         "imagen": "22.webp",
         "activo": true
     },
@@ -6895,7 +6895,7 @@
         "nombre": "GALLETITA PITUSAS LIMON 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1038.18,
+        "precio": 1128.33,
         "imagen": "16.webp",
         "activo": true
     },
@@ -6905,7 +6905,7 @@
         "nombre": "GALLETITA PITUSAS VAINILLA 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1038.18,
+        "precio": 1083.19,
         "imagen": "39.webp",
         "activo": true
     },
@@ -7005,7 +7005,7 @@
         "nombre": "GALLETITA PEPAS TRICHOC 180G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 776.82,
+        "precio": 778.27,
         "imagen": "744.webp",
         "activo": true
     },
@@ -7015,7 +7015,7 @@
         "nombre": "GALLETITA PEPAS TRIO  ALEMANAS 500G",
         "marca": "Trio",
         "categoria": "Galletitas",
-        "precio": 2240.44,
+        "precio": 2397.25,
         "imagen": "952.webp",
         "activo": true
     },
@@ -7025,7 +7025,7 @@
         "nombre": "TALITA URQUIZA CEBOLLA 100G",
         "marca": "Urquiza",
         "categoria": "Galletitas",
-        "precio": 1161.6,
+        "precio": 1170.31,
         "imagen": "6079.webp",
         "activo": true
     },
@@ -7035,7 +7035,7 @@
         "nombre": "TALITA URQUIZA CHEDDAR 100G",
         "marca": "Urquiza",
         "categoria": "Galletitas",
-        "precio": 1161.6,
+        "precio": 1170.31,
         "imagen": "6077.webp",
         "activo": true
     },
@@ -7045,7 +7045,7 @@
         "nombre": "TALITA URQUIZA JAMON 100G",
         "marca": "Urquiza",
         "categoria": "Galletitas",
-        "precio": 1161.6,
+        "precio": 1170.31,
         "imagen": "6078.webp",
         "activo": true
     },
@@ -7055,7 +7055,7 @@
         "nombre": "TALITA URQUIZA OLIVA 100G",
         "marca": "Urquiza",
         "categoria": "Galletitas",
-        "precio": 1161.6,
+        "precio": 1170.31,
         "imagen": "6082.webp",
         "activo": true
     },
@@ -7065,7 +7065,7 @@
         "nombre": "TALITA URQUIZA PIZZA 110G",
         "marca": "Urquiza",
         "categoria": "Galletitas",
-        "precio": 1161.6,
+        "precio": 1170.31,
         "imagen": "6076.webp",
         "activo": true
     },
@@ -7075,7 +7075,7 @@
         "nombre": "TALITA URQUIZA QUESO 100G",
         "marca": "Urquiza",
         "categoria": "Galletitas",
-        "precio": 1161.6,
+        "precio": 1170.31,
         "imagen": "6080.webp",
         "activo": true
     },
@@ -7525,7 +7525,7 @@
         "nombre": "ALFAJOR CACHAFAZ BLANCO 60G",
         "marca": "Cachafaz",
         "categoria": "Alfajores",
-        "precio": 1856.14,
+        "precio": 1902.12,
         "imagen": "7658.webp",
         "activo": true
     },
@@ -7545,7 +7545,7 @@
         "nombre": "ALFAJOR CHOCOARROZ FRUTILLA 22G",
         "marca": "Molinos",
         "categoria": "Alfajores",
-        "precio": 1052.7,
+        "precio": 878.46,
         "imagen": "489.webp",
         "activo": true
     },
@@ -7645,7 +7645,7 @@
         "nombre": "ALFAJOR JORGELIN BLANCO 85G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 1258.4,
+        "precio": 1314.06,
         "imagen": "2001.webp",
         "activo": true
     },
@@ -7655,7 +7655,7 @@
         "nombre": "ALFAJOR JORGITO BLANCO 6U 155G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 2891.9,
+        "precio": 2890.15,
         "imagen": "60.webp",
         "activo": true
     },
@@ -7665,7 +7665,7 @@
         "nombre": "ALFAJOR JORGITO FRUTA 50G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 942.59,
+        "precio": 984.46,
         "imagen": "2716.webp",
         "activo": true
     },
@@ -7675,7 +7675,7 @@
         "nombre": "ALFAJOR JORGITO MOUSSE 6U 128G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 2891.9,
+        "precio": 2890.15,
         "imagen": "69.webp",
         "activo": true
     },
@@ -7685,7 +7685,7 @@
         "nombre": "ALFAJOR MILKA SUPER DULCE DE LECHE BLANCO 70G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1337.29,
+        "precio": 1347.46,
         "imagen": "1684.webp",
         "activo": true
     },
@@ -7695,7 +7695,7 @@
         "nombre": "ALFAJOR MILKA TRIPLE MOUSSE BLANCO 55G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 1337.29,
+        "precio": 1335.84,
         "imagen": "1683.webp",
         "activo": true
     },
@@ -7795,7 +7795,7 @@
         "nombre": "ALFAJOR VIMAR ESCOLAR DDL CAJA 60U",
         "marca": "Vimar",
         "categoria": "Alfajores",
-        "precio": 12826.0,
+        "precio": 13043.32,
         "imagen": "289.webp",
         "activo": true
     },
@@ -7825,7 +7825,7 @@
         "nombre": "ALF MILKA SIMPLE MOUSSE NEGRO 42G",
         "marca": "Milka",
         "categoria": "Alfajores",
-        "precio": 968.0,
+        "precio": 877.01,
         "imagen": "904.webp",
         "activo": true
     },
@@ -7885,7 +7885,7 @@
         "nombre": "BENGALA CIENFUEGOS 4U",
         "marca": "",
         "categoria": "Varios",
-        "precio": 1185.8,
+        "precio": 1195.0,
         "imagen": "2589.webp",
         "activo": true
     },
@@ -7895,7 +7895,7 @@
         "nombre": "BENGALA FUEGOLANDIA 4U",
         "marca": "",
         "categoria": "Varios",
-        "precio": 1185.8,
+        "precio": 1195.0,
         "imagen": "2588.webp",
         "activo": true
     },
@@ -7945,7 +7945,7 @@
         "nombre": "ENCENDEDOR BIC MINI",
         "marca": "",
         "categoria": "Varios",
-        "precio": 895.4,
+        "precio": 892.98,
         "imagen": "145.webp",
         "activo": true
     },
@@ -8175,7 +8175,7 @@
         "nombre": "VELAS JACARANDA 4U",
         "marca": "",
         "categoria": "Varios",
-        "precio": 1028.5,
+        "precio": 892.98,
         "imagen": "9927.webp",
         "activo": true
     },
@@ -8225,7 +8225,7 @@
         "nombre": "PEGAMENTO LA GOTITA 2ML",
         "marca": "",
         "categoria": "Varios",
-        "precio": 1936.0,
+        "precio": 2032.8,
         "imagen": "964.webp",
         "activo": true
     },
@@ -8685,7 +8685,7 @@
         "nombre": "CARAMELO BUTTER TOFFEES CHOCOLATE 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 9302.48,
+        "precio": 9301.51,
         "imagen": "3768.webp",
         "activo": true
     },
@@ -8735,7 +8735,7 @@
         "nombre": "CHICLE BELDENT INFINIT BLUEBERRY 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 20796.27,
+        "precio": 20797.0,
         "imagen": "9987.webp",
         "activo": true
     },
@@ -8745,7 +8745,7 @@
         "nombre": "CHICLE BELDENT INFINIT MENTA 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 20796.27,
+        "precio": 20797.0,
         "imagen": "9897.webp",
         "activo": true
     },
@@ -8755,7 +8755,7 @@
         "nombre": "ARROZ INFLADO BURBUJAS 80G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 798.6,
+        "precio": 826.19,
         "imagen": "4304.webp",
         "activo": true
     },
@@ -8765,7 +8765,7 @@
         "nombre": "BOLITAS COLORES BURBUJAS 80G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 798.6,
+        "precio": 826.19,
         "imagen": "4305.webp",
         "activo": true
     },
@@ -8775,7 +8775,7 @@
         "nombre": "CHIZITO BURBUJAS QUESO 80G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 798.6,
+        "precio": 826.19,
         "imagen": "4301.webp",
         "activo": true
     },
@@ -8795,7 +8795,7 @@
         "nombre": "JAMCITOS BURBUJAS 80G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 798.6,
+        "precio": 826.19,
         "imagen": "4300.webp",
         "activo": true
     },
@@ -8895,7 +8895,7 @@
         "nombre": "PAPAS KRACHITOS CORTE AMERICANO 55G",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1303.84,
+        "precio": 1433.25,
         "imagen": "3061.webp",
         "activo": true
     },
@@ -8905,7 +8905,7 @@
         "nombre": "PAPAS KRACHITOS CEBOLLA 55G",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1303.84,
+        "precio": 1433.25,
         "imagen": "3562.webp",
         "activo": true
     },
@@ -8915,7 +8915,7 @@
         "nombre": "PAPAS KRACHITOS CHEDDAR 55G",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1303.84,
+        "precio": 1433.25,
         "imagen": "3563.webp",
         "activo": true
     },
@@ -8925,7 +8925,7 @@
         "nombre": "PAPAS KRACHITOS KETCHUP 55GR",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1303.17,
+        "precio": 1433.25,
         "imagen": "9989.webp",
         "activo": true
     },
@@ -8935,7 +8935,7 @@
         "nombre": "PAPAS PRINGLES CEBOLLA 109G",
         "marca": "Pringles",
         "categoria": "Snacks",
-        "precio": 3947.02,
+        "precio": 4119.32,
         "imagen": "9919.webp",
         "activo": true
     },
@@ -8945,7 +8945,7 @@
         "nombre": "PAPAS PRINGLES CEBOLLA 37G",
         "marca": "Pringles",
         "categoria": "Snacks",
-        "precio": 1958.99,
+        "precio": 1993.6,
         "imagen": "584.webp",
         "activo": true
     },
@@ -8955,7 +8955,7 @@
         "nombre": "PAPAS PRINGLES CHEDDAR Y BACON 105G",
         "marca": "Pringles",
         "categoria": "Snacks",
-        "precio": 3947.02,
+        "precio": 4119.32,
         "imagen": "9920.webp",
         "activo": true
     },
@@ -8965,7 +8965,7 @@
         "nombre": "PAPAS PRINGLES QUESO 109G",
         "marca": "Pringles",
         "categoria": "Snacks",
-        "precio": 3947.02,
+        "precio": 4119.32,
         "imagen": "9918.webp",
         "activo": true
     },
@@ -9065,7 +9065,7 @@
         "nombre": "TRIGO INFLADO BURBUJAS 80G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 798.6,
+        "precio": 826.19,
         "imagen": "4303.webp",
         "activo": true
     },
@@ -9105,7 +9105,7 @@
         "nombre": "WORMYS BURBUJAS 80G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 798.6,
+        "precio": 826.19,
         "imagen": "4302.webp",
         "activo": true
     },
@@ -9335,7 +9335,7 @@
         "nombre": "MANI KRACHITOS 65G",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1243.88,
+        "precio": 1317.75,
         "imagen": "8731.webp",
         "activo": true
     },
@@ -9345,7 +9345,7 @@
         "nombre": "MANI PELADO PEHUAMAR 75G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 2055.79,
+        "precio": 2057.48,
         "imagen": "1086.webp",
         "activo": true
     },
@@ -9385,7 +9385,7 @@
         "nombre": "PALITOS SALADOS BURBUJAS 800G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 7026.47,
+        "precio": 7026.23,
         "imagen": "8907.webp",
         "activo": true
     },
@@ -9395,7 +9395,7 @@
         "nombre": "PALITOS KRACHITOS 70G",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 1021.24,
+        "precio": 1122.94,
         "imagen": "3060.webp",
         "activo": true
     },
@@ -9435,7 +9435,7 @@
         "nombre": "PAPAS PEHUAMAR ACANALADA 450G",
         "marca": "PepsiCo",
         "categoria": "Snacks",
-        "precio": 8542.6,
+        "precio": 8706.62,
         "imagen": "1417.webp",
         "activo": true
     },
@@ -9445,7 +9445,7 @@
         "nombre": "PAPAS KRACHITOS CORTE TRADICIONAL 420G",
         "marca": "Krachitos",
         "categoria": "Snacks",
-        "precio": 8189.28,
+        "precio": 8680.18,
         "imagen": "18.webp",
         "activo": true
     },
@@ -9465,7 +9465,7 @@
         "nombre": "PIPAS GIGANTES  DOYPACK 160G",
         "marca": "Pipas",
         "categoria": "Snacks",
-        "precio": 2021.85,
+        "precio": 2109.76,
         "imagen": "9943.webp",
         "activo": true
     },
@@ -9635,7 +9635,7 @@
         "nombre": "CHUPETIN BOLA LOCA CHICLE 24U",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 2721.29,
+        "precio": 3786.82,
         "imagen": "99.webp",
         "activo": true
     },
@@ -9645,7 +9645,7 @@
         "nombre": "CHUPETIN CRAZY POP NARANJA 5U",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
-        "precio": 2501.07,
+        "precio": 2664.42,
         "imagen": "1762.webp",
         "activo": true
     },
@@ -9655,7 +9655,7 @@
         "nombre": "CHUPETIN CRAZY POP SANDIA 5U",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
-        "precio": 2501.07,
+        "precio": 2664.42,
         "imagen": "1765.webp",
         "activo": true
     },
@@ -9665,7 +9665,7 @@
         "nombre": "CHUPETIN CRAZY POP UVA 5U",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
-        "precio": 2501.07,
+        "precio": 2664.42,
         "imagen": "1763.webp",
         "activo": true
     },
@@ -9705,7 +9705,7 @@
         "nombre": "HELADO ARTI AGUA FRUTILLA 40U",
         "marca": "Arti",
         "categoria": "Congelados",
-        "precio": 10249.91,
+        "precio": 10658.65,
         "imagen": "89.webp",
         "activo": true
     },
@@ -9715,7 +9715,7 @@
         "nombre": "HELADO ARTI AGUA LIMON 40U",
         "marca": "Arti",
         "categoria": "Congelados",
-        "precio": 10249.91,
+        "precio": 10658.65,
         "imagen": "91.webp",
         "activo": true
     },
@@ -9725,7 +9725,7 @@
         "nombre": "HELADO ARTI AGUA NARANJA 40U",
         "marca": "Arti",
         "categoria": "Congelados",
-        "precio": 10249.91,
+        "precio": 10658.65,
         "imagen": "92.webp",
         "activo": true
     },
@@ -9735,7 +9735,7 @@
         "nombre": "HELADO ARTI AGUA UVA 40U",
         "marca": "Arti",
         "categoria": "Congelados",
-        "precio": 10249.91,
+        "precio": 10658.65,
         "imagen": "90.webp",
         "activo": true
     },
@@ -9745,7 +9745,7 @@
         "nombre": "HELADO ARTIMIX ANANA FRUTILLA 40U",
         "marca": "Arti",
         "categoria": "Congelados",
-        "precio": 10249.91,
+        "precio": 10658.65,
         "imagen": "2192.webp",
         "activo": true
     },
@@ -9765,7 +9765,7 @@
         "nombre": "HELADO ARTI BOMBOM CROCANTE 20U",
         "marca": "Arti",
         "categoria": "Congelados",
-        "precio": 14874.53,
+        "precio": 15468.88,
         "imagen": "2194.webp",
         "activo": true
     },
@@ -9795,7 +9795,7 @@
         "nombre": "HELADO ARTI TACITA CREMA CHOCO 24U",
         "marca": "Arti",
         "categoria": "Congelados",
-        "precio": 17499.02,
+        "precio": 18199.61,
         "imagen": "2305.webp",
         "activo": true
     },
@@ -9805,7 +9805,7 @@
         "nombre": "HELADO ARTI TACITA CREMA DULCE DE LECHE 36U",
         "marca": "Arti",
         "categoria": "Congelados",
-        "precio": 17499.02,
+        "precio": 18199.61,
         "imagen": "2499.webp",
         "activo": true
     },
@@ -9815,7 +9815,7 @@
         "nombre": "HELADO ARTI TACITA CREMA FRUTILLA 24U",
         "marca": "Arti",
         "categoria": "Congelados",
-        "precio": 17499.02,
+        "precio": 18199.61,
         "imagen": "2303.webp",
         "activo": true
     },
@@ -9825,7 +9825,7 @@
         "nombre": "HELADO ARTI TSUNAMI CREMA 36U",
         "marca": "Arti",
         "categoria": "Congelados",
-        "precio": 14874.53,
+        "precio": 15468.88,
         "imagen": "2196.webp",
         "activo": true
     },
@@ -9835,7 +9835,7 @@
         "nombre": "HELADO ARTI TSUNAMI CHOCOLATE 36U",
         "marca": "Arti",
         "categoria": "Congelados",
-        "precio": 14874.53,
+        "precio": 15468.88,
         "imagen": "2197.webp",
         "activo": true
     },
@@ -9935,7 +9935,7 @@
         "nombre": "MAMADERA BEBE",
         "marca": "",
         "categoria": "Varios",
-        "precio": 2486.55,
+        "precio": 2487.28,
         "imagen": "192.webp",
         "activo": true
     },
@@ -9945,7 +9945,7 @@
         "nombre": "ALFAJOR DON QUIQUE PREMIUM 65G",
         "marca": "Don Quique",
         "categoria": "Alfajores",
-        "precio": 919.6,
+        "precio": 919.12,
         "imagen": "193.webp",
         "activo": true
     },
@@ -9975,7 +9975,7 @@
         "nombre": "POCHOCLO BURBUJAS ACARAMELADOS 80G",
         "marca": "Burbujas",
         "categoria": "Snacks",
-        "precio": 848.21,
+        "precio": 847.97,
         "imagen": "202.webp",
         "activo": true
     },
@@ -10165,7 +10165,7 @@
         "nombre": "DESODORANTE DOVE ORIGINAL 150ML",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 3847.8,
+        "precio": 4283.4,
         "imagen": "512.webp",
         "activo": true
     },
@@ -10315,7 +10315,7 @@
         "nombre": "GEL DOREE EFECTO HUMEDO 180G",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 1841.62,
+        "precio": 2003.76,
         "imagen": "777.webp",
         "activo": true
     },
@@ -10325,7 +10325,7 @@
         "nombre": "GEL DOREE FIJACION PROLONGADA 180G",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 1841.62,
+        "precio": 2003.76,
         "imagen": "776.webp",
         "activo": true
     },
@@ -10345,7 +10345,7 @@
         "nombre": "GUANTES MAKE TALLE 8 GRANDE",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 1744.82,
+        "precio": 1820.81,
         "imagen": "2129.webp",
         "activo": true
     },
@@ -10395,7 +10395,7 @@
         "nombre": "JABON LUX JAZMIN CREMOSO 120G",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1141.03,
+        "precio": 1129.66,
         "imagen": "927.webp",
         "activo": true
     },
@@ -10405,7 +10405,7 @@
         "nombre": "JABON LUX ORQUIDEA NEGRA 120G",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1141.03,
+        "precio": 1129.66,
         "imagen": "926.webp",
         "activo": true
     },
@@ -10415,7 +10415,7 @@
         "nombre": "JABON REXONA BAMBOO 120G",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1130.14,
+        "precio": 1129.66,
         "imagen": "933.webp",
         "activo": true
     },
@@ -10425,7 +10425,7 @@
         "nombre": "JABON REXONA COTTON FRESH 120G",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1130.14,
+        "precio": 1129.66,
         "imagen": "934.webp",
         "activo": true
     },
@@ -10485,7 +10485,7 @@
         "nombre": "PRESTOBARBA GILLETTE 3 FILOS",
         "marca": "Gillette",
         "categoria": "Perfumería",
-        "precio": 1882.76,
+        "precio": 1887.6,
         "imagen": "1612.webp",
         "activo": true
     },
@@ -10505,7 +10505,7 @@
         "nombre": "QUITAESMALTE CUTEX FORTALECEDOR 50ML",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 2789.96,
+        "precio": 1932.61,
         "imagen": "1652.webp",
         "activo": true
     },
@@ -10565,7 +10565,7 @@
         "nombre": "SHAMPOO PLUSBELLE ESENCIA CONTROL FRIZZ 970ML",
         "marca": "Plusbelle",
         "categoria": "Perfumería",
-        "precio": 4416.5,
+        "precio": 4415.53,
         "imagen": "8910.webp",
         "activo": true
     },
@@ -10575,7 +10575,7 @@
         "nombre": "SHAMPOO PLUSBELLE ESENCIA RESTAURACION 970ML",
         "marca": "Plusbelle",
         "categoria": "Perfumería",
-        "precio": 4416.5,
+        "precio": 4415.53,
         "imagen": "8909.webp",
         "activo": true
     },
@@ -10685,7 +10685,7 @@
         "nombre": "TAMPON OB SUPER 8U",
         "marca": "",
         "categoria": "Perfumería",
-        "precio": 3204.08,
+        "precio": 3204.56,
         "imagen": "2646.webp",
         "activo": true
     },
