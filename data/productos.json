@@ -535,7 +535,7 @@
         "nombre": "CARAMELO ARCOR RELLENO MIEL 675G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 7752.47,
+        "precio": 7752.23,
         "imagen": "1791.webp",
         "activo": true
     },
@@ -2515,7 +2515,7 @@
         "nombre": "PASTA UNTABLE BONOBON 290G",
         "marca": "Arcor",
         "categoria": "Almacén",
-        "precio": 443.4,
+        "precio": 5738.3,
         "imagen": "8710.webp",
         "activo": true
     },
@@ -2865,7 +2865,7 @@
         "nombre": "ENCENDEDOR CANDELA GLOW",
         "marca": "Candela",
         "categoria": "Varios",
-        "precio": 520.3,
+        "precio": 518.36,
         "imagen": "257.webp",
         "activo": true
     },
@@ -3075,7 +3075,7 @@
         "nombre": "FILTROS OCB EXTRA SLIM 150U",
         "marca": "OCB",
         "categoria": "Varios",
-        "precio": 1995.29,
+        "precio": 1995.05,
         "imagen": "2567.webp",
         "activo": true
     },
@@ -3085,7 +3085,7 @@
         "nombre": "FILTROS OCB SLIM 150U",
         "marca": "OCB",
         "categoria": "Varios",
-        "precio": 1825.89,
+        "precio": 1825.16,
         "imagen": "2571.webp",
         "activo": true
     },
@@ -4405,7 +4405,7 @@
         "nombre": "PASTA DENTAL COLGATE 70G",
         "marca": "Colgate",
         "categoria": "Perfumería",
-        "precio": 1738.77,
+        "precio": 1780.15,
         "imagen": "430.webp",
         "activo": true
     },
@@ -4765,7 +4765,7 @@
         "nombre": "MANTECOL 26G",
         "marca": "Georgalos",
         "categoria": "Golosinas",
-        "precio": 844.58,
+        "precio": 869.75,
         "imagen": "1093.webp",
         "activo": true
     },
@@ -5535,7 +5535,7 @@
         "nombre": "OBLEA RHODESIA 22G",
         "marca": "Terrabusi",
         "categoria": "Chocolates",
-        "precio": 865.15,
+        "precio": 865.39,
         "imagen": "733.webp",
         "activo": true
     },
@@ -5545,7 +5545,7 @@
         "nombre": "OBLEA TITA 19G",
         "marca": "Terrabusi",
         "categoria": "Chocolates",
-        "precio": 721.16,
+        "precio": 782.63,
         "imagen": "738.webp",
         "activo": true
     },
@@ -7845,7 +7845,7 @@
         "nombre": "ALCOHOL DISMAR 500ML",
         "marca": "",
         "categoria": "Varios",
-        "precio": 1829.52,
+        "precio": 1854.2,
         "imagen": "27.webp",
         "activo": true
     },
@@ -8185,7 +8185,7 @@
         "nombre": "VENDAS ADHESUR 7CM X 3MT",
         "marca": "",
         "categoria": "Varios",
-        "precio": 726.0,
+        "precio": 756.25,
         "imagen": "2331.webp",
         "activo": true
     },
@@ -10765,7 +10765,7 @@
         "nombre": "CEPILLO DENTAL COLGATE",
         "marca": "Colgate",
         "categoria": "Perfumería",
-        "precio": 1385.45,
+        "precio": 1176.6,
         "imagen": "296.webp",
         "activo": true
     },
