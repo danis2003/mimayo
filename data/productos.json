@@ -107,7 +107,7 @@
         "categoria": "Congelados",
         "precio": 5642.23,
         "imagen": "3216.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 13,
