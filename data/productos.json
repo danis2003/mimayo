@@ -10828,5 +10828,115 @@
         "precio": 1282.6,
         "imagen": "2879.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 1085,
+        "codigo": 262,
+        "nombre": "HELADO ARTI AGUA MANZANA 40U",
+        "marca": "Arti",
+        "categoria": "Congelados",
+        "precio": 10658.65,
+        "imagen": "262.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1086,
+        "codigo": 276,
+        "nombre": "HELADO ARTI BOM RELLENO 20U",
+        "marca": "Arti",
+        "categoria": "Congelados",
+        "precio": 18199.61,
+        "imagen": "276.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1087,
+        "codigo": 9996,
+        "nombre": "HELADO ARTI CONO MISTIC 12U",
+        "marca": "Arti",
+        "categoria": "Congelados",
+        "precio": 24958.79,
+        "imagen": "9996.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1088,
+        "codigo": 279,
+        "nombre": "HELADO ARTI CONOBOMBA AMERICANA DULCE DE LECHE 12U",
+        "marca": "Arti",
+        "categoria": "Congelados",
+        "precio": 23659.49,
+        "imagen": "279.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1089,
+        "codigo": 280,
+        "nombre": "HELADO ARTI CONOBOMBA DULCE DE LECHE CHOCOLATE 12U",
+        "marca": "Arti",
+        "categoria": "Congelados",
+        "precio": 23659.49,
+        "imagen": "280.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1090,
+        "codigo": 278,
+        "nombre": "HELADO ARTI POSTRE MIXTO 24U",
+        "marca": "Arti",
+        "categoria": "Congelados",
+        "precio": 29119.38,
+        "imagen": "278.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1091,
+        "codigo": 274,
+        "nombre": "HELADO ARTI SOMBRERO LOCO CHOCOLATE AMERICANA 30U",
+        "marca": "Arti",
+        "categoria": "Congelados",
+        "precio": 27299.42,
+        "imagen": "274.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1092,
+        "codigo": 273,
+        "nombre": "HELADO ARTI SOMBRERO LOCO FRUTILLA VAINILLA 30U",
+        "marca": "Arti",
+        "categoria": "Congelados",
+        "precio": 27299.42,
+        "imagen": "273.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1093,
+        "codigo": 275,
+        "nombre": "HELADO ARTI TSUNAMI FRUTILLA 36U",
+        "marca": "Arti",
+        "categoria": "Congelados",
+        "precio": 15468.88,
+        "imagen": "275.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1094,
+        "codigo": 272,
+        "nombre": "HELADO ARTIMIX FRUTILLA VAINILLA 40U",
+        "marca": "Arti",
+        "categoria": "Congelados",
+        "precio": 10658.65,
+        "imagen": "272.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1095,
+        "codigo": 269,
+        "nombre": "HELADO ARTIMIX UVA VAINILLA 40U",
+        "marca": "Arti",
+        "categoria": "Congelados",
+        "precio": 10658.65,
+        "imagen": "269.webp",
+        "activo": true
     }
 ]
