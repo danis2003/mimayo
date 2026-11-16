@@ -2257,7 +2257,7 @@
         "categoria": "Galletitas",
         "precio": 1105.34,
         "imagen": "715.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 228,
@@ -3357,7 +3357,7 @@
         "categoria": "Chocolates",
         "precio": 636.46,
         "imagen": "1182.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 338,
@@ -3897,7 +3897,7 @@
         "categoria": "Snacks",
         "precio": 1770.23,
         "imagen": "3090.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 392,
@@ -3907,7 +3907,7 @@
         "categoria": "Snacks",
         "precio": 898.43,
         "imagen": "1781.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 393,
@@ -4167,7 +4167,7 @@
         "categoria": "Chocolates",
         "precio": 1689.16,
         "imagen": "9837.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 419,
@@ -4287,7 +4287,7 @@
         "categoria": "Chocolates",
         "precio": 605.0,
         "imagen": "349.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 431,
@@ -6017,7 +6017,7 @@
         "categoria": "Chocolates",
         "precio": 443.4,
         "imagen": "6093.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 604,
@@ -6037,7 +6037,7 @@
         "categoria": "Chocolates",
         "precio": 6969.6,
         "imagen": "1888.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 606,
@@ -6147,7 +6147,7 @@
         "categoria": "Chocolates",
         "precio": 1099.89,
         "imagen": "2787.webp",
-        "activo": true
+        "activo": false
     },
     {
         "fila_excel": 617,
