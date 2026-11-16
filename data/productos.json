@@ -225,7 +225,7 @@
         "nombre": "CREMA LS BATIR 200ML",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2644.09,
+        "precio": 2895.29,
         "imagen": "3203.webp",
         "activo": true
     },
@@ -235,7 +235,7 @@
         "nombre": "CREMA LS CULINARIA 200ML",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2652.8,
+        "precio": 2758.8,
         "imagen": "3202.webp",
         "activo": true
     },
@@ -245,7 +245,7 @@
         "nombre": "CREMA LS LARGA VIDA 200ML",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2601.98,
+        "precio": 2706.53,
         "imagen": "3306.webp",
         "activo": true
     },
@@ -255,7 +255,7 @@
         "nombre": "LECHE ARMONIA SACHET 1L",
         "marca": "Armonia",
         "categoria": "Lácteos",
-        "precio": 1857.11,
+        "precio": 1931.16,
         "imagen": "3244.webp",
         "activo": true
     },
@@ -285,7 +285,7 @@
         "nombre": "LECHE SERENISIMA SACHET 1L",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 1968.91,
+        "precio": 2047.32,
         "imagen": "3201.webp",
         "activo": true
     },
@@ -295,7 +295,7 @@
         "nombre": "MANTECA LS 100GR",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2117.5,
+        "precio": 2143.15,
         "imagen": "3245.webp",
         "activo": true
     },
@@ -425,7 +425,7 @@
         "nombre": "ALFAJOR GOAT BONOBON 75G",
         "marca": "Arcor",
         "categoria": "Alfajores",
-        "precio": 1456.84,
+        "precio": 1887.6,
         "imagen": "8733.webp",
         "activo": true
     },
@@ -1015,7 +1015,7 @@
         "nombre": "GOMITAS MOGUL EXTREME FRUTILLA 500G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6335.56,
+        "precio": 6335.08,
         "imagen": "8804.webp",
         "activo": true
     },
@@ -1345,7 +1345,7 @@
         "nombre": "PASTILLA HALLS STRONG 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6883.93,
+        "precio": 8119.4,
         "imagen": "828.webp",
         "activo": true
     },
@@ -1505,7 +1505,7 @@
         "nombre": "CHICLE TOPLINE STRONG 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12901.02,
+        "precio": 14155.73,
         "imagen": "1996.webp",
         "activo": true
     },
@@ -1865,7 +1865,7 @@
         "nombre": "QUESO LA SERENISIMA 10U",
         "marca": "La Serenísima",
         "categoria": "Almacén",
-        "precio": 14191.85,
+        "precio": 14766.84,
         "imagen": "1648.webp",
         "activo": true
     },
@@ -2115,7 +2115,7 @@
         "nombre": "SPEED ENERGY x 473 ML",
         "marca": "Speed",
         "categoria": "Bebidas",
-        "precio": 2525.03,
+        "precio": 2490.18,
         "imagen": "2662.webp",
         "activo": true
     },
@@ -2235,7 +2235,7 @@
         "nombre": "SUEROX LIMONADA 630ML",
         "marca": "Suerox",
         "categoria": "Bebidas",
-        "precio": 1667.38,
+        "precio": 1665.44,
         "imagen": "3177.webp",
         "activo": true
     },
@@ -3015,7 +3015,7 @@
         "nombre": "ENERGIZER MEDIANA \"C\" C/U",
         "marca": "Energizer",
         "categoria": "Varios",
-        "precio": 3890.15,
+        "precio": 6261.75,
         "imagen": "572.webp",
         "activo": true
     },
@@ -3415,7 +3415,7 @@
         "nombre": "CHUPETIN PUSH POP 14G",
         "marca": "Fun Candy",
         "categoria": "Golosinas",
-        "precio": 468.27,
+        "precio": 560.47,
         "imagen": "1643.webp",
         "activo": true
     },
@@ -4155,7 +4155,7 @@
         "nombre": "BLEM LUSTRAMUEBLE*360",
         "marca": "Blem",
         "categoria": "Limpieza",
-        "precio": 5657.96,
+        "precio": 5837.04,
         "imagen": "791.webp",
         "activo": true
     },
@@ -4385,7 +4385,7 @@
         "nombre": "CIF CREMA 375GR",
         "marca": "Unilever",
         "categoria": "Limpieza",
-        "precio": 2191.31,
+        "precio": 2192.52,
         "imagen": "3302.webp",
         "activo": true
     },
@@ -4615,7 +4615,7 @@
         "nombre": "JABON REXONA NUTRITIVE ORCHID 120G",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1129.66,
+        "precio": 1238.56,
         "imagen": "932.webp",
         "activo": true
     },
@@ -4735,7 +4735,7 @@
         "nombre": "POETT FLORES PRIMAVERA 900ML",
         "marca": "Ayudín",
         "categoria": "Limpieza",
-        "precio": 1829.52,
+        "precio": 1669.8,
         "imagen": "1042.webp",
         "activo": true
     },
@@ -4905,7 +4905,7 @@
         "nombre": "PASTA DENTAL ORAL-B 70G",
         "marca": "Oral-b",
         "categoria": "Perfumería",
-        "precio": 1712.15,
+        "precio": 1293.19,
         "imagen": "3184.webp",
         "activo": true
     },
@@ -5135,7 +5135,7 @@
         "nombre": "BOMBON BONOBON BLANCO 15G",
         "marca": "Arcor",
         "categoria": "Chocolates",
-        "precio": 473.11,
+        "precio": 470.45,
         "imagen": "203.webp",
         "activo": true
     },
@@ -5445,7 +5445,7 @@
         "nombre": "GOMITAS REGALIZ BULL DOG SANDIA 75G",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 802.23,
+        "precio": 818.93,
         "imagen": "8831.webp",
         "activo": true
     },
@@ -5685,7 +5685,7 @@
         "nombre": "NUTELLA 350G",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 7874.68,
+        "precio": 10106.46,
         "imagen": "6096.webp",
         "activo": true
     },
@@ -5775,7 +5775,7 @@
         "nombre": "CARAMELO LIPO SUPER ACIDO 454G",
         "marca": "Lipo",
         "categoria": "Golosinas",
-        "precio": 3213.76,
+        "precio": 3194.4,
         "imagen": "385.webp",
         "activo": true
     },
@@ -5935,7 +5935,7 @@
         "nombre": "CARAMELO BUTTER TOFFEES BONOBON 822G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 1573.0,
+        "precio": 10526.7,
         "imagen": "9846.webp",
         "activo": true
     },
@@ -6545,7 +6545,7 @@
         "nombre": "GOMITAS REGALIZ BULL DOG FRUTILLA 75G",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 802.23,
+        "precio": 818.93,
         "imagen": "8879.webp",
         "activo": true
     },
@@ -7335,7 +7335,7 @@
         "nombre": "PASTILLA HALLS CHERRY 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 6883.93,
+        "precio": 8119.4,
         "imagen": "816.webp",
         "activo": true
     },
@@ -8625,7 +8625,7 @@
         "nombre": "CHICLE TOPLINE MENTHOL 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12578.49,
+        "precio": 14155.73,
         "imagen": "1992.webp",
         "activo": true
     },
@@ -8635,7 +8635,7 @@
         "nombre": "CHICLE TOPLINE VIOLET CHERRY 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12901.02,
+        "precio": 14155.73,
         "imagen": "1997.webp",
         "activo": true
     },
@@ -8645,7 +8645,7 @@
         "nombre": "CHICLE TOPLINE MANDARINA 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12901.02,
+        "precio": 14155.73,
         "imagen": "1998.webp",
         "activo": true
     },
@@ -8655,7 +8655,7 @@
         "nombre": "CHICLE TOPLINE SANDIA 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12901.02,
+        "precio": 14155.73,
         "imagen": "1999.webp",
         "activo": true
     },
@@ -8665,7 +8665,7 @@
         "nombre": "CHICLE TOPLINE FRUTILLA 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 12901.02,
+        "precio": 14155.73,
         "imagen": "2000.webp",
         "activo": true
     },
@@ -8995,7 +8995,7 @@
         "nombre": "POETT ALEGRA TU DIA 900ML",
         "marca": "Ayudín",
         "categoria": "Limpieza",
-        "precio": 1829.52,
+        "precio": 1669.8,
         "imagen": "1044.webp",
         "activo": true
     },
@@ -9005,7 +9005,7 @@
         "nombre": "POETT SUAVIDAD ALGODON 900ML",
         "marca": "Ayudín",
         "categoria": "Limpieza",
-        "precio": 1829.52,
+        "precio": 1669.8,
         "imagen": "1043.webp",
         "activo": true
     },
@@ -9205,7 +9205,7 @@
         "nombre": "GOMITAS REGALIZ BULL DOG TUTTI FRUTTI 75G",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 802.23,
+        "precio": 818.93,
         "imagen": "8876.webp",
         "activo": true
     },
@@ -9425,7 +9425,7 @@
         "nombre": "PAPAS FRITAS NIKITOS 65G",
         "marca": "",
         "categoria": "Snacks",
-        "precio": 1097.47,
+        "precio": 1091.9,
         "imagen": "3050.webp",
         "activo": true
     },
@@ -9615,7 +9615,7 @@
         "nombre": "CARAMELO ARCOR MASTICABLE 800G",
         "marca": "Arcor",
         "categoria": "Golosinas",
-        "precio": 6957.5,
+        "precio": 6956.53,
         "imagen": "1134.webp",
         "activo": true
     },
@@ -9875,7 +9875,7 @@
         "nombre": "SUEROX FRUTOS ROJOS 630ML",
         "marca": "Suerox",
         "categoria": "Bebidas",
-        "precio": 1667.38,
+        "precio": 1665.44,
         "imagen": "3279.webp",
         "activo": true
     },
@@ -9885,7 +9885,7 @@
         "nombre": "SUEROX MANZANA 630ML",
         "marca": "Suerox",
         "categoria": "Bebidas",
-        "precio": 1667.38,
+        "precio": 1665.44,
         "imagen": "3278.webp",
         "activo": true
     },
@@ -10415,7 +10415,7 @@
         "nombre": "JABON REXONA BAMBOO 120G",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1129.66,
+        "precio": 1238.56,
         "imagen": "933.webp",
         "activo": true
     },
@@ -10425,7 +10425,7 @@
         "nombre": "JABON REXONA COTTON FRESH 120G",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 1129.66,
+        "precio": 1238.56,
         "imagen": "934.webp",
         "activo": true
     },
@@ -10475,7 +10475,7 @@
         "nombre": "PRESTOBARBA GILLETTE 2 FILOS",
         "marca": "Gillette",
         "categoria": "Perfumería",
-        "precio": 1026.08,
+        "precio": 1073.03,
         "imagen": "1613.webp",
         "activo": true
     },
