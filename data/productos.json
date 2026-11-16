@@ -3302,7 +3302,7 @@
     {
         "fila_excel": 332,
         "codigo": 3191,
-        "nombre": "CHICLE METRO 4U",
+        "nombre": "CHICLE BLUPER METRO 30G",
         "marca": "",
         "categoria": "Golosinas",
         "precio": 2169.53,
@@ -6352,7 +6352,7 @@
     {
         "fila_excel": 637,
         "codigo": 6086,
-        "nombre": "GALLETITA  CLUB SOCIAL  6U  23G",
+        "nombre": "CLUB SOCIAL  JAMON 6U 23G",
         "marca": "Club Social",
         "categoria": "Snacks",
         "precio": 2282.06,
@@ -8622,7 +8622,7 @@
     {
         "fila_excel": 864,
         "codigo": 1992,
-        "nombre": "CHICLE TOPLINE MENTHOL 16U",
+        "nombre": "CHICLE TOPLINE SEVEN FREEZING MENTHOL 16U",
         "marca": "Arcor",
         "categoria": "Golosinas",
         "precio": 14155.73,
@@ -10937,6 +10937,386 @@
         "categoria": "Congelados",
         "precio": 10658.65,
         "imagen": "269.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1096,
+        "codigo": 3007,
+        "nombre": "CARAMELO TNT SUPERACIDO SOUR FIZZ 60U",
+        "marca": "TNT",
+        "categoria": "Golosinas",
+        "precio": 4207.9,
+        "imagen": "3007.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1097,
+        "codigo": 250,
+        "nombre": "CARAMELO CON GEL ACIDO PAINT ROLL 22G",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1405.54,
+        "imagen": "250.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1098,
+        "codigo": 377,
+        "nombre": "CEREAL MIX ALMENDRA Y CHIPS 23G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 795.7,
+        "imagen": "377.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1099,
+        "codigo": 367,
+        "nombre": "CEREAL MIX BALANCE MANZANA 23G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 795.7,
+        "imagen": "367.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1100,
+        "codigo": 301,
+        "nombre": "CEREAL MIX BALANCE YOGHURT Y FRUTILLA 26G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 795.7,
+        "imagen": "301.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1101,
+        "codigo": 374,
+        "nombre": "CEREAL MIX CHOCO PASSION 26G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 795.7,
+        "imagen": "374.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1102,
+        "codigo": 371,
+        "nombre": "CEREAL MIX CHOCOLATE Y FRUTILLA 26G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 795.7,
+        "imagen": "371.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1103,
+        "codigo": 370,
+        "nombre": "CEREAL MIX YOGHURT Y FRUTILLA 26G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 795.7,
+        "imagen": "370.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1104,
+        "codigo": 1937,
+        "nombre": "CEREALFORT FRUTILLA Y MANZANA 21G",
+        "marca": "FelFort",
+        "categoria": "Golosinas",
+        "precio": 439.23,
+        "imagen": "1937.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1105,
+        "codigo": 9995,
+        "nombre": "CHUPETIN RING POP TWISTED 10G",
+        "marca": "Ring Pop",
+        "categoria": "Golosinas",
+        "precio": 338.32,
+        "imagen": "9995.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1106,
+        "codigo": 282,
+        "nombre": "CLUB SOCIAL ORIGINAL 6U 23G",
+        "marca": "Club Social",
+        "categoria": "Galletitas",
+        "precio": 2845.92,
+        "imagen": "282.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1107,
+        "codigo": 508,
+        "nombre": "CUBANITOS OBLITA DULCE DE LECHE 48U",
+        "marca": "Oblita",
+        "categoria": "Golosinas",
+        "precio": 5705.15,
+        "imagen": "508.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1108,
+        "codigo": 379,
+        "nombre": "CUBANITOS OBLITA NOUGAT 48U",
+        "marca": "Oblita",
+        "categoria": "Golosinas",
+        "precio": 4949.87,
+        "imagen": "379.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1109,
+        "codigo": 3323,
+        "nombre": "GALLETITA GRANIX SALVADO SIN SAL 230G",
+        "marca": "Granix",
+        "categoria": "Galletitas",
+        "precio": 1282.12,
+        "imagen": "3323.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1110,
+        "codigo": 194,
+        "nombre": "GALLETITA PITUSAS BLACK 160G",
+        "marca": "ParNor",
+        "categoria": "Galletitas",
+        "precio": 1083.19,
+        "imagen": "194.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1111,
+        "codigo": 124,
+        "nombre": "GALLETITA PITUSAS MOUSSE 160G",
+        "marca": "ParNor",
+        "categoria": "Galletitas",
+        "precio": 1083.19,
+        "imagen": "124.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1112,
+        "codigo": 197,
+        "nombre": "GALLETITA SERRANITAS ARCOR 105G",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 484.0,
+        "imagen": "197.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1113,
+        "codigo": 2075,
+        "nombre": "GALLETITA TRIO SCONS 320G",
+        "marca": "Trio",
+        "categoria": "Galletitas",
+        "precio": 1453.45,
+        "imagen": "2075.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1114,
+        "codigo": 243,
+        "nombre": "GALLETITAS SERRANAS SANDWICH ARCOR 112G",
+        "marca": "Arcor",
+        "categoria": "Galletitas",
+        "precio": 807.31,
+        "imagen": "243.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1115,
+        "codigo": 2895,
+        "nombre": "GOMITAS MOGUL EXTREME LADRILLOS MIX 500G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 6381.54,
+        "imagen": "2895.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1116,
+        "codigo": 9941,
+        "nombre": "GOMITAS MOGUL FRUTILLA Y CREMA 500G",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 6292.0,
+        "imagen": "9941.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1117,
+        "codigo": 260,
+        "nombre": "HUEVO BRICKELL BARBIE",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1489.51,
+        "imagen": "260.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1118,
+        "codigo": 485,
+        "nombre": "HUEVO BRICKELL BEBES LLORONES",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1489.51,
+        "imagen": "485.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1119,
+        "codigo": 484,
+        "nombre": "HUEVO BRICKELL DORA",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1489.51,
+        "imagen": "484.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1120,
+        "codigo": 487,
+        "nombre": "HUEVO BRICKELL GRANJA ZENON",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1489.51,
+        "imagen": "487.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1121,
+        "codigo": 486,
+        "nombre": "HUEVO BRICKELL MIRACULOUS",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1489.51,
+        "imagen": "486.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1122,
+        "codigo": 137,
+        "nombre": "HUEVO BRICKELL PAW PATROL",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1489.51,
+        "imagen": "137.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1123,
+        "codigo": 488,
+        "nombre": "HUEVO BRICKELL SONIC",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 1489.51,
+        "imagen": "488.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1124,
+        "codigo": 173,
+        "nombre": "HUEVO GUMI YUM JUGUETE 9U",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 2786.63,
+        "imagen": "173.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1125,
+        "codigo": 1644,
+        "nombre": "JUGUETE G-RAF FUN",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 2741.86,
+        "imagen": "1644.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1126,
+        "codigo": 467,
+        "nombre": "JUGUETE PUNCHY MONKEY FUN",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 2828.98,
+        "imagen": "467.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1127,
+        "codigo": 9942,
+        "nombre": "MARSHMALLOWS TWIST 12G",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 217.8,
+        "imagen": "9942.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1128,
+        "codigo": 1775,
+        "nombre": "MENTHOPLUS 2 NARANJA 12U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 7620.58,
+        "imagen": "1775.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1129,
+        "codigo": 1768,
+        "nombre": "MENTHOPLUS MENTOL 12U",
+        "marca": "Arcor",
+        "categoria": "Golosinas",
+        "precio": 5902.74,
+        "imagen": "1768.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1130,
+        "codigo": 9936,
+        "nombre": "MERENGUITOS URQUIZA 100G",
+        "marca": "Urquiza",
+        "categoria": "Galletitas",
+        "precio": 1090.21,
+        "imagen": "9936.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1131,
+        "codigo": 457,
+        "nombre": "PALITOS PEP SABOR PANCETA 40G",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 1113.2,
+        "imagen": "457.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1132,
+        "codigo": 1416,
+        "nombre": "PAPAS FRITAS PEHUAMAR 45OG",
+        "marca": "PepsiCo",
+        "categoria": "Snacks",
+        "precio": 9085.16,
+        "imagen": "1416.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1133,
+        "codigo": 258,
+        "nombre": "PASTILLA DRF ANIS 12U",
+        "marca": "D.R.F.",
+        "categoria": "Golosinas",
+        "precio": 3836.91,
+        "imagen": "258.webp",
         "activo": true
     }
 ]
