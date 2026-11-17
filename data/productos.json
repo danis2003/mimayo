@@ -11318,5 +11318,65 @@
         "precio": 3836.91,
         "imagen": "258.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 1134,
+        "codigo": 3091,
+        "nombre": "CARAMELO FRUTOMILA 500G",
+        "marca": "",
+        "categoria": "Golosinas",
+        "precio": 5484.2,
+        "imagen": "3091.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1135,
+        "codigo": 191,
+        "nombre": "KONOS KRACHITOS CHEESE 45G",
+        "marca": "Krachitos",
+        "categoria": "Snacks",
+        "precio": 1305.23,
+        "imagen": "191.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1136,
+        "codigo": 162,
+        "nombre": "MAGDALENA DON SATUR CHOCOLATE DDL 200G",
+        "marca": "Don Satur",
+        "categoria": "Galletitas",
+        "precio": 2381.28,
+        "imagen": "162.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1137,
+        "codigo": 160,
+        "nombre": "PAN DULCE DON SATUR CHIPS 400G",
+        "marca": "Don Satur",
+        "categoria": "Almacén",
+        "precio": 4360.84,
+        "imagen": "160.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1138,
+        "codigo": 161,
+        "nombre": "PAN DULCE DON SATUR CON FRUTAS 400G",
+        "marca": "Don Satur",
+        "categoria": "Almacén",
+        "precio": 4360.84,
+        "imagen": "161.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1139,
+        "codigo": 159,
+        "nombre": "PAN DULCE DON SATUR SIN FRUTAS 400G",
+        "marca": "Don Satur",
+        "categoria": "Almacén",
+        "precio": 3738.9,
+        "imagen": "159.webp",
+        "activo": true
     }
 ]
