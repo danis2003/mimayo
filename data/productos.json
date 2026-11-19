@@ -11378,5 +11378,25 @@
         "precio": 4360.36,
         "imagen": "159.webp",
         "activo": true
+    },
+    {
+        "fila_excel": 1140,
+        "codigo": 297,
+        "nombre": "DESODORANTE REXONA MEN ANTIBAC 150ML",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 3497.87,
+        "imagen": "297.webp",
+        "activo": true
+    },
+    {
+        "fila_excel": 1141,
+        "codigo": 295,
+        "nombre": "DESODORANTE REXONA MEN FUTBOL 150ML",
+        "marca": "Unilever",
+        "categoria": "Perfumería",
+        "precio": 3497.87,
+        "imagen": "295.webp",
+        "activo": true
     }
 ]
