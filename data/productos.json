@@ -145,7 +145,7 @@
         "nombre": "CINDOR 200ML",
         "marca": "Cindor",
         "categoria": "Lácteos",
-        "precio": 2712.34,
+        "precio": 2834.3,
         "imagen": "407.webp",
         "activo": true
     },
@@ -195,7 +195,7 @@
         "nombre": "LECHE LA SERENISIMA ROJA 1L",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2485.82,
+        "precio": 2584.56,
         "imagen": "1022.webp",
         "activo": true
     },
@@ -205,7 +205,7 @@
         "nombre": "LECHE LA SERENISIMA VERDE 1L",
         "marca": "La Serenísima",
         "categoria": "Lácteos",
-        "precio": 2485.82,
+        "precio": 2587.46,
         "imagen": "1023.webp",
         "activo": true
     },
@@ -485,7 +485,7 @@
         "nombre": "JUGO BAGGIO NARANJA 1L",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 1789.47,
+        "precio": 1879.92,
         "imagen": "110.webp",
         "activo": true
     },
@@ -495,7 +495,7 @@
         "nombre": "JUGO BAGGIO MULTIFRUTA 200ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 521.81,
+        "precio": 548.25,
         "imagen": "111.webp",
         "activo": true
     },
@@ -535,7 +535,7 @@
         "nombre": "BOMBON FERRERO ROCHER 12U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 10837.73,
+        "precio": 14556.3,
         "imagen": "199.webp",
         "activo": true
     },
@@ -545,7 +545,7 @@
         "nombre": "BOMBON FERRERO ROCHER 3U",
         "marca": "Ferrero Rocher",
         "categoria": "Chocolates",
-        "precio": 3008.42,
+        "precio": 2922.15,
         "imagen": "200.webp",
         "activo": true
     },
@@ -645,7 +645,7 @@
         "nombre": "CHOCOLATE MILKA OREO 37G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 2212.27,
+        "precio": 1815.0,
         "imagen": "3084.webp",
         "activo": true
     },
@@ -795,7 +795,7 @@
         "nombre": "CHOCOLATE KINDER BARRITA 24U",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 26362.51,
+        "precio": 21780.0,
         "imagen": "946.webp",
         "activo": true
     },
@@ -805,7 +805,7 @@
         "nombre": "CHOCOLATE KINDER BARRITA 4U",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 4138.2,
+        "precio": 2069.1,
         "imagen": "949.webp",
         "activo": true
     },
@@ -825,7 +825,7 @@
         "nombre": "CHOCOLATE KINDER MAXI 10U",
         "marca": "Kinder",
         "categoria": "Chocolates",
-        "precio": 17845.08,
+        "precio": 14955.6,
         "imagen": "954.webp",
         "activo": true
     },
@@ -885,7 +885,7 @@
         "nombre": "CHOCOLATE MILKA DDLECHE 29G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 1325.1,
+        "precio": 1089.0,
         "imagen": "3063.webp",
         "activo": true
     },
@@ -915,7 +915,7 @@
         "nombre": "BIZCOCHO 9 DE ORO TODOS 200G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1168.86,
+        "precio": 1119.49,
         "imagen": "156.webp",
         "activo": true
     },
@@ -2135,7 +2135,7 @@
         "nombre": "SUEROX LIMONADA 630ML",
         "marca": "Suerox",
         "categoria": "Bebidas",
-        "precio": 1665.44,
+        "precio": 1925.35,
         "imagen": "3177.webp",
         "activo": true
     },
@@ -2605,7 +2605,7 @@
         "nombre": "DULCE DE LECHE COLONIAL LA SERENISIMA 250G",
         "marca": "La Serenísima",
         "categoria": "Almacén",
-        "precio": 2334.82,
+        "precio": 2468.4,
         "imagen": "3308.webp",
         "activo": true
     },
@@ -2685,7 +2685,7 @@
         "nombre": "DULCE DE LECHE COLONIAL LA SERENISIMA 400G",
         "marca": "La Serenísima",
         "categoria": "Almacén",
-        "precio": 3296.04,
+        "precio": 3428.17,
         "imagen": "6071.webp",
         "activo": true
     },
@@ -2875,7 +2875,7 @@
         "nombre": "ENERGIZER 2A",
         "marca": "Energizer",
         "categoria": "Varios",
-        "precio": 882.09,
+        "precio": 965.58,
         "imagen": "568.webp",
         "activo": true
     },
@@ -2885,7 +2885,7 @@
         "nombre": "ENERGIZER 3A",
         "marca": "Energizer",
         "categoria": "Varios",
-        "precio": 882.09,
+        "precio": 965.58,
         "imagen": "569.webp",
         "activo": true
     },
@@ -2995,7 +2995,7 @@
         "nombre": "PASTILLA HALLS FREE CHERRY 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 9077.42,
+        "precio": 9077.9,
         "imagen": "830.webp",
         "activo": true
     },
@@ -3075,7 +3075,7 @@
         "nombre": "PRESERVATIVO TULIPAN CON GEL 3U",
         "marca": "Tulipán",
         "categoria": "Varios",
-        "precio": 2044.9,
+        "precio": 2134.44,
         "imagen": "1610.webp",
         "activo": true
     },
@@ -3405,7 +3405,7 @@
         "nombre": "FLAN NOEL 200G",
         "marca": "Noel",
         "categoria": "Almacén",
-        "precio": 3859.9,
+        "precio": 192.03,
         "imagen": "8711.webp",
         "activo": true
     },
@@ -3705,7 +3705,7 @@
         "nombre": "GALLETITA PASEO SALVADO 300G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1677.06,
+        "precio": 1634.95,
         "imagen": "1468.webp",
         "activo": true
     },
@@ -4085,7 +4085,7 @@
         "nombre": "CHOCOLATE MECANO BLANCO 19G",
         "marca": "Bonafide",
         "categoria": "Chocolates",
-        "precio": 757.94,
+        "precio": 631.62,
         "imagen": "1149.webp",
         "activo": true
     },
@@ -4395,7 +4395,7 @@
         "nombre": "JABON ALA MATIC 400GR",
         "marca": "Unilever",
         "categoria": "Limpieza",
-        "precio": 1573.0,
+        "precio": 1401.18,
         "imagen": "911.webp",
         "activo": true
     },
@@ -4415,7 +4415,7 @@
         "nombre": "JABON ARIEL X 800 SACH",
         "marca": "Ariel",
         "categoria": "Limpieza",
-        "precio": 2758.8,
+        "precio": 2992.57,
         "imagen": "9836.webp",
         "activo": true
     },
@@ -4795,7 +4795,7 @@
         "nombre": "PROCENEX 900",
         "marca": "Procenex",
         "categoria": "Limpieza",
-        "precio": 1512.5,
+        "precio": 1364.88,
         "imagen": "1617.webp",
         "activo": true
     },
@@ -4825,7 +4825,7 @@
         "nombre": "QUERUBIN SUAVIZANTE*900",
         "marca": "Grupo Queruclor",
         "categoria": "Limpieza",
-        "precio": 3120.35,
+        "precio": 3339.6,
         "imagen": "1017.webp",
         "activo": true
     },
@@ -5085,7 +5085,7 @@
         "nombre": "ALFAJOR JORGELIN NEGRO 85G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 1314.06,
+        "precio": 1254.53,
         "imagen": "57.webp",
         "activo": true
     },
@@ -5605,7 +5605,7 @@
         "nombre": "CARAMELO PICO DULCE MASTICABLE 165G",
         "marca": "Lheritier",
         "categoria": "Golosinas",
-        "precio": 6478.82,
+        "precio": 5100.88,
         "imagen": "265.webp",
         "activo": true
     },
@@ -5765,7 +5765,7 @@
         "nombre": "CARAMELO LIPO VIENA 454G",
         "marca": "Lipo",
         "categoria": "Golosinas",
-        "precio": 3061.3,
+        "precio": 3194.4,
         "imagen": "3049.webp",
         "activo": true
     },
@@ -6175,7 +6175,7 @@
         "nombre": "CHOCOLATE MILKA CHOCO PAUSE OREO 45G",
         "marca": "Milka",
         "categoria": "Chocolates",
-        "precio": 1562.93,
+        "precio": 1300.75,
         "imagen": "1198.webp",
         "activo": true
     },
@@ -6525,7 +6525,7 @@
         "nombre": "BIZCOCHO 9 DE ORO AGRIDULCES 200G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1168.86,
+        "precio": 1119.49,
         "imagen": "157.webp",
         "activo": true
     },
@@ -6535,7 +6535,7 @@
         "nombre": "BIZCOCHO 9 DE ORO CLÁSICOS 200G",
         "marca": "Molino Cañuelas",
         "categoria": "Galletitas",
-        "precio": 1168.86,
+        "precio": 1119.49,
         "imagen": "158.webp",
         "activo": true
     },
@@ -6715,7 +6715,7 @@
         "nombre": "GALLETITA PARNOR MANTECADAS 170G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 895.4,
+        "precio": 964.13,
         "imagen": "104.webp",
         "activo": true
     },
@@ -6765,7 +6765,7 @@
         "nombre": "GALLETITA PITUSAS LIMON 160G",
         "marca": "ParNor",
         "categoria": "Galletitas",
-        "precio": 1128.33,
+        "precio": 1083.19,
         "imagen": "16.webp",
         "activo": true
     },
@@ -6895,7 +6895,7 @@
         "nombre": "TALITA URQUIZA CEBOLLA 100G",
         "marca": "Urquiza",
         "categoria": "Galletitas",
-        "precio": 1170.31,
+        "precio": 994.77,
         "imagen": "6079.webp",
         "activo": true
     },
@@ -7175,7 +7175,7 @@
         "nombre": "PASTILLA FREEGELLS MELON CON CRISTALES 12U",
         "marca": "Freegells",
         "categoria": "Golosinas",
-        "precio": 3436.88,
+        "precio": 1815.0,
         "imagen": "1270.webp",
         "activo": true
     },
@@ -7215,7 +7215,7 @@
         "nombre": "PASTILLA HALLS FREE MENTA 12U",
         "marca": "Mondelez",
         "categoria": "Golosinas",
-        "precio": 9077.42,
+        "precio": 9077.9,
         "imagen": "829.webp",
         "activo": true
     },
@@ -7515,7 +7515,7 @@
         "nombre": "ALFAJOR JORGELIN BLANCO 85G",
         "marca": "Jorgito",
         "categoria": "Alfajores",
-        "precio": 1314.06,
+        "precio": 1254.53,
         "imagen": "2001.webp",
         "activo": true
     },
@@ -7835,7 +7835,7 @@
         "nombre": "ESPUMA NIEVE 12U 360ML",
         "marca": "",
         "categoria": "Varios",
-        "precio": 21410.95,
+        "precio": 21411.19,
         "imagen": "1.webp",
         "activo": true
     },
@@ -8685,7 +8685,7 @@
         "nombre": "JUGO BAGGIO MANZANA 1L",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 1789.47,
+        "precio": 1879.92,
         "imagen": "113.webp",
         "activo": true
     },
@@ -8695,7 +8695,7 @@
         "nombre": "JUGO BAGGIO MANZANA 200ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 521.81,
+        "precio": 548.25,
         "imagen": "120.webp",
         "activo": true
     },
@@ -8715,7 +8715,7 @@
         "nombre": "JUGO BAGGIO MULTIFRUTA 1L",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 1789.47,
+        "precio": 1879.92,
         "imagen": "116.webp",
         "activo": true
     },
@@ -8725,7 +8725,7 @@
         "nombre": "JUGO BAGGIO NARANJA 200ML",
         "marca": "Baggio",
         "categoria": "Bebidas",
-        "precio": 521.81,
+        "precio": 548.25,
         "imagen": "121.webp",
         "activo": true
     },
@@ -9745,7 +9745,7 @@
         "nombre": "SUEROX FRUTOS ROJOS 630ML",
         "marca": "Suerox",
         "categoria": "Bebidas",
-        "precio": 1665.44,
+        "precio": 1925.35,
         "imagen": "3279.webp",
         "activo": true
     },
@@ -9755,7 +9755,7 @@
         "nombre": "SUEROX MANZANA 630ML",
         "marca": "Suerox",
         "categoria": "Bebidas",
-        "precio": 1665.44,
+        "precio": 1925.35,
         "imagen": "3278.webp",
         "activo": true
     },
@@ -10525,7 +10525,7 @@
         "nombre": "TALCO EFICIENT REXONA 100G",
         "marca": "Unilever",
         "categoria": "Perfumería",
-        "precio": 3654.2,
+        "precio": 3656.14,
         "imagen": "1907.webp",
         "activo": true
     },
@@ -11125,7 +11125,7 @@
         "nombre": "MARSHMALLOWS TWIST 12G",
         "marca": "",
         "categoria": "Golosinas",
-        "precio": 217.8,
+        "precio": 226.88,
         "imagen": "9942.webp",
         "activo": true
     },
@@ -12105,7 +12105,7 @@
         "nombre": "GELATINA NOEL CEREZA 25G",
         "marca": "Noel",
         "categoria": "Almacén",
-        "precio": 5269.55,
+        "precio": 285.26,
         "imagen": "8712.webp",
         "activo": true
     },
